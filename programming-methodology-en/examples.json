@@ -1,0 +1,46 @@
+{
+    "e1": {
+        "name": "Karel Methods Example",
+        "md": "Karel is on 1x1 coordinates. Beeper is on 3x1. Pick the beeper and put on 4x1"
+    },
+    "e2": {
+        "name": "for Loop Example",
+        "md": "Karel is on 1x1 coordinates. 10 beepers are on 5x1. Pick all 10 beepers and put them on 6x1"
+    },
+    "e3": {
+        "name": "while Loop Example 1",
+        "md": "Karel is on 1x1 coordinates and the world is empty. Move Karel to the end of the row. Pay attention that your program should work on the world of any size."
+    },
+    "e4": {
+        "name": "while Loop Example 2",
+        "md": "Karel is on 1x1 coordinates and the world is empty. Put beepers on every corner of the first row"
+    },
+    "e5": {
+        "name": "Fill Row With Beepers",
+        "md": "Karel is on 1x1 coordinates and on some of the corners of the first row there is at most one beeper. Fill the row with beepers, so that on every corner there is exactly one beeper"
+    },
+    "e6": {
+        "name": "Sum Up Pile Of Beepers",
+        "md": "There are `n` beepers on 2x1 and `m` beepers on 3x1. Karel must put `n+m` beepers on 4x1" 
+    },
+    "e7": {
+        "name": "Fill The World",
+        "md": "Karel is on 1x1 coordinates and on some of the corners of the world there is at most one beeper. Fill the world with beepers, so that on every corner there is exactly one beeper. Pay attention that your program should work on world of any size"
+    },
+    "e8": {
+        "name": "Subtract Pile Of Beepers",
+        "md": "There are `n` beepers on 2x1 and `m` beepers on 3x1, where `n>=m`. Karel must put `n-m` beepers on 4x1" 
+    },
+    "e9": {
+        "name": "Multiply Beepers",
+        "md": "There are `n` beepers on 2x1 and `m` beepers on 3x1. Karel must put `n*m` beepers on 4x1. Assume that Karel has infinite number of beepers in the bag" 
+    },
+    "e10": {
+        "name": "Divide Beepers",
+        "md": "There are `n` beepers on 2x1 and `m` beepers on 3x1. Karel must put `n / m` beepers on 4x1. Assume that Karel has infinite number of beepers in the bag and `n` is divisible by `m`" 
+    },
+    "e11": {
+        "name": "Karel's Maze",
+        "md": "Karel lives in a random world with lot's of walls and zero beepers. It is standing on 1x1. Get Karel to the top right corner. Assume that there is a path"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "1": {
+        "name": "Karel The Robot",
+        "description": "What is Karel the robot, who created it and why"
+    },
+    "2": {
+        "name": "Karel's World",
+        "description": "Where does Karel live, what's its world like"
+    },
+    "3": {
+        "name": "Karel Methods",
+        "description": "What instructions can Karel do"
+    },
+    "4": {
+        "name": "First Karel Program",
+        "description": "Simple program to make Karel move"
+    },
+    "5": {
+        "name": "Run The Program",
+        "description": "How to run the program using Eclipse"
+    },
+    "6": {
+        "name": "Program Template",
+        "description": "How does simple program look like"
+    },
+    "7": {
+        "name": "Algorithm",
+        "description": "What's an algorithm"
+    },
+    "8": {
+        "name": "New Methods For Karel",
+        "description": "How can we teach Karel new instructions"
+    },
+    "9": {
+        "name": "Why Do We Need New Methods",
+        "description": "Different reasons why we need new methods"
+    },
+    "10": {
+        "name": "for Loop",
+        "description": "Do this set of instructions N times"
+    },
+    "11": {
+        "name": "Karel Conditions",
+        "description": "Karel can understand some conditions of the world"
+    },
+    "12": {
+        "name": "while Loop",
+        "description": "Do this set of instructions while some condition is met"
+    },
+    "13": {
+        "name": "Incorrect while Loop",
+        "description": "Each iteration either all the instructions are run or none are run"
+    },
+    "14": {
+        "name": "if Statement",
+        "description": "Do this if some condition is met"
+    },
+    "15": {
+        "name": "if/else",
+        "description": "If condition is met do this otherwise(else) do that"
+    },
+    "16": {
+        "name": "Nested Statements",
+        "description": "You can nest for loops, while loops and ifs"
+    },
+    "17": {
+        "name": "History of Bugs",
+        "description": "What is a bug, why do we use this term"
+    },
+    "18": {
+        "name": "Common Mistakes: OBOB",
+        "description": "Off by one bug"
+    },
+    "19": {
+        "name": "Common Mistakes: Infinite Loop",
+        "description": "Some loops may never end"
+    },
+    "20": {
+        "name": "Comments",
+        "description": "What are comments in code, how to comment in Java"
+    },
+    "21": {
+        "name": "Generality Of A Program",
+        "description": "A single program can solve many similar problems not just one"
+    },
+    "22": {
+        "name": "Decomposition",
+        "description": "What is decomposition"
+    },
+    "23": {
+        "name": "Different Thought Processes",
+        "description": "Top Down Design vs Bottom Up Design"
+    },
+    "24": {
+        "name": "SteepleChase With Decomposition",
+        "description": "SteepleChase With Decomposition"
+    },
+    "25": {
+        "name": "Double The Beepers",
+        "description": "Double the pile of beepers in front of Karel"
+    },
+    "26": {
+        "name": "Example of a bad program",
+        "description": "A program you should not write"
+    },
+    "27":{
+        "name": "Style",
+        "description": "Why good names matter, KamelCase"
+    },
+    "28":{
+        "name": "Good Decomposition And Style",
+        "description": "Some tips how to write good code"
+    },
+    "29":{
+        "name": "CleanUpKarel example",
+        "description": "There are lots of beepers in the world, clean them up"
+    }
+}
