@@ -610,33 +610,25 @@
         "description": "მაგალითი რანდომ გენერატორის გამოყენებით",
         "key": "l2qSlO-RJ48"
     },
-
     "97":{
         "name": "acm.graphics მოდელი",
-        "description": "როგორ მუშაობს acm.graphics ბიბლიოთეკა",
-        "key": "l2qSlO-RJ48"
+        "description": "როგორ მუშაობს acm.graphics ბიბლიოთეკა, რა კლასების გამოყენება შეგვიძლია",
+        "key": "k2lm1UZUJos"
     },
-
-
-    "67":{
-        "name": "კომბინაციების მაგალითი",
-        "description": "როგორ დავთვალოთ კომბინაციები C(n,k)",
-        "key": ""
+    "98":{
+        "name": "GCanvas კლასი",
+        "description": "რა არის კანვასი? რა მეთოდები აქვს",
+        "key": "kNPKgAwfb0U"
     },
-    "93":{
-        "name": "ბაყბაყ ბანკის კლასის მაგალითი",
-        "description": "BakBakBanკ-ის იმპლემენტაცია",
-        "key": ""
+    "99":{
+        "name": "GObject კლასის მეთოდები",
+        "description": "რა მეთოდები აქვს GObject-ებს, ანუ GOval, GRect, GLine, GLabel და ა.შ. ტიპის ობიექტებს",
+        "key": "xzglDJGJZuM"
     },
-
-
-
-
-    "77ხ":{
-        "name": "",
-        "description": "",
-        "key": ""
+    "100":{
+        "name": "რა არის ინტერფეისი",
+        "description": "რას ნიშნავს კლასი A იმპლემენტირებს ინტერფეისს B",
+        "key": "OdJp488UQGE"
     }
-
 
 }
