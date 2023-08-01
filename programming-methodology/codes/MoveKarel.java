@@ -13,10 +13,10 @@ import stanford.karel.*;
 
 public class MoveKarel extends SuperKarel {
     public void run() {
-		    move();
+        move();
         move(); //get to 3x1
         pickBeeper();
         move(); //get to 4x1
         putBeeper();
-	  } 
+    } 
 }
