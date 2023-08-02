@@ -46,5 +46,8 @@
     },
     "e16": {
         "name": "HarmonicMean"
+    },
+    "e17": {
+        "name": "RealNumber"
     }
 }
