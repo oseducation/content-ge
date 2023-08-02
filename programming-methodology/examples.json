@@ -61,5 +61,9 @@
     },
     "e21": {
         "name": "EmptyGrid"
+    },
+    "e23": {
+        "name": "Sum1N"
     }
+
 }
