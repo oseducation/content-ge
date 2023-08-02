@@ -49,5 +49,8 @@
     },
     "e17": {
         "name": "RealNumber"
+    },
+    "e18": {
+        "name": "Max2Ints"
     }
 }
