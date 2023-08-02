@@ -73,6 +73,12 @@
     },
     "e26": {
         "name": "GreatestCommonDivisor"
+    },
+    "e27": {
+        "name": "Power"
+    }, 
+    "e28": {
+        "name": "CountEvenNumbers"
     }
 
 }
