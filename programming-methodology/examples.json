@@ -58,5 +58,8 @@
     },
     "e20": {
         "name": "SumN"
+    },
+    "e21": {
+        "name": "EmptyGrid"
     }
 }
