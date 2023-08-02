@@ -64,6 +64,15 @@
     },
     "e23": {
         "name": "Sum1N"
+    },
+    "e24": {
+        "name": "NumberOfDivisors"
+    },
+    "e25": {
+        "name": "LeastCommonMultiple"
+    },
+    "e26": {
+        "name": "GreatestCommonDivisor"
     }
 
 }
