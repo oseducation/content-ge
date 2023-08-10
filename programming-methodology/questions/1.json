@@ -1,0 +1,18 @@
+{
+    "question": "რა არის რობოტი კარელი?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "ილონ მასკის მიერ შექმნილი ძალიან მაგარი რობოტი",
+        "is_right_choice": "false"
+    }, {
+        "choice": "პროგრამირების მარტივად შესასწავლად შექმნილი ინსტრუმენტი",
+        "is_right_choice": "true"
+    }, {
+        "choice": "პროგრამირების ენა",
+        "is_right_choice": "false"
+    }, {
+        "choice": "Open AI-ს მიერ შექმნილი პირველი ხელოვნური ინტელექტი",
+        "is_right_choice": "false"
+    }]
+}
+
