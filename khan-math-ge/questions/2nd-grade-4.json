@@ -1,0 +1,19 @@
+{
+    "name": "Add within 20",
+    "question": "Hou much would be `16 + 3`?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "14",
+        "is_right_choice": false
+    }, {
+        "choice": "20",
+        "is_right_choice": false
+    }, {
+        "choice": "19",
+        "is_right_choice": true
+    }, {
+        "choice": "18",
+        "is_right_choice": false
+    }]
+}
+
