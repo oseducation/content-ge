@@ -1,0 +1,19 @@
+{
+    "name": "Create the largest number",
+    "question": "What is the largest number you can create using the digits 4, 7, 1?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "147",
+        "is_right_choice": false
+    }, {
+        "choice": "741",
+        "is_right_choice": true
+    }, {
+        "choice": "417",
+        "is_right_choice": false
+    }, {
+        "choice": "714",
+        "is_right_choice": false
+    }]
+}
+

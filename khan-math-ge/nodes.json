@@ -37,7 +37,7 @@
     "2nd-grade-8": {
         "name": "Subtract within 20 using a number line",
         "description": "Sal subtracts 17 - 9 using a number line. Created by Sal Khan.",
-        "key": "https://youtu.be/HjRcLJMHuVA"
+        "key": "HjRcLJMHuVA"
     },
     "2nd-grade-9": {
         "name": "Subtract within 20 using place value blocks",
@@ -64,39 +64,79 @@
         "description": "Sal solves 1 addition and 1 subtraction word problem.",
         "key": "fGok2nHOjnI"
     },
-    "2nd-grade-10": {
-        "name": "",
-        "description": "",
-        "key": ""
+    "2nd-grade-14": {
+        "name": "Intro to place value",
+        "description": "Sal introduces place value using a toy with beads (an abacus).  Created by Sal Khan.",
+        "key": "v3gdX07Q6qE"
     },
-    "2nd-grade-10": {
-        "name": "",
-        "description": "",
-        "key": ""
+    "2nd-grade-15": {
+        "name": "Use place value blocks to show numbers within 1,000",
+        "description": "Sal uses place value blocks to represent numbers within 1000. Created by Sal Khan.",
+        "key": "WHTzWZezEIY"
     },
-    "2nd-grade-10": {
-        "name": "",
-        "description": "",
-        "key": ""
+    "2nd-grade-16": {
+        "name": "Place value tables within 1,000",
+        "description": "Sal places numbers 842 and 507 into a place value table. Created by Sal Khan.",
+        "key": "Wt3IrBqq6Uc"
     },
-    "2nd-grade-10": {
-        "name": "",
-        "description": "",
-        "key": ""
+    "2nd-grade-17": {
+        "name": "Identifying value in digits",
+        "description": "Sal uses place value to identify the value of digits. Created by Sal Khan.",
+        "key": "Rh7eqv7y2xM"
     },
-    "2nd-grade-10": {
-        "name": "",
-        "description": "",
-        "key": ""
+    "2nd-grade-18": {
+        "name": "Creating the largest number",
+        "description": "Sal uses 3 numbers to show how to create the largest 3 digit number possible. Created by Sal Khan.",
+        "key": "1guztZj-RSU"
     },
-    "2nd-grade-10": {
-        "name": "",
-        "description": "",
-        "key": ""
+    "2nd-grade-19": {
+        "name": "Expanded form of numbers",
+        "description": "Sal shows how to turn numbers from expanded form to number form. Created by Sal Khan.",
+        "key": "drZjIlmHdME"
     },
-    "2nd-grade-10": {
-        "name": "",
-        "description": "",
-        "key": ""
+    "2nd-grade-20": {
+        "name": "Number and word form of a number",
+        "description": "Sal shows how to turn a number from number form into word form. Created by Sal Khan.",
+        "key": "hBCz0VDt2cI"
+    },
+    "2nd-grade-21": {
+        "name": "Word form and expanded form",
+        "description": "Sal shows how to write numbers from word form to expanded form. Created by Sal Khan.",
+        "key": "83Tji22tYGY"
+    },
+    "2nd-grade-22": {
+        "name": "Regrouping whole numbers: 675",
+        "description": "Sal regroups 675 into various addition problems. Created by Sal Khan.",
+        "key": "X3JqIZR1XcY"
+    },
+    "2nd-grade-23": {
+        "name": "Greater than and less than symbols",
+        "description": "This video teaches comparing numbers using equal, greater than, and less than symbols. It clarifies the equal sign's meaning and demonstrates using comparison symbols with numbers and expressions. Created by Sal Khan.",
+        "key": "nFsQA2Zvy1o"
+    },
+    "2nd-grade-24": {
+        "name": "Comparing whole numbers",
+        "description": "Sal compares 394 and 397.",
+        "key": "9Jg5S7F2SMQ"
+    },
+    "2nd-grade-25": {
+        "name": "Understanding even and odd numbers visually",
+        "description": "Learn about the difference between even and odd numbers and how to identify them. Use groups of objects to make pairs to identify even numbers and objects that don't have a pair are odd numbers. Created by Sal Khan.",
+        "key": "vZ9nrNpScu4"
+    },
+    "2nd-grade-26": {
+        "name": "Skip-counting by 5s",
+        "description": "Sal counts by 5s.",
+        "key": "UwWn84u6i8s"
+    },
+    "2nd-grade-27": {
+        "name": "Counting by 10s",
+        "description": "Sal counts by 10s.",
+        "key": "rfZokAnD7QM"
+    },
+    "2nd-grade-28": {
+        "name": "Skip-counting by 100s",
+        "description": "Sal counts by 100s.",
+        "key": "ruAXk6RnkG8"
     }
 }

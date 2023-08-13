@@ -1,0 +1,16 @@
+{
+    "name": "Identify the value of a digit (ones, tens, hundreds)",
+    "question": "What is the place value of the 0 in 90?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "Ones",
+        "is_right_choice": true
+    }, {
+        "choice": "Tens",
+        "is_right_choice": false
+    }, {
+        "choice": "Hundreds",
+        "is_right_choice": true
+    }]
+}
+
