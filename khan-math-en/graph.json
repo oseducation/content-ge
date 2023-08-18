@@ -26,6 +26,13 @@
     "2nd-grade-25": [],
     "2nd-grade-26": ["2nd-grade-19", "2nd-grade-11", "2nd-grade-12"],
     "2nd-grade-27": ["2nd-grade-26"],
-    "2nd-grade-28": ["2nd-grade-27"]
-
+    "2nd-grade-28": ["2nd-grade-27"],
+    "2nd-grade-29": ["2nd-grade-22", "2nd-grade-26"],
+    "2nd-grade-30": ["2nd-grade-22", "2nd-grade-26"],
+    "2nd-grade-31": ["2nd-grade-22", "2nd-grade-26"],
+    "2nd-grade-32": ["2nd-grade-28", "2nd-grade-29", "2nd-grade-30"],
+    "2nd-grade-33": ["2nd-grade-11", "2nd-grade-27"],
+    "2nd-grade-34": ["2nd-grade-32"],
+    "2nd-grade-35": ["2nd-grade-32"]
+    
 }

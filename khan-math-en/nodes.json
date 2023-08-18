@@ -138,5 +138,55 @@
         "name": "Skip-counting by 100s",
         "description": "Sal counts by 100s.",
         "key": "ruAXk6RnkG8"
+    },
+    "2nd-grade-29": {
+        "name": "Adding 2-digit numbers without regrouping",
+        "description": "Sal adds 23 + 45 thinking about place value.",
+        "key": "K5rmfHlHy20"
+    },
+    "2nd-grade-30": {
+        "name": "Understanding place value when adding ones",
+        "description": "Sal adds 37 + 2 by thinking about place value.",
+        "key": "7_QPAdHILzw"
+    },
+    "2nd-grade-31": {
+        "name": "Understanding place value when adding tens",
+        "description": "Sal adds 23 + 30 by thinking about place value.",
+        "key": "Dy5uDkOoMNc"
+    },
+    "2nd-grade-32": {
+        "name": "Adding with regrouping",
+        "description": "Sal adds 35 + 27 thinking about place value.",
+        "key": "8mcTsyV56jI"
+    },
+    "2nd-grade-33": {
+        "name": "Addition and subtraction with number lines",
+        "description": "Sal figures out which number line matches up with a 2-digit addition or subtraction problem.",
+        "key": "I5xcZgyY4ag"
+    },
+    "2nd-grade-34": {
+        "name": "Breaking apart 2-digit addition problems",
+        "description": "Sal thinks about different ways to break up addition problems.",
+        "key": "UjfmOmPARyk"
+    },
+    "2nd-grade-35": {
+        "name": "Adding 53+17 by making a group of 10",
+        "description": "Sal adds 53+17 by breaking apart the numbers and making a group of 10.",
+        "key": "Q35CH9B3tvc"
+    },
+    "2nd-grade-36": {
+        "name": "",
+        "description": "",
+        "key": ""
+    },
+    "2nd-grade-37": {
+        "name": "",
+        "description": "",
+        "key": ""
+    },
+    "2nd-grade-38": {
+        "name": "",
+        "description": "",
+        "key": ""
     }
 }
