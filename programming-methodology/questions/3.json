@@ -1,4 +1,5 @@
 [{
+    "name": "კითხვა move-ზე",
     "question": "წარმოიდგინე, რომ კარელი 5x5-ზე ცარიელ სამყაროში ცხოვრობს, არის (3,2) უჯრაზე, იხედება დასავლეთისკენ და მას ვუთხარით ბრძანება `move()`. რომელ უჯრაზე აღმოჩნდება კარელი ამ შემთხვევაში?",
     "question_type": "single_select_multiple_choice",
     "choices": [{
@@ -15,35 +16,37 @@
         "is_right_choice": true
     }]
 }, {
+    "name": "კითხვა turnLeft-ზე",
     "question": "წარმოიდგინე, რომ კარელი 5x5-ზე ცარიელ სამყაროში ცხოვრობს, არის (3,2) უჯრაზე, იხედება დასავლეთისკენ და მას ვუთხარით ბრძანება `turnLeft()`. რომელ მხარეს გაიხედება კარელი ბრძანების შესრულების შემდეგ?",
     "question_type": "single_select_multiple_choice",
     "choices": [{
-        "choice": "(4,2) დასავლეთი",
+        "choice": "დასავლეთი",
         "is_right_choice": false
     }, {
-        "choice": "(3,3) ჩრდილოეთი",
+        "choice": "ჩრდილოეთი",
         "is_right_choice": false
     }, {
-        "choice": "(3,1) აღმოსავლეთი",
+        "choice": "აღმოსავლეთი",
         "is_right_choice": false
     }, {
-        "choice": "(2,2) სამხრეთი",
+        "choice": "სამხრეთი",
         "is_right_choice": true
     }]
 }, {
+    "name": "კითხვა putBeeper-ზე",
     "question": "წარმოიდგინე, რომ კარელი 5x5-ზე ცარიელ სამყაროში ცხოვრობს, ჩანთაში აქვს ერთი ბრილიანტი, არის (3,2) უჯრაზე და მას ვუთხარით ბრძანება `putBeeper()`. რომელ უჯრაზე დადებს კარელი ბრილიანტს?",
     "question_type": "single_select_multiple_choice",
     "choices": [{
-        "choice": "(4,2) დასავლეთი",
+        "choice": "(4,2) უჯრაზე",
         "is_right_choice": false
     }, {
-        "choice": "(3,3) ჩრდილოეთი",
+        "choice": "(3,3) უჯრაზე",
         "is_right_choice": false
     }, {
-        "choice": "(3,2) აღმოსავლეთი",
+        "choice": "(3,2) უჯრაზე",
         "is_right_choice": true
     }, {
-        "choice": "(2,2) სამხრეთი",
+        "choice": "(2,2) უჯრაზე",
         "is_right_choice": false
     }]
 }]

@@ -1,4 +1,5 @@
 [{
+    "name": "რა არის ალგორითმი?",
     "question": "რა არის ალგორითმი?",
     "question_type": "single_select_multiple_choice",
     "choices": [{

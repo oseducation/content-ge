@@ -1,4 +1,5 @@
 [{
+    "name": "რა არის სამყაროში?",
     "question": "კარელის გარდა რა შეიძლება შეგხვდეთ კარელის სამყაროში?",
     "question_type": "single_select_multiple_choice",
     "choices": [{

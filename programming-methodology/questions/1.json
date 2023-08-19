@@ -1,4 +1,5 @@
 [{
+    "name": "რა არის რობოტი კარელი?",
     "question": "რა არის რობოტი კარელი?",
     "question_type": "single_select_multiple_choice",
     "choices": [{
