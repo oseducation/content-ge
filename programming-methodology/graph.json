@@ -65,7 +65,9 @@
     "e26":["59", "62a"],
     "e27":["57a", "62a"],
     "e28":["61"],
-    "CollectNewspaperKarel": ["9","9a", "e1"],
+    "CollectNewspaperKarel": ["28", "e1"],
+    "StoneMasonKarel": ["28","e5"],
+    "CheckerboardKarel": ["29", "e6", "e7", "e8"],
 
     "30":[],
     "30a":["30"],
