@@ -9,10 +9,10 @@
         "is_right_choice": false
     }, {
         "choice": "ალგორითმი ორის ფუძით რვა არის სამი",
-        "is_right_choice": true
+        "is_right_choice": false
     }, {
         "choice": "ნაბიჯების მიმდევრობა, რომელიც აღწერს თუ როგორ გადავჭრათ ესა თუ ის პრობლემა",
-        "is_right_choice": false
+        "is_right_choice": true
     }]
 }]
 
