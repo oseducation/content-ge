@@ -1,0 +1,18 @@
+[{
+    "question": "რა არის ალგორითმი?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "ალგორითმი არის ხელსაწყო რომელიც ამოწმებს გაქვს თუ არა რითმის გრძნობა",
+        "is_right_choice": false
+    }, {
+        "choice": "აუ ძალიან მაგარი რამეა",
+        "is_right_choice": false
+    }, {
+        "choice": "ალგორითმი ორის ფუძით რვა არის სამი",
+        "is_right_choice": true
+    }, {
+        "choice": "ნაბიჯების მიმდევრობა, რომელიც აღწერს თუ როგორ გადავჭრათ ესა თუ ის პრობლემა",
+        "is_right_choice": false
+    }]
+}]
+

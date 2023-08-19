@@ -1,0 +1,18 @@
+[{
+    "question": "კარელის გარდა რა შეიძლება შეგხვდეთ კარელის სამყაროში?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "ქვები",
+        "is_right_choice": false
+    }, {
+        "choice": "ტანჯვა და წამება",
+        "is_right_choice": false
+    }, {
+        "choice": "კედლები და ბრილიანტები",
+        "is_right_choice": true
+    }, {
+        "choice": "მხოლოდ ბრილიანტები",
+        "is_right_choice": false
+    }]
+}]
+

@@ -1,4 +1,4 @@
-{
+[{
     "question": "რა არის რობოტი კარელი?",
     "question_type": "single_select_multiple_choice",
     "choices": [{
@@ -14,5 +14,5 @@
         "choice": "Open AI-ს მიერ შექმნილი პირველი ხელოვნური ინტელექტი",
         "is_right_choice": false
     }]
-}
+}]
 
