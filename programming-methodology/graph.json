@@ -68,6 +68,7 @@
     "CollectNewspaperKarel": ["28", "e1"],
     "StoneMasonKarel": ["28","e5"],
     "CheckerboardKarel": ["29", "e6", "e7", "e8"],
+    "MidpointFindingKarel": ["29", "e9", "e10"],
 
     "30":[],
     "30a":["30"],
