@@ -1,0 +1,19 @@
+[{
+    "name": "რად გვინდა მეთოდები?",
+    "question": "რაში გვჭირდება ახალი მეთოდები? მონიშნეთ არასწორი პასუხი",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "პროგრამის შესრულებას ასწრაფებს",
+        "is_right_choice": true
+    }, {
+        "choice": "კოდის გამეორების წინააღმდეგ კარგი საშუალებაა",
+        "is_right_choice": false
+    }, {
+        "choice": "კოდის კითხვადობას ამარტივებს",
+        "is_right_choice": false
+    }, {
+        "choice": "ერთხელ დაწერ და ბევრჯერ გამოიყენებ",
+        "is_right_choice": false
+    }]
+}]
+

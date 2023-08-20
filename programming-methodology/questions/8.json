@@ -1,0 +1,19 @@
+[{
+    "name": "მეთოდის სახელი",
+    "question": "რა შეიძლება იყოს ახალი მეთოდის სახელი?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "ნებისმიერი ინგლისური სტიყვა",
+        "is_right_choice": false
+    }, {
+        "choice": "ნებისმიერი სიტყვა ნებისმიერ ენაზე",
+        "is_right_choice": false
+    }, {
+        "choice": "ნებისმიერი რიცხვი",
+        "is_right_choice": false
+    }, {
+        "choice": "ფაქტობრივად სიმბოლოების ნებისმიერი მიმდევრობა(გარკვეული შეზღუდვებით) სპეცილაური სიტყვების გარდა(როგორიცაა public, void, class და ა.შ.)",
+        "is_right_choice": true
+    }]
+}]
+

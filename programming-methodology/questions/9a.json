@@ -1,0 +1,19 @@
+[{
+    "name": "სუპერ კარელი",
+    "question": "რა განსხვავებაა კარელსა და სუპერ კარელს შორის?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "არანაირი, ორივენი ბედკურლი ჯავას შვილები არიან",
+        "is_right_choice": false
+    }, {
+        "choice": "სუპერი!",
+        "is_right_choice": false
+    }, {
+        "choice": "სუპერ კარელი უფრო ჩქარია",
+        "is_right_choice": false
+    }, {
+        "choice": "სუპერ კარელმა ყველაფერი იცის რაც კარელმა და კიდე დამატებითი მეთოდებიც აქვს",
+        "is_right_choice": true
+    }]
+}]
+

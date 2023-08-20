@@ -3,8 +3,8 @@
     "question": "რა არის ბაგი?",
     "question_type": "single_select_multiple_choice",
     "choices": [{
-        "choice": "შეცდომების გასწორების მექანიზმი",
-        "is_right_choice": false
+        "choice": "შეცდომა პროგრამაში",
+        "is_right_choice": true
     }, {
         "choice": "ახალი პროგრამირების ენა",
         "is_right_choice": false
@@ -12,8 +12,8 @@
         "choice": "ხოჭო",
         "is_right_choice": false
     }, {
-        "choice": "შეცდომა პროგრამაში",
-        "is_right_choice": true
+        "choice": "შეცდომების გასწორების მექანიზმი",
+        "is_right_choice":  false
     }]
 }]
 
