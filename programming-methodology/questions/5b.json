@@ -1,0 +1,19 @@
+[{
+    "name": "ბაგი პროგრამაში",
+    "question": "წარმოიდგინე, რომ კარელი 3x3-ზე ცარიელ სამყაროში ცხოვრობს, არის (1,1) უჯრაზე, იხედება აღმოსავლეთისკენ და მას ვუთხარით შემდეგი ბრძანებები\n```\nmove();\nmove();\nmove();\n```\n. როგორი იქნება სამყარო ბრძანებების შესრულების შემდეგ",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "(1,3) უჯრაზე",
+        "is_right_choice": false
+    }, {
+        "choice": "(3,3) უჯრაზე",
+        "is_right_choice": false
+    }, {
+        "choice": "(3,1) უჯრაზე",
+        "is_right_choice": false
+    }, {
+        "choice": "ბაგია, კარელი კედელს დაეტაკება",
+        "is_right_choice": true
+    }]
+}]
+

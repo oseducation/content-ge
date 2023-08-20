@@ -1,0 +1,19 @@
+[{
+    "name": "როგორ გავუშვათ პროგრამა?",
+    "question": "რომელ ღილაკს უნდა დავაწვეთ ეკლიფსში იმისათვის, რომ პროგრამა გავუშვათ?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "ხოჭოს ღილაკს",
+        "is_right_choice": false
+    }, {
+        "choice": "მარცხენა ღილაკს",
+        "is_right_choice": false
+    }, {
+        "choice": "მორბენალი კაცუნების ღილაკს",
+        "is_right_choice": true
+    }, {
+        "choice": "ისრიან ღილაკს",
+        "is_right_choice": false
+    }]
+}]
+

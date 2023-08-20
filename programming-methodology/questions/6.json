@@ -1,0 +1,22 @@
+[{
+    "name": "რომელია შაბლონი?",
+    "question": "რომელია ცარიელი პროგრამის შაბლონი?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "```java\npublic class FirstProgram extends Karel {\n\tpublic void run() {\n\t}\n}\n```",
+        "is_right_choice": false
+    }, {
+        "choice": "```java\nimport stanford.karel.*;\n\npublic class FirstProgram extends Karel {\n\tpublic void running() {\n\t}\n}\n```",
+        "is_right_choice": false
+    }, {
+        "choice": "```java\nimport stanford.karel.*;\n\npublic class FirstProgram extends Karel {\n\tpublic void run() \n\t}\n}\n```",
+        "is_right_choice": false
+    }, {
+        "choice": "```java\nimport stanford.karel.*;\n\npublic class FirstProgram {\n\tpublic void run() {\n\t}\n}\n```",
+        "is_right_choice": false
+    }, {
+        "choice": "```java\nimport stanford.karel.*;\n\npublic class FirstProgram extends Karel {\n\tpublic void run() {\n\t}\n}\n```",
+        "is_right_choice": true
+    }]
+}]
+
