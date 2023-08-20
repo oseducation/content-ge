@@ -1,0 +1,19 @@
+[{
+    "name": "მარტივი ალგორითმი",
+    "question": "წარმოიდგინე, რომ კარელი ცარიელ 5x5-ზე სამყაროშია, დგას (1,1) კოორდინატებზე და ჩვენ შემდეგი ბრძანებების შესრულება ვუბრძანეთ\nmove\nmove\turnLeft\nmove\nამ ბრძანებების შესრულების შემდეგ რომელ უჯრაზე იქნება კარელი?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "(2,2)",
+        "is_right_choice": true
+    }, {
+        "choice": "(1,3)",
+        "is_right_choice": false
+    }, {
+        "choice": "(3,1)",
+        "is_right_choice": false
+    }, {
+        "choice": "(2,1)",
+        "is_right_choice": false
+    }]
+}]
+

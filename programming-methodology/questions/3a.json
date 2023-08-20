@@ -1,0 +1,19 @@
+[{
+    "name": "რა არის eclipse?",
+    "question": "რა არის eclipse?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "იგივე Microsoft Word-ია ოღონდ პროგრამირებისთვის",
+        "is_right_choice": true
+    }, {
+        "choice": "პროგრამირების შემსწავლელი პროგრამა",
+        "is_right_choice": false
+    }, {
+        "choice": "სახატავი პროგრამა",
+        "is_right_choice": false
+    }, {
+        "choice": "მზის დაბნელება",
+        "is_right_choice": false
+    }]
+}]
+
