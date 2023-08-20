@@ -1,0 +1,22 @@
+[{
+    "name": "მარტივი ალგორითმი",
+    "question": "წარმოიდგინე, რომ გვინდა დავწეროთ პროგრამა, რომელიც კარელს გადააადგილებს ორი ნაბიჯით წინ. გასაგებია, რომ ამის ალგორითმია\n```java\nmove\nmove```\n როგორ პროგრამად გადაიქცევა ეს ალგორითმი?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "```java\npublic class FirstProgram extends Karel {\n\tpublic void run() {\n\t\tmove();\n\t\tmove();\n\t}\n}```",
+        "is_right_choice": false
+    }, {
+        "choice": "```java\nimport stanford.karel.*;\n\npublic class FirstProgram extends Karel {\n\tpublic void run() {\n\t\tmove();\n\t\tmove();\n\t}\n}```",
+        "is_right_choice": true
+    }, {
+        "choice": "```java\nimport stanford.karel.*;\n\npublic class FirstProgram extends Karel {\n\tpublic void run() {\n\t\tmove();\n\t}\n}```",
+        "is_right_choice": false
+    }, {
+        "choice": "```java\nimport stanford.karel.*;\n\npublic class FirstProgram {\n\tpublic void run() {\n\t\tmove();\n\t\tmove();\n\t}\n}```",
+        "is_right_choice": false
+    }, {
+        "choice": "```java\nimport stanford.karel.*;\n\npublic class FirstProgram extends Karel {\n\tpublic void start() {\n\t\tmove();\n\t\tmove();\n\t}\n}```",
+        "is_right_choice": false
+    }]
+}]
+
