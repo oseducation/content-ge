@@ -1,0 +1,39 @@
+[{
+    "name": "ქუჩის ბოლომდე",
+    "question": "წარმოიდგინე, რომ კარელი 5x5-ზე, ცარიელ სამყაროში ცხოვრობს, (1,1) უჯრაზეა და აღმოსავლეთისკენ იხედება. გვინდა დავწეროთ პროგრამა, რომელიც კარელს მიიყვანს პირველი ქუჩის ბოლოში. ამ პროგრამებიდან რომელი იზამს ამას?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "```java\nimport stanford.karel.*;\n\npublic class FirstProgram extends Karel {\n\tpublic void run() {\n\t\tfor (int i=0; i<5; i++) {\n\t\t\tmove();\n\t\t}\n\t}\n}\n```",
+        "is_right_choice": false
+    }, {
+        "choice": "```java\nimport stanford.karel.*;\n\npublic class FirstProgram extends Karel {\n\tpublic void run() {\n\t\tfor (int i=0; i<4; i++) {\n\t\t\tmove();\n\t\t}\n\t}\n}\n```",
+        "is_right_choice": true
+    }, {
+        "choice": "```java\nimport stanford.karel.*;\n\npublic class FirstProgram extends Karel {\n\tpublic void run() {\n\t\tmove()\n\t\tmove()\n\t\tmove()\n\t\tmove()\n\t\tmove()\n\t}\n}\n```",
+        "is_right_choice": false
+    }, {
+        "choice": "```java\nimport stanford.karel.*;\n\npublic class FirstProgram extends Karel {\n\tpublic void run() {\n\t\tfor (int i=0; i<3; i++) {\n\t\t\tmove();\n\t\t}\n\t}\n}\n```",
+        "is_right_choice": false
+    }]
+}, {
+    "name": "სიარული",
+    "question": "წარმოიდგინე, რომ კარელი 5x5-ზე, ცარიელ სამყაროში ცხოვრობს, (1,1) უჯრაზეა და აღმოსავლეთისკენ იხედება. დაადგინე შემდეგი პროგრამის შესრულების შემდეგ სად იქნება კარელი.\n\n```java\nimport stanford.karel.*;\n\npublic class FirstProgram extends Karel {\n\tpublic void run() {\n\t\tfor (int i=0; i<3; i++) {\n\t\t\tmove();\n\t\tmove();\n\t\tturnLeft();\n\t\t}\n\t}\n}\n```",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "(1,1) უჯრაზე",
+        "is_right_choice": false
+    }, {
+        "choice": "(1,3) უჯრაზე",
+        "is_right_choice": true
+    }, {
+        "choice": "(2,2) უჯრაზე",
+        "is_right_choice": false
+    }, {
+        "choice": "(3,1) უჯრაზე",
+        "is_right_choice": false
+    }, {
+        "choice": "კედელს შეეჯახება",
+        "is_right_choice": false
+    }]
+}]
+
