@@ -1,4 +1,4 @@
-{
+[{
     "name": "Subtract within 20",
     "question": "Ann and Zoe love ice cream with cherries on top. Ann put 4 cherries on hers. Ann had 2 fewer cherries than Zoe. How many cherries did Zoe have?",
     "question_type": "single_select_multiple_choice",
@@ -15,5 +15,5 @@
         "choice": "4",
         "is_right_choice": false
     }]
-}
+}]
 

@@ -1,4 +1,4 @@
-{
+[{
     "name": "Subtract within 20",
     "question": "Hou much would be `16 + 3`?",
     "question_type": "single_select_multiple_choice",
@@ -15,5 +15,5 @@
         "choice": "18",
         "is_right_choice": false
     }]
-}
+}]
 

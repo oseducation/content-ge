@@ -1,4 +1,4 @@
-{
+[{
     "name": "Add within 20 visually",
     "question": "Hou much would be `3 + 10`?",
     "question_type": "single_select_multiple_choice",
@@ -15,5 +15,5 @@
         "choice": "13",
         "is_right_choice": true
     }]
-}
+}]
 
