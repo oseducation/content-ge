@@ -1,18 +1,22 @@
 {
     "CollectNewspaperKarel": {
         "name": "გაზეთის აღება",
-        "description": "დაწერეთ პროგრამა, რომელიც დაეხმარება რობოტ კარელს გაზეთის აღებაში"
+        "description": "დაწერეთ პროგრამა, რომელიც დაეხმარება რობოტ კარელს გაზეთის აღებაში",
+        "environment": "karel_java"
     },
     "StoneMasonKarel": {
         "name": "თაღების შეკეთება",
-        "description": "დაწერეთ პროგრამა, რომელიც დაეხმარება რობოტ კარელს თაღების შეკეთებაში"
+        "description": "დაწერეთ პროგრამა, რომელიც დაეხმარება რობოტ კარელს თაღების შეკეთებაში",
+        "environment": "karel_java"
     },
     "CheckerboardKarel": {
         "name": "ჭადრაკის დაფა",
-        "description": "დაეხმარეთ კარელს განალაგოს ბრილიანტების ჭადრაკისებურად"
+        "description": "დაეხმარეთ კარელს განალაგოს ბრილიანტების ჭადრაკისებურად",
+        "environment": "karel_java"
     },
     "MidpointFindingKarel": {
         "name": "ცენტრის პოვნა",
-        "description": "დაეხმარეთ კარელს იპოვოს ქუჩის ცენტრი"
+        "description": "დაეხმარეთ კარელს იპოვოს ქუჩის ცენტრი",
+        "environment": "karel_java"
     }
 }
