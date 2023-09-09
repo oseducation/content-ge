@@ -52,12 +52,14 @@
     "4a": {
         "name": "ალგორითმიდან კარელის პროგრამის მიღება",
         "description": "თუ გვაქვს ალგორითმი როგორ უნდა მივიღოთ იქედან პროგრამა, რომელსაც კარელი შეასრულებს",
-        "key": "Mtfz70iHU20"
+        "key": "Mtfz70iHU20",
+        "environment":"karel_java"
     },
     "5": {
         "name": "პირველი პროგრამის გაშვება",
         "description": "ეკლიპსის საშუალებით პროგრამის გაშვება და შემოწმება",
-        "key": "ZQtFkYYmpU0"
+        "key": "ZQtFkYYmpU0",
+        "environment":"karel_java"
     },
     "5a": {
         "name": "ბაგების ისტორია",
@@ -67,12 +69,14 @@
     "5b": {
         "name": "ბაგი კარელის პირველ პროგრამაში",
         "description": "პროგრამა სწორი სამყაროსთვის უნდა გაუშვა",
-        "key": "jukRk7Tad-I"
+        "key": "jukRk7Tad-I",
+        "environment":"karel_java"
     },
     "6": {
         "name": "პროგრამის შაბლონი",
         "description": "როგორ უნდა გამოიყურებოდეს კარელის მარტივი პროგრამა",
-        "key": "vFRWT9htR9E"
+        "key": "vFRWT9htR9E",
+        "environment":"karel_java"
     },
     "7": {
         "name": "ტაბულაცია",
@@ -82,7 +86,8 @@
     "8": {
         "name": "ახალი მეთოდები",
         "description": "როგორ ვასწავლოთ კარელს ახალი მეთოდები",
-        "key": "s9Mn3gpyUPs"
+        "key": "s9Mn3gpyUPs",
+        "environment":"karel_java"
     },
     "9": {
         "name": "რაში გვჭირდება კარელის ახალი მეთოდები",
@@ -92,12 +97,14 @@
     "9a": {
         "name": "სუპერ კარელი",
         "description": "კარელი რომელმაც კიდევ უფრო მეტი იცის",
-        "key": "NMFXU1UITTc"
+        "key": "NMFXU1UITTc",
+        "environment":"karel_java"
     },
     "10": {
         "name": "for ციკლი კარელში",
         "description": "შეასრულე ბრძანაბების მიმდევრობა N ჯერ",
-        "key": "NuNv_NmDeH4"
+        "key": "NuNv_NmDeH4",
+        "environment":"karel_java"
     },
     "11": {
         "name": "კარელის პირობები",
@@ -107,47 +114,56 @@
     "12": {
         "name": "while ციკლი",
         "description": "შეასრულე ბრძანებების მიმდევრობა მანამ სანამ...",
-        "key": "JBORYU-Vl-I"
+        "key": "JBORYU-Vl-I",
+        "environment":"karel_java"
     },
     "13": {
         "name": "არასწორი while ციკლი",
         "description": "ან სრულდება ციკლის ტანში არსებული ყველა ბრძანება ან არც ერთი",
-        "key": "HuG0XQGZk0w"
+        "key": "HuG0XQGZk0w",
+        "environment":"karel_java"
     },
     "14": {
         "name": "if ოპერატორი",
         "description": "თუ პირობა სრულდება...",
-        "key": "HJ3Gb9pBe6s"
+        "key": "HJ3Gb9pBe6s",
+        "environment":"karel_java"
     },
     "15": {
         "name": "if/else",
         "description": "თუ პირობა სრულდება ეს თუ არა და ის",
-        "key": "fNZhI6OOSRE"
+        "key": "fNZhI6OOSRE",
+        "environment":"karel_java"
     },
     "15a": {
         "name": "else ბლოკის არ გამოყენება",
         "description": "თეორიულად შეიძლება კოდი ისე დავწეროთ, რომ else ბლოკი არ გამოვიყენოთ",
-        "key": "sS3BPnMUQUQ"
+        "key": "sS3BPnMUQUQ",
+        "environment":"karel_java"
     },
     "16": {
         "name": "ოპერატორების ერთმანეთში ჩადგმა",
         "description": "შეგვიძლია for, while da if ოპერატორები ერთმანეთის ტანში ჩავწეროთ",
-        "key": "MEFg23eysnE"
+        "key": "MEFg23eysnE",
+        "environment":"karel_java"
     },
     "17": {
         "name": "ღობეებზე გადახტომის ამოცანა",
         "description": "9 სიგრძის სამყაროში ღობეებია გარკევულ ადგილებში, კარელი უნდა გადაახტეს ყველა ღობეს და სამყაროს ბოლოში მივიდეს",
-        "key": "YHHl52UGuZE"
+        "key": "YHHl52UGuZE",
+        "environment":"karel_java"
     },
     "18": {
         "name": "ხშირი შეცდომები: OBOB",
         "description": "Off by one bug",
-        "key": "KdX6w2LGaqk"
+        "key": "KdX6w2LGaqk",
+        "environment":"karel_java"
     },
     "19": {
         "name": "ხშირი შეცდომები: უსასრულო ციკლი",
         "description": "ზოგიერთი ციკლში შეიძლება არასოდეს არ დამთავრდეს",
-        "key": "toy9D1SnBrw"
+        "key": "toy9D1SnBrw",
+        "environment":"karel_java"
     },
     "20": {
         "name": "კომენტარები",
@@ -167,17 +183,20 @@
     "24": {
         "name": "ღობეებზეე გადახტომა დეკომპოზიციით",
         "description": "როგორ ამოიხსნა ღობეებზე გადახტომის ამოცანა დეკომპოზიციით",
-        "key": "-rldjc1hUzI"
+        "key": "-rldjc1hUzI",
+        "environment":"karel_java"
     },
     "25": {
         "name": "ბრილიანტების გაორმაგების მაგალითი",
         "description": "გააორმაგე კარელის წინ არსებული ბრილიანტების გროვა",
-        "key": "gtCLBcVo74I"
+        "key": "gtCLBcVo74I",
+        "environment":"karel_java"
     },
     "26": {
         "name": "ცუდი პროგრამის მაგალითი",
         "description": "როგორი პროგრამა არ უნდა დაწერო",
-        "key": "OiuY5Gp_i4E"
+        "key": "OiuY5Gp_i4E",
+        "environment":"karel_java"
     },
     "27":{
         "name": "სტილისტიკა",
@@ -192,7 +211,8 @@
     "29":{
         "name": "სამყაროს გასუფთავების ამოცანა",
         "description": "სამყაროში ბრილიანტები ყრია, დაწერე პროგრამა, რომელიც სამყაროს გაასუფთავებს",
-        "key": "VvDsN1K8v9U"
+        "key": "VvDsN1K8v9U",
+        "environment":"karel_java"
     },
 
 
