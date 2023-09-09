@@ -1,36 +1,47 @@
 {
     "e1": {
-        "name": "MoveKarel"
+        "name": "MoveKarel",
+        "environment":"karel_java"
     },
     "e2": {
-        "name": "MoveBeepers"
+        "name": "MoveBeepers",
+        "environment":"karel_java"
     },
     "e3": {
-        "name": "EndOfTheStreet"
+        "name": "EndOfTheStreet",
+        "environment":"karel_java"
     },
     "e4": {
-        "name": "FillRaw"
+        "name": "FillRaw",
+        "environment":"karel_java"
     },
     "e5": {
-        "name": "FillFirstRow"
+        "name": "FillFirstRow",
+        "environment":"karel_java"
     },
     "e6": {
-        "name": "KarelAddition"
+        "name": "KarelAddition",
+        "environment":"karel_java"
     },
     "e7": {
-        "name": "FillWorld"
+        "name": "FillWorld",
+        "environment":"karel_java"
     },
     "e8": {
-        "name": "KarelSubtraction"
+        "name": "KarelSubtraction",
+        "environment":"karel_java"
     },
     "e9": {
-        "name": "KarelMultiplication"
+        "name": "KarelMultiplication",
+        "environment":"karel_java"
     },
     "e10": {
-        "name": "KarelDivision"
+        "name": "KarelDivision",
+        "environment":"karel_java"
     },
     "e11": {
-        "name": "KarelMaze"
+        "name": "KarelMaze",
+        "environment":"karel_java"
     },
     "e12": {
         "name": "House"
