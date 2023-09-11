@@ -3,5 +3,59 @@
         "name": "Vitsi AI",
         "description": "What is Vitsi AI and how to us it",
         "key": ""
-    }
+    },
+    "1": {
+        "name": "Karel The Robot",
+        "description": "What is Karel The Robot? Who created it and why",
+        "key": ""
+    },
+    "2": {
+        "name": "Karel's World",
+        "description": "Where does Karel live? What's the Karel's world like",
+        "key": ""
+    },
+    "3": {
+        "name": "Karel Functions",
+        "description": "What commands can Karel carry-out",
+        "key": ""
+    },
+    "4": {
+        "name": "Algorithm",
+        "description": "What is an algorithm",
+        "key": ""
+    },
+    "5": {
+        "name": "First Karel Program Algorithm",
+        "description": "Simple algorithm to move Karel around",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "6": {
+        "name": "First Karel Program",
+        "description": "How to create and run Karel program from a simple algorithm",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "7": {
+        "name": "History of Bugs in Programs",
+        "description": "What is a bug in a program",
+        "key": ""
+    },
+    "8": {
+        "name": "Bug in a First Karel Program",
+        "description": "You should run Program for the correct world",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "9": {
+        "name": "New Functions",
+        "description": "How can we teach Karel new functions",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "10": {
+        "name": "Why Do We Need New Functions?",
+        "description": "Why do we create and how do we use new functions?",
+        "key": ""
+    },
 }
