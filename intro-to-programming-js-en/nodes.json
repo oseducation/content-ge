@@ -58,4 +58,62 @@
         "description": "Why do we create and how do we use new functions?",
         "key": ""
     },
+    "11": {
+        "name": "Whitespace and Indentation",
+        "description": "What's the use of whitespace(enters, spaces, tabs...) in a program",
+        "key": ""
+    },
+    "12": {
+        "name": "`for` Loop in Karel",
+        "description": "Repeat the list of commands N times",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "13": {
+        "name": "Conditions in Karel",
+        "description": "Karel can test some conditions in its world",
+        "key": ""
+    },
+    "14": {
+        "name": "`while` Loop in Karel",
+        "description": "Repeat the list of commands until some condition is true",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "15": {
+        "name": "Incorrect `while` Loop in Karel",
+        "description": "`while` loop executes either all of the commands listed in the body or none",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "16": {
+        "name": "`if` Statement in Karel",
+        "description": "Execute only if condition is true",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "17": {
+        "name": "`if-else` Statement in Karel",
+        "description": "If condition is true execute this, else execute that",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "18": {
+        "name": "Without `else` Statement",
+        "description": "Theoretically you can write any code without using else",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "19": {
+        "name": "Nested Statements",
+        "description": "We can nest `for`, `while` and `if` operators anyway we want",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "20": {
+        "name": "SteepleChaseKarel Problem",
+        "description": "In the world of length 9, there are hurdles in some of the streets. Karel should jump over them all",
+        "key": "",
+        "environment":"karel_js"
+    },
 }
