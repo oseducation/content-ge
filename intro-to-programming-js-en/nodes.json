@@ -116,4 +116,66 @@
         "key": "",
         "environment":"karel_js"
     },
+    "21": {
+        "name": "Common Errors - OBOB",
+        "description": "Off by one bug",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "22": {
+        "name": "Common Errors - Infinite Loop",
+        "description": "Sometimes loop might continue infinitely",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "23": {
+        "name": "Comments in Karel",
+        "description": "What is a comment in code, what type of comments do we have",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "24": {
+        "name": "Thinking Processes - Bottom Up Design",
+        "description": "What is the thinking process, what is the bottom up approach",
+        "key": ""
+    },
+    "25": {
+        "name": "Thinking Processes - Top Down Design",
+        "description": "What is the Top Down Design thinking process, aka stepwise refinement, aka decomposition",
+        "key": ""
+    },
+    "26": {
+        "name": "SteepleChaseKarel With Decomposition",
+        "description": "How to solve SteepleChaseKarel problem with decomposition",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "27": {
+        "name": "DoubleBeepersKarel Problem",
+        "description": "Double the pile of beepers in front of Karel",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "28": {
+        "name": "Do Your Thing Karel Program",
+        "description": "Example of the program that does the job, but is very bad",
+        "key": "",
+        "environment":"karel_js"
+    },
+    "29":{
+        "name": "Good Programming Style for Karel",
+        "description": "Good naming. camelCase",
+        "key": ""
+    },
+    "30":{
+        "name": "Good Decomposition",
+        "description": "How to write good code, tips of good decomposition",
+        "key": ""
+    },
+    "31":{
+        "name": "CleanUpKarel Problem",
+        "description": "Lot's of beepers in the world, write the program to clean them up",
+        "key": "",
+        "environment":"karel_js"
+    },
 }
