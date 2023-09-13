@@ -1,0 +1,73 @@
+[{
+    "name": "Simple Karel algorithm",
+    "question": "Imagine that Karel is in the 5x5 empty world, on the (1,1) corner, facing east. And we ordered following commands\n```js\nmove\nmove\nturnLeft\nmove\n```\n. On what corner will it end up?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "(3,2)",
+        "is_right_choice": true
+    }, {
+        "choice": "(1,3)",
+        "is_right_choice": false
+    }, {
+        "choice": "(3,1)",
+        "is_right_choice": false
+    }, {
+        "choice": "(2,1)",
+        "is_right_choice": false
+    }]
+}, {
+    "name": "ალგორითმი ბრილიანტებით",
+    "question": "Imagine that Karel is in the 5x5 empty world, on the (1,1) corner, facing east. And we ordered following commands\n```java\nmove\nmove\nmove\nturnLeft\nmove\nmove\nturnLeft\nputBeeper\nmove\nmove\n```\n. On what corner will Karel and beeper it end up?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "Karel on (2,3) corner, beeper on (4,3) corner",
+        "is_right_choice": true
+    }, {
+        "choice": "There will be an error",
+        "is_right_choice": false
+    }, {
+        "choice": "Karel on (3,2) corner, beeper on (4,2) corner",
+        "is_right_choice": false
+    }, {
+        "choice": "Karel on (2,3) corner, beeper on (4,2) corner",
+        "is_right_choice": false
+    }]
+}, {
+    "name": "Karel program from algorithm",
+    "question": "Which one is a valid Karel program, that moves Karel 2 steps forward?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "```js\nmove();\nmove();\n```",
+        "is_right_choice": false
+    }, {
+        "choice": "```js\nmove;\nmove;\n```",
+        "is_right_choice": true
+    }, {
+        "choice": "```js\nmove{};\nmove{};\n```",
+        "is_right_choice": false
+    }, {
+        "choice": "```js\nmove[];\nmove[];\n```",
+        "is_right_choice": false
+    }, {
+        "choice": "```js\nturnLeft();\nturnLeft();\n```",
+        "is_right_choice": false
+    }]
+}, {
+    "name": "How to run a Karel program?",
+    "question": "What is the correct button to press to run a Karel program?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "A button with a running man on it",
+        "is_right_choice": true
+    }, {
+        "choice": "a slider",
+        "is_right_choice": false
+    }, {
+        "choice": "there is no button",
+        "is_right_choice": false
+    }, {
+        "choice": "a button with a circle",
+        "is_right_choice": false
+    }]
+}]
+

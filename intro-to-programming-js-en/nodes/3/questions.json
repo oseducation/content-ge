@@ -1,0 +1,19 @@
+[{
+    "name": "What is an algorithm?",
+    "question": "What is an algorithm?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "Algorithm is a tool to check if you have rhythm or not",
+        "is_right_choice": false
+    }, {
+        "choice": "Ooh very very cool thing",
+        "is_right_choice": false
+    }, {
+        "choice": "Logarithm base 2 of 8 is 3",
+        "is_right_choice": false
+    }, {
+        "choice": "Set of instructions to get something done",
+        "is_right_choice": true
+    }]
+}]
+

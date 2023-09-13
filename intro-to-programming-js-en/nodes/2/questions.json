@@ -1,0 +1,53 @@
+[{
+    "name": "Question about move",
+    "question": "Imagine that Karel is in the 5x5 empty world, on the (3,2) corner, facing west. And we commanded to `move`. On what corner will it end up?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "(4,2) corner",
+        "is_right_choice": false
+    }, {
+        "choice": "(3,3) corner",
+        "is_right_choice": false
+    }, {
+        "choice": "(3,1) corner",
+        "is_right_choice": false
+    }, {
+        "choice": "(2,2) corner",
+        "is_right_choice": true
+    }]
+}, {
+    "name": "Question about turnLeft",
+    "question": "Imagine that Karel is in the 5x5 empty world, on the (3,2) corner, facing west. And we commanded to `turnLeft`. What direction will it face?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "west",
+        "is_right_choice": false
+    }, {
+        "choice": "north",
+        "is_right_choice": false
+    }, {
+        "choice": "east",
+        "is_right_choice": false
+    }, {
+        "choice": "south",
+        "is_right_choice": true
+    }]
+}, {
+    "name": "Question about putBeeper",
+    "question": "Imagine that Karel is in the 5x5 empty world, on the (3,2) corner, facing west. And we commanded to `putBeeper`. On what corner will beeper appear?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "(4,2) უჯრაზე",
+        "is_right_choice": false
+    }, {
+        "choice": "(3,3) უჯრაზე",
+        "is_right_choice": false
+    }, {
+        "choice": "(3,2) უჯრაზე",
+        "is_right_choice": true
+    }, {
+        "choice": "(2,2) უჯრაზე",
+        "is_right_choice": false
+    }]
+}]
+

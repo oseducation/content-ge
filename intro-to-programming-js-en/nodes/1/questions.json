@@ -1,0 +1,36 @@
+[{
+    "name": "What is Karel The Robot?",
+    "question": "What is Karel The Robot?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "A very cool robot created by Elon Musk",
+        "is_right_choice": false
+    }, {
+        "choice": "A tool for learning programming fun and creative way",
+        "is_right_choice": true
+    }, {
+        "choice": "Programming language",
+        "is_right_choice": false
+    }, {
+        "choice": "First artificial intelligence created by Open AI",
+        "is_right_choice": false
+    }]
+}, {
+    "name": "What's in the Karel's world?",
+    "question": "Besides Karel what can we see in the Karel's world?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "butterflies",
+        "is_right_choice": false
+    }, {
+        "choice": "pain and suffering",
+        "is_right_choice": false
+    }, {
+        "choice": "walls and beepers",
+        "is_right_choice": true
+    }, {
+        "choice": "only beepers",
+        "is_right_choice": false
+    }]
+}]
+
