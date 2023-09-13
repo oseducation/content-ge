@@ -1,0 +1,46 @@
+{
+    "e1": {
+        "name": "MoveKarel",
+        "environment":"karel_js"
+    },
+    "e2": {
+        "name": "MoveBeepers",
+        "environment":"karel_js"
+    },
+    "e3": {
+        "name": "EndOfTheStreet",
+        "environment":"karel_js"
+    },
+    "e4": {
+        "name": "FillRaw",
+        "environment":"karel_js"
+    },
+    "e5": {
+        "name": "FillFirstRow",
+        "environment":"karel_js"
+    },
+    "e6": {
+        "name": "KarelAddition",
+        "environment":"karel_js"
+    },
+    "e7": {
+        "name": "FillWorld",
+        "environment":"karel_js"
+    },
+    "e8": {
+        "name": "KarelSubtraction",
+        "environment":"karel_js"
+    },
+    "e9": {
+        "name": "KarelMultiplication",
+        "environment":"karel_js"
+    },
+    "e10": {
+        "name": "KarelDivision",
+        "environment":"karel_js"
+    },
+    "e11": {
+        "name": "KarelMaze",
+        "environment":"karel_js"
+    }
+}

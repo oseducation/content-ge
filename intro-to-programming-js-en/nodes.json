@@ -6,173 +6,168 @@
     },
     "1": {
         "name": "Karel The Robot",
-        "description": "What is Karel The Robot? Who created it and why",
+        "description": "What is Karel The Robot? Who created it and why? Where does Karel live? What's the Karel's world like",
         "key": ""
     },
     "2": {
-        "name": "Karel's World",
-        "description": "Where does Karel live? What's the Karel's world like",
-        "key": ""
-    },
-    "3": {
         "name": "Karel Functions",
         "description": "What commands can Karel carry-out",
         "key": ""
     },
-    "4": {
+    "3": {
         "name": "Algorithm",
         "description": "What is an algorithm",
         "key": ""
     },
-    "5": {
+    "4": {
         "name": "First Karel Program Algorithm",
         "description": "Simple algorithm to move Karel around",
         "key": "",
         "environment":"karel_js"
     },
-    "6": {
+    "5": {
         "name": "First Karel Program",
         "description": "How to create and run Karel program from a simple algorithm",
         "key": "",
         "environment":"karel_js"
     },
-    "7": {
+    "6": {
         "name": "History of Bugs in Programs",
         "description": "What is a bug in a program",
         "key": ""
     },
-    "8": {
+    "7": {
         "name": "Bug in a First Karel Program",
         "description": "You should run Program for the correct world",
         "key": "",
         "environment":"karel_js"
     },
-    "9": {
+    "8": {
         "name": "New Functions",
         "description": "How can we teach Karel new functions",
         "key": "",
         "environment":"karel_js"
     },
-    "10": {
+    "9": {
         "name": "Why Do We Need New Functions?",
         "description": "Why do we create and how do we use new functions?",
         "key": ""
     },
-    "11": {
+    "10": {
         "name": "Whitespace and Indentation",
         "description": "What's the use of whitespace(enters, spaces, tabs...) in a program",
         "key": ""
     },
-    "12": {
+    "11": {
         "name": "`for` Loop in Karel",
         "description": "Repeat the list of commands N times",
         "key": "",
         "environment":"karel_js"
     },
-    "13": {
+    "12": {
         "name": "Conditions in Karel",
         "description": "Karel can test some conditions in its world",
         "key": ""
     },
-    "14": {
+    "13": {
         "name": "`while` Loop in Karel",
         "description": "Repeat the list of commands until some condition is true",
         "key": "",
         "environment":"karel_js"
     },
-    "15": {
+    "14": {
         "name": "Incorrect `while` Loop in Karel",
         "description": "`while` loop executes either all of the commands listed in the body or none",
         "key": "",
         "environment":"karel_js"
     },
-    "16": {
+    "15": {
         "name": "`if` Statement in Karel",
         "description": "Execute only if condition is true",
         "key": "",
         "environment":"karel_js"
     },
-    "17": {
+    "16": {
         "name": "`if-else` Statement in Karel",
         "description": "If condition is true execute this, else execute that",
         "key": "",
         "environment":"karel_js"
     },
-    "18": {
+    "17": {
         "name": "Without `else` Statement",
         "description": "Theoretically you can write any code without using else",
         "key": "",
         "environment":"karel_js"
     },
-    "19": {
+    "18": {
         "name": "Nested Statements",
         "description": "We can nest `for`, `while` and `if` operators anyway we want",
         "key": "",
         "environment":"karel_js"
     },
-    "20": {
+    "19": {
         "name": "SteepleChaseKarel Problem",
         "description": "In the world of length 9, there are hurdles in some of the streets. Karel should jump over them all",
         "key": "",
         "environment":"karel_js"
     },
-    "21": {
+    "20": {
         "name": "Common Errors - OBOB",
         "description": "Off by one bug",
         "key": "",
         "environment":"karel_js"
     },
-    "22": {
+    "21": {
         "name": "Common Errors - Infinite Loop",
         "description": "Sometimes loop might continue infinitely",
         "key": "",
         "environment":"karel_js"
     },
-    "23": {
+    "22": {
         "name": "Comments in Karel",
         "description": "What is a comment in code, what type of comments do we have",
         "key": "",
         "environment":"karel_js"
     },
-    "24": {
+    "23": {
         "name": "Thinking Processes - Bottom Up Design",
         "description": "What is the thinking process, what is the bottom up approach",
         "key": ""
     },
-    "25": {
+    "24": {
         "name": "Thinking Processes - Top Down Design",
         "description": "What is the Top Down Design thinking process, aka stepwise refinement, aka decomposition",
         "key": ""
     },
-    "26": {
+    "25": {
         "name": "SteepleChaseKarel With Decomposition",
         "description": "How to solve SteepleChaseKarel problem with decomposition",
         "key": "",
         "environment":"karel_js"
     },
-    "27": {
+    "26": {
         "name": "DoubleBeepersKarel Problem",
         "description": "Double the pile of beepers in front of Karel",
         "key": "",
         "environment":"karel_js"
     },
-    "28": {
+    "27": {
         "name": "Do Your Thing Karel Program",
         "description": "Example of the program that does the job, but is very bad",
         "key": "",
         "environment":"karel_js"
     },
-    "29":{
+    "28":{
         "name": "Good Programming Style for Karel",
         "description": "Good naming. camelCase",
         "key": ""
     },
-    "30":{
+    "29":{
         "name": "Good Decomposition",
         "description": "How to write good code, tips of good decomposition",
         "key": ""
     },
-    "31":{
+    "30":{
         "name": "CleanUpKarel Problem",
         "description": "Lot's of beepers in the world, write the program to clean them up",
         "key": "",
