@@ -20,17 +20,12 @@
         "key": ""
     },
     "4": {
-        "name": "First Karel Program Algorithm",
-        "description": "Simple algorithm to move Karel around",
-        "key": "",
-        "environment":"karel_js"
-    },
-    "5": {
         "name": "First Karel Program",
-        "description": "How to create and run Karel program from a simple algorithm",
+        "description": "How to create and run program to move Karel around",
         "key": "",
         "environment":"karel_js"
     },
+
     "6": {
         "name": "History of Bugs in Programs",
         "description": "What is a bug in a program",
