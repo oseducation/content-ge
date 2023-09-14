@@ -27,7 +27,7 @@ But, this is not a program yet. This is the instruction to solve the problem, bu
 
 So we get:
 
-```ja
+```js
 move();
 pickBeeper();
 turnLeft();
