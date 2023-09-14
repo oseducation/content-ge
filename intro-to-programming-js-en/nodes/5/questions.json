@@ -1,0 +1,19 @@
+[{
+    "name": "What is a bug?",
+    "question": "What is bug in a program?",
+    "question_type": "single_select_multiple_choice",
+    "choices": [{
+        "choice": "An error in the program",
+        "is_right_choice": true
+    }, {
+        "choice": "A new programming language",
+        "is_right_choice": false
+    }, {
+        "choice": "A moth",
+        "is_right_choice": false
+    }, {
+        "choice": "A mechanism to get rid of all errors",
+        "is_right_choice":  false
+    }]
+}]
+
