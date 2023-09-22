@@ -93,6 +93,42 @@
     },
     "e29": {
         "name": "Fibonacci"
+    },
+    "e30": {
+        "name": "ReverseInt"
+    },
+    "e31": {
+        "name": "Prime"
+    },
+    "e32": {
+        "name": "AllPrimes"
+    }, 
+    "e33": {
+        "name": "RandomCircle"
+    }, 
+    "e34": {
+        "name": "RandomCircles"
+    }, 
+    "e35": {
+        "name": "TossesForHead"
+    }, 
+    "e36": {
+        "name": "TossesFor3Heads"
+    }, 
+    "e37": {
+        "name": "RouletteSim"
+    }, 
+    "e38": {
+        "name": "LoseEverything"
+    }, 
+    "e39": {
+        "name": "MovingBall"
+    }, 
+    "e40": {
+        "name": "InfinitlyMovingBall"
+    }, 
+    "e41": {
+        "name": "Pencil"
     }
 
 }
