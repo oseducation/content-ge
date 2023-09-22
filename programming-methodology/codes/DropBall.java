@@ -10,7 +10,7 @@ import java.awt.event.MouseEvent;
 import acm.graphics.GOval;
 import acm.program.*;
 
-public class GraphicsProgramSample extends GraphicsProgram {
+public class DropBall extends GraphicsProgram {
     /** Variables */
     private static final int BALL_RADIUS = 25;
     private GOval ball;
