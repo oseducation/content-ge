@@ -90,6 +90,9 @@
     }, 
     "e28": {
         "name": "CountEvenNumbers"
+    },
+    "e29": {
+        "name": "Fibonacci"
     }
 
 }
