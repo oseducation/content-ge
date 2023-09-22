@@ -2,204 +2,267 @@
     "0": {
         "name": "Vitsi AI",
         "description": "What is Vitsi AI and how to us it",
-        "key": "",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "1": {
         "name": "Karel The Robot",
         "description": "What is Karel The Robot? Who created it and why? Where does Karel live? What's the Karel's world like",
-        "key": "",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":["Karel The Robot.md"],
+        "videos":[],
+        "questions":["questions.json"]
     },
     "2": {
         "name": "Karel Commands",
         "description": "What commands can Karel carry-out",
-        "key": "",        
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":["Karel's Commands.md"],
+        "videos":[],
+        "questions":["questions.json"]
     },
     "3": {
         "name": "Algorithm",
         "description": "What is an algorithm",
-        "key": "",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":["Algorithm.md"],
+        "videos":[],
+        "questions":["questions.json"]
     },
     "4": {
         "name": "First Karel Program",
         "description": "How to create and run program to move Karel around",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":["First Karel Program.md"],
+        "videos":[],
+        "questions":["questions.json"]
     },
     "5": {
         "name": "History of Bugs in Programs",
         "description": "What is a bug in a program, what was a first bug?",
-        "key": "",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":["History of Bugs in Programs.md"],
+        "videos":[],
+        "questions":["questions.json"]
     },
     "6": {
-        "name": "Bug in a First Karel Program",
+        "name": "Bug in the First Karel Program",
         "description": "You should run Program for the correct world",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":["Bug in the First Karel Program"],
+        "videos":[],
+        "questions":[]
     },
     "7": {
         "name": "New Functions",
         "description": "How can we teach Karel new functions",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":["New Functions.md"],
+        "videos":[],
+        "questions":[]
     },
     "8": {
         "name": "Why Do We Need New Functions?",
         "description": "Why do we create and how do we use new functions?",
-        "key": "",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "9": {
         "name": "Whitespace and Indentation",
         "description": "What's the use of whitespace(enters, spaces, tabs...) in a program",
-        "key": "",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "10": {
         "name": "`for` Loop in Karel",
         "description": "Repeat the list of commands N times",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "11": {
         "name": "Conditions in Karel",
         "description": "Karel can test some conditions in its world",
-        "key": "",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "12": {
         "name": "`while` Loop in Karel",
         "description": "Repeat the list of commands until some condition is true",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "13": {
         "name": "Incorrect `while` Loop in Karel",
         "description": "`while` loop executes either all of the commands listed in the body or none",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "14": {
         "name": "`if` Statement in Karel",
         "description": "Execute only if condition is true",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "15": {
         "name": "`if-else` Statement in Karel",
         "description": "If condition is true execute this, else execute that",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "16": {
         "name": "Without `else` Statement",
         "description": "Theoretically you can write any code without using else",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "17": {
         "name": "Nested Statements",
         "description": "We can nest `for`, `while` and `if` operators anyway we want",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "18": {
         "name": "SteepleChaseKarel Problem",
         "description": "In the world of length 9, there are hurdles in some of the streets. Karel should jump over them all",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "19": {
         "name": "Common Errors - OBOB",
         "description": "Off by one bug",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "20": {
         "name": "Common Errors - Infinite Loop",
         "description": "Sometimes loop might continue infinitely",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "21": {
         "name": "Comments in Karel",
         "description": "What is a comment in code, what type of comments do we have",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "22": {
         "name": "Thinking Processes - Bottom Up Design",
         "description": "What is the thinking process, what is the bottom up approach",
-        "key": "",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "23": {
         "name": "Thinking Processes - Top Down Design",
         "description": "What is the Top Down Design thinking process, aka stepwise refinement, aka decomposition",
-        "key": "",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "24": {
         "name": "SteepleChaseKarel With Decomposition",
         "description": "How to solve SteepleChaseKarel problem with decomposition",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "25": {
         "name": "DoubleBeepersKarel Problem",
         "description": "Double the pile of beepers in front of Karel",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "26": {
         "name": "Do Your Thing Karel Program",
         "description": "Example of the program that does the job, but is very bad",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "27":{
         "name": "Good Programming Style for Karel",
         "description": "Good naming. camelCase",
-        "key": "",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "28":{
         "name": "Good Decomposition",
         "description": "How to write good code, tips of good decomposition",
-        "key": "",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "29":{
         "name": "CleanUpKarel Problem",
         "description": "Lot's of beepers in the world, write the program to clean them up",
-        "key": "",
         "environment":"karel_js",
-        "node_type": "lecture"
+        "node_type": "lecture",
+        "texts":[],
+        "videos":[],
+        "questions":[]
     },
     "e1": {
         "name": "MoveKarel",
         "environment":"karel_js",
-        "node_type": "example"
+        "node_type": "example",
+        "texts":["MoveKarel Problem", "MoveKarel Solution"],
+        "videos":[],
+        "questions":[]
     }
 }

@@ -1,4 +1,4 @@
-# Bug in a First Karel Program
+# Bug in the First Karel Program
 
 Let's revisit our First Karel Program. 
 
