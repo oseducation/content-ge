@@ -53,7 +53,7 @@
         "description": "You should run Program for the correct world",
         "environment":"karel_js",
         "node_type": "lecture",
-        "texts":["Bug in the First Karel Program"],
+        "texts":["Bug in the First Karel Program.md"],
         "videos":[],
         "questions":[]
     },
