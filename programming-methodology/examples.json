@@ -129,6 +129,15 @@
     }, 
     "e41": {
         "name": "Pencil"
+    },
+    "e42": {
+        "name": "PaintLine"
+    },
+    "e43": {
+        "name": "DragCircle"
+    },
+    "e44": {
+        "name": "DropBall"
     }
 
 }
