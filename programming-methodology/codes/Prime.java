@@ -25,7 +25,7 @@ public class Prime extends ConsoleProgram {
                 return false;
             }
         }
-        // we return true if "if" statemant was not satisfied at least once.
+        // we return true if "if" statement was not satisfied at least once.
         return true;
     }
 }

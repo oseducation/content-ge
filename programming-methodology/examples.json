@@ -120,24 +120,5 @@
     }, 
     "e38": {
         "name": "LoseEverything"
-    }, 
-    "e39": {
-        "name": "MovingBall"
-    }, 
-    "e40": {
-        "name": "InfinitelyMovingBall"
-    }, 
-    "e41": {
-        "name": "Pencil"
-    },
-    "e42": {
-        "name": "PaintLine"
-    },
-    "e43": {
-        "name": "DragCircle"
-    },
-    "e44": {
-        "name": "DropBall"
     }
-
 }
