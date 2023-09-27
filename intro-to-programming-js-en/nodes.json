@@ -20,7 +20,7 @@
         "description": "What commands can Karel carry-out",
         "node_type": "lecture",
         "texts":["Karel's Commands.md"],
-        "videos":[],
+        "videos":["9dCiUTtiBbs"],
         "questions":["questions.json"]
     },
     "3": {
