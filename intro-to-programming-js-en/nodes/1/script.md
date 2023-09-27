@@ -8,5 +8,7 @@ Karel lives in a grid world, where streets run horizontally - this way, avenues 
 
 And then, there are beepers. Karel's little treasures. Collecting them is part of the fun.
 
-The world can have different size, with beepers and walls in different places, Karel in different corner, facing east, west, north or south. But that's it.
+The world can have different size, with beepers and walls in different places, Karel in different corner, facing east, west, north or south. But that's it. 
+
+This is Karel and Karel's world
 

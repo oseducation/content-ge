@@ -12,7 +12,7 @@
         "description": "What is Karel The Robot? Who created it and why? Where does Karel live? What's the Karel's world like",
         "node_type": "lecture",
         "texts":["Karel The Robot.md"],
-        "videos":[],
+        "videos":["rvYIy-gEhKU"],
         "questions":["questions.json"]
     },
     "2": {
