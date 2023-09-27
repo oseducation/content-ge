@@ -28,7 +28,7 @@
         "description": "What is an algorithm",
         "node_type": "lecture",
         "texts":["Algorithm.md"],
-        "videos":[],
+        "videos":["sFKvotjiYDQ"],
         "questions":["questions.json"]
     },
     "4": {
