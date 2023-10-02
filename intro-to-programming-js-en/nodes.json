@@ -45,7 +45,7 @@
         "description": "What is a bug in a program, what was a first bug?",
         "node_type": "lecture",
         "texts":["History of Bugs in Programs.md"],
-        "videos":[],
+        "videos":["zm0vYoJ9R0o"],
         "questions":["questions.json"]
     },
     "6": {
