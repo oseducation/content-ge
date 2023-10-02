@@ -16,7 +16,7 @@
         "is_right_choice": false
     }]
 }, {
-    "name": "ალგორითმი ბრილიანტებით",
+    "name": "Algorithm with beepers",
     "question": "Imagine that Karel is in the 5x5 empty world, on the (1,1) corner, facing east. And we ordered following commands\n```java\nmove\nmove\nmove\nturnLeft\nmove\nmove\nturnLeft\nputBeeper\nmove\nmove\n```\n. On what corner will Karel and beeper it end up?",
     "question_type": "single_select_multiple_choice",
     "choices": [{

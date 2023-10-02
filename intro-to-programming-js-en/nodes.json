@@ -37,7 +37,7 @@
         "environment":"karel_js",
         "node_type": "lecture",
         "texts":["First Karel Program.md"],
-        "videos":[],
+        "videos":["83YpGMqPLyU"],
         "questions":["questions.json"]
     },
     "5": {
@@ -261,7 +261,7 @@
         "name": "MoveKarel",
         "environment":"karel_js",
         "node_type": "example",
-        "texts":["MoveKarel Problem", "MoveKarel Solution"],
+        "texts":["MoveKarel Problem.md", "MoveKarel Solution.md"],
         "videos":[],
         "questions":[]
     }
