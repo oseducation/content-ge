@@ -5,6 +5,7 @@ from isodate import parse_duration
 from youtube_transcript_api import YouTubeTranscriptApi
 
 
+api_key = ''
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 def get_channel_id(username):
