@@ -70,7 +70,7 @@
         "name": "Why Do We Need New Functions",
         "description": "Why do we create and how do we use new functions?",
         "node_type": "lecture",
-        "texts":[],
+        "texts":["Why Do We Need New Functions.md"],
         "videos":[],
         "questions":[]
     },
@@ -78,7 +78,7 @@
         "name": "Whitespace and Indentation",
         "description": "What's the use of whitespace(enters, spaces, tabs...) in a program",
         "node_type": "lecture",
-        "texts":[],
+        "texts":["Whitespace and Indentation.md"],
         "videos":[],
         "questions":[]
     },
