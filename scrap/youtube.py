@@ -105,9 +105,107 @@ def populate_with_transcript(videos):
 def populate_with_chapters(videos):
     for video in videos:
         if video["duration"] < 300:
-            video["chapters"] = []
+            video["chapters"] = [{
+                "start": 0,
+                "name": video["title"]
+            }]
         else:
             video["chapters"] = extract_chapters(video["description"])
+
+def filterVideosOld(videos):
+    newVideos = []
+    for video in videos:
+        if len(video["chapters"]) > 0:
+            newVideos.append(video)
+        elif video["duration"] < 300:
+            video["chapters"] = [{
+                "start": 0,
+                "name": video["title"]
+            }]
+            newVideos.append(video)
+    return newVideos
+
+def filterVideosOld(videos):
+    newVideos = []
+    for video in videos:
+        if len(video["chapters"]) > 0:
+            newVideos.append(video)
+        elif video["duration"] < 300:
+            video["chapters"] = [{
+                "start": 0,
+                "name": video["title"]
+            }]
+            newVideos.append(video)
+    return newVideos
+
+def getChapterText(video, start, finish):
+    transcript = video["transcript"]
+    text = ''
+    for snippet in transcript:
+        if float(snippet["start"]) >= start and float(snippet["start"]) + float(snippet["duration"]) <= finish:
+            text += snippet["text"] + ' '
+    return text
+
+def time_to_seconds(time_string):
+    if type(time_string) is int:
+        return time_string
+    # Split the time string into hours, minutes, and (optionally) seconds
+    time_segments = list(map(int, time_string.split(':')))
+    # Calculate total seconds based on the number of segments
+    if len(time_segments) == 2:  # HH:MM format
+        minutes, seconds = time_segments
+        hours = 0
+    elif len(time_segments) == 3:  # HH:MM:SS format
+        hours, minutes, seconds = time_segments
+    else:
+        raise ValueError("Invalid time format. Please use 'HH:MM' or 'HH:MM:SS'.")
+    # Convert hours and minutes to seconds and add to the seconds value
+    total_seconds = hours * 3600 + minutes * 60 + seconds
+    return total_seconds
+
+
+def getChapters(videos):
+    chapters = []
+    for video in videos:
+        videoChapters = video["chapters"]
+        for i in range(len(videoChapters)-1):
+            text = getChapterText(video, time_to_seconds(videoChapters[i]["start"]), time_to_seconds(videoChapters[i+1]["start"]))
+            chapters.append({
+                "start": time_to_seconds(videoChapters[i]["start"]),
+                "end": time_to_seconds(videoChapters[i+1]["start"]),
+                "video_id": video["id"],
+                "video_title": video["title"],
+                "video_description": video["description"],
+                "published_at": video["published_at"],
+                "text": text,
+                "name": videoChapters[i]["name"]
+            })
+        text = getChapterText(video, time_to_seconds(videoChapters[-1]["start"]), 1000000)
+        chapters.append({
+            "start": time_to_seconds(videoChapters[-1]["start"]),
+            "end": video["duration"],
+            "video_id": video["id"],
+            "video_title": video["title"],
+            "video_description": video["description"],
+            "published_at": video["published_at"],
+            "text": text,
+            "name": videoChapters[-1]["name"]
+        })
+    return chapters
+
+def populateVideosWithText(videos):
+    newVideos = []
+    for video in videos:
+        text = getChapterText(video, 0, 10000000)
+        newVideos.append({
+            "video_id": video["id"],
+            "video_title": video["title"],
+            "video_description": video["description"],
+            "published_at": video["published_at"],
+            "text": text,
+        })
+    return newVideos
+
 
 
 videos = get_all_videos(channel_id)
@@ -116,3 +214,18 @@ populate_with_transcript(videos)
 populate_with_chapters(videos)
 save_to_json(videos, 'videos5.json')
 
+for video in videos:
+    chapters = video["chapters"]
+    if len(chapters) == 0:
+        print(video)
+    if type(chapters) is not list:
+        video["chapters"] = [video["chapters"]]
+
+
+with open('filename.json', 'w', encoding='utf-8') as f:
+    json.dump(nx, f, ensure_ascii=False, indent=4)
+
+ny = []
+for video in nx:
+    if video["video_id"] in videoIDs:
+        ny.append(video)
