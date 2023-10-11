@@ -87,7 +87,7 @@
         "description": "Repeat the list of commands N times",
         "environment":"karel_js",
         "node_type": "lecture",
-        "texts":[],
+        "texts":["`for` Loop in Karel"],
         "videos":[],
         "questions":[]
     },
