@@ -95,7 +95,7 @@
         "name": "Conditions in Karel",
         "description": "Karel can test some conditions in its world",
         "node_type": "lecture",
-        "texts":[],
+        "texts":["Conditions in Karel.md"],
         "videos":[],
         "questions":[]
     },

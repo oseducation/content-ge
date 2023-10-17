@@ -6,7 +6,7 @@ Karel is a robot. But not just any robot; Karel is your guide to understanding t
 
 
 ## Origin Story
-Karel was brought to life by Richard Pattis in the 1970s at Stanford University. But why? Well, Pattis believed in learning programming through problem-solving and logic, rather than memorizing tricky syntax. And thus, Karel was designed to be a fun, interactive way to introduce beginners to the world of coding.
+Karel was brought to life by Richard Pattis in the 1970s at Stanford University. But why? Well, Pattis believed in learning programming through problem-solving and logic, rather than memorizing tricky syntax. Thus, Karel was designed to be a fun, interactive way to introduce beginners to the world of coding.
 
 
 ## Why Karel?
