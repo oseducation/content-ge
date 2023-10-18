@@ -87,7 +87,7 @@
         "description": "Repeat the list of commands N times",
         "environment":"karel_js",
         "node_type": "lecture",
-        "texts":["`for` Loop in Karel"],
+        "texts":["for Loop in Karel"],
         "videos":[],
         "questions":[]
     },
@@ -104,7 +104,7 @@
         "description": "Repeat the list of commands until some condition is true",
         "environment":"karel_js",
         "node_type": "lecture",
-        "texts":["`while` Loop in Karel.md"],
+        "texts":["while Loop in Karel.md"],
         "videos":[],
         "questions":[]
     },
@@ -113,7 +113,7 @@
         "description": "`while` loop executes either all of the commands listed in the body or none",
         "environment":"karel_js",
         "node_type": "lecture",
-        "texts":["Incorrect `while` Loop in Karel.md"],
+        "texts":["Incorrect while Loop in Karel.md"],
         "videos":[],
         "questions":[]
     },
