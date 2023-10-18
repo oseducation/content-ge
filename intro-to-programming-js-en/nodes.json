@@ -59,11 +59,11 @@
     },
     "7": {
         "name": "New Functions",
-        "description": "How can we teach Karel new functions",
+        "description": "How can you teach Karel new functions",
         "environment":"karel_js",
         "node_type": "lecture",
         "texts":["New Functions.md"],
-        "videos":[],
+        "videos":["eXw9wQ5Fbj8"],
         "questions":[]
     },
     "8": {
