@@ -104,7 +104,7 @@
         "description": "Repeat the list of commands until some condition is true",
         "environment":"karel_js",
         "node_type": "lecture",
-        "texts":[],
+        "texts":["`while` Loop in Karel.md"],
         "videos":[],
         "questions":[]
     },
