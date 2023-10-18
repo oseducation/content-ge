@@ -113,7 +113,7 @@
         "description": "`while` loop executes either all of the commands listed in the body or none",
         "environment":"karel_js",
         "node_type": "lecture",
-        "texts":[],
+        "texts":["Incorrect `while` Loop in Karel.md"],
         "videos":[],
         "questions":[]
     },
