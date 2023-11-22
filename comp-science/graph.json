@@ -1,133 +1,166 @@
 {
-    "0": {
-        "name": "Overview Of Mathematics",
-        "description": "Overview of mathematics",
-        "node_type": "parent",
-    }, 
     "1": {
-        "name": "Karel The Robot",
-        "description": "Introduction to programming with Karel the robot",
-        "node_type": "parent",
-    }, 
+        "name": "What is Proof?",
+        "description": "Formal proof in Mathematics",
+        "node_type": "parent"
+    },
     "2": {
-        "name": "Variables in JS",
-        "description": "What are the variables? What type of variables are there in JS?",
-        "node_type": "parent",
-    }, 
+        "name": "Induction",
+        "description": "What is induction?",
+        "node_type": "parent"
+    },
     "3": {
-        "name": "Control Flow in JS",
-        "description": "for, while, if in JS, nested loops",
-        "node_type": "parent",
-    }, 
+        "name": "First Order Logic",
+        "description": "First Order Logic",
+        "node_type": "parent"
+    },
     "4": {
-        "name": "Functions in JS",
-        "description": "What is a function? How does function work? How to create a function in JS?",
-        "node_type": "parent",
-    }, 
+        "name": "Mathematical Data Types",
+        "description": "Sets, relations, functions",
+        "node_type": "parent"
+    },
     "5": {
-        "name": "Canvas in JS",
-        "description": "How to print on canvas in JS?",
-        "node_type": "parent",
-    }, 
+        "name": "State Machines",
+        "description": "Invariants, Potentials, Stable Marriage Problem",
+        "node_type": "parent"
+    },
     "6": {
-        "name": "Defining Variable Types in JS",
-        "description": "Objects and Classes in JS",
-        "node_type": "parent",
+        "name": "Graphs in Mathematics",
+        "description": "Simple graphs, trees, coloring, planarity",
+        "node_type": "parent"
     },
     "7": {
-        "name": "Animation in JS",
-        "description": "How to create an animation in JS?",
-        "node_type": "parent",
+        "name": "Number Theory",
+        "description": "GCD, Modular arithmetic, Euler's theorem, RSA",
+        "node_type": "parent"
     },
+
     "8": {
-        "name": "Events and Event listeners in JS",
-        "description": "How to create an animation in JS?",
-        "node_type": "parent",
-    },
+        "name": "Karel The Robot",
+        "description": "Introduction to programming with Karel the robot",
+        "node_type": "parent"
+    }, 
     "9": {
-        "name": "Breakout in JS",
-        "description": "How to implement a game of breakout in JS?",
-        "node_type": "parent",
-    },
+        "name": "Variables in JS",
+        "description": "What are the variables? What type of variables are there in JS?",
+        "node_type": "parent"
+    }, 
     "10": {
-        "name": "String in JS",
-        "description": "How to represent texts in JS?",
-        "node_type": "parent",
-    },
+        "name": "Control Flow in JS",
+        "description": "for, while, if in JS, nested loops",
+        "node_type": "parent"
+    }, 
     "11": {
-        "name": "Memory structure in JS",
-        "description": "What is a Stack? What is a Heap? How does memory work in JS?",
-        "node_type": "parent",
-    },    
+        "name": "Functions in JS",
+        "description": "What is a function? How does function work? How to create a function in JS?",
+        "node_type": "parent"
+    }, 
     "12": {
-        "name": "HangMan in JS",
-        "description": "How to implement Game of Hangman in JS?",
-        "node_type": "parent",
-    },
+        "name": "Canvas in JS",
+        "description": "How to print on canvas in JS?",
+        "node_type": "parent"
+    }, 
     "13": {
-        "name": "Arrays and Lists in JS",
-        "description": "What is an array? How to create many variables at once in JS?",
-        "node_type": "parent",
+        "name": "Defining Variable Types in JS",
+        "description": "Objects and Classes in JS",
+        "node_type": "parent"
     },
     "14": {
-        "name": "Maps in JS",
-        "description": "What is a map? What is a hashmap?",
-        "node_type": "parent",
+        "name": "Animation in JS",
+        "description": "How to create an animation in JS?",
+        "node_type": "parent"
     },
-    
     "15": {
-        "name": "Golang as a Second Language",
-        "description": "Golang syntax and semantics",
-        "node_type": "parent",
+        "name": "Events and Event listeners in JS",
+        "description": "How to create an animation in JS?",
+        "node_type": "parent"
     },
     "16": {
-        "name": "Recursion in Golang",
-        "description": "What is a recursive function? Backtracking?",
-        "node_type": "parent",
+        "name": "Breakout in JS",
+        "description": "How to implement a game of breakout in JS?",
+        "node_type": "parent"
     },
     "17": {
-        "name": "Algorithms, Big O Notation",
-        "description": "What is a big O notation? Different type of algorithms",
-        "node_type": "parent",
+        "name": "String in JS",
+        "description": "How to represent texts in JS?",
+        "node_type": "parent"
     },
     "18": {
-        "name": "Sorting Algorithms in Golang", 
-        "description": "What is a recursive function? Backtracking?",
-        "node_type": "parent",
-    },
+        "name": "Memory structure in JS",
+        "description": "What is a Stack? What is a Heap? How does memory work in JS?",
+        "node_type": "parent"
+    },    
     "19": {
-        "name": "Linked List in Golang",
-        "description": "What is Lined List?",
-        "node_type": "parent",
+        "name": "HangMan in JS",
+        "description": "How to implement Game of Hangman in JS?",
+        "node_type": "parent"
     },
     "20": {
-        "name": "List Implementation in Golang",
-        "description": "List implementation in Golang, How slices are implemented",
-        "node_type": "parent",
+        "name": "Arrays and Lists in JS",
+        "description": "What is an array? How to create many variables at once in JS?",
+        "node_type": "parent"
     },
     "21": {
-        "name": "Stack Implementation in Golang",
-        "description": "Stack implementation in Golang",
-        "node_type": "parent",
-    },
-    "22": {
-        "name": "Queue Implementation in Golang",
+        "name": "Maps in JS",
         "description": "What is a map? What is a hashmap?",
-        "node_type": "parent",
+        "node_type": "parent"
+    },
+    
+    "22": {
+        "name": "Golang as a Second Language",
+        "description": "Golang syntax and semantics",
+        "node_type": "parent"
     },
     "23": {
-        "name": "Map Implementation in Golang",
-        "description": "Hashing. How to implement a hashmap?",
-        "node_type": "parent",
+        "name": "Recursion in Golang",
+        "description": "What is a recursive function? Backtracking?",
+        "node_type": "parent"
     },
     "24": {
-        "name": "Trees in Golang",
-        "description": "Trees, BST in Golang",
-        "node_type": "parent",
+        "name": "Algorithms, Big O Notation",
+        "description": "What is a big O notation? Different type of algorithms",
+        "node_type": "parent"
     },
     "25": {
+        "name": "Sorting Algorithms in Golang", 
+        "description": "What is a recursive function? Backtracking?",
+        "node_type": "parent"
+    },
+    "26": {
+        "name": "Linked List in Golang",
+        "description": "What is Lined List?",
+        "node_type": "parent"
+    },
+    "27": {
+        "name": "List Implementation in Golang",
+        "description": "List implementation in Golang, How slices are implemented",
+        "node_type": "parent"
+    },
+    "28": {
+        "name": "Stack Implementation in Golang",
+        "description": "Stack implementation in Golang",
+        "node_type": "parent"
+    },
+    "29": {
+        "name": "Queue Implementation in Golang",
+        "description": "What is a map? What is a hashmap?",
+        "node_type": "parent"
+    },
+    "30": {
+        "name": "Map Implementation in Golang",
+        "description": "Hashing. How to implement a hashmap?",
+        "node_type": "parent"
+    },
+    "31": {
+        "name": "Trees in Golang",
+        "description": "Trees, BST in Golang",
+        "node_type": "parent"
+    },
+    "32": {
         "name": "Graphs in Golang",
         "description": "What is a graph? DAGs, BFS, DFS, Dijkstra's algorithm",
-        "node_type": "parent",
-    },
+        "node_type": "parent"
+    }
+
+
 }
