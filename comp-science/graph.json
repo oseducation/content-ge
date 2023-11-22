@@ -35,6 +35,7 @@
         "node_type": "parent"
     },
 
+
     "8": {
         "name": "Karel The Robot",
         "description": "Introduction to programming with Karel the robot",
@@ -106,6 +107,7 @@
         "node_type": "parent"
     },
     
+
     "22": {
         "name": "Golang as a Second Language",
         "description": "Golang syntax and semantics",
@@ -160,7 +162,61 @@
         "name": "Graphs in Golang",
         "description": "What is a graph? DAGs, BFS, DFS, Dijkstra's algorithm",
         "node_type": "parent"
+    },
+
+    "33": {
+        "name": "C as a Second Language",
+        "description": "What is C how to program in C?",
+        "node_type": "parent"
+    },
+    "34": {
+        "name": "Pointer Arithmetics in C",
+        "description": "What is a pointer? How to use pointers in C?",
+        "node_type": "parent"
+    },
+    "35": {
+        "name": "Generic Functions in C",
+        "description": "How to implement generic functions in C? swap, lsearch, sort",
+        "node_type": "parent"
+    },
+    "36": {
+        "name": "Generic Stack in C",
+        "description": "How to implement generic stack in C",
+        "node_type": "parent"
+    },
+    "37": {
+        "name": "C Memory Management in Details",
+        "description": "Heap, Stack, Memory Management in C",
+        "node_type": "parent"
+    },
+    "38": {
+        "name": "Assembly Language",
+        "description": "What is a assembly",
+        "node_type": "parent"
+    },
+    "39": {
+        "name": "Compilation Process of C",
+        "description": "How does C code get compiled?",
+        "node_type": "parent"
+    },
+    "40": {
+        "name": "Multithreading in C",
+        "description": "POSIX threads, mutex, semaphores",
+        "node_type": "parent"
+    },
+    "41": {
+        "name": "Typescript as a Second Language",
+        "description": "What is Typescript? How to program in Typescript?",
+        "node_type": "parent"
+    },
+    "42": {
+        "name": "Pure Functions and Side Effects In Typescript",
+        "description": "What is a side effect? What is a pure function?",
+        "node_type": "parent"
+    },
+    "43": {
+        "name": "Higher Order Functions in Typescript",
+        "description": "What is a higher order function?",
+        "node_type": "parent"
     }
-
-
 }
