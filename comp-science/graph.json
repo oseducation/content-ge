@@ -411,5 +411,57 @@
         "name": "Infinite Series",
         "description": "L'Hospital's rule, Improper integrals, infinite series, taylor series",
         "node_type": "parent"
+    },
+
+
+    "80": {
+        "name": "Vectors and Vector Spaces",
+        "description": "Introduction to vectors, vector operations (addition, scalar multiplication), and the concept of vector spaces.",
+        "node_type": "parent"
+    },
+    "81": {
+        "name": "Linear Transformations and Matrices",
+        "description": "Linear transformations, representation of these transformations using matrices, and matrix operations",
+        "node_type": "parent"
+    },
+    "82": {
+        "name": "Systems of Linear Equations",
+        "description": "Solving linear equations using matrix operations, Gaussian elimination.",
+        "node_type": "parent"
+    },
+    "83": {
+        "name": "Determinants",
+        "description": "Introduction to the determinant of a matrix, properties of determinants, and their role in solving systems of linear equations",
+        "node_type": "parent"
+    },
+    "84": {
+        "name": "Eigenvalues and Eigenvectors",
+        "description": "Eigenvalues and eigenvectors of a matrix, including their computation and significance in various applications",
+        "node_type": "parent"
+    },
+    "85": {
+        "name": "Vector Spaces and Subspaces",
+        "description": "Vector spaces and subspaces, including basis, dimension, and linear independence",
+        "node_type": "parent"
+    },
+    "86": {
+        "name": "Orthogonality and Least Squares",
+        "description": "Inner Product Spaces. Orthogonal vectors and sets, orthogonal projections, Gram-Schmidt process, and least squares problems",
+        "node_type": "parent"
+    },
+    "87": {
+        "name": "Diagonalization and Spectral Theory",
+        "description": "Diagonalization of matrices, spectral decomposition, and applications in simplifying linear transformations",
+        "node_type": "parent"
+    },
+    "88": {
+        "name": "Singular Value Decomposition (SVD)",
+        "description": "Singular value decomposition and its applications in data compression and signal processing",
+        "node_type": "parent"
+    },
+    "89": {
+        "name": "Numerical Methods in Linear Algebra",
+        "description": "Numerical techniques for solving linear algebra problems, including iterative methods for large systems",
+        "node_type": "parent"
     }
 }
