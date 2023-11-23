@@ -557,5 +557,58 @@
         "name": "Linear regression",
         "description": "Bootstrapping; linear regression",
         "node_type": "parent"
+    },
+
+
+    "108": {
+        "name": "Python as a Second Language",
+        "description": "What is Python? How to program in Python?",
+        "node_type": "parent"
+    },
+    "109": {
+        "name": "Search, A*",
+        "description": "Uninformed Search, A* Search, Heuristics",
+        "node_type": "parent"
+    },
+    "110": {
+        "name": "Constraint Satisfaction Problems",
+        "description": "Constraint Satisfaction Problems",
+        "node_type": "parent"
+    },
+    "111": {
+        "name": "Game Trees",
+        "description": "Game Trees, Minimax, Expectimax, Utilities",
+        "node_type": "parent"
+    },
+    "112": {
+        "name": "Markov Decision Processes",
+        "description": "Markov Decision Processes",
+        "node_type": "parent"
+    },
+    "113": {
+        "name": "Intro to Reinforcement Learning",
+        "description": "Reinforcement Learning",
+        "node_type": "parent"
+    },
+    "114": {
+        "name": "Markov Models",
+        "description": "Markov Models, Hidden Markov Models, Applications",
+        "node_type": "parent"
+    },
+    "115": {
+        "name": "Bayes' Nets",
+        "description": "Bayes' Nets: Representation, Independence, Inference, Sampling",
+        "node_type": "parent"
+    },
+    "116": {
+        "name": "Decision Diagrams and Value of Perfect Information",
+        "description": "Decision Diagrams and Value of Perfect Information",
+        "node_type": "parent"
+    },
+    "117": {
+        "name": "Intro to Machine Learning",
+        "description": "Naive Bayes, Perceptrons, Kernels and Clustering",
+        "node_type": "parent"
     }
+
 }
