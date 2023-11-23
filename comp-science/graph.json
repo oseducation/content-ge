@@ -163,7 +163,7 @@
         "description": "What is a graph? DAGs, BFS, DFS, Dijkstra's algorithm",
         "node_type": "parent"
     },
-    
+
 
     "32a": {
         "name": "Into to Linux",
@@ -339,6 +339,77 @@
         "name": "Intro to Single Page Applications",
         "description": "What is a single page application?",
         "node_type": "parent"
-    }
+    },
 
+
+    "66": {
+        "name": "Limits and Continuity",
+        "description": "Intro to limits, continuity, limits of quotients?",
+        "node_type": "parent"
+    },
+    "67": {
+        "name": "Derivative",
+        "description": "What is derivative? Derivative as a function, Leibniz notation, Second derivatives and higher",
+        "node_type": "parent"
+    },
+    "68": {
+        "name": "Differentiation",
+        "description": "Linear approximation, product rule, quotient rule, chain rule, implicit differentiation, logarithmic differentiation",
+        "node_type": "parent"
+    },
+    "69": {
+        "name": "Approximations",
+        "description": "Linear approximation: measurement error, quadratic approximation, newton's method",
+        "node_type": "parent"
+    },
+    "70": {
+        "name": "Graphs and Critical Points",
+        "description": "Graphs and Critical Points, 1st and 2nd derivative tests, concavity, inflection points",
+        "node_type": "parent"
+    },
+    "71": {
+        "name": "The Integral",
+        "description": "Mean value theorem, differential and antiderivatives, differential equations",
+        "node_type": "parent"
+    },
+    "72": {
+        "name": "Integration Theory",
+        "description": "The definite integral, First fundamental theorem of calculus, Second fundamental theorem of calculus",
+        "node_type": "parent"
+    },
+    "73": {
+        "name": "Areas and Volumes",
+        "description": "Areas and volumes",
+        "node_type": "parent"
+    },
+    "74": {
+        "name": "Average Value",
+        "description": "Average value",
+        "node_type": "parent"
+    },
+    "75": {
+        "name": "Probability",
+        "description": "Probability",
+        "node_type": "parent"
+    },
+    "76": {
+        "name": "Numerical Integration",
+        "description": "Numerical integration",
+        "node_type": "parent"
+    },
+    "77": {
+        "name": "Techniques of Integration",
+        "description": "Integrals of trig powers, trig substitution, integration by parts, integration by partial fractions, trig substitution",
+        "node_type": "parent"
+    },
+    "78": {
+        "name": "Coordinate Systems",
+        "description": "Parametric Curves, polar coordinates",
+        "node_type": "parent"
+    },
+    "79": {
+        "name": "Infinite Series",
+        "description": "L'Hospital's rule, Improper integrals, infinite series, taylor series",
+        "node_type": "parent"
+    }
 }
