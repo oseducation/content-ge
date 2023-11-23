@@ -218,5 +218,47 @@
         "name": "Higher Order Functions in Typescript",
         "description": "What is a higher order function?",
         "node_type": "parent"
+    },
+
+    "44": {
+        "name": "Intro to DB Relational Model",
+        "description": "What is relational model? What is relational algebra?",
+        "node_type": "parent"
+    },
+    "45": {
+        "name": "Intro to Standard Query Language",
+        "description": "What is SQL?",
+        "node_type": "parent"
+    },
+    "46": {
+        "name": "Intro to DB Indexes",
+        "description": "Creating indexes for query performance",
+        "node_type": "parent"
+    },
+    "47": {
+        "name": "Intro to DB Transactions",
+        "description": "Using transactions for concurrency control and failure recovery",
+        "node_type": "parent"
+    },
+    "48": {
+        "name": "Intro to DB Constraints",
+        "description": "Database constraints: key, referential integrity, and check constraints",
+        "node_type": "parent"
+    },
+    "49": {
+        "name": "Intro to DB Triggers",
+        "description": "Database triggers",
+        "node_type": "parent"
+    },
+    "50": {
+        "name": "Intro to DB Views",
+        "description": "How views are created, used, and updated in relational databases",
+        "node_type": "parent"
+    },
+    "51": {
+        "name": "Intro to DB Normal Forms",
+        "description": "Dependency theory and normal forms in relational databases as the basis of schema design",
+        "node_type": "parent"
     }
+    
 }
