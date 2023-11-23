@@ -463,5 +463,42 @@
         "name": "Numerical Methods in Linear Algebra",
         "description": "Numerical techniques for solving linear algebra problems, including iterative methods for large systems",
         "node_type": "parent"
+    },
+
+
+    "90": {
+        "name": "Partial Derivatives",
+        "description": "Partial derivatives, the chain rule for functions of several variables, directional derivatives, and gradients",
+        "node_type": "parent"
+    },
+    "91": {
+        "name": "Multiple Integrals",
+        "description": "Evaluating double and triple integrals, and their applications. Includes techniques of integration over regions in 2D and 3D",
+        "node_type": "parent"
+    },
+    "92": {
+        "name": "Vector Functions",
+        "description": "Vector-valued functions, including their limits, derivatives, and integrals, and motion in space",
+        "node_type": "parent"
+    },
+    "93": {
+        "name": "Vector Calculus",
+        "description": "Line integrals, surface integrals, Green's theorem, Stokes' theorem, and the divergence theorem",
+        "node_type": "parent"
+    },
+    "94": {
+        "name": "Differential Equations of Multivariable Functions",
+        "description": "Differential equations involving multivariable functions and methods of solving them",
+        "node_type": "parent"
+    },
+    "95": {
+        "name": "Lagrange Multipliers",
+        "description": "A method for finding local maxima and minima of functions subject to constraints",
+        "node_type": "parent"
+    },
+    "96": {
+        "name": "Taylor and Fourier Series for Multivariable Functions",
+        "description": "Taylor and Fourier series to functions of multiple variables",
+        "node_type": "parent"
     }
 }
