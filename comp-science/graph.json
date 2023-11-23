@@ -163,7 +163,13 @@
         "description": "What is a graph? DAGs, BFS, DFS, Dijkstra's algorithm",
         "node_type": "parent"
     },
+    
 
+    "32a": {
+        "name": "Into to Linux",
+        "description": "What is Linux, terminal",
+        "node_type": "parent"
+    },
     "33": {
         "name": "C as a Second Language",
         "description": "What is C how to program in C?",
@@ -220,6 +226,7 @@
         "node_type": "parent"
     },
 
+
     "44": {
         "name": "Intro to DB Relational Model",
         "description": "What is relational model? What is relational algebra?",
@@ -259,6 +266,79 @@
         "name": "Intro to DB Normal Forms",
         "description": "Dependency theory and normal forms in relational databases as the basis of schema design",
         "node_type": "parent"
+    },
+
+
+
+    "52": {
+        "name": "Version Control Systems",
+        "description": "Git, SVN",
+        "node_type": "parent"
+    },
+    "53": {
+        "name": "Java as a Second Language",
+        "description": "What is Java?",
+        "node_type": "parent"
+    },
+    "54": {
+        "name": "Test Driven Development in Java",
+        "description": "What is a TDD?",
+        "node_type": "parent"
+    },
+    "55": {
+        "name": "Object Oriented Paradigm in Java",
+        "description": "What is OOP?",
+        "node_type": "parent"
+    },
+    "56": {
+        "name": "JDBC",
+        "description": "Java and DBs",
+        "node_type": "parent"
+    },
+    "57": {
+        "name": "Multithreading in Java",
+        "description": "Java synchronization, locks, semaphores, thread interruption",
+        "node_type": "parent"
+    },
+    "58": {
+        "name": "Intro to Socket Communication in Java",
+        "description": "TCP/IP, Socket Connection",
+        "node_type": "parent"
+    },
+    "59": {
+        "name": "Intro to HTTP Protocol",
+        "description": "What is web? what is HTTP?",
+        "node_type": "parent"
+    },
+    "60": {
+        "name": "Intro to WebServer",
+        "description": "What is a webserver?",
+        "node_type": "parent"
+    },
+    "61": {
+        "name": "Intro Web pages",
+        "description": "HTML, CSS, JS",
+        "node_type": "parent"
+    },
+    "62": {
+        "name": "Intro to Servlets in Java",
+        "description": "What is Servlet? What is JSP?",
+        "node_type": "parent"
+    },
+    "63": {
+        "name": "Intro to Spring Framework in Java",
+        "description": "What is a Spring Framework?",
+        "node_type": "parent"
+    },
+    "64": {
+        "name": "REST API in Java",
+        "description": "What is a rest api?",
+        "node_type": "parent"
+    },
+    "65": {
+        "name": "Intro to Single Page Applications",
+        "description": "What is a single page application?",
+        "node_type": "parent"
     }
-    
+
 }
