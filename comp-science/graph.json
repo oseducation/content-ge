@@ -500,5 +500,62 @@
         "name": "Taylor and Fourier Series for Multivariable Functions",
         "description": "Taylor and Fourier series to functions of multiple variables",
         "node_type": "parent"
+    },
+
+
+    "97": {
+        "name": "Probability basics",
+        "description": "Probability basics, Conditional probability, Bayes’ theorem",
+        "node_type": "parent"
+    },
+    "98": {
+        "name": "Random variables",
+        "description": "Discrete random variables, Continuous random variables, Probability distributions, Expectation, Variance",
+        "node_type": "parent"
+    },
+    "99": {
+        "name": "Law of large numbers and central limit theorem",
+        "description": "Law of large numbers, Central limit theorem",
+        "node_type": "parent"
+    },
+    "100": {
+        "name": "Joint distributions",
+        "description": "independence, covariance and correlation",
+        "node_type": "parent"
+    },
+    "101": {
+        "name": "Intro to Statistics",
+        "description": "Intro to Statistics, maximum likelihood estimates",
+        "node_type": "parent"
+    },
+    "102": {
+        "name": "Bayesian updating",
+        "description": "Bayesian updating with known discrete priors, probabilistic prediction; odds, continuous prior, discrete data",
+        "node_type": "parent"
+    },
+    "103": {
+        "name": "Beta distributions",
+        "description": "Beta distributions, continuous data, continuous priors, Conjugate priors; choosing priors",
+        "node_type": "parent"
+    },
+    "104": {
+        "name": "Probability intervals",
+        "description": "Probability intervals, Frequentist methods",
+        "node_type": "parent"
+    },
+    "105": {
+        "name": "Null Hypothesis Significance Testing",
+        "description": "NHST, Significance level, power, t-tests, Gallery of tests, Comparison of Bayesian and frequentist inference",
+        "node_type": "parent"
+    },
+    "106": {
+        "name": "Confidence intervals",
+        "description": "Confidence intervals for normal data, Bootstrap confidence intervals",
+        "node_type": "parent"
+    },
+    "107": {
+        "name": "Linear regression",
+        "description": "Bootstrapping; linear regression",
+        "node_type": "parent"
     }
 }
