@@ -501,6 +501,11 @@
         "description": "Taylor and Fourier series to functions of multiple variables",
         "node_type": "parent"
     },
+    "96a": {
+        "name": "Matrix Calculus",
+        "description": "The Gradient, The Hessian, Gradients of the Determinant",
+        "node_type": "parent"
+    },
 
 
     "97": {
@@ -609,6 +614,72 @@
         "name": "Intro to Machine Learning",
         "description": "Naive Bayes, Perceptrons, Kernels and Clustering",
         "node_type": "parent"
-    }
+    },
 
+
+    "118": {
+        "name": "Intro to Supervised Learning",
+        "description": "Linear regression, Classification and logistic regression",
+        "node_type": "parent"
+    },
+    "119": {
+        "name": "Generalized Linear Models",
+        "description": "Generalized Linear Models. The exponential family",
+        "node_type": "parent"
+    },
+    "120": {
+        "name": "Bias-Variance Tradeoff",
+        "description": "Bias-variance tradeoff, Dataset split, regularization",
+        "node_type": "parent"
+    },
+    "121": {
+        "name": "Intro to Numpy",
+        "description": "Intro to Numpy",
+        "node_type": "parent"
+    },
+    "122": {
+        "name": "Decision trees",
+        "description": "Decision trees and ensemble learning, Boosting",
+        "node_type": "parent"
+    },
+    "123": {
+        "name": "Evaluation Metrics",
+        "description": "Evaluation Metrics, Fs-score, ROC curve, Precision, recall",
+        "node_type": "parent"
+    },
+    "124": {
+        "name": "Generative learning algorithms",
+        "description": "Gaussian discriminant analysis, Naive bayes",
+        "node_type": "parent"
+    },
+    "125": {
+        "name": "Kernel Methods, SVM",
+        "description": "Kernel Methods, SVM",
+        "node_type": "parent"
+    },
+    "126": {
+        "name": "Intro to Unsupservised Learning",
+        "description": "Clustering and K-means, Expectation Maximization algorithms",
+        "node_type": "parent"
+    },
+    "127": {
+        "name": "Intro to Neural Networks",
+        "description": "Intro to Neural Networks",
+        "node_type": "parent"
+    },
+    "128": {
+        "name": "Deep Learning",
+        "description": "Deep Learning, Convnets",
+        "node_type": "parent"
+    },
+    "129": {
+        "name": "Basic Concepts in Reinforcement Learning",
+        "description": "Value iteration, policy iteration, model-based RL, value function approximator",
+        "node_type": "parent"
+    },
+    "130": {
+        "name": "Intro to Generative Adversarial Networks",
+        "description": "Value iteration, policy iteration, model-based RL, value function approximator",
+        "node_type": "parent"
+    }
 }
