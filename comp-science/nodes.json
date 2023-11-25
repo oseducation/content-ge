@@ -1,4 +1,9 @@
 {
+    "0": {
+        "name": "Vitsi AI",
+        "description": "What is Vitsi AI?",
+        "node_type": "parent"
+    },
     "1": {
         "name": "What is Proof?",
         "description": "Formal proof in Mathematics",
