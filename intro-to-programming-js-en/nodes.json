@@ -5,15 +5,17 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "0"
     },
     "1": {
-        "name": "Karel The Robot",
+        "name": "Intro to Karel The Robot",
         "description": "What is Karel The Robot? Who created it and why? Where does Karel live? What's the Karel's world like",
         "node_type": "lecture",
         "texts":["Karel The Robot.md"],
         "videos":["rvYIy-gEhKU"],
-        "questions":["questions.json"]
+        "questions":["questions.json"],
+        "parent": "8"
     },
     "2": {
         "name": "Karel Commands",
@@ -21,7 +23,8 @@
         "node_type": "lecture",
         "texts":["Karel's Commands.md"],
         "videos":["9dCiUTtiBbs"],
-        "questions":["questions.json"]
+        "questions":["questions.json"],
+        "parent": "8"
     },
     "3": {
         "name": "Algorithm",
@@ -29,7 +32,8 @@
         "node_type": "lecture",
         "texts":["Algorithm.md"],
         "videos":["sFKvotjiYDQ"],
-        "questions":["questions.json"]
+        "questions":["questions.json"],
+        "parent": "8"
     },
     "4": {
         "name": "First Karel Program",
@@ -38,7 +42,8 @@
         "node_type": "lecture",
         "texts":["First Karel Program.md"],
         "videos":["83YpGMqPLyU"],
-        "questions":["questions.json"]
+        "questions":["questions.json"],
+        "parent": "8"
     },
     "5": {
         "name": "History of Bugs in Programs",
@@ -46,7 +51,8 @@
         "node_type": "lecture",
         "texts":["History of Bugs in Programs.md"],
         "videos":["zm0vYoJ9R0o"],
-        "questions":["questions.json"]
+        "questions":["questions.json"],
+        "parent": "8"
     },
     "6": {
         "name": "Bug in the First Karel Program",
@@ -55,7 +61,8 @@
         "node_type": "lecture",
         "texts":["Bug in the First Karel Program.md"],
         "videos":["Lw-w89I8LTA"],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "7": {
         "name": "New Functions",
@@ -64,7 +71,8 @@
         "node_type": "lecture",
         "texts":["New Functions.md"],
         "videos":["eXw9wQ5Fbj8"],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "8": {
         "name": "Why Do We Need New Functions",
@@ -72,7 +80,8 @@
         "node_type": "lecture",
         "texts":["Why Do We Need New Functions.md"],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "9": {
         "name": "Whitespace and Indentation",
@@ -80,7 +89,8 @@
         "node_type": "lecture",
         "texts":["Whitespace and Indentation.md"],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "10": {
         "name": "`for` Loop in Karel",
@@ -89,7 +99,8 @@
         "node_type": "lecture",
         "texts":["for Loop in Karel.md"],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "11": {
         "name": "Conditions in Karel",
@@ -97,7 +108,8 @@
         "node_type": "lecture",
         "texts":["Conditions in Karel.md"],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "12": {
         "name": "`while` Loop in Karel",
@@ -106,7 +118,8 @@
         "node_type": "lecture",
         "texts":["while Loop in Karel.md"],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "13": {
         "name": "Incorrect `while` Loop in Karel",
@@ -115,7 +128,8 @@
         "node_type": "lecture",
         "texts":["Incorrect while Loop in Karel.md"],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "14": {
         "name": "`if` Statement in Karel",
@@ -124,7 +138,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "15": {
         "name": "`if-else` Statement in Karel",
@@ -133,7 +148,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "16": {
         "name": "Without `else` Statement",
@@ -142,7 +158,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "17": {
         "name": "Nested Statements",
@@ -151,7 +168,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "18": {
         "name": "SteepleChaseKarel Problem",
@@ -160,7 +178,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "19": {
         "name": "Common Errors - OBOB",
@@ -169,7 +188,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "20": {
         "name": "Common Errors - Infinite Loop",
@@ -178,7 +198,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "21": {
         "name": "Comments in Karel",
@@ -187,7 +208,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "22": {
         "name": "Thinking Processes - Bottom Up Design",
@@ -195,7 +217,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "23": {
         "name": "Thinking Processes - Top Down Design",
@@ -203,7 +226,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "24": {
         "name": "SteepleChaseKarel With Decomposition",
@@ -212,7 +236,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "25": {
         "name": "DoubleBeepersKarel Problem",
@@ -221,7 +246,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "26": {
         "name": "Do Your Thing Karel Program",
@@ -230,7 +256,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "27":{
         "name": "Good Programming Style for Karel",
@@ -238,7 +265,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "28":{
         "name": "Good Decomposition",
@@ -246,7 +274,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "29":{
         "name": "CleanUpKarel Problem",
@@ -255,7 +284,8 @@
         "node_type": "lecture",
         "texts":[],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     },
     "e1": {
         "name": "MoveKarel",
@@ -263,6 +293,7 @@
         "node_type": "example",
         "texts":["MoveKarel Problem.md", "MoveKarel Solution.md"],
         "videos":[],
-        "questions":[]
+        "questions":[],
+        "parent": "8"
     }
 }
