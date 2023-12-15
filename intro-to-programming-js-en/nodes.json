@@ -93,7 +93,7 @@
         "parent_id": "8"
     },
     "10": {
-        "name": "`for` Loop in Karel",
+        "name": "for Loop in Karel",
         "description": "Repeat the list of commands N times",
         "environment":"karel_js",
         "node_type": "lecture",
@@ -112,7 +112,7 @@
         "parent_id": "8"
     },
     "12": {
-        "name": "`while` Loop in Karel",
+        "name": "while Loop in Karel",
         "description": "Repeat the list of commands until some condition is true",
         "environment":"karel_js",
         "node_type": "lecture",
@@ -122,7 +122,7 @@
         "parent_id": "8"
     },
     "13": {
-        "name": "Incorrect `while` Loop in Karel",
+        "name": "Incorrect while Loop in Karel",
         "description": "`while` loop executes either all of the commands listed in the body or none",
         "environment":"karel_js",
         "node_type": "lecture",
@@ -132,7 +132,7 @@
         "parent_id": "8"
     },
     "14": {
-        "name": "`if` Statement in Karel",
+        "name": "if Statement in Karel",
         "description": "Execute only if condition is true",
         "environment":"karel_js",
         "node_type": "lecture",
@@ -142,7 +142,7 @@
         "parent_id": "8"
     },
     "15": {
-        "name": "`if-else` Statement in Karel",
+        "name": "if-else Statement in Karel",
         "description": "If condition is true execute this, else execute that",
         "environment":"karel_js",
         "node_type": "lecture",
@@ -152,7 +152,7 @@
         "parent_id": "8"
     },
     "16": {
-        "name": "Without `else` Statement",
+        "name": "Without else Statement",
         "description": "Theoretically you can write any code without using else",
         "environment":"karel_js",
         "node_type": "lecture",
