@@ -1,11 +1,11 @@
 # First Karel Program
 Let's write your first Karel program, you know all the commands already. Imagine that Karel lives in the world below
 
-![World before](./../images/4_first_program_1.png)
+![World before](/images/intro-to-programming-js-en/4_first_program_1.png)
 
 You job is to write program, where Karel will take the beeper on the (2,1) corner, will put it on the (4,2) corner and finish working on (5,2). After program execution world should look like this:
 
-![World after](./../images/4_first_program_2.png)
+![World after](/images/intro-to-programming-js-en/4_first_program_2.png)
 
 It's easy enough with the following commands:
 

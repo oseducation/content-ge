@@ -2,7 +2,7 @@
 
 Let's revisit our First Karel Program. 
 
-![World before](./../images/4_first_program_1.png)
+![World before](/images/intro-to-programming-js-en/4_first_program_1.png)
 
 Here's the code that does the job.
 

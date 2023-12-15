@@ -2,7 +2,7 @@
 
 Karel is a robot. But not just any robot; Karel is your guide to understanding the foundational concepts of programming without getting lost in complex codes. Think of Karel as the friendly neighborhood robot that's here to help you grasp the essentials.
 
-![Karel World](./../images/1_karel_world_1.png)
+![Karel World](/images/intro-to-programming-js-en/1_karel_world_1.png)
 
 
 ## Origin Story
@@ -23,7 +23,7 @@ Imagine a vast checkerboard; this is where Karel resides. This grid is made up o
 
 There can be many different worlds with different sizes, with beepers and walls in different places
 
-![Karel World](./../images/1_karel_world_2.png)
+![Karel World](/images/intro-to-programming-js-en/1_karel_world_2.png)
 
 
 ## Navigating the Landscape
