@@ -1,9 +1,12 @@
+# conda install -c conda-forge google-api-python-client
+# conda install -c conda-forge isodate
+# conda install -c conda-forge youtube-transcript-api
+
 from googleapiclient.discovery import build
 import json
 import re
 from isodate import parse_duration
 from youtube_transcript_api import YouTubeTranscriptApi
-
 
 api_key = ''
 youtube = build('youtube', 'v3', developerKey=api_key)
@@ -19,7 +22,8 @@ def get_channel_id(username):
 
 # channel_id = get_channel_id('@ycombinator')
 
-channel_id = 'UCcefcZRL2oaA_uBNeo5UOWg'
+channel_id = 'UCcefcZRL2oaA_uBNeo5UOWg' #ycombinator
+channel_id = 'UCsooa4yRKGN_zEE8iknghZA' #ted ed
 
 def get_all_videos(channel_id):
     all_videos = []
@@ -55,7 +59,8 @@ def get_video_details(video_id):
     duration_str = item['contentDetails']['duration']
     duration = parse_duration(duration_str)
     description = item['snippet']['description']
-    return published_at, duration.total_seconds(), description
+    thumbnail = item['snippet']['thumbnails']['high']['url']
+    return published_at, duration.total_seconds(), description, thumbnail
 
 
 def extract_chapters(description):
@@ -79,13 +84,14 @@ def populate_with_details(data):
     newData = []
     for video in data:
         id = video['id']['videoId']
-        published_at, duration, description = get_video_details(id)
+        published_at, duration, description, thumbnail = get_video_details(id)
         newData.append({
             "id": id,
             "title": video['snippet']['title'],
             "published_at": published_at,
             "duration": duration,
-            "description": description
+            "description": description,
+            "thumbnail": thumbnail
         })
     return newData
 
@@ -98,7 +104,10 @@ def get_transcript(video_id):
         return ''
     
 def populate_with_transcript(videos):
+    n = 0
     for video in videos:
+        print(n)
+        n += 1
         transcript = get_transcript(video["id"])
         video["transcript"] = transcript
     return videos
@@ -208,12 +217,27 @@ def populateVideosWithText(videos):
     return newVideos
 
 
+def convertTranscriptToText(transcript):
+    text = ''
+    for snippet in transcript:
+        text += snippet["text"] + ' '
+    return text
+def populateVideosWithText(videos):
+    for video in videos:
+        text = convertTranscriptToText(video["transcript"])
+        video["text"] = text
 
+def deleteTranscripts(videos):
+    for video in videos:
+        del video["transcript"]
+    
 videos = get_all_videos(channel_id)
 videos = populate_with_details(videos)
 populate_with_transcript(videos)
-populate_with_chapters(videos)
-save_to_json(videos, 'videos5.json')
+# populate_with_chapters(videos)
+populateVideosWithText(videos)
+deleteTranscripts(videos)
+save_to_json(videos2, 'videos2.json')
 
 for video in videos:
     chapters = video["chapters"]
