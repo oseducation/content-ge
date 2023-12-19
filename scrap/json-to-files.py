@@ -14,8 +14,8 @@ def populateNode(m, node, i):
         "texts": ["text1.md"],
         "videos": [node["id"]],
         "node_type": "general",
-        "parent_id": "General Knowledge"
-        
+        "parent_id": "General Knowledge",
+        "thumbnail": node["thumbnail"]
     }
 
 def populate(m, node, i):
@@ -49,8 +49,6 @@ def populateTexts():
         st1 = data[i]["text"]
         with open(path, 'w') as f:
             f.write(st1.replace('\n', ' ').replace('\r', ''))
-
-
 
 
 createNodesJSON()
