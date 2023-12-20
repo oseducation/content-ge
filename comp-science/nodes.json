@@ -4,6 +4,11 @@
         "description": "What is Vitsi AI?",
         "node_type": "parent"
     },
+    "0a": {
+        "name": "General Knowledge",
+        "description": "General Knowledge about interesting facts and events",
+        "node_type": "parent"
+    },
     "1": {
         "name": "What is Proof?",
         "description": "Formal proof in Mathematics",
