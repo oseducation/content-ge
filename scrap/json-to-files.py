@@ -8,13 +8,16 @@ def getData():
     
 def populateNode(m, node, i):
     st1 = data[i]["title"]
+    description = node["description"]
+    if len(node["description"]) > 2048:
+        description = node["description"][:2045] + "..."
     m[str(i)] = {
         "name": st1.replace("&quot;", ""),
-        "description": node["description"],
+        "description": description,
         "texts": ["text1.md"],
         "videos": [node["id"]],
         "node_type": "general",
-        "parent_id": "General Knowledge",
+        "parent_id": "0a",
         "thumbnail": node["thumbnail"]
     }
 
