@@ -15,7 +15,8 @@
         "texts":["Karel The Robot.md"],
         "videos":["rvYIy-gEhKU"],
         "questions":["questions.json"],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Intro-to-Karel-The-Robot.png"
     },
     "2": {
         "name": "Karel Commands",
@@ -24,7 +25,8 @@
         "texts":["Karel's Commands.md"],
         "videos":["9dCiUTtiBbs"],
         "questions":["questions.json"],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Karel-Commands.png"
     },
     "3": {
         "name": "Algorithm",
@@ -33,7 +35,8 @@
         "texts":["Algorithm.md"],
         "videos":["sFKvotjiYDQ"],
         "questions":["questions.json"],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Algorithm.png"
     },
     "4": {
         "name": "First Karel Program",
@@ -43,7 +46,8 @@
         "texts":["First Karel Program.md"],
         "videos":["83YpGMqPLyU"],
         "questions":["questions.json"],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/First-Karel-Program.png"
     },
     "5": {
         "name": "History of Bugs in Programs",
@@ -52,7 +56,8 @@
         "texts":["History of Bugs in Programs.md"],
         "videos":["zm0vYoJ9R0o"],
         "questions":["questions.json"],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/History-of-Bugs-in-Programs.png"
     },
     "6": {
         "name": "Bug in the First Karel Program",
@@ -62,7 +67,8 @@
         "texts":["Bug in the First Karel Program.md"],
         "videos":["Lw-w89I8LTA"],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Bug-in-the-First-Karel-Program.png"
     },
     "7": {
         "name": "New Functions",
@@ -72,7 +78,8 @@
         "texts":["New Functions.md"],
         "videos":["eXw9wQ5Fbj8"],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/New-Functions.png"
     },
     "8": {
         "name": "Why Do We Need New Functions",
@@ -81,7 +88,8 @@
         "texts":["Why Do We Need New Functions.md"],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Why-Do-We-Need-New-Functions.png"
     },
     "9": {
         "name": "Whitespace and Indentation",
@@ -90,7 +98,8 @@
         "texts":["Whitespace and Indentation.md"],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Whitespace-and-Indentation.png"
     },
     "10": {
         "name": "for Loop in Karel",
@@ -100,7 +109,8 @@
         "texts":["for Loop in Karel.md"],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/for-Loop-in-Karel.png"
     },
     "11": {
         "name": "Conditions in Karel",
@@ -109,7 +119,8 @@
         "texts":["Conditions in Karel.md"],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Conditions-in-Karel.png"
     },
     "12": {
         "name": "while Loop in Karel",
@@ -119,7 +130,8 @@
         "texts":["while Loop in Karel.md"],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/while-Loop-in-Karel.png"
     },
     "13": {
         "name": "Incorrect while Loop in Karel",
@@ -129,7 +141,8 @@
         "texts":["Incorrect while Loop in Karel.md"],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Incorrect-while-Loop-in-Karel.png"
     },
     "14": {
         "name": "if Statement in Karel",
@@ -139,7 +152,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/if-Statement-in-Karel.png"
     },
     "15": {
         "name": "if-else Statement in Karel",
@@ -149,7 +163,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/if-else-Statement-in-Karel.png"
     },
     "16": {
         "name": "Without else Statement",
@@ -159,7 +174,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Without-else-Statement.png"
     },
     "17": {
         "name": "Nested Statements",
@@ -169,7 +185,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Nested-Statements.png"
     },
     "18": {
         "name": "SteepleChaseKarel Problem",
@@ -179,7 +196,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/SteepleChaseKarel-Problem.png"
     },
     "19": {
         "name": "Common Errors - OBOB",
@@ -189,7 +207,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Common-Errors---OBOB.png"
     },
     "20": {
         "name": "Common Errors - Infinite Loop",
@@ -199,7 +218,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Common-Errors---Infinite-Loop.png"
     },
     "21": {
         "name": "Comments in Karel",
@@ -209,7 +229,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Comments-in-Karel.png"
     },
     "22": {
         "name": "Thinking Processes - Bottom Up Design",
@@ -218,7 +239,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Thinking-Processes---Bottom-Up-Design.png"
     },
     "23": {
         "name": "Thinking Processes - Top Down Design",
@@ -227,7 +249,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Thinking-Processes---Top-Down-Design.png"
     },
     "24": {
         "name": "SteepleChaseKarel With Decomposition",
@@ -237,7 +260,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/SteepleChaseKarel-With-Decomposition.png"
     },
     "25": {
         "name": "DoubleBeepersKarel Problem",
@@ -247,7 +271,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/DoubleBeepersKarel-Problem.png"
     },
     "26": {
         "name": "Do Your Thing Karel Program",
@@ -257,7 +282,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Do-Your-Thing-Karel-Program.png"
     },
     "27":{
         "name": "Good Programming Style for Karel",
@@ -266,7 +292,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Good-Programming-Style-for-Karel.png"
     },
     "28":{
         "name": "Good Decomposition",
@@ -275,7 +302,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/Good-Decomposition.png"
     },
     "29":{
         "name": "CleanUpKarel Problem",
@@ -285,7 +313,8 @@
         "texts":[],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/CleanUpKarel-Problem.png"
     },
     "e1": {
         "name": "MoveKarel",
@@ -294,6 +323,7 @@
         "texts":["MoveKarel Problem.md", "MoveKarel Solution.md"],
         "videos":[],
         "questions":[],
-        "parent_id": "8"
+        "parent_id": "8",
+        "thumbnail": "/images/nodes/MoveKarel.png"
     }
 }
