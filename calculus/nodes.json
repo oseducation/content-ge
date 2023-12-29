@@ -1,3 +1,11 @@
 {
-    
+    "0": {
+        "name": "An informal definition of limit",
+        "description": "In order to speak meaningfully about rates of change, tangent lines, and areas bounded by curves, we have to investigate the process of finding limits. Indeed, the concept of limit is the cornerstone on which the development of calculus rests.",
+        "texts": ["text1.md"],
+        "videos": ["qwvFYzfXqZw"],
+        "node_type": "lecture",
+        "parent_id": "66",
+        "thumbnail": "/images/nodes/Limits-and-Continuity/An-informal-definition-of-limit.png"
+    }
 }
