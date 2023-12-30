@@ -34,5 +34,14 @@
         "node_type": "lecture",
         "parent_id": "66",
         "thumbnail": "/images/nodes/Limits-and-Continuity/The-Squeeze-Theorem.png"
+    },
+    "4": {
+        "name": "Limits using Algebraic Tricks",
+        "description": "Limits using Algebraic Tricks.",
+        "texts": [],
+        "videos": ["YAnZJ6nxsyk"],
+        "node_type": "lecture",
+        "parent_id": "66",
+        "thumbnail": "/images/nodes/Limits-and-Continuity/Limits-using-Algebraic-Tricks.png"
     }
 }
