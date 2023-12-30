@@ -52,5 +52,14 @@
         "node_type": "lecture",
         "parent_id": "66",
         "thumbnail": "/images/nodes/Limits-and-Continuity/When-the-Limit-of-the-Denominator-is-0.png"
+    },
+    "6": {
+        "name": "Limits at Infinity and Graphs",
+        "description": "Limits at Infinity and Graphs.",
+        "texts": [],
+        "videos": ["xQjfnzEI4QI"],
+        "node_type": "lecture",
+        "parent_id": "66",
+        "thumbnail": "/images/nodes/Limits-and-Continuity/Limits-at-Infinity-and-Graphs.png"
     }
 }
