@@ -25,5 +25,14 @@
         "node_type": "lecture",
         "parent_id": "66",
         "thumbnail": "/images/nodes/Limits-and-Continuity/Intro-to-Limit-Laws.png"
+    },
+    "3": {
+        "name": "The Squeeze Theorem",
+        "description": "Limits when values of a function are squeezed between the values of two other functions.",
+        "texts": ["text1.md"],
+        "videos": ["roh276CrmjU"],
+        "node_type": "lecture",
+        "parent_id": "66",
+        "thumbnail": "/images/nodes/Limits-and-Continuity/The-Squeeze-Theorem.png"
     }
 }
