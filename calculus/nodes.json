@@ -43,5 +43,14 @@
         "node_type": "lecture",
         "parent_id": "66",
         "thumbnail": "/images/nodes/Limits-and-Continuity/Limits-using-Algebraic-Tricks.png"
+    },
+    "5": {
+        "name": "When the Limit of the Denominator is 0",
+        "description": "When the Limit of the Denominator is 0.",
+        "texts": [],
+        "videos": ["gUJxCSIQwtw"],
+        "node_type": "lecture",
+        "parent_id": "66",
+        "thumbnail": "/images/nodes/Limits-and-Continuity/When-the-Limit-of-the-Denominator-is-0.png"
     }
 }
