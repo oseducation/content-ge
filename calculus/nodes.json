@@ -16,5 +16,14 @@
         "node_type": "lecture",
         "parent_id": "66",
         "thumbnail": "/images/nodes/Limits-and-Continuity/When-Limits-Fail-to-Exist.png"
+    },
+    "2": {
+        "name": "Intro to Limit Laws",
+        "description": "Limit laws make it easy to calculate limits and one-sided limits of many kinds of functions when we know some elementary limits.",
+        "texts": ["text1.md"],
+        "videos": ["1GnxvuzAabQ"],
+        "node_type": "lecture",
+        "parent_id": "66",
+        "thumbnail": "/images/nodes/Limits-and-Continuity/Intro-to-Limit-Laws.png"
     }
 }
