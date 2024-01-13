@@ -61,5 +61,14 @@
         "node_type": "lecture",
         "parent_id": "66",
         "thumbnail": "/images/nodes/Limits-and-Continuity/Limits-at-Infinity-and-Graphs.png"
+    },
+    "7": {
+        "name": "Continuity at a Point",
+        "description": "Limits at Infinity and Graphs.",
+        "texts": [],
+        "videos": ["xQjfnzEI4QI"],
+        "node_type": "lecture",
+        "parent_id": "66",
+        "thumbnail": "/images/nodes/Limits-and-Continuity/Limits-at-Infinity-and-Graphs.png"
     }
 }
