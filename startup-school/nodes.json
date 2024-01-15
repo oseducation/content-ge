@@ -1,7 +1,16 @@
 {
     "1": {
         "name": "Startup",
-        "description": "What is a startup"
+        "description": "What is a startup",
+        "texts": [""],
+        "video_parts": [{
+            "id": "",
+            "start": 0,
+            "length": 372
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     },
     "2": {
         "name": "Founder types",
