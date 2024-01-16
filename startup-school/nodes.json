@@ -111,6 +111,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "2i": {
+        "name": "Deciding When to Start Your Own Company",
+        "description": "Identifying the right time to leave your job and pursue a startup",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "BUE-icVYRFU",
+            "start": 868,
+            "end": 1020
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
