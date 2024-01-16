@@ -59,6 +59,22 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "2e": {
+        "name": "Reflecting on Startup Risks: 'What Do I Have to Lose?'",
+        "description": "Considering the worst-case scenario and the potential for personal growth and learning can provide a balanced perspective when deciding if starting a startup is the right path for you.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "BUE-icVYRFU",
+            "start": 424,
+            "end": 550
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+
+
+
     "2": {
         "name": "Founder types",
         "description": "Types of people best suited to be startup founders"
