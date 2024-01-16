@@ -165,6 +165,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "3d": {
+        "name": "Recognizing When to Leave a FAANG Job for Aspiring Entrepreneurs",
+        "description": "Identifying the right time to exit a high-paying tech job for entrepreneurial pursuits",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "sM2reZib2RY",
+            "start": 931,
+            "end": 1185
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
