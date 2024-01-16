@@ -126,6 +126,21 @@
     },
 
 
+    "3a": {
+        "name": "Understanding the Value of FAANG Jobs for Aspiring Technical Founders",
+        "description": "Aspiring founders should critically assess the benefits and limitations of working at FAANG companies in relation to their entrepreneurial goals, differentiating these roles from traditional employment paths",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "sM2reZib2RY",
+            "start": 60,
+            "end": 201
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+
+
 
     "2": {
         "name": "Founder types",
