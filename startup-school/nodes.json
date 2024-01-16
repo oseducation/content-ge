@@ -85,6 +85,20 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "2g": {
+        "name": "Preparing for a Future Startup Venture",
+        "description": "Strategies for aspiring entrepreneurs to develop viable startup ideas and identify potential co-founders through engaging in idea-driven conversations and fostering a culture of curiosity and collaboration",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "BUE-icVYRFU",
+            "start": 650,
+            "end": 772
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+
 
 
     "2": {
