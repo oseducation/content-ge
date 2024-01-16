@@ -72,7 +72,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
-
+    "2f": {
+        "name": "The Value of Startup Experience in Enhancing Career Prospects",
+        "description": "Having a background in startups can significantly boost career opportunities, with employers valuing the unique skills and initiative this experience brings",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "BUE-icVYRFU",
+            "start": 550,
+            "end": 650
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
     "2": {
