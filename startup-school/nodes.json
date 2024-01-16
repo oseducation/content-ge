@@ -1,12 +1,20 @@
 {
     "1": {
-        "name": "Startup",
+        "name": "What is a startup",
         "description": "What is a startup",
-        "texts": [""],
+        "texts": ["text1.md"],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "2a": {
+        "name": "Determining If You're Suited to Be a Startup Founder",
+        "description": "How to decide whether to be a startup founder",
+        "texts": ["text1.md"],
         "video_parts": [{
-            "id": "",
-            "start": 0,
-            "length": 372
+            "id": "BUE-icVYRFU",
+            "start": 48,
+            "end": 162
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
