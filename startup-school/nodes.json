@@ -20,6 +20,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "2b": {
+        "name": "Resilience: The Key Trait for Startup Founders",
+        "description": "Concise exploration of why resilience, the ability to overcome challenges and persist through adversity, is the most critical quality for success in the startup world.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "BUE-icVYRFU",
+            "start": 162,
+            "end": 215
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
     "2": {
         "name": "Founder types",
         "description": "Types of people best suited to be startup founders"
