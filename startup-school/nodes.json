@@ -152,6 +152,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "3c": {
+        "name": "The Retention Strategy of Big Tech Companies and Its Impact on Aspiring Founders",
+        "description": "FAANG companies use sophisticated retention tactics, including gamified progression and equity vesting, to keep employees engaged and financially tied, potentially hindering their entrepreneurial aspirations.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "sM2reZib2RY",
+            "start": 655,
+            "end": 931
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
