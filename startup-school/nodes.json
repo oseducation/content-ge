@@ -98,6 +98,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "2h": {
+        "name": "Working at a Startup: The Ideal Pre-Founder Environment",
+        "description": "Gaining experience in a startup is crucial for aspiring founders, offering a space to learn, meet potential co-founders, and experiment with transforming ideas into reality",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "BUE-icVYRFU",
+            "start": 722,
+            "end": 868
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
