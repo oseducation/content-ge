@@ -46,6 +46,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "2d": {
+        "name": "Startup Resilience: It's Not About Initial Motivation",
+        "description": "Founder's long-term resilience and success in the startup world are more influenced by evolving motivations and a genuine interest in their work, rather than their initial reasons for starting the company.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "BUE-icVYRFU",
+            "start": 311,
+            "end": 424
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
     "2": {
         "name": "Founder types",
         "description": "Types of people best suited to be startup founders"
