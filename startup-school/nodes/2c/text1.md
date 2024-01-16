@@ -1,0 +1,7 @@
+## Benchling's Journey: From Humble Beginnings to Biotech Success
+
+Reflecting on Benchling's inception in 2012, it's astounding to see its growth into a company valued at over six billion dollars. Sagi, its CEO, along with his co-founder Corey, both started as reserved engineers. Initially, there were doubts about their fit for Benchling, which aimed to sell software to biotech and pharmaceutical companies. Their soft-spoken nature led to questions about their ability to handle intense enterprise sales.
+
+These concerns were echoed by investors during their demo day, leading to a challenging seed funding phase. In the early days, generating revenue was a significant struggle for Benchling. They depended on enthusiastic grad students as free users while continuously improving their product. It was a long journey – taking almost two years post-YC to start making sales and revenue.
+
+Today, Benchling has made an incredible turnaround. They are poised to go public and serve many of the world's leading biotech and pharmaceutical companies. Looking back, while Sagi's engineering skills were evident, his remarkable journey of resilience, overcoming numerous rejections and evolving into a visionary leader of a highly successful company, was something that exceeded all early expectations.
