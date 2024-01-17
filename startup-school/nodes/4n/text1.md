@@ -1,4 +1,4 @@
-## Strategies for Coming Up with Startup Ideas: What your Team Good at
+## Strategies for Coming Up with Startup Ideas: What Your Team Good at
 
 The best method is to start with what you and your team are really good at. Think of ideas that use your special skills. This way, any idea you think of will fit well with what you know and can do – it's like a shortcut to finding ideas that match your team's strengths.
 
