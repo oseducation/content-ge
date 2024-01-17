@@ -230,6 +230,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4e": {
+        "name": "Evaluating the Presence of Competition",
+        "description": "Do you have competition?",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 552,
+            "end": 570
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
