@@ -386,6 +386,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4q": {
+        "name": "Strategies for Coming Up with Startup Ideas: Creating What You Wish Existed",
+        "description": "Startup ideas you personally wish existed",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 1544,
+            "end": 1582
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
