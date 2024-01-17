@@ -2,7 +2,6 @@
 
 
 
-so if you want to try to actually use recipes one and two here's a specific set of instructions for how to do it this is advice I often give to Founders YC who are pivoting and who are looking for a new idea here's how it works for each founder on your team go through every job you've ever had plus all your internships plus like other life experiences and think really carefully about each of them what problems did you come across what did you learn that other people don't know What are problems or opportunities that you've been in kind of a special position to see those are the best places to start looking for startup ideas 
 
 okay the next one is to just think of things you personally wish existed this is like a really classic recipe this is very common advice great example of this is doordash the short story of doordash is that the founders of doordash were undergrads at Stanford and the thing they really wanted was to be able to just order food from local restaurants and have it delivered to their dorm and before doordash you couldn't do that so they started doordash and this is a great recipe but this is the recipe that is most dangerous and potentially leading to tar pit ideas so if you're using this recipe you just gotta stop and think for a second is there a reason why this thing doesn't exist yet
 
