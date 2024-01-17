@@ -412,6 +412,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4s": {
+        "name": "Strategies for Coming Up with Startup Ideas: Talking to People",
+        "description": "Talking to people and asking their problems",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 1688,
+            "end": 1876
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 

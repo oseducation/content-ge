@@ -1,0 +1,6 @@
+## Strategies for Coming Up with Startup Ideas: Talking to People
+Another way to think of startup ideas is to talk to people about their problems. You can also look at recent successful companies and think about how you could do something similar but with a new twist. A good example of this approach is Nuvocargo. It's like Flexport, but for Latin America, helping U.S. companies import goods from Mexico.
+
+Deepak, the founder of Nuvocargo, originally worked on a different idea at Y Combinator. When he realized it wasn't going to work out, he systematically started searching for a better idea. He chose Nuvocargo based on careful thinking: it was in a big market, there were successful companies like Flexport to learn from, and even though he didn't know everything about import-export, he had connections to get started. Plus, he felt he could handle the operational challenges of this business. His analytical approach paid off – Nuvocargo is doing really well.
+
+So, when you're looking for a startup idea, think about talking to people to understand their problems. Also, look at what's working in the market now and consider how you could apply those models to different areas or problems. Sometimes, a systematic and analytical approach to finding a startup idea, like Deepak's, can lead to great success.
