@@ -178,6 +178,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4a": {
+        "name": "Recognizing When to Leave a FAANG Job for Aspiring Entrepreneurs",
+        "description": "Key errors entrepreneurs often make, such as focusing on solutions without real problems, getting stuck on unfeasible 'tar pit' ideas, and either rushing into or overly delaying the selection of a startup idea.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 104,
+            "end": 389
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
