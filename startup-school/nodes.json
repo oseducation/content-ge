@@ -334,6 +334,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4m": {
+        "name": "Finding Startup Ideas Naturally",
+        "description": "The best startup ideas often emerge organically from personal expertise and interests, rather than from forced brainstorming sessions, with a focus on gaining deep knowledge in a field and engaging in projects driven by personal passion.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 1182,
+            "end": 1285
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
