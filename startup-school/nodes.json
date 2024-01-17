@@ -438,6 +438,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4u": {
+        "name": "Strategies for Coming Up with Startup Ideas: Targeting Flawed Big Industries for Disruption",
+        "description": "Look at big industries that seem broken",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 1876,
+            "end": 1884
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
