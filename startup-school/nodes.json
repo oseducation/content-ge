@@ -399,6 +399,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4r": {
+        "name": "Strategies for Coming Up with Startup Ideas: Spotting Opportunities in Recent Changes",
+        "description": "Thinking about things that have changed recently",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 1582,
+            "end": 1688
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
