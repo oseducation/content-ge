@@ -179,7 +179,7 @@
         "thumbnail": ""
     },
     "4a": {
-        "name": "Recognizing When to Leave a FAANG Job for Aspiring Entrepreneurs",
+        "name": "Common Mistakes in Startup Idea Formation",
         "description": "Key errors entrepreneurs often make, such as focusing on solutions without real problems, getting stuck on unfeasible 'tar pit' ideas, and either rushing into or overly delaying the selection of a startup idea.",
         "texts": ["text1.md"],
         "video_parts": [{
@@ -342,6 +342,19 @@
             "id": "Th8JoIan4dg",
             "start": 1182,
             "end": 1285
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "4n": {
+        "name": "Strategies for Coming Up with Startup Ideas: What your Team Good at",
+        "description": "Strategies for Coming Up with Startup Ideas: What your Team Good at",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 1300,
+            "end": 1411
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
