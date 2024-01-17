@@ -451,6 +451,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4v": {
+        "name": "Strategies for Coming Up with Startup Ideas: Partnering with a Co-Founder Who Has an Idea",
+        "description": "Finding a co-founder with an idea",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 1884,
+            "end": 1903
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
