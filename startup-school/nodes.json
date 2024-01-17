@@ -231,13 +231,26 @@
         "thumbnail": ""
     },
     "4e": {
-        "name": "Evaluating the Presence of Competition",
+        "name": "Evaluating the Presence of Competition for a Startup Idea",
         "description": "Do you have competition?",
         "texts": ["text1.md"],
         "video_parts": [{
             "id": "Th8JoIan4dg",
             "start": 552,
             "end": 570
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "4f": {
+        "name": "Assessing Personal Desire of a Startup Idea",
+        "description": "Do want the product you are building?",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 570,
+            "end": 590
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
