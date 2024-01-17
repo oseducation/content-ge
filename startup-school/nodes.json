@@ -321,6 +321,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4l": {
+        "name": "Three Surprising Qualities of Potentially Successful Startup Ideas",
+        "description": "Ideas that are challenging to start, exist in seemingly dull fields, or face stiff competition can unexpectedly offer significant opportunities for startup success",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 880,
+            "end": 1182
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
