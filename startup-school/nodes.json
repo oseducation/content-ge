@@ -204,6 +204,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4c": {
+        "name": "Market Size for a Startup Idea",
+        "description": "Two types of markets for a startup, big and fast growing",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 479,
+            "end": 513
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
