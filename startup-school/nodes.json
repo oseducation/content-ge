@@ -282,6 +282,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4i": {
+        "name": "Choosing a Startup Idea You Can Commit to Long-Term",
+        "description": "Choose an idea you'd want to work for years",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 678,
+            "end": 715
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
