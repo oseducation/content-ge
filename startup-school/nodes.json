@@ -308,6 +308,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4k": {
+        "name": "Choosing a Startup Idea in a Promising Field",
+        "description": "Is your idea in a good idea space?",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 735,
+            "end": 880
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
