@@ -192,8 +192,8 @@
         "thumbnail": ""
     },
     "4b": {
-        "name": "A founder/market fit",
-        "description": "What is a founder/market fit",
+        "name": "A founder-market fit",
+        "description": "What is a founder-market fit",
         "texts": ["text1.md"],
         "video_parts": [{
             "id": "Th8JoIan4dg",
@@ -290,6 +290,19 @@
             "id": "Th8JoIan4dg",
             "start": 678,
             "end": 715
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "4j": {
+        "name": "Can Your Startup Idea Grow Big Easily?",
+        "description": "Is your idea a scalable business?",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 715,
+            "end": 735
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
