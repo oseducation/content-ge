@@ -191,6 +191,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4b": {
+        "name": "A founder/market fit",
+        "description": "What is a founder/market fit",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 401,
+            "end": 479
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 

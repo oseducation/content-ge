@@ -1,0 +1,7 @@
+## A founder/market fit
+
+When considering the viability of a startup idea, a key factor to evaluate is whether you and your team have a founder/market fit. This concept revolves around the suitability of your team's skills and experiences for the specific idea you're pursuing.
+
+A prime example of a strong founder/market fit is seen in PlanGrid, a company that developed an iPad app for construction blueprints. The founders, Tracy and Ralph, were an ideal combination for this venture. Tracy's extensive experience in the construction industry provided deep market insights, while Ralph's expertise in software development made him well-suited to build the technical side of the app. This duo exemplified the perfect alignment between a team's capabilities and the market needs of their startup idea.
+
+The importance of founder/market fit extends beyond finding a generally good startup idea. It's about finding an idea that is right for your team. What may be a great concept for one team might not suit another due to different skills, backgrounds, and experiences. Therefore, when searching for a startup idea, focus on concepts that leverage your team's unique strengths and knowledge. This approach ensures that your startup is built on a foundation where your team can excel and deliver effectively.
