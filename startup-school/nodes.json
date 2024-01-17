@@ -269,6 +269,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4h": {
+        "name": "Finding Similar Big Companies as References for a Startup Idea",
+        "description": "Are there good proxies(big companies, who do similar things) for your idea?",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 646,
+            "end": 678
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
