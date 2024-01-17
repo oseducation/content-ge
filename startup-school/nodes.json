@@ -256,6 +256,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4g": {
+        "name": "Identifying Recent Changes Creating Opportunities for a Startup Idea",
+        "description": "Did your idea recently become possible or necessary?",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 590,
+            "end": 646
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
