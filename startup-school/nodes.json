@@ -464,6 +464,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "4w": {
+        "name": "Strategies for Coming Up with Startup Ideas: Just Launch and See How It Goes",
+        "description": "If you want to find out if idea is good or not, just launch it",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Th8JoIan4dg",
+            "start": 1903,
+            "end": 1931
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
