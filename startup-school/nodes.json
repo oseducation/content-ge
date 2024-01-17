@@ -406,20 +406,20 @@
         "video_parts": [{
             "id": "Th8JoIan4dg",
             "start": 1582,
-            "end": 1688
+            "end": 1622
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
     },
     "4s": {
-        "name": "Strategies for Coming Up with Startup Ideas: Talking to People",
-        "description": "Talking to people and asking their problems",
+        "name": "Strategies for Coming Up with Startup Ideas: Finding Inspiration in Existing Success Stories",
+        "description": "Looking for new variants of successful companies",
         "texts": ["text1.md"],
         "video_parts": [{
             "id": "Th8JoIan4dg",
-            "start": 1688,
-            "end": 1876
+            "start": 1621,
+            "end": 1688
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
