@@ -568,6 +568,20 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "5h": {
+        "name": "The Role of Timing: Smartphones",
+        "description": "The early days of smartphones and the launch of the iPhone created unique opportunities for app developers, with less competition and a high user interest in new apps.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "GMIawSAygO4",
+            "start": 818,
+            "end": 861
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+
 
 
 
