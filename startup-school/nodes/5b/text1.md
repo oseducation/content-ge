@@ -1,0 +1,4 @@
+## What is a Consumer Idea in Startups
+Basically, these are products or services designed for regular people – consumers – not for businesses. A lot of times, these can be things like social networks, which are often free but make money through ads. Another example is the gig economy, where individual people use an app or service for a particular task or need.
+
+The key thing that makes an idea a consumer business is that it's meant for individual people to use in their daily lives, rather than being something that's sold to other businesses. That's how you know you're dealing with a consumer-focused idea. While there's some nuance to this definition, the main point is that these are products aimed at the general public, not at companies.

@@ -490,6 +490,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "5b": {
+        "name": "What is a Consumer Idea in Startups",
+        "description": "Description of a consumer idea or consumer business",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "GMIawSAygO4",
+            "start": 251,
+            "end": 296
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
