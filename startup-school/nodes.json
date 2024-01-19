@@ -518,12 +518,25 @@
     },
     "5d": {
         "name": "The Challenge with Consumer-Focused Startups",
-        "description": "founders frequently choose consumer-focused startup ideas due to personal familiarity as consumers themselves, but ideas are more likely to be tar pits",
+        "description": "The difficulties founders face in underestimating the high quality standards of consumer products and the crucial role of timing in the market",
         "texts": ["text1.md"],
         "video_parts": [{
             "id": "GMIawSAygO4",
             "start": 397,
             "end": 463
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "5e": {
+        "name": "Consumer Idea: Google's Example",
+        "description": "How Google grew naturally",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "GMIawSAygO4",
+            "start": 463,
+            "end": 593
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
