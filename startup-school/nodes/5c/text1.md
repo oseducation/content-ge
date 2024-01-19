@@ -1,0 +1,8 @@
+## Consumer Ideas are More Likely to be the 'Tar Pits'
+So, why do so many founders lean towards consumer ideas? It seems like these kinds of startup ideas are often more like 'tar pits' where they get stuck, but they're still really popular. Here's my take on why this happens:
+
+First off, we're all consumers ourselves. From the moment we start interacting with the world, we're using products, seeing ads, and experiencing life as customers. So naturally, when we think about solving problems, we think about issues we face personally or things that we, our friends, or family might use.
+
+Another big reason is the stories we hear and the figures we idolize in the startup world. Think about the big names like Steve Jobs or Mark Zuckerberg. These are people who created products that almost everyone uses. They're consumer-focused success stories. When you're surrounded by consumer products – like when you're watching TV, using apps, or just looking at your smartphone – it's easy to start dreaming up similar kinds of ideas.
+
+Plus, let's be real, we rarely hear people getting super excited about companies like Cisco or Oracle. These aren't the names that usually come up in casual conversations about cool startups. Most of the startup stories we're told are about consumer-facing companies. So, if you're new to the startup world or if you're just starting to think about creating a company, your first ideas are likely to be consumer-focused. It's what you know and what seems familiar.
