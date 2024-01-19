@@ -581,6 +581,20 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "5i": {
+        "name": "Understanding 'Tar Pit' Ideas in Startups",
+        "description": "Alluring consumer ideas that many try but often fail at, characterized by their emotional appeal and the difficulty founders have in pivoting away from them despite challenges",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "GMIawSAygO4",
+            "start": 818,
+            "end": 861
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+
 
 
 

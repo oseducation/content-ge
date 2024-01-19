@@ -1,0 +1,6 @@
+## Understanding 'Tar Pit' Ideas in Startups
+A 'tar pit' idea in the startup world is a specific type of consumer idea that many people try but often fail at. These ideas are tricky because they seem appealing or 'sexy,' and you're likely to receive a lot of encouragement to pursue them. This encouragement and emotional attachment can make it hard to pivot away from the idea, even when there's evidence it might not be working.
+
+The term 'tar pit' is used because these ideas have a sticky quality. If you find yourself stubbornly sticking with an idea despite facing challenges and not willing to consider changing or giving up on it, then it's more than just a bad idea; it's a tar pit. These ideas often seem like they have potential, which is why they're so alluring. Sometimes, they might even work, which adds to their deceptive appeal.
+
+The key point here is not to avoid these kinds of ideas entirely. Rather, it's about going into them with a full understanding of what you're getting into. Be aware of the potential pitfalls and be ready to critically evaluate your attachment to the idea, especially when faced with challenges or new information. It's about navigating these ideas with caution and awareness.
