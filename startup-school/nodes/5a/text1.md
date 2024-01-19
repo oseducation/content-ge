@@ -1,0 +1,7 @@
+## Understanding 'Tar Pit' Ideas in Startups
+
+Let's talk about a term in the startup world called 'tar pit' ideas. This concept is important because, surprisingly, a lot of startup ideas are very similar across different founders. When we go through thousands of startup applications, we notice many common ideas, and among these, tar pit ideas stand out. These are ideas that many founders try but often fail at, and they don't move away from them quickly enough, leading to the failure of many startups.
+
+So, why do we call them 'tar pit' ideas? Well, a tar pit in the natural world is where petroleum seeps up through the earth. It looks like a pond of water but is actually sticky tar. Animals, mistaking it for water, get stuck and often die there. This is a great metaphor for certain startup ideas. They look appealing, seem like fresh opportunities, and attract founders. But beneath the surface, these ideas are sticky and challenging, trapping founders and leading to the downfall of many startups.
+
+The reason we're talking about this is that we want to help you avoid these tar pit ideas. If you can steer clear of them, your chances of success in your startup journey are much higher. At Y Combinator, we've seen many startups get stuck in these tar pits, so we try to share these common paths of failure to help new founders avoid the same mistakes.
