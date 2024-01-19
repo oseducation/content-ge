@@ -1,0 +1,6 @@
+## The Challenge with Consumer-Focused Startups
+When it comes to creating consumer-focused products or services, there are a couple of big challenges. Firstly, people often underestimate how high the quality bar is set for consumer products. The products we use every day are really good, and we don't always think about all the other products that tried and failed to reach that level of success.
+
+The second big challenge is understanding the role of timing. In the world of consumer startups, timing can make or break your business. Sometimes, founders might not realize that their success or struggles are heavily influenced by timing – whether it's launching at the right moment when the market is ready or missing that window of opportunity.
+
+For those of us who review startup applications, one thing we often notice is a mismatch in founders' understanding of what a successful consumer product looks like. Imagine someone applying with an idea for a new social network. They might believe in their concept deeply, but they might not fully grasp how difficult it is to reach the level of the established social networks they use every day. This gap in understanding the quality and timing needed for success in the consumer market is a major hurdle for many new startups.

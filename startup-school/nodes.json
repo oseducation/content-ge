@@ -505,12 +505,25 @@
     },
     "5c": {
         "name": "Consumer Ideas are More Likely to be the 'Tar Pits'",
-        "description": "founders frequently choose consumer-focused startup ideas due to personal familiarity as consumers themselves, but ideas are more likely to be tar pits",
+        "description": "Founders frequently choose consumer-focused startup ideas due to personal familiarity as consumers themselves, but ideas are more likely to be tar pits",
         "texts": ["text1.md"],
         "video_parts": [{
             "id": "GMIawSAygO4",
             "start": 296,
             "end": 397
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "5d": {
+        "name": "The Challenge with Consumer-Focused Startups",
+        "description": "founders frequently choose consumer-focused startup ideas due to personal familiarity as consumers themselves, but ideas are more likely to be tar pits",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "GMIawSAygO4",
+            "start": 397,
+            "end": 463
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
