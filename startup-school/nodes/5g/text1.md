@@ -1,0 +1,10 @@
+## The Role of Timing: Web 2.0 
+Let's talk about the significance of timing in the startup world, particularly during the rise of Web 2.0. I believe timing played a crucial role in the success of many consumer startups during these periods.
+
+In the mid-2000s, a lot of people had just gotten broadband internet and personal computers. They were looking for new ways to use this technology and were, in a sense, a bit bored. This created a perfect environment for new online services. When you launched something cool during this time, you weren't just competing with other websites; you were competing with traditional forms of entertainment like television.
+
+Take Facebook as an example. When it launched, it wasn’t fighting for attention against a sea of social networks. Its real competition was pretty much just TV. College students, who were among the first users, found it incredibly addictive. They spent hours browsing photos, commenting, poking, and liking. It was a new and exciting way to spend time online because there wasn't much else like it.
+
+It's also interesting to note the technological landscape of that era. Most people, especially in college dorms, had personal computers, but there was usually just one TV in a common area. So naturally, people were spending more time in front of their computers. Broadband in colleges provided the perfect infrastructure for web-based services to thrive.
+
+Another thing to consider is that while there were giants in the entertainment industry battling it out on TV, the web was relatively open. There were no massive incumbents like NBC or CBS dominating the space. Yes, platforms like Myspace existed, but they weren't as omnipresent as the big TV networks. The combination of widespread hardware, connectivity, and the lack of dominant web incumbents created a fertile ground for startups in the Web 2.0 and mobile era.

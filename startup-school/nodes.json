@@ -555,6 +555,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "5g": {
+        "name": "The Role of Timing: Web 2.0",
+        "description": "The advent of broadband and personal computers created a prime environment for consumer startups, offering new online experiences at a time when traditional media dominated entertainment.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "GMIawSAygO4",
+            "start": 679,
+            "end": 818
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
