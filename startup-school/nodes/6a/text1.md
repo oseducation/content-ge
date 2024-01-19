@@ -1,0 +1,8 @@
+## Understanding the Concept of a Pivot in Startups
+The term "pivot" in the startup world often gets thrown around a lot, sometimes to the point of becoming a bit of a cliché. But let's break down what it actually means. Simply put, a pivot is just changing your idea. It's a common part of the startup process, especially in the early stages.
+
+A true pivot, in the more technical sense, usually refers to a significant change in direction for a relatively established company. This could be a company with a substantial user base, employees, and investment, deciding to completely shift its focus. A classic example is Slack. They originally started as a gaming company working on a project called Glitch. They had raised funds and had around 100 employees. Then, they made a dramatic shift to develop what we now know as Slack. That's a pivot in the truest sense.
+
+However, for most early-stage startups, especially those pre-launch or just after launch, changing ideas should feel more lightweight and almost normal. It's not uncommon to constantly refine, adjust, or even overhaul your initial idea as you learn more about your market, your users, and your own capabilities.
+
+In fact, if you're not regularly reevaluating and adapting your ideas at this stage, you might be moving too slowly. Rapid iteration and flexibility in your approach are key to finding the right path for your startup. So, when we talk about pivoting in the early stages, it's really about being agile and open to change, constantly seeking the best version of your idea as you progress.
