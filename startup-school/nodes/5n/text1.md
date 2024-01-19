@@ -1,0 +1,8 @@
+## Making Smart Pivots in Startups
+The concept of making effective pivots in the startup world often revolves around understanding the supply and demand dynamics I've discussed. The best pivots usually happen when a founding team realizes there's a high demand for a certain kind of solution, but not many other founders are working on it. Shifting from an area with a high supply of founders but low market demand to one with fewer competitors and higher demand can signify a smart pivot.
+
+Think of it like avoiding the seemingly easy, inviting path that leads to a tar pit – a trap – and instead, heading towards the tougher terrains like mountains or deserts. These are places few want to venture into, but they're also where you might find 'gold.' It's not typically found in easy, crowded spaces like the middle of a bustling city.
+
+Examples of such smart pivots include companies like Brex and Retool. They moved away from crowded, popular ideas to niche areas with high demand and less competition. This approach is encouraging to see in startups, especially in incubators like YC. Even if a startup begins with a tar pit idea, recognizing the need to pivot and walking away from that crowded space can lead to success.
+
+My advice to founders is to do thorough research, understand what the market demands, and where the supply of similar ideas is low. This understanding can help create your own luck. We want to see more founders recognize this dynamic and make strategic moves based on supply and demand. This can significantly increase your chances of success. Remember, no advisor can guarantee success, but avoiding common pitfalls and charting a unique path can set you on the right course. Be wary of advice that promises more than this.
