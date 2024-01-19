@@ -1,0 +1,10 @@
+## Tar Pit Idea Examples: Discovery Apps
+One common idea that many founders gravitate towards is creating an app for discovering new things - like restaurants, events, concerts, or videos. The typical pitch for such an app usually emphasizes how discovery is currently broken. People might say they want recommendations from friends or machine learning to find new restaurants or music because existing options like Yelp or Google aren't enough.
+
+Over time, I've come to understand a somewhat disheartening truth about these ideas. The magical, limitless place of endless new options doesn't actually exist. There's a finite number of restaurants open any given night, for instance. The desire for more or better options doesn't necessarily mean they exist. This is where the concept becomes tricky. While the world seems limitless, for physical things like restaurants or events, it's actually quite limited.
+
+There's also a misunderstanding about user preferences. While people say they want to discover new music, in practice, they often stick to popular tunes from a few familiar bands. The same goes for restaurants. Despite the allure of discovering exotic dishes, most people end up ordering familiar foods like burgers or meals from popular chains.
+
+This misalignment between what people say they want and what they actually prefer is a common trap in developing discovery-based apps. It's an honest mistake, rooted in a genuine problem, but it overlooks the reality of consumer behavior and market limitations. These types of apps often make founders emotional and defensive, thinking they've stumbled upon a unique problem or that they have a vision others don't. It's important to recognize that this is the 'tar pit' speaking, luring you into a problem space that seems inviting but is fraught with unseen challenges.
+
+So, if you're working on a discovery-focused startup, it's crucial to do thorough research and understand why similar attempts in the past haven't succeeded. It's not because previous founders were unintelligent or uncreative; it's more about acknowledging the inherent limitations and challenges in this space.

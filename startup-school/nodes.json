@@ -587,13 +587,27 @@
         "texts": ["text1.md"],
         "video_parts": [{
             "id": "GMIawSAygO4",
-            "start": 818,
-            "end": 861
+            "start": 861,
+            "end": 945
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "5j": {
+        "name": "Tar Pit Idea Examples: Discovery Apps",
+        "description": "Apps aimed at helping users discover new things, like restaurants or music, often fail due to unrealistic expectations about limitless options and a misunderstanding of actual consumer behavior",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "GMIawSAygO4",
+            "start": 945,
+            "end": 1177
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+
 
 
 
