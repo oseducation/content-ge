@@ -620,7 +620,19 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
-
+    "5l": {
+        "name": "Tar Pit Idea Examples: Web3",
+        "description": "Describes the allure and challenges of Web3 startup ideas, emphasizing the need for practical applications beyond theoretical concepts in this emerging technology field.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "GMIawSAygO4",
+            "start": 1227,
+            "end": 1298
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 
 
