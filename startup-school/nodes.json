@@ -104,7 +104,7 @@
         "texts": ["text1.md"],
         "video_parts": [{
             "id": "BUE-icVYRFU",
-            "start": 722,
+            "start": 772,
             "end": 868
         }],
         "node_type": "lecture",
@@ -478,7 +478,7 @@
         "thumbnail": ""
     },
     "5a": {
-        "name": "Understanding 'Tar Pit' Ideas in Startups",
+        "name": "Introduction to 'Tar Pit' Ideas in Startups",
         "description": "Certain appealing startup ideas can trap founders like natural tar pits trap animals, leading to frequent failures despite initial attractiveness.",
         "texts": ["text1.md"],
         "video_parts": [{
