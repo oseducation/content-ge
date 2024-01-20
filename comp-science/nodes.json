@@ -691,5 +691,13 @@
         "name": "Intro to Generative Adversarial Networks",
         "description": "Value iteration, policy iteration, model-based RL, value function approximator",
         "node_type": "parent"
+    },
+
+
+
+    "startup-school" : {
+        "name": "Intro to Startups",
+        "description": "What is a startup? How to start a startup?",
+        "node_type": "parent"
     }
 }
