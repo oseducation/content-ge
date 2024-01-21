@@ -1,0 +1,11 @@
+## The Pivot Story of Segment (YC S11)
+
+Segment's journey in the startup world is quite a tale of persistence and smart pivoting. They were part of YC Summer '11 and went through several pivots over the years, not even pivoting during their batch. Now, it stands as a billion-dollar company in data infrastructure, showing how valuable a well-timed pivot can be.
+
+Before they found their niche, Segment started with a classroom feedback tool. This tool allowed students to notify their professor if they were confused about a lesson. In my view, this idea wasn't huge in terms of market potential. Their founder/market fit was average, around 5 out of 10, as they were students themselves and understood their user base but weren't education experts. They developed the tool quickly, indicating ease of starting, and the early market feedback was pretty good – professors liked it, and several schools adopted it.
+
+However, this idea didn’t take off as they hoped, and it took years for them to move on. It's fortunate they did because what they're doing now with Segment is impressive. The segment focuses on data collection, a tool that initially didn’t scream "huge potential." It's a JavaScript tool used on websites to connect to other tools. Although not obviously a future publicly-traded company, the founder/market fit was excellent this time. The founders had extensive experience in analytics, making them well-suited for this venture.
+
+Segment was easy to start. They built it, open-sourced it, and initially gave it away for free. The market response was overwhelmingly positive, with people actively asking for more support and features for this tool. They didn't plan for this to become their main product, but the demand was so high that it naturally turned into their primary focus.
+
+This pivot by Segment is a prime example of how listening to market feedback and being flexible can lead to great success. When the market is practically begging for your product, that's a sign you're onto something big. Segment's ability to adapt and evolve eventually led them to where they are today, a successful pivot story indeed.

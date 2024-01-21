@@ -788,6 +788,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "6k": {
+        "name": "The Pivot Story of Segment (YC S11)",
+        "description": "The Pivot Story of Magic (YC S11)",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "8pNxKX1SUGE",
+            "start": 1498,
+            "end": 1612
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
