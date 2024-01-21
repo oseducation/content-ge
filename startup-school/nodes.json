@@ -697,6 +697,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "6d": {
+        "name": "Pivoting to Product-Market Fit",
+        "description": "Sometimes you need to pivot to find product-market fit, and sometimes you need to pivot to find a better product-market fit",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "8pNxKX1SUGE",
+            "start": 537,
+            "end": 609
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 }
