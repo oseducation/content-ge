@@ -671,7 +671,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "6b": {
+        "name": "When Should You Pivot?",
+        "description": "Pivoting is often necessary when your idea is not working, but it can also be a good idea to pivot when your idea is working but you have a better idea.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "8pNxKX1SUGE",
+            "start": 114,
+            "end": 291
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
-
 
 }
