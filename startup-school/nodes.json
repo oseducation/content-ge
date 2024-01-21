@@ -762,6 +762,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "6i": {
+        "name": "The Pivot Story of Retool (YC W17)",
+        "description": "The Pivot Story of Retool (YC W17)",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "8pNxKX1SUGE",
+            "start": 1287,
+            "end": 1393
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
