@@ -723,6 +723,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "6f": {
+        "name": "The Best Time to Pivot",
+        "description": "The best time to pivot is when you feel stuck after trying for months, have an impractical initial idea, or deep down know your current path isn't working. It's about finding a balance between not changing too frequently and not clinging to an unworkable idea for too long.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "8pNxKX1SUGE",
+            "start": 881,
+            "end": 1001
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
