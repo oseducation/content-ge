@@ -684,6 +684,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "6c": {
+        "name": "Why Founders Delay to Pivot?",
+        "description": "Founders often delay pivoting due to the sunk cost fallacy, the fear of failure, and the desire to avoid the difficult process of starting over.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "8pNxKX1SUGE",
+            "start": 291,
+            "end": 537
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 }
