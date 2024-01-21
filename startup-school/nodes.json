@@ -710,6 +710,20 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "6e": {
+        "name": "How to Find a Better Idea",
+        "description": "To find a better startup idea, choose something that genuinely excites you and plays to your strengths. It should be a concept you can develop and test quickly, and it's important to ensure it aligns with your goals, whether or not that includes seeking venture capital.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "8pNxKX1SUGE",
+            "start": 609,
+            "end": 881
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
+
 
 }
