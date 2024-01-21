@@ -192,7 +192,7 @@
         "thumbnail": ""
     },
     "4b": {
-        "name": "A founder-market fit",
+        "name": "A Founder-Market Fit",
         "description": "What is a founder-market fit",
         "texts": ["text1.md"],
         "video_parts": [{
@@ -731,6 +731,19 @@
         "video_parts": [{
             "id": "8pNxKX1SUGE",
             "start": 881,
+            "end": 1001
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "6g": {
+        "name": "How to Evaluate Startup Ideas",
+        "description": "Evaluate startup ideas with: Potential Size, Founder/Market Fit, Ease of Getting Started, Early Market Feedback",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "8pNxKX1SUGE",
+            "start": 1001,
             "end": 1001
         }],
         "node_type": "lecture",
