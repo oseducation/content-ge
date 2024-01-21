@@ -775,6 +775,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "6j": {
+        "name": "The Pivot Story of Magic (YC W15)",
+        "description": "The Pivot Story of Magic (YC W15)",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "8pNxKX1SUGE",
+            "start": 1287,
+            "end": 1498
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
