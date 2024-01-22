@@ -853,6 +853,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "7e": {
+        "name": "Where Do Great Startup Ideas Come From: Takeaways",
+        "description": "Great startup ideas often stem from personal experience with a problem, coupled with a contrarian approach to existing market solutions. Success lies in not being deterred by skepticism or existing products, focusing instead on execution and being open to the potential of an initially perceived small market.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Jcuqq48CNj8",
+            "start": 1108,
+            "end": 1257
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
