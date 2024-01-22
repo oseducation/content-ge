@@ -1,28 +1,5 @@
 
-
-
-
- the last thing I want to bring up in this section about evaluating co-founders is trial projects
-13:45
-the only way to tell if you work well together with someone is to try working together so Atco funer matching we
-13:52
-recommend that before jumping into a full-blown co-founder relationship you work on a trial project together first essentially you agree beforehand on a
-13:59
-timeline usually two to four weeks a tangible project goal and scope and also who owns the work at the end it's a very
-14:05
-structured way to try working together with some mutual expectations I do want to say though remember at the end of the
-14:10
-day just like with any other risks you take in life you will eventually need to take a leap of faith and that's
-14:16
-especially true when you're starting a startup which is risky in all sorts of ways so find someone you're willing to
-14:21
-take a leap of faith with yeah absolutely and you know we talk a little bit about like de-risking things and
-14:26
-like a lot of these questions we talked about earlier are ways to de-risk that co-founder relationship but again like do risk it until the point you can and
-14:33
-then and then you just gotta go so let's say you found someone you want to work with you know using co-founder matching
-14:38
-or one of these other ways we talked about so now I want to move on to an important topic which is how to split
+so let's say you found someone you want to work with you know using co-founder matching or one of these other ways we talked about so now I want to move on to an important topic which is how to split
 Spliting equity
 14:44
 Equity with your co-founders so the general YC advice is that by default you should just split Equity equally so
