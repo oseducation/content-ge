@@ -866,6 +866,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "8a": {
+        "name": "The Importance of Having a Co-Founder",
+        "description": "Meaning of a co-founder, and why it's important to have one",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "A4SLDQDXdp0",
+            "start": 41,
+            "end": 219
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
