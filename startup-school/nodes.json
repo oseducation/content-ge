@@ -840,6 +840,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "7d": {
+        "name": "Where Do Great Startup Ideas Come From: Stripe",
+        "description": "Stipe's Idea",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Jcuqq48CNj8",
+            "start": 751,
+            "end": 1108
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
