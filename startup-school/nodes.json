@@ -1009,6 +1009,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "8l": {
+        "name": "Navigating Personalities and Communication in Co-Founder Relationships",
+        "description": "Effective co-founder relationships require understanding each other's stress responses, communication styles, and ways of handling feedback. It's about ensuring open dialogue, respecting different problem-solving approaches, and being comfortable with both giving and receiving praise",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "A4SLDQDXdp0",
+            "start": 1580,
+            "end": 1744
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
