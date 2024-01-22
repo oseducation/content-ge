@@ -1,42 +1,6 @@
 
-so let's say you found someone you want to work with you know using co-founder matching or one of these other ways we talked about so now I want to move on to an important topic which is how to split
-Spliting equity
-14:44
-Equity with your co-founders so the general YC advice is that by default you should just split Equity equally so
-14:49
-there's lots of options here but you can kind of start from that Baseline and the reason for this is because you know you
-14:55
-would like to be making equal contributions going forward and you should both be equally motivated to work
-15:01
-hard for a very long time you should value your co-founder and if you don't like why are they your co-founder but
-15:07
-the Divya I came up with the idea okay ideas don't matter um ideas are cheap right and if things
-15:13
-go well first of all the idea is very likely to change over time is you listen to your users but if things go well
-15:19
-you're going to be working together on this for the next seven to ten years or more or more exactly so you know the
-15:26
-point in time that you came up with the idea is just such a small part of my idea right that makes sense to me so
-15:31
-here are some other really common bad reasons we hear for splitting co-founder Equity unequally so of course I came up
-15:38
-with the idea I started working on this idea before my co-founder did my co-founder took a salary and I didn't
-15:43
-I'm older and I'm more experienced than my co-founder we need someone to tie break when we have arguments so there is
-15:50
-a good point here about needing a tiebreaker but we'll talk about that in a second it doesn't need to be done through Equity exactly I launched my MVP
-15:56
-without my co-founder my co-founder agreed to their smaller share another one is you know I raise so many thousand
-16:03
-dollars before my co-founder joined so even if you think you got a good deal now this could potentially result in
-16:08
-resentment later down the line yeah you shouldn't be trying to get a good deal from your co-founder like it kind of starts the relationship off on a bad
-16:13
-foot yeah so the bottom line here is all of the work is still ahead of you you
-16:19
-both need to be happy and motivated for a long long time startup outcomes are pretty bimodal so don't jeopardize your
-16:26
-co-founding relationship over a few percents alright so we've talked about how to get set up with a founding team it is time to get to work now we're
+
+alright so we've talked about how to get set up with a founding team it is time to get to work now we're
 How to work together
 16:33
 going to share some stories and best practices on how to work with your co-founders when it comes to teamwork one thing we often hear is that

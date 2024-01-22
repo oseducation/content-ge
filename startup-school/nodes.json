@@ -944,6 +944,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "8g": {
+        "name": "How to Fairly Split Equity with Your Co-Founder",
+        "description": "In most of the cases just split equally",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "A4SLDQDXdp0",
+            "start": 880,
+            "end": 989
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
