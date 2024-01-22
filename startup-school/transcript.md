@@ -1,60 +1,10 @@
 
-
+## How to work together
 alright so we've talked about how to get set up with a founding team it is time to get to work now we're
-How to work together
-16:33
-going to share some stories and best practices on how to work with your co-founders when it comes to teamwork one thing we often hear is that
-16:40
-communication is extremely important Divya do you have any advice for our Founders on how to keep clear and open
-16:45
-lines of communication yeah this is a great question so communication is so important and it's as important as it is
-16:51
-in any close relationship in your life so we talked about this earlier but you know a co-founder relationship is it's
-16:57
-not a stretch to think of it as a marriage yeah and I imagine that setting up these communication channels starts
-17:02
-very early in the relationship like almost before you start working together you need to align on certain
-17:07
-expectations right I've seen co-founders enter into relationships with very different pictures of what it looks like
-17:14
-to her together from anything from you know how many hours you worked or how much salary you're going to draw to how
-17:20
-many meetings a week you plan to have you're so right cat talking about expectations is one of the first ways to
-17:26
-really test out your communication with your co-founder and make sure that you can actually have hard or uncomfortable
-17:31
-conversations while still being productive so at my first startup we initially had four Founders um all
-17:37
-friends still friends still friends still still very good friends um and there were a couple of topics
-17:43
-that we should have discussed early on that just became bigger problems later than they needed to be
-17:49
-um so first we found out pretty early on about six months in that one of our co-founders he kind of had a timeline in
-17:54
-his mind for how long he would wait for the product to go viral um it was a totally reasonable
-18:00
-expectation but it's not something we'd really discuss so about six months into our startup Journey he was getting very
-18:05
-frustrated with the lack of traction and um it kind of caught us all by surprise
-18:10
-since we hadn't talked about it and you know it was something that just kind of built up over over time and he left the
-18:16
-company pretty abruptly another topic that we should have discussed earlier was about finances and how long we could
-18:23
-each afford to go with little to no salary so there was a little bit of a mismatch with the founders on this of course everyone's financial situation is
-18:29
-different this put a little bit of unexpected pressure on the company at some at one point it kind of came out of
-18:34
-nowhere it felt like it came out of nowhere we ended up feeling like we needed to raise we started considering some like low ball Aqua higher offers
-18:42
-um and while we didn't end up taking any of these deals I think if we'd known sooner we probably could have made some
-18:47
-decisions earlier on to avoid these distractions and so just these conversations would have been really helpful to have had up front gotcha yeah
-18:54
-these scenarios seem pretty common absolutely and it'd be really helpful to discuss these things in advance do you
-Topics to discuss before committing
-18:59
-have a list of topics you recommend that Founders discuss with their co-founders before committing yeah so this list is
+going to share some stories and best practices on how to work with your co-founders when it comes to teamwork one thing we often hear is that communication is extremely important Divya do you have any advice for our Founders on how to keep clear and open lines of communication yeah this is a great question so communication is so important and it's as important as it is in any close relationship in your life so we talked about this earlier but you know a co-founder relationship is it's not a stretch to think of it as a marriage yeah and I imagine that setting up these communication channels starts very early in the relationship like almost before you start working together you need to align on certain expectations right I've seen co-founders enter into relationships with very different pictures of what it looks like to her together from anything from you know how many hours you worked or how much salary you're going to draw to how many meetings a week you plan to have you're so right cat talking about expectations is one of the first ways to really test out your communication with your co-founder and make sure that you can actually have hard or uncomfortable conversations while still being productive so at my first startup we initially had four Founders um all friends still friends still friends still still very good friends um and there were a couple of topics that we should have discussed early on that just became bigger problems later than they needed to be um so first we found out pretty early on about six months in that one of our co-founders he kind of had a timeline in his mind for how long he would wait for the product to go viral um it was a totally reasonable expectation but it's not something we'd really discuss so about six months into our startup Journey he was getting very frustrated with the lack of traction and um it kind of caught us all by surprise since we hadn't talked about it and you know it was something that just kind of built up over over time and he left the company pretty abruptly another topic that we should have discussed earlier was about finances and how long we could each afford to go with little to no salary so there was a little bit of a mismatch with the founders on this of course everyone's financial situation is different this put a little bit of unexpected pressure on the company at some at one point it kind of came out of nowhere it felt like it came out of nowhere we ended up feeling like we needed to raise we started considering some like low ball Aqua higher offers um and while we didn't end up taking any of these deals I think if we'd known sooner we probably could have made some decisions earlier on to avoid these distractions and so just these conversations would have been really helpful to have had up front gotcha yeah these scenarios seem pretty common absolutely and it'd be really helpful to discuss these things in advance do you
+
+## Topics to discuss before committing
+do you have a list of topics you recommend that Founders discuss with their co-founders before committing yeah so this list is
 19:05
 by no means exhaustive but here are some good ones to start the conversation so one is um how much do you want to
 19:12

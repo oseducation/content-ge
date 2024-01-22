@@ -957,6 +957,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "8h": {
+        "name": "Effective Collaboration with Your Co-Founder",
+        "description": "Effective collaboration with a co-founder hinges on open, honest communication and aligning on key expectations such as work hours, financial situations, and personal goals early in the relationship. This helps prevent misunderstandings and ensures a productive working dynamic.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "A4SLDQDXdp0",
+            "start": 989,
+            "end": 1139
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
