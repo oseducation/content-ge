@@ -801,6 +801,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "7a": {
+        "name": "Three Common Themes in Successful Startup Ideas",
+        "description": "Three Common Themes in Successful Startup Ideas: Timing, Idea and Market",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Jcuqq48CNj8",
+            "start": 17,
+            "end": 70
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
