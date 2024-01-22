@@ -1022,6 +1022,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "8m": {
+        "name": "Key Habits for a Strong Co-Founder Relationship",
+        "description": "Maintaining a strong co-founder relationship involves regular one-on-ones, open bi-directional feedback, addressing problems early, engaging coaches for interpersonal issues, normalizing failure, and being comfortable with disagreement while committing to decisions together.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "A4SLDQDXdp0",
+            "start": 1744,
+            "end": 1893
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
