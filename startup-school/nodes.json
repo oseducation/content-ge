@@ -892,6 +892,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "8c": {
+        "name": "Exploring YC's Co-Founder Matching Platform",
+        "description": "Exploring YC's Co-Founder Matching Platform",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "A4SLDQDXdp0",
+            "start": 279,
+            "end": 497
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
