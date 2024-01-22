@@ -983,6 +983,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "8j": {
+        "name": "Importance of Trust in Co-Founder Relationships",
+        "description": "Trust in co-founder relationships is crucial for open communication, effective decision-making, and creating a safe space for risk-taking and growth. It's foundational for a successful partnership and navigating the challenges of a startup together",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "A4SLDQDXdp0",
+            "start": 1207,
+            "end": 1441
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
