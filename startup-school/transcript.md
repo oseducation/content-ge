@@ -1,54 +1,8 @@
-## Building trust
+## How to setup for quick decision making
 
-aside from aligning on expectations we hear that building trust is another key element of a co-founder relationship I've personally seen this at the root of lots of relationship issues not just for co-founders but for friendships family relationships Etc we see co-founder breakups all the time at YC and a lot of them stem from a lack of trust that grows out of control Divya how has trust played a role in your co-founder relationship yeah so trust is a really big one one of the things I haven't mentioned until now is that for both my startups one of my co-founders is my husband still still my husband you're gonna ask um and for my second company he was my only co-founder it was just the two of us and one of the reasons we were able to make decisions so quickly and draw such clear lines of ownership was that we already had so much trust built up from being married but also from having run a company together earlier um you know of course not everyone comes in with this much underlying trust but having that trust made the co-founder relationship very very functional I think previously existing relationships with your co-founders could go both ways right of course personal relationships don't always translate into functional co-founder relationships yeah that's 100 True a previously existing personal relationship um could totally go both ways um and let me give you an example of one that did not go so well so um last batch last YC batch we had a company apply um we we thought the founder was great and we said why don't you come back with a co-founder and so um he went and he found a friend as someone who he'd been very good friends with for a long time they hadn't worked together he convinced him to join the companies they came back they started the batch um the CEO had been running the company for about six months and to him it really felt like his company oh no yeah yeah so he brought in this friend and from day one he just kind of micromanaged him and didn't give him enough space to succeed or fail at the projects He was responsible for and this is an important one right he would kind of jump in before the project had time to work because at a startup like things take time right and everyone needs a little bit of space and they need that trust um and so he would jump in and he would just kind of berate his co-founder when things were starting to go wrong and when you trust someone like you give them this room to fail right and the psychological safety to make mistakes in this case the co-founder relationship ended with the two so you know we got a slack message one morning and they were like the two of us we were in a bar midnight last night with a bunch of our friends the CEO was like berating his co-founder and then you know the co-founder resigned abruptly the next morning so it's just not a good situation that sounds really rough yeah I would not want to be in a situation like that we do have a couple tips to help with building trust so number one is is trust people by default trust them until they lose your trust not vice versa a lot of good Founders tell us they do this because when you operate the other way around like in the example Olivia just gave people end up feeling micromanaged they feel not trusted and all this negativity will continue to build up if you say you're gonna do something do it if you're not gonna get it done that's fine like startups run super fast you will often have more things than you can finish on your plate but if you're not going to do it you should communicate early often and honestly create space for mistakes you are going to make mistakes all the time both you and your co-founder so don't say things like I told you so it's important to learn from mistakes together rather than assigning blame when something goes wrong and lastly the more time you can spend physically together the better this lowers the friction to asking questions talking about the little things and that can expedite making progress on both your startup and your relationship communicating in person can also help you learn or get a better understanding for the way your co-founders and that can help you build trust as well thanks Kat those are great and um you know they can kind of build a really good foundation for building a trusting relationship um so in addition to that underlying trust that you're going to be
+in addition to that underlying trust that you're going to be continually working at um there might need to be some structural roles and responsibilities that are defined to keep decision making really fast so on my first company we made the mistake of trying to keep everything equal um and there are many of you there are four of us yeah um so you know we talked earlier about how splitting Equity equally is a good idea and like totally agree with that the equity was not the problem the first kind of yellow flag that came up was that we decided to not have any titles like we all called ourselves co-founder um and so in and of itself that wasn't really a problem but there's kind of two issues with this one is as it correlated that we tried to make all of our decisions by consensus consensus meaning you all had to agree on the decision to move forward yeah for like any decision um so I don't think I need to go into it with this group on my why that's a bad idea but at the time it felt really equal and it felt Equitable but also the the fact that we had no type no titles was a little bit of a yellow flag because it was an early indicator that the team couldn't have hard conversations and we couldn't make decisions when there was disagreement right and so it was like the consensus and the lack of titles were like both kind of symptoms of the same thing you know having to make decisions by consensus was ultimately disastrous like we would just spin we would get stuck in gridlock um so let's talk about some ways to protect against this so you all don't repeat my mistake yeah so as Divya mentioned having clear titles or at least naming one person the CEO can certainly help none of this co-ceo stuff it helps break ties and disagreement and it's also just really good practice for having hard conversations where two people may not agree not being able to pick a CEO could be a sign that you're not able to make hard decisions together in addition to titles it's important to establish a few other things that can help with decision making so clear areas of ownership within the company who is the final decision maker for different types of decisions this could be a different person in different functions but it's important to know who it is what happens if the other person degrees disagrees slightly versus strongly maybe the way you deal with it is different in those cases and finally it can be helpful to set up a structure for accountability so once you've made your decision at some point you should check back in to see how that decision played out and whether anything needs to change in the process moving forward clear areas of ownership are very very important in a startup and a business and in addition in order to make that work 
 
-How to setup for quick decision making
-24:04
-continually working at um there might need to be some structural roles and responsibilities that are defined to keep decision making
-24:11
-really fast so on my first company we made the mistake of trying to keep everything equal
-24:17
-um and there are many of you there are four of us yeah um so you know we talked earlier about how splitting Equity equally is a good
-24:24
-idea and like totally agree with that the equity was not the problem the first kind of yellow flag that came up was
-24:29
-that we decided to not have any titles like we all called ourselves co-founder um and so in and of itself that wasn't
-24:36
-really a problem but there's kind of two issues with this one is as it correlated that we tried to make all of our
-24:42
-decisions by consensus consensus meaning you all had to agree on the decision to move forward yeah for like any decision
-24:49
-um so I don't think I need to go into it with this group on my why that's a bad idea but at the time it felt really equal and it felt Equitable but also the
-24:56
-the fact that we had no type no titles was a little bit of a yellow flag because it was an early indicator that
-25:01
-the team couldn't have hard conversations and we couldn't make decisions when there was disagreement
-25:07
-right and so it was like the consensus and the lack of titles were like both kind of symptoms of the same thing you
-25:13
-know having to make decisions by consensus was ultimately disastrous like we would just spin we would get stuck in gridlock
-25:19
-um so let's talk about some ways to protect against this so you all don't repeat my mistake yeah so as Divya mentioned having clear titles or at
-25:26
-least naming one person the CEO can certainly help none of this co-ceo stuff it helps break ties and disagreement and
-25:33
-it's also just really good practice for having hard conversations where two people may not agree not being able to
-25:38
-pick a CEO could be a sign that you're not able to make hard decisions together in addition to titles it's important to
-25:45
-establish a few other things that can help with decision making so clear areas of ownership within the company who is
-25:50
-the final decision maker for different types of decisions this could be a different person in different functions but it's important to know who it is
-25:57
-what happens if the other person degrees disagrees slightly versus strongly maybe
-26:02
-the way you deal with it is different in those cases and finally it can be helpful to set up a structure for
-26:07
-accountability so once you've made your decision at some point you should check back in to see how that decision played
-26:13
-out and whether anything needs to change in the process moving forward clear areas of ownership are very very
-26:18
-important in a startup and a business and in addition in order to make that work it's also very important to
+it's also very important to
 Personality and communication styles
 26:24
 understand each other's personality and communication Styles and so you know here are some tips on that so one is
