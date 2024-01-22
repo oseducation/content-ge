@@ -905,6 +905,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "8d": {
+        "name": "How to Choose the Right Co-Founder",
+        "description": "When choosing a co-founder, focus on aligning goals, values, and stress management approaches, ensuring effective communication, and understanding financial expectations and commitment levels. Compatibility in these areas is more crucial than complementary skills",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "A4SLDQDXdp0",
+            "start": 604,
+            "end": 755
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
