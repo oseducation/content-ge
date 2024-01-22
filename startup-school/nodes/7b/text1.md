@@ -1,4 +1,4 @@
-## Airbnb's Idea
+## Where Do Great Startup Ideas Come From: Airbnb
 
 Let's dive into the story of Airbnb. It's interesting to note how perspectives have changed over time. Before Airbnb became popular, platforms like VRBO and Couchsurfing were already in the market. I remember thinking of Airbnb as just another entrant in a crowded space. But they approached things differently.
 

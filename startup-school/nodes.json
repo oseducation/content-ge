@@ -827,6 +827,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "7c": {
+        "name": "Where Do Great Startup Ideas Come From: Coinbase",
+        "description": "Coinbase's Idea",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Jcuqq48CNj8",
+            "start": 455,
+            "end": 751
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
