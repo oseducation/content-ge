@@ -1,29 +1,8 @@
 
 
-Technical co-founder vs. Dev shops
-12:38
-really think seriously about getting a technical co-founder and one of the most common questions we get from non-technical co-founders is I can't
-12:45
-find a technical co-founder what should I do can't I just hire a Dev shop to help me build out my product the short
-12:51
-answer is please don't do that like if you really can't find a technical co-founder you should learn how to code
-12:57
-Dev shops pose a ton of challenges especially for really early stage
-13:02
-companies you know not only are they costly from day one but it can be extremely challenging to iterate quickly
-13:08
-as you're learning from your users you know Dev shops are designed to ship clear deliverables and as an early stage
-13:15
-startup like you don't have a clear deliverable like you're kind of like feeling around in the dark and building
-13:21
-for your users and the requirements are changing on the Fly they also don't care about your user they're just like I'm
-13:26
-gonna do this thing you're gonna pay me exactly and um you know iteration can just become really clunky ineffective
-13:33
-and again very expensive um so in short a technical co-founder is a an amazing investment early on if you
-Trial projects
-13:40
-can find one the last thing I want to bring up in this section about evaluating co-founders is trial projects
+
+
+ the last thing I want to bring up in this section about evaluating co-founders is trial projects
 13:45
 the only way to tell if you work well together with someone is to try working together so Atco funer matching we
 13:52
