@@ -814,6 +814,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "7b": {
+        "name": "Where Do Great Startup Ideas Come From: Airbnb",
+        "description": "Airbnb's Idea",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Jcuqq48CNj8",
+            "start": 70,
+            "end": 455
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
