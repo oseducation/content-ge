@@ -1113,7 +1113,17 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "10a": {
+        "name": "How Much Equity to Give Your Co-founder",
+        "description": "How Much Equity to Give Your Co-founder",
+        "texts": ["text1.md"],
+        "videos": ["9NhEBVPlJs4"],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
+
 
 
 
