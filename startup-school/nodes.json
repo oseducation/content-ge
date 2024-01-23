@@ -1100,7 +1100,21 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },    
+    "9f": {
+        "name": "More Tips for Finding the Right Co-Founder",
+        "description": "More Tips for Finding the Right Co-Founder",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "dlfjs_eEEzs",
+            "start": 349,
+            "end": 524
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
+
 
 
 
