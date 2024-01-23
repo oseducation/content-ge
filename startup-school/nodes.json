@@ -1048,6 +1048,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "9b": {
+        "name": "Choosing a Co-Founder: Skills vs. Compatibility",
+        "description": "Do not value skills over co-founder compatibility",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "dlfjs_eEEzs",
+            "start": 49,
+            "end": 117
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
