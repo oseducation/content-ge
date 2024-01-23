@@ -1074,6 +1074,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "9d": {
+        "name": "The Risks of Avoiding Conflict in Co-Founder Relationships",
+        "description": "The Risks of Avoiding Conflict in Co-Founder Relationships",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "dlfjs_eEEzs",
+            "start": 183,
+            "end": 301
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
