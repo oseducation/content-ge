@@ -1035,6 +1035,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "9a": {
+        "name": "The Importance of Documenting Co-Founder Agreements",
+        "description": "Write down everything you agree on",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "dlfjs_eEEzs",
+            "start": 15,
+            "end": 49
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
