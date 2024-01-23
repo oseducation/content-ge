@@ -1,49 +1,8 @@
 
-How should the CEO set up a company?
-5:01
-how should the ceo set up a company so
-5:04
-that if this battle
-5:06
-you know if there is a co-founder fight
-5:08
-it's it's not fatal to the company the
-5:10
-closest to equal you can get the better
-5:12
-because it avoids this oh this person
-5:14
-has 10 percent more so it's their
-5:15
-company you see all this drama that
-5:17
-happens over equity split so
-5:19
-equal is good however here's a pro tip
-5:22
-for you
-5:23
-a straight 50 50 deadlock
-5:26
-is rough and we see that kill companies
-5:28
-a lot and so it might be reasonable
-5:32
-for the ceo to have one extra share
-5:34
-so you effectively have the same
-5:36
-ownership your equal co-founders but
-5:38
-that one extra share is you agreeing in
-5:40
-writing early that in the event of a
-5:42
-50-50 deadlock
-5:46
-there's a tiebreaker vote dalton before
-5:48
-we close
+## How should the CEO set up a company?
+how should the ceo set up a company so that if this battle you know if there is a co-founder fight it's it's not fatal to the company the closest to equal you can get the better because it avoids this oh this person has 10 percent more so it's their company you see all this drama that happens over equity split so equal is good however here's a pro tip for you a straight 50 50 deadlock is rough and we see that kill companies a lot and so it might be reasonable for the ceo to have one extra share so you effectively have the same ownership your equal co-founders but that one extra share is you agreeing in writing early that in the event of a 50-50 deadlock there's a tiebreaker vote 
+
+dalton before we close
 Tactical tips for folks looking for co-founders?
 5:49
 what are some tactical tips you give

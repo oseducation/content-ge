@@ -1087,6 +1087,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "9e": {
+        "name": "Setting Up a Company: Equity and Decision Making",
+        "description": "Setting Up a Company: Equity and Decision Making",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "dlfjs_eEEzs",
+            "start": 301,
+            "end": 349
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
