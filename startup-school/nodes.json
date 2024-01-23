@@ -1061,6 +1061,19 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "9c": {
+        "name": "Handling Co-Founder Conflicts",
+        "description": "Handling Co-Founder Conflicts",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "dlfjs_eEEzs",
+            "start": 117,
+            "end": 183
+        }],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 
