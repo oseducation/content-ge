@@ -122,10 +122,10 @@
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
-        "thumbnail": ""
+        "thumbnail": "/images/nodes/startup-school/Deciding-When-to-Start-Your-Own-Company.png"
     },
 
-    
+
     "3a": {
         "name": "Understanding the Value of FAANG Jobs for Aspiring Technical Founders",
         "description": "Aspiring founders should critically assess the benefits and limitations of working at FAANG companies in relation to their entrepreneurial goals, differentiating these roles from traditional employment paths",
@@ -345,7 +345,7 @@
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
-        "thumbnail": ""
+        "thumbnail": "/images/nodes/startup-school/Finding-Startup-Ideas-Naturally.png"
     },
     "4n": {
         "name": "Strategies for Coming Up with Startup Ideas: What your Team Good at",
@@ -358,7 +358,7 @@
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
-        "thumbnail": ""
+        "thumbnail": "/images/nodes/startup-school/Strategies-for-Coming-Up-with-Startup-Ideas--What-your-Team-Good-at.png"
     },
     "4o": {
         "name": "Strategies for Coming Up with Startup Ideas: Starting from Personal Experience",
@@ -657,7 +657,7 @@
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
-        "thumbnail": ""
+        "thumbnail": "/images/nodes/startup-school/Making-Smart-Pivots-in-Startups.png"
     },
     "6a": {
         "name": "Understanding the Concept of a Pivot in Startups",
@@ -735,7 +735,7 @@
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
-        "thumbnail": ""
+        "thumbnail": "/images/nodes/startup-school/The-Best-Time-to-Pivot.png"
     },
     "6g": {
         "name": "How to Evaluate Startup Ideas",
@@ -748,7 +748,7 @@
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
-        "thumbnail": ""
+        "thumbnail": "/images/nodes/startup-school/How-to-Evaluate-Startup-Ideas.png"
     },
     "6h": {
         "name": "The Pivot Story of Brex (YC W17)",
@@ -865,7 +865,7 @@
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
-        "thumbnail": ""
+        "thumbnail": "/images/nodes/startup-school/Where-Do-Great-Startup-Ideas-Come-From--Takeaways.png"
     },
     "8a": {
         "name": "The Importance of Having a Co-Founder",
@@ -1121,7 +1121,7 @@
         "videos": ["9NhEBVPlJs4"],
         "node_type": "lecture",
         "parent_id": "startup-school",
-        "thumbnail": ""
+        "thumbnail": "/images/nodes/startup-school/How-Much-Equity-to-Give-Your-Co-founder.png"
     }
 
 }
