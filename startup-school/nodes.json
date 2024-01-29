@@ -1131,6 +1131,142 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "11b": {
+        "name": "John Gottman's Marriage Research & Startup Relationships",
+        "desctiption": "Introduction to John Gottman's marriage research, the similarities between his findings and startup relationships, and the common topics of disagreement.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "30a5yFBd7Fo",
+                "start": 14,
+                "end": 153
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "11c": {
+        "name": "Four Major Things to Avoid When Fighting with Co-founders",
+        "desctiption": "Discussion of John Gottman's Four Horsemen; criticism, contempt, defensiveness, and stonewalling, which can indicate serious trouble in relationships, including those in startups.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "30a5yFBd7Fo",
+                "start": 153,
+                "end": 262
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "11d": {
+        "name": "Planning for Co-founder disagreements: Divide and Conquer",
+        "desctiption": "The significance and method of dividing responsibilities and decisions amongst the founders and team members in a startup, and how this helps in avoiding issues.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "30a5yFBd7Fo",
+                "start": 262,
+                "end": 483
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "11e": {
+        "name": "Planning for Co-founder disagreements: Understanding Each Other's Attachment Style",
+        "desctiption": "The importance of understanding one's and their co-founders' attachment style to ensure better and smoother communication and problem-solving.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "30a5yFBd7Fo",
+                "start": 483,
+                "end": 664
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "11f": {
+        "name": "Planning for Co-founder disagreements: Document the Process",
+        "desctiption": "The role of having a documented, pre-agreed process to handle disagreements, which provides a rational and less hostile approach to resolving issues.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "30a5yFBd7Fo",
+                "start": 664,
+                "end": 785
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "11g": {
+        "name": "Planning for Co-founder disagreements: Non-violent Communication for Honest Feedback",
+        "desctiption": "Highlighting the importance of using non-violent communication methods for delivering feedback and making requests to effectively communicate needs without insulting or criticizing.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "30a5yFBd7Fo",
+                "start": 785,
+                "end": 1368
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "11h": {
+        "name": "Paying down Emotional Debt Regularly",
+        "desctiption": "The concept of 'emotional debt' and the importance of paying it down regularly through constant and transparent communication and resolution of issues.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "30a5yFBd7Fo",
+                "start": 1368,
+                "end": 1590
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "11i": {
+        "name": "How to Work Together: Conclusion and Final Tips",
+        "desctiption": "Summarizes the main points of the talk and offers final tips for effectively managing relationships and disagreements in startups.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "30a5yFBd7Fo",
+                "start": 1590,
+                "end": 1667
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 }
