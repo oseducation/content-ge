@@ -1122,6 +1122,15 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": "/images/nodes/startup-school/How-Much-Equity-to-Give-Your-Co-founder.png"
+    },
+    "11a": {
+        "name": "What Is Your Attachment Style?",
+        "description": "Attachment theory refers to a set of ideas formulated by psychologists in the 1960s that gives us an exceptionally useful guide to how we behave in relationships. Knowing whether we are secure, anxious or avoidant in our attachment patterns gives us a vocabulary with which to get on top of some very tricky dynamics and helps us grow into more predictable and more joyful companions in love.",
+        "texts": ["text1.md"],
+        "videos": ["2s9ACDMcpjA"],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 }
