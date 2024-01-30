@@ -1267,6 +1267,177 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    
+    "12a": {
+        "name": "Importance of Talking to Users Early and Continuously",
+        "desctiption": "Why it's essential to frequently interact with future users, even before having a product.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "z1iF1c8w5Lg",
+                "start": 42,
+                "end": 110
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "12b": {
+        "name": "Example of Strong Founder-to-User Connection in Airbnb",
+        "desctiption": "Story from Airbnb's early days to illustrate how establishing a strong connection with users can provide valuable product feedback and prove beneficial for a startup's growth.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "z1iF1c8w5Lg",
+                "start": 114,
+                "end": 203
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "12c": {
+        "name": "Process of Identifying and Reaching Out to Potential Users",
+        "desctiption": "Whom founders should talk to, from personal connections to complete strangers, and how to reach them. An example of a hypothetical carbon emissions startup.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "z1iF1c8w5Lg",
+                "start": 203,
+                "end": 358
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "12d": {
+        "name": "Conducting Effective User Interviews",
+        "desctiption": "Ways to carry out effective user interviews, stressing the importance of listening more than talking and avoiding introducing your product idea too early.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "z1iF1c8w5Lg",
+                "start": 358,
+                "end": 582
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "12e": {
+        "name": "Examples of Good and Bad Interview Questions",
+        "desctiption": "Examples of good and bad interview questions. The need for deep, open-ended questions that unveil users' problems, not just specific feature requests.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "z1iF1c8w5Lg",
+                "start": 582,
+                "end": 673
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "12f": {
+        "name": "While interviewing Users Focus on Problems not Features",
+        "desctiption": "While interviewing Users Focus on Problems not Features. When Asked Uses Will Say Yes to Every Feature",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "z1iF1c8w5Lg",
+                "start": 673,
+                "end": 761
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "12g": {
+        "name": "Next Steps after User Interviews",
+        "desctiption": "Organize data and come up with the solution and MVP",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "z1iF1c8w5Lg",
+                "start": 761,
+                "end": 801
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "12h": {
+        "name": "Determining the Value of a Problem for Potential Customers",
+        "desctiption": "How to detect a problem and determine if a problem is valuable enough for potential customers to pay for its solution.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "z1iF1c8w5Lg",
+                "start": 801,
+                "end": 877
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "12i": {
+        "name": "Conducting MVP Prototyping Sessions",
+        "desctiption": "How to conduct MVP prototyping sessions, with emphasis on observing user behavior without interfering.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "z1iF1c8w5Lg",
+                "start": 877,
+                "end": 948
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "12j": {
+        "name": "Maintaining Connection with Interviewees",
+        "desctiption": "Importance of keeping connected with interviewees by including them in different steps of the product development process.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "z1iF1c8w5Lg",
+                "start": 948,
+                "end": 1024
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 }
