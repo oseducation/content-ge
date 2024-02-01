@@ -1500,7 +1500,7 @@
             {
                 "id": "1hHMwLxN6EM",
                 "start": 270,
-                "end": 437
+                "end": 337
             }
         ],
         "node_type": "lecture",
@@ -1516,8 +1516,8 @@
         "video_parts": [
             {
                 "id": "1hHMwLxN6EM",
-                "start": 437,
-                "end": 516
+                "start": 337,
+                "end": 501
             }
         ],
         "node_type": "lecture",
@@ -1533,7 +1533,7 @@
         "video_parts": [
             {
                 "id": "1hHMwLxN6EM",
-                "start": 516,
+                "start": 501,
                 "end": 573
             }
         ],
