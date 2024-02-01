@@ -1457,7 +1457,7 @@
         "thumbnail": ""
     },
     "13b": {
-        "name": "Talk to users before writing code",
+        "name": "Talk to Users Before Writing Code",
         "desctiption": "Suggestion to interact with users and get feedback before developing the MVP. Discussion about finding first users and the significance of user feedback on MVP.",
         "texts": [
             "text1.md"
