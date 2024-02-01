@@ -1438,6 +1438,142 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "13a": {
+        "name": "What is a Minimal Viable Product (MVP)",
+        "desctiption": "Brief explanation of MVP (Minimum Viable Product).",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "1hHMwLxN6EM",
+                "start": 11,
+                "end": 41
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "13b": {
+        "name": "Talk to users before writing code",
+        "desctiption": "Suggestion to interact with users and get feedback before developing the MVP. Discussion about finding first users and the significance of user feedback on MVP.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "1hHMwLxN6EM",
+                "start": 49,
+                "end": 101
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "13c": {
+        "name": "Goals of a Pre-Launch Startup",
+        "desctiption": "Outlines the goals of a pre-launch startup: launching quickly, acquiring initial users, collecting user feedback, and iterating the product.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "1hHMwLxN6EM",
+                "start": 101,
+                "end": 270
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "13d": {
+        "name": "Produce Lean MVP",
+        "desctiption": "Fast to build(weeks not months), limited functionality, for limited set of users, a base to iterate from",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "1hHMwLxN6EM",
+                "start": 270,
+                "end": 437
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "13e": {
+        "name": "Case Studies: How Airbnb, Twitch, and Stripe Launched",
+        "desctiption": "Examples of how Airbnb, Twitch, and Stripe started with simple MVPs and insights into their early stage problems and solutions.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "1hHMwLxN6EM",
+                "start": 437,
+                "end": 516
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "13f": {
+        "name": "Very Rarely Will You Need a Heavy MVP",
+        "desctiption": "Very Rarely You Will Need a Heavy MVP",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "1hHMwLxN6EM",
+                "start": 516,
+                "end": 573
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "13g": {
+        "name": "Launching a Startup Is Not Special",
+        "desctiption": "Demystifying the concept of 'launching' a product. Differentiation between 'mere launching' (getting first customer) and 'press launching.'",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "1hHMwLxN6EM",
+                "start": 573,
+                "end": 682
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "13h": {
+        "name": "Hacks for Quickly Building an MVP",
+        "desctiption": "Sharing practical advice on how to build an MVP quickly such as time-boxing, writing a spec, cutting the spec, and not falling in love with the initial MVP.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "1hHMwLxN6EM",
+                "start": 682,
+                "end": 805
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 }
