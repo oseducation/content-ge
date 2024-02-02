@@ -1574,6 +1574,91 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+   
+    "14a": {
+        "name": "Re-Defining Launching",
+        "desctiption": "A different perspective on the startup launching process, with advice on how not to overthink or overcomplicate the initial launch. Explanation on why constant iteration is more beneficial and how to adjust to failure or lack of initial traction.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "u36A-YTxiOw",
+                "start": 26,
+                "end": 72
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "14b": {
+        "name": "When Should I Launch My Startup?",
+        "desctiption": "Launch as soon as possible and iterate",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "u36A-YTxiOw",
+                "start": 78,
+                "end": 222
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "14c": {
+        "name": "Crafting A Clear One-Sentence Pitch",
+        "desctiption": "Discussion on why a clear and concise one-sentence description of a startup is crucial for growth and helpful for conveying the idea to others. Tips on avoiding jargon, over-elaboration, and leading with 'why' instead of 'what'. Examples from YC and startup school companies provided.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "u36A-YTxiOw",
+                "start": 222,
+                "end": 557
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "14d": {
+        "name": "Utilizing 'X for Y' Pitches Appropriately",
+        "desctiption": "Evaluating conditions when using the 'X for Y' structure for the one-sentence pitch (like 'Uber for X') is useful, along with understanding when it should be avoided. Recommendations on ensuring clarity and an emphasis on originality whenever possible.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "u36A-YTxiOw",
+                "start": 557,
+                "end": 686
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "14e": {
+        "name": "Different Types of Launches",
+        "desctiption": "Description of different types of launches including silent launch, friends and family launch, launch to strangers, and launching through online communities. Discussion on the pros and cons of these methods, along with some successful cases and tips for each launch type.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "u36A-YTxiOw",
+                "start": 690,
+                "end": 1258
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
-
 }
