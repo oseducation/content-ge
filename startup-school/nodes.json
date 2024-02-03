@@ -1745,5 +1745,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "15f": {
+        "name": "Understanding and Implementing a Sales Funnel",
+        "desctiption": "A walkthrough of the sales funnel stages, including prospecting, making contact, scheduling demos, discussing pricing, closing, onboarding, and tracking.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hyYCn_kAngI",
+                "start": 517,
+                "end": 631
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 }
