@@ -1779,5 +1779,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "15h": {
+        "name": "The Importance and Strategy of Pricing in Startups",
+        "desctiption": "The criticality of charging for a startup's product, avoiding free trials in a B2B scenario, and the relevance of incremental pricing until customers object but keep buying.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hyYCn_kAngI",
+                "start": 830,
+                "end": 923
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 }
