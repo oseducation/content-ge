@@ -1677,5 +1677,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "15b": {
+        "name": "Understanding The Startup Curve",
+        "desctiption": "The Startup Curve visualizes the typical stages of a startup's growth and development, highlighting the impact of founder decision-making.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hyYCn_kAngI",
+                "start": 137,
+                "end": 220
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 }
