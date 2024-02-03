@@ -1694,5 +1694,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "15c": {
+        "name": "Importance of Sales Skills for Startup Founders",
+        "desctiption": "The topic discusses why it's crucial for founders to understand and be skilled in sales, and how this impacts their startup's success.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hyYCn_kAngI",
+                "start": 220,
+                "end": 307
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 }
