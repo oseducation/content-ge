@@ -1,0 +1,9 @@
+## Understanding Early-Stage Growth Strategies for Startups
+
+Here is an example: Airbnb. Today, they grow through people talking about their brand (word of mouth), Google Search, people referring others (referrals) and ads on Facebook. But they didn't start from here. They didn't start with Google or their referral program. These big tactics didn't get them their first 2000 customers. Instead, in the beginning, they did smaller things that were not meant to last (didn't scale), which looked quite different than what they do when they grow large.
+
+Many new companies leap into growth methods that can affect many people – the "scalable" channels – because they've heard it worked. And it is true, but only once you're bigger. It's not quite the same in the beginning. In other words, just because Google search and SEO might be great once your company is bigger, you still have to find where your customers are online right now. 
+
+Keep in mind, that trying to grow through search engine marketing (just fancy talk for paid advertising on a search engine like Google) can be pricey because there may be lots of competition. Going for Search Engine Optimization (trying to get your website to come up naturally in search results) might be slow. If you hope to grow through process-led growth or through people referring others, it can be helpful to start by selling within your personal network of friends, family, and co-workers.
+
+If you're doing sales, keep doing it. Your sales strategy won't really change much from the beginning to when it's large- it's the same idea, just performed by more folks with more automated tools and metrics on your sales team. However, taking a route of online marketing right off the bat is not how most begin. The first thousand or hundred customers brought in through big platforms like Google and Facebook aren't the type of folks you can easily reach out to and chat with over a 30-minute phone call.

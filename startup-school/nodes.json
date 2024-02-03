@@ -1830,5 +1830,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "15k": {
+        "name": "Understanding Early Stage Growth Strategies for Startups",
+        "desctiption": "A detailed look at the various aspects of early stage growth strategies in the startup world, focusing on the significance of non-scalable growth methods and why major scalable channels, while effective later in a startup's lifecycle, are not necessarily the smartest initial growth strategies.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hyYCn_kAngI",
+                "start": 1242,
+                "end": 1360
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 }
