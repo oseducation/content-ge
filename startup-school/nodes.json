@@ -1762,5 +1762,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "15g": {
+        "name": "Prioritizing Sales and Targeting Early Adopters in Startups",
+        "desctiption": "Importance of prioritizing easy customers and focusing on startups and early adopters when building a sales pipeline for a startup.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hyYCn_kAngI",
+                "start": 631,
+                "end": 830
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 }
