@@ -1796,5 +1796,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "15i": {
+        "name": "Understanding and Optimizing the Sales Funnel for Startups",
+        "desctiption": "This topic dissects the importance of understanding the sales funnel for startups and how to track and improve drop-off percentages to achieve desired sales outcomes.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hyYCn_kAngI",
+                "start": 923,
+                "end": 1208
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 }
