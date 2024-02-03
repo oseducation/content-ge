@@ -1728,5 +1728,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "15e": {
+        "name": "Writing Effective Sales Emails for Startups",
+        "desctiption": "The art of crafting a compelling sales email that's succinct, clear, addresses customer problems, and encourages action.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hyYCn_kAngI",
+                "start": 398,
+                "end": 517
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 }
