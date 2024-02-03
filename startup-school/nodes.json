@@ -1697,7 +1697,7 @@
     },
     "15c": {
         "name": "Importance of Sales Skills for Startup Founders",
-        "desctiption": "The topic discusses why it's crucial for founders to understand and be skilled in sales, and how this impacts their startup's success.",
+        "desctiption": "This topic illustrates how the Brex founders secured their first customers during the early stages of their startup. It highlights the importance of building a minimum viable product and directly engaging with potential customers.",
         "texts": [
             "text1.md"
         ],
@@ -1706,6 +1706,23 @@
                 "id": "hyYCn_kAngI",
                 "start": 220,
                 "end": 307
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "15d": {
+        "name": "Early Customer Acquisition Strategy Using the Example of Brex",
+        "desctiption": "This topic illustrates how the Brex founders secured their first customers during the early stages of their startup. It highlights the importance of building a minimum viable product and directly engaging with potential customers.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hyYCn_kAngI",
+                "start": 307,
+                "end": 398
             }
         ],
         "node_type": "lecture",
