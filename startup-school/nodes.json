@@ -1660,5 +1660,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "15a": {
+        "name": "Launching Startups and Acquiring First Users",
+        "desctiption": "This is about the importance of actively pursuing goals and manually recruiting customers rather than waiting for growth to happen automatically in the early stages of a startup.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hyYCn_kAngI",
+                "start": 44,
+                "end": 137
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 }
