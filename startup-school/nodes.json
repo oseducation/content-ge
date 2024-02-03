@@ -1813,5 +1813,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "15j": {
+        "name": "Qualifying Customers and Using Sales Tools in a Startup Environment",
+        "desctiption": "The topic covers the significance of qualifying customers during the initial call and introduces various tools that can be used for sales in a startup. The speaker also provides some resources for further reading.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hyYCn_kAngI",
+                "start": 1208,
+                "end": 1242
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 }
