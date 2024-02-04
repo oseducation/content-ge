@@ -1916,4 +1916,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "16e": {
+        "name": "Prioritizing Tasks to Increase Conversion Rates in Startups",
+        "desctiption": "A framework for prioritizing tasks to optimize KPIs, thus boosting conversion rates. It involves generating ideas, ranking them by feasibility, working on prioritized tasks, assessing task efficiency, and adjusting strategies accordingly.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6DTK9yDP6p0",
+                "start": 513,
+                "end": 604
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
