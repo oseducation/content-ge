@@ -1950,4 +1950,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "16g": {
+        "name": "Common Mental Traps in Startup Prioritization",
+        "desctiption": "This topic discusses the various mental challenges and traps that startup founders often face when prioritizing tasks and decision-making, emphasizing the importance of focusing on tasks that bring closer to product-market fit.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6DTK9yDP6p0",
+                "start": 702,
+                "end": 955
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
