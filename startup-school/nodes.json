@@ -2001,4 +2001,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "16j": {
+        "name": "Goalsetting Approaches for Startups",
+        "desctiption": "Discussing the top-down and bottom-up approaches to set goals and drive growth in startups.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6DTK9yDP6p0",
+                "start": 1339,
+                "end": 1420
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    }
 }

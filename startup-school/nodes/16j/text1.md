@@ -1,0 +1,9 @@
+## Goalsetting Approaches for Startups
+
+- There are two main ways you can consider setting targets for your startup: the **top-down** approach and the **bottom-up** approach. You ought to make use of both methods for the best results. 
+
+- In the top-down approach, you start with a big goal you want to hit sometime down the line. Let's say, making five thousand dollars in monthly sales by the time you wrap up startup school. Now you must figure out the weekly growth rate that would help you get to this target. To put this into a real-world example, think about how Airbnb demo day worked. They had a clear target and did everything they could to reach it. Swiftly taking action is key here, as every little step you take toward your goal keeps adding up.
+
+- In the bottom-up approach, you start by questioning what you realistically expect to achieve in the coming week. From there, you project into the future. To set a meaningful goal this way, think about what you could achieve if money was not an issue. Many of us assume that funding is the main hurdle, so let's temporarily take that off the table. What could you do in the next week if you had limitless resources? Then, get creative and figure out how you can still reach that goal despite having limited funding.
+
+- For your startup, you would set your goals using both the top-down and bottom-up approaches. Both are fine, but regularly comparing the two can give you a more comprehensive view of what you're doing as realistic, doable, and ambitious simultaneously. All the while, ensure you're on track to build a successful company and avoid getting stuck in a situation where you are consistently underperforming.
