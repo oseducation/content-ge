@@ -1933,4 +1933,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "16f": {
+        "name": "Prioritizing tasks and avoiding 'fake progress' in early-stage startups",
+        "desctiption": "A guide to choosing the right tasks to prioritize for startup development, and avoiding actions that only give the illusion of progress, termed as 'fake progress'",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6DTK9yDP6p0",
+                "start": 604,
+                "end": 702
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
