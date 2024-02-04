@@ -2034,6 +2034,23 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "16l": {
+        "name": "Understanding Exceptions to Revenue KPIs in Startups",
+        "desctiption": "This topic discusses the exceptions to typical revenue Key Performance Indicators (KPIs) specially focusing on hardware, biotech companies, and enterprises with lengthy sales cycles",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6DTK9yDP6p0",
+                "start": 1575,
+                "end": 1606
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 
 }
