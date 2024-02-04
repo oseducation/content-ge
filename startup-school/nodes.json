@@ -2017,5 +2017,23 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "16k": {
+        "name": "Navigating Startup Key Performance Indicators (KPIs) and Revenue Generation",
+        "desctiption": "This topic discusses the importance of choosing the right KPIs for startups and highlights the importance of focusing on paying customers to generate revenue. It also explores mistakes startups often make when relying heavily on non-revenue generating activities.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6DTK9yDP6p0",
+                "start": 1420,
+                "end": 1575
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
+
 }
