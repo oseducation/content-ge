@@ -1847,5 +1847,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "16a": {
+        "name": "Understanding Key Performance Indicators (KPIs) and Prioritization for Startups",
+        "desctiption": "This topic focuses on the roles and importance of KPIs and prioritization within an entrepreneurial context.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6DTK9yDP6p0",
+                "start": 72,
+                "end": 288
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 }
