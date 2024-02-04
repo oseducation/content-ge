@@ -1881,5 +1881,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "16c": {
+        "name": "Prioritizing Key Performance Indicators (KPIs) in Startups",
+        "desctiption": "Importance of identifying and prioritizing the right KPIs to monitor the progress and success of your startup.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6DTK9yDP6p0",
+                "start": 329,
+                "end": 410
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 }
