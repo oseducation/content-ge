@@ -1864,5 +1864,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "16b": {
+        "name": "Prioritization in Startups: Time Management and Making Impactful Decisions",
+        "desctiption": "This topic explains the importance of prioritization in managing time effectively in a startup and provides guidance on effectively aligning with co-founder's expectations",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6DTK9yDP6p0",
+                "start": 288,
+                "end": 329
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
 }
