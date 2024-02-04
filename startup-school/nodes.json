@@ -1967,4 +1967,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "16h": {
+        "name": "Understanding Primary and Secondary KPIs in Startups",
+        "desctiption": "The topic entails the importance of Key Performance Indicators (KPIs) in startups. It sheds light on the definitions of primary and secondary KPIs and emphasizes the significance of growth as a principal KPI for most startups.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6DTK9yDP6p0",
+                "start": 955,
+                "end": 1139
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
