@@ -1984,4 +1984,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "16i": {
+        "name": "Setting Targets and Optimizing Growth for Startups",
+        "desctiption": "The process of defining primary and secondary KPIs (Key Performance Indicators), setting targets for growth, variables that might affect growth rate, and the necessary balance between acquiring new users and maintaining existing ones. It emphasizes the importance of early growth and user retention for long-term business health",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6DTK9yDP6p0",
+                "start": 1139,
+                "end": 1339
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
