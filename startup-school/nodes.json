@@ -1898,5 +1898,22 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
-    }
+    },
+    "16d": {
+        "name": "Identifying and Resolving Bottlenecks in Startups: Super Daily Case Study",
+        "desctiption": "This topic revolves around recognizing and addressing your startup's primary obstacles, using a real-life example from the Super Daily company",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6DTK9yDP6p0",
+                "start": 410,
+                "end": 513
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
