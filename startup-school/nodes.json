@@ -2120,4 +2120,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17e": {
+        "name": "The Power of Transactional Businesses",
+        "desctiption": "The topic discusses the strength of transactional businesses like Stripe, Coinbase and Brex by highlighting their direct interaction with the flow of funds, their inherent value creation, and their critical infrastructure roles.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 373,
+                "end": 475
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
