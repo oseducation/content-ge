@@ -2341,4 +2341,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17r": {
+        "name": "The Power of Pricing: The Story of Segment",
+        "desctiption": "Understanding the impact of pricing on a startup's growth and value proposition through the success story of Segment.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 1755,
+                "end": 1920
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
