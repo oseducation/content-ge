@@ -2358,4 +2358,22 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17s": {
+        "name": "Key Pricing Insights for Startups",
+        "desctiption": "An overview of crucial pricing tips for those creating and developing their own business.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 1920,
+                "end": 1952
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    }
+    
 }
