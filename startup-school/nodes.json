@@ -2273,4 +2273,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17n": {
+        "name": "Key Pricing Strategies for Startups: Price on Value, not Cost",
+        "desctiption": "Insight into how a startup should set its pricing by focusing on value rather than cost, and offers strategies to determine the value of a product or service.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 1180,
+                "end": 1394
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }

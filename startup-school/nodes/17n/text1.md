@@ -1,0 +1,9 @@
+## Key Pricing Strategies for Startups: Price on Value, not Cost
+
+As a startup owner, while deciding how much to charge, two aspects *really matter* - **your cost** (how much you spend to make or offer your product or service) and **the value**, or how much your customers believe your product is worth. Now, you might think pricing should involve simply adding a little bit to your cost, that's called *Cost Plus Pricing* - but I'd say that's not the best plan. 
+
+To simplify, there are three parts we need to consider - your **cost**, your **price** (what you charge customers), and the **perceived value** your customers see in your product or service. So, imagine your cost and price to make a sandwich. That's your *happy sandwich* because the stuff in the middle is your **profit**. If you charge more than people think your product is worth, they won't buy it. But if your price is less than your cost, well, you're losing money and your business won’t last long.
+
+Figuring out that value, or what people are willing to pay for, can seem tricky. But here’s a pro tip: **talk to your customers**. Ask them what they need from your product, and what value it provides for them. Maybe your product helps them make more money, saves them some cash, gets work done quicker, or avoids some risks like meeting regulations or outsourcing a difficult task. 
+
+One other interesting idea is to **keep raising your prices a bit at a time**. When you find a price that makes customers complain a bit, but they still buy (like they need to ponder and then agree), you've found your *golden number*. If they're too ready to accept your price, take it as a sign you might be able to charge more. Be brave about pricing - delivering value is awesome and you deserve to get paid for what you're offering. Don't forget, you're not just making a *happy sandwich*, you're creating a feast of value.
