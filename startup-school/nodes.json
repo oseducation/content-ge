@@ -2307,4 +2307,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17p": {
+        "name": "Key Pricing Strategies for Startups: Pricing Isn't Permanent",
+        "desctiption": "The fears and misconceptions associated with pricing by startup founders. It also explains how pricing can be modified over time, and raises the strategy of increasing prices to boost revenue, accompanied by the example of Netflix.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 1601,
+                "end": 1699
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
