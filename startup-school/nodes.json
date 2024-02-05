@@ -2137,4 +2137,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17f": {
+        "name": "Dominance of SaaS (Software as a Service) Businesses in Startups",
+        "desctiption": "Exploration of why SaaS businesses account for a notable chunk of successful startup companies, focusing on their steady revenue stream and growth potential.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 475,
+                "end": 510
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
