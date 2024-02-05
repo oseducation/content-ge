@@ -2239,4 +2239,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17l": {
+        "name": "Pricing as a Learning Tool in Startups",
+        "desctiption": "Pricing in startups, its importance as a learning tool, and five insights from successful startups.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 965,
+                "end": 993
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
