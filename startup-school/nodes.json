@@ -2188,4 +2188,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17i": {
+        "name": "Recurring Revenue and Customer Retention in Startups",
+        "desctiption": "Understanding the importance of recurring revenue and customer retention, its impact on startups, and the consequences of a high churn rate.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 684,
+                "end": 804
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
