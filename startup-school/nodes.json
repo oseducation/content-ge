@@ -2205,4 +2205,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17j": {
+        "name": "Building Successful Startups: Understanding Monthly Retention and Establishing Moats",
+        "desctiption": "This is about why monthly retention is vital for startups, how to establish a strong position in the market (known as a 'moat'), and examples of different types of moats in various businesses.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 804,
+                "end": 936
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
