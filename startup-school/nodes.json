@@ -2154,4 +2154,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17g": {
+        "name": "Understanding the Challenges of an Advertising Business Model",
+        "desctiption": "The topic discusses why very few startups successfully grow with an advertising business model, the need for organic virality and the importance of network effects, and advises caution against using ads as the main source of a startup's revenue if it isn't projected to be highly popular on the internet.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 510,
+                "end": 582
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
