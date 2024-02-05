@@ -2222,4 +2222,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17k": {
+        "name": "Key Traits of Successful Startups",
+        "desctiption": "Outlines the key characteristics that successful startups typically exhibit to attain fast growth and capture a larger market share",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 936,
+                "end": 965
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
