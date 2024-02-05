@@ -2086,5 +2086,22 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17c": {
+        "name": "Understanding the Value of Top 10 Y Combinator (YC) Companies",
+        "desctiption": "This topic addresses the noteworthy success and value of the top 10 companies backed by Y Combinator, a startup accelerator.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 259,
+                "end": 281
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 }
