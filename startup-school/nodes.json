@@ -2290,4 +2290,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17o": {
+        "name": "Key Pricing Strategies for Startups: Most Startups Are Undercharging",
+        "desctiption": "The importance of startup pricing strategies, the risks of undercharging, and the implications of product value perception based on price. It also addresses strategies to increase revenue and when it can be appropriate to offer lower prices.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 1394,
+                "end": 1601
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
