@@ -2103,5 +2103,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
-
+    "17d": {
+        "name": "Understanding Marketplaces in the Startup Domain",
+        "desctiption": "An exploration of the impact and dominance of marketplace-based startups, with insights into their growth, challenges, and network effects.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 281,
+                "end": 373
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
