@@ -2171,4 +2171,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17h": {
+        "name": "Key Business Model Lessons on Scaling a Startup",
+        "desctiption": "Understanding how some business models are not suitable for massive scale or venture funding due to varied constraints like non-recurring revenue, low margins, heavy capital requirements, and platform risk.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 582,
+                "end": 684
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
