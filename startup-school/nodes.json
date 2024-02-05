@@ -2324,4 +2324,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17q": {
+        "name": "Key Pricing Strategies for Startups: Keep It Simple",
+        "desctiption": "The significance of keeping the pricing structures of startup products or services simple to boost customer conversion rates.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 1699,
+                "end": 1755
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
