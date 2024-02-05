@@ -2069,5 +2069,22 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17b": {
+        "name": "Business Models Utilized by Top Y Combinator Companies",
+        "desctiption": "An analysis of different business models found in the top 100 companies sponsored by Y Combinator, focusing on the prevalence and success of these respective models.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 148,
+                "end": 259
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 }
