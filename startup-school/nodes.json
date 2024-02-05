@@ -2256,4 +2256,21 @@
         "parent_id": "startup-school",
         "thumbnail": ""
     },
+    "17m": {
+        "name": "Key Pricing Strategies for Startups: You Should Charge",
+        "desctiption": "Understanding common mistakes, practices and strategies of pricing for new startup businesses",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 993,
+                "end": 1180
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 }
