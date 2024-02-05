@@ -2051,6 +2051,23 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
-    }
+    },
+    "17a": {
+        "name": "Understanding Different Business Models for Startups",
+        "desctiption": "A simplified explanation of various business models used by successful billion-dollar companies, and how choosing the right one can help startup growth",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oWZbWzAyHAE",
+                "start": 42,
+                "end": 148
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
 
 }
