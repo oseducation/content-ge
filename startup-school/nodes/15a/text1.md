@@ -1,6 +1,6 @@
 ## Importance of Hands-On Approach Early in a Startup's Lifecycle
 
-Hello everyone, let’s discuss something important. If you've ever been curious about running your own startup, you might have come across an essay called "*Do Things That Don't Scale*" by Paul Graham. Paul Graham is one of the folks who started Y-Combinator, a famous startup program, and this essay talks about how some of the biggest companies we know today, like Airbnb, got their start. 
+Let’s discuss something important. If you've ever been curious about running your own startup, you might have come across an essay called "*Do Things That Don't Scale*" by Paul Graham. Paul Graham is one of the folks who started Y-Combinator, a famous startup program, and this essay talks about how some of the biggest companies we know today, like Airbnb, got their start. 
 
 You might think that having a great product or service is all you need to succeed, but that's just part of the picture. The reality is, that no product is ever perfect right from the start, especially not in the case of startups. When you show your product to your first customers, they might not find it that amazing. Why? Because usually you don't build your great product in a vacuum but closely with your customers, adapting it to their needs.
 
