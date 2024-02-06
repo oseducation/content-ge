@@ -2374,6 +2374,228 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+
+    "18a": {
+        "name": "Most Startups Don't Have Product-Market Fit",
+        "desctiption": "Understanding the challenges faced by startups in achieving product-market fit and acquiring customers.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6lY9CYIY4pQ",
+                "start": 78,
+                "end": 145
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "18b": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6lY9CYIY4pQ",
+                "start": 145,
+                "end": 230
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "18c": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6lY9CYIY4pQ",
+                "start": 230,
+                "end": 443
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "18d": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6lY9CYIY4pQ",
+                "start": 443,
+                "end": 512
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "18e": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6lY9CYIY4pQ",
+                "start": 512,
+                "end": 991
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "18f": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6lY9CYIY4pQ",
+                "start": 991,
+                "end": 1109
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "18g": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6lY9CYIY4pQ",
+                "start": 1109,
+                "end": 1298
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "18h": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6lY9CYIY4pQ",
+                "start": 1298,
+                "end": 1545
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "18i": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6lY9CYIY4pQ",
+                "start": 1545,
+                "end": 1697
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "18j": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6lY9CYIY4pQ",
+                "start": 1697,
+                "end": 1822
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "18k": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6lY9CYIY4pQ",
+                "start": 1822,
+                "end": 1993
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "18l": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6lY9CYIY4pQ",
+                "start": 1993,
+                "end": 2265
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "18m": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6lY9CYIY4pQ",
+                "start": 2265,
+                "end": 2305
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
     
 }
