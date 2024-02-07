@@ -1,13 +1,8 @@
-1. Name of the topic: 
-Dealing with Investor Rejections and Startup Success
+## Fundraising Myths: If Investors Reject My Startup It is a Bad Startup
 
-2. Very small description of the topic: 
-This topic focuses on dismissing the misconception that rejection from investors signifies a poor startup idea, using real-life examples to illustrate how perseverance can lead to success.
-
-3. Rewrite of the topic:
 Alright, let's dive into the last little story I have for you today. It's a common belief that if an investor says 'no' to your startup, it means your idea is not good. But let me tell you, that's not true. Even if you've got a win-worthy product or if your startup is gaining a speedy pickup, you might still hear a 'no' from investors. And guess what? It's totally fine!
 
-Have you ever heard about the startup called **Envision**? Envision was a healthcare startup, focusing on detecting cancer. A woman named Serbia lead this company, who is now a top member of the YC group. When Serbia started building Envision, it was tough for her to get that very first investor. Imagine this: she faced more than 50 'no's before she got a 'yes'.
+Have you ever heard about the startup called **Envision**? Envision was a healthcare startup, focusing on detecting cancer. A woman named Serbia leads this company and is now a top member of the YC group. When Serbia started building Envision, it was tough for her to get that very first investor. Imagine this: she faced more than 50 'no's before she got a 'yes'.
 
 So what made that first 'yes' possible? She made a brave move. Serbia promised she wouldn't take any salary for two years if the investor would bet on her. And this was all for a humble deal - a $25,000 investment.
 
