@@ -1,0 +1,17 @@
+1. Topic Name: The Correct Approach to Fundraising for Startups
+
+2. Description: The topic discusses a common myth among startup entrepreneurs regarding the necessity of funding before kicking off their startup, and offers a practical approach used by successful founders.
+
+3. Rewrite:
+
+Let's talk about a common wrong idea many people starting businesses have. They often think, "I need to get money before I can begin to work on my startup." I've seen this many times in our talks with startup beginners. They have a fantastic idea (which is really good!) and then they believe they must get funds to bring their idea to life. But let me tell you, this isn't how the best people who start businesses work.
+
+Successful startup founders usually build their product first. It may be a very simple or small version of it, but they create it. After that, they look for users, people who can try and use what they've built. After some initial users and perhaps some positive signs, they start thinking about getting money. Now, why go through this process?
+
+First up, making an early version of a product or a _prototype_ is cheaper than it has ever been. Also, keeping a website or making software gets easier every year. Second, finding people to use your product is also easier because of the internet. Websites like Product Hunt, Hacker News and social media platforms are great places to find these early users. When you have a product (even if it's tiny) and some users, you're already showing progress and it's more likely people may want to give you money.
+
+Here's an example to make it clear. _Solugen_, a company from the winter 2017 batch of YC, had an idea to make and sell chemicals. Now, starting a business to make chemicals would need a lot of money. Instead of just going to people and asking for money with only their idea, they built a small device to start making chemicals. They first made a small version of the machine. Then, they made a bigger version that allowed them to make enough of a chemical product called hydrogen peroxide to sell. They were able to sell to hot tub supply stores making $10,000 a month.
+
+It might not seem like a lot of money, but think about it. If you had money to give, who would you give it to? The person just asking for money but with no progress, or the person who is already making some money and showing they can do it?
+
+Investors prefer the second option. Solugen was able to raise $4 million to get started because they showed what they could do. Today, they've managed to raise $400 million and have scaled up their operations since. This is a good example of how doing some work before asking for funds can pay off.

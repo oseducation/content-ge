@@ -2596,6 +2596,228 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+
+    "19a": {
+        "name": "Fundraising Resources for Startups",
+        "desctiption": "Various resources and strategies about fundraising for startup ventures. Additionally, it introduces common platforms for raising funds and different types of investors.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "zBUhQPPS9AY",
+                "start": 27,
+                "end": 109
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "19b": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "zBUhQPPS9AY",
+                "start": 246,
+                "end": 411
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "19c": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "zBUhQPPS9AY",
+                "start": 411,
+                "end": 610
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "19d": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "zBUhQPPS9AY",
+                "start": 610,
+                "end": 836
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "19e": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "zBUhQPPS9AY",
+                "start": 836,
+                "end": 932
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "19f": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "zBUhQPPS9AY",
+                "start": 934,
+                "end": 1024
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "19g": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "zBUhQPPS9AY",
+                "start": 1024,
+                "end": 1084
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "19h": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "zBUhQPPS9AY",
+                "start": 1084,
+                "end": 1230
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "19i": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "zBUhQPPS9AY",
+                "start": 1230,
+                "end": 1318
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "19j": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "zBUhQPPS9AY",
+                "start": 1318,
+                "end": 1423
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "19k": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "zBUhQPPS9AY",
+                "start": 1423,
+                "end": 1495
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "19l": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "zBUhQPPS9AY",
+                "start": 1509,
+                "end": 1595
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "19m": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "zBUhQPPS9AY",
+                "start": 1595,
+                "end": 1680
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
     
 }
