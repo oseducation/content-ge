@@ -1,10 +1,8 @@
-1. Topic Name: Debunking Myths About Startup Fundraising
-2. Small Description: This topic aims to debunk common misconceptions about raising capital for startups primarily focusing on the notion that fundraising is a glamorous activity, and providing a realistic view of the process and its challenges.
-3. Rewrite:
+## Fundraising Myths: Raising Money Is Glamorous
 
 Alright, let's jump into some popular myths about raising funds for your fresh startup. The first one that is widely misunderstood is that fundraising is all glitter and glamour. What do you picture when you think about startups gathering funds? Many of you might have an image inspired by the television show - Shark Tank. That's a place where business people get all dressed up, put together a flashy presentation, and pitch their ideas to a panel of investors, or as they're called - 'sharks'. 
 
-These investors, having varying expertise, ask many probing questions before throwing out offers. It's natural to think, “Wow, I need to prepare an intense presentation!” This gets associated with high pressure and tough questions. But don't let that make you anxious. 
+These investors, having varying expertise, ask many probing questions before throwing out offers. It's natural to think, “Wow, I need to prepare an intense presentation!” This is associated with high-pressure and tough questions. But don't let that make you anxious. 
 
 Here's the truth: the actual process of raising startup money resembles something much more mundane - coffee chats. It's usually just folks sitting around, engaging in calm, one-on-one discussions. Things like Shark Tank are primarily for show, acting as marketing events for the bodies that organize them. Most investors present at such occasions might not be there to invest at all, they're likely lurking to meet other investors. Even Mark Cuban from Shark Tank mentions that he hasn't seen any profit yet, although he has invested $20 million. Real fundraising involves repetitive one-on-one meetings, usually on Zoom, wherein you work to collect checks and win investors over. It's all about the grind.
 
