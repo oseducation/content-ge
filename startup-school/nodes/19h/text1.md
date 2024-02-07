@@ -1,10 +1,4 @@
-**1. Name of the Topic**
-Control Over Your Startup After Raising Seed Round
-
-**2. Very Very Small Description**
-Understanding misconceptions about losing control of your startup after raising funds, specifically when using the SAFE (Simple Agreement for Future Equity) method. 
-
-**3. My Perspective on The Topic - Simplified**
+## Fundraising Myths: I Am Going to Lose Control of My Company 
 
 A common fear I hear from startup owners is the thought of losing control over their company after raising funding. "If I gather funds, I'll have no say in my own company!" is a statement I often hear. But, let's clear that up - nowadays, raising a seed round actually offers founders even more control than in the past. 
 
