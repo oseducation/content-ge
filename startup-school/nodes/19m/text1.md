@@ -1,4 +1,4 @@
-## Addressing Common Misconceptions about Starting a Startup
+## Addressing Common Misconceptions about Funding a Startup
 
 Okay, let's have a breather and put a bow on our chat. Can you see a thread running through these myths we've chatted about? There's a huge myth, the one that throws a blanket over all these little beliefs. That myth says, "This startup thing, it's not your cup of tea." All these wrong ideas and mixed-up thoughts that founders carry around, add up. And they may make you think, "Hang on, maybe this startup gig isn't my thing. I don't know how to do this. I don't have a swanky network of influencers and I don't rub shoulders with the well-connected crowd. I'm clueless on how to pitch an idea or dazzle people with my brilliance." 
 
