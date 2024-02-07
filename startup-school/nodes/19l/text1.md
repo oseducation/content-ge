@@ -1,12 +1,6 @@
-**Topic Name:** 
-Overcoming Rejection in Startup Fundraising
+## Overcoming Rejection in Startup Fundraising - WhatNot Example
 
-**Topic Description:** 
-The journey of successful startup fundraising, focusing on the importance of resilience amid rejections from investors. The story of "What Not", a collectible marketplace startup that initially struggled to secure funding but later achieved great success, is used as an example.
-
-**Rewrite of the Topic:**
-
-Hello, today we'll talk about a very important topic - refusing to give up when facing rejections during startup fundraising. This is often a tough, but necessary part of the journey for any startup, including the very successful ones.
+Let's talk about a very important topic - refusing to give up when facing rejections during startup fundraising. This is often a tough, but necessary part of the journey for any startup, including the very successful ones.
 
 Let's use "What Not", a marketplace for collectors, as an example. In the winter of 2020, they joined a program with just a trial product and no active users. Basically, their platform was for selling collectible toys - you know those cute toys with the big heads? By the end of the program, they had early signs of success. They had started making sales, attracting buyers and sellers. Money was starting to flow in. Sounds pretty great, right?
 
