@@ -1,10 +1,4 @@
-1. Name of the topic: "Debunking Myths and Addressing Concerns about Applying to Y Combinator (YC)"
-
-2. Very small description of the topic: The topic discusses common misconceptions and fears that entrepreneurs have about applying to Y Combinator, and it aims to address and clear those doubts.
-
-3. Rewrite the topic:
-
-# Applying to Y Combinator: Addressing Common Doubts
+## Debunking Myths and Addressing Concerns about Applying to Y Combinator (YC)
 
 There seem to be a lot of reasons people come up with to not apply to Y Combinator (YC). These views come from many conversations I've had with startup founders. Let's clear up some of these misunderstandings.
 
@@ -12,7 +6,7 @@ There seem to be a lot of reasons people come up with to not apply to Y Combinat
 
 2. **It's too late, we're too far along**: The opposite side of the same coin. There's a common belief that if you've already raised money or have notable sales, you're too advanced for YC. Let me tell you, we accept companies at all stages, even those that have raised millions. If you're still trying to find product-market fit, then YC might still be of great help.
 
-3. **We can learn from YC without applying**: Some believe watching online YC videos is enough to get the YC experience. It's not. As a YC founder, you get access to real-time help, office hours with the partners, internal tools, and special advice that we can't share online.
+3. **We can learn from YC without applying**: Some believe watching online YC videos is enough to get the YC experience. It's not. As a YC founder, you get access to real-time help, office hours with partners, internal tools, and special advice that we can't share online.
 
 4. **Being dissuaded by others**: Others might discourage you from applying for various reasons. If it's an investor saying you could potentially raise a half-million elsewhere, ask, "On what terms are you going to invest?" Be cautious of someone discouraging you from a big opportunity without offering a practical alternative.
 
