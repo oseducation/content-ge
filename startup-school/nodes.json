@@ -2818,6 +2818,176 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+    "20a": {
+        "name": "Why It's Worth Applying to YC",
+        "desctiption": "Understanding the value of applying to Y Combinator and knowing the benefits and risk considerations",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 17,
+                "end": 71
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "20b": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 71,
+                "end": 136
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "20c": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 136,
+                "end": 506
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "20d": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 506,
+                "end": 545
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "20e": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 545,
+                "end": 637
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "20f": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 637,
+                "end": 959
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "20g": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 959,
+                "end": 1092
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "20h": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 1092,
+                "end": 1343
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "20i": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 1343,
+                "end": 1418
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "20j": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 1418,
+                "end": 1478
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
     
 }
