@@ -1,8 +1,6 @@
-1. Topic Name: Making a Strong Startup Application
-2. Brief Description: Guidance on creating an effective application for a startup program.
-3. Topic Rewrite:
+## YC Application Reviewing: The Basics
 
-Let's chat about what it feels to be on the other side - the person reviewing your startup application. Here are a few questions that often come up when I look at an application: 
+Let's chat about what it feels like to be on the other side - the person reviewing your startup application. Here are a few questions that often come up when I look at an application: 
 
 1. **Who are the founders?**  It's vital to understand who is behind the startup – their history, how they met, and the roles each one plays in the startup.
 
@@ -18,7 +16,7 @@ After gathering this information, I try to piece together a story about the star
 
 Applications that share unclear information make it hard to understand what exactly the startup does or the team's background, which makes it tough for a reviewer to comprehend the entire vision.
 
-To illustrate, company "GitLab," currently a public, billion-dollar company, had a clear, concise application describing what they do, who uses their product, and some of its significant users. On the other end, sometimes applications are jumbled, unclear, and unimpressive. This could confuse the reader and negatively influence the assessment.
+To illustrate, the company "GitLab," currently a public, billion-dollar company, had a clear, concise application describing what they do, who uses their product, and some of its significant users. On the other end, sometimes applications are jumbled, unclear, and unimpressive. This could confuse the reader and negatively influence the assessment.
 
 Here are some tips:
 
