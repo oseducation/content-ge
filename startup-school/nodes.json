@@ -2988,6 +2988,92 @@
         "node_type": "lecture",
         "parent_id": "startup-school",
         "thumbnail": ""
+    },
+
+    "21a": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 140,
+                "end": 277
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "21b": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 291,
+                "end": 552
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "21c": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 563,
+                "end": 739
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "21d": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 743,
+                "end": 828
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
+    },
+    "21e": {
+        "name": "",
+        "desctiption": "",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "B5tU2447OK8",
+                "start": 848,
+                "end": 1014
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "startup-school",
+        "thumbnail": ""
     }
     
 }
