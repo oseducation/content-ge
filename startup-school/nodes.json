@@ -358,7 +358,7 @@
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
-        "thumbnail": "/images/nodes/startup-school/Strategies-for-Coming-Up-with-Startup-Ideas--What-your-Team-Good-at.png"
+        "thumbnail": ""
     },
     "4o": {
         "name": "Strategies for Coming Up with Startup Ideas: Starting from Personal Experience",
@@ -475,7 +475,7 @@
         }],
         "node_type": "lecture",
         "parent_id": "startup-school",
-        "thumbnail": ""
+        "thumbnail": "/images/nodes/startup-school/Strategies-for-Coming-Up-with-Startup-Ideas--Just-Launch-and-See-How-It-Goes.png"
     },
     "5a": {
         "name": "Introduction to 'Tar Pit' Ideas in Startups",
