@@ -1,0 +1,223 @@
+[
+    {
+        "id": "show_video_1",
+        "message": "show me a video",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_2",
+        "message": "Could you play the video?",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_3",
+        "message": "I'd like to see the video, please.",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_4",
+        "message": "Can you put on the video?",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_5",
+        "message": "Let's watch the video.",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_6",
+        "message": "Would you mind displaying the video?",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_7",
+        "message": "I'm interested in viewing the video.",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_8",
+        "message": "Could we check out the video?",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_9",
+        "message": "Please, present the video.",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_10",
+        "message": "I'm keen to watch the video.",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_11",
+        "message": "Can we have a look at the video?",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_12",
+        "message": "I'd appreciate it if you could stream the video.",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_13",
+        "message": "Let's have the video on.",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_14",
+        "message": "May we watch the video now?",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_15",
+        "message": "I'd be glad to see the video.",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_16",
+        "message": "Could you cue up the video?",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_17",
+        "message": "Let's screen the video.",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_18",
+        "message": "Would it be possible to display the video?",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_19",
+        "message": "I'm eager to see what's in the video.",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_20",
+        "message": "Can you share the video with us?",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_video_21",
+        "message": "I'd love to take a look at the video.",
+        "intent": "show_video"
+    },
+    {
+        "id": "show_text_1",
+        "message": "show me a text",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_2",
+        "message": "Could you display the text for me?",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_3",
+        "message": "I'd like to read the text, please.",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_4",
+        "message": "Can you share the text on screen?",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_5",
+        "message": "Let's have a look at the text.",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_6",
+        "message": "Would you mind presenting the text?",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_7",
+        "message": "I'm interested in examining the text.",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_8",
+        "message": "Could we review the text together?",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_9",
+        "message": "Please, reveal the text.",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_10",
+        "message": "I'm keen to go through the text.",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_11",
+        "message": "Can we check out the text content?",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_12",
+        "message": "I'd appreciate it if you could unveil the text.",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_13",
+        "message": "Let's go over the text.",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_14",
+        "message": "May I see the text now?",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_15",
+        "message": "I'd be glad to peruse the text.",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_16",
+        "message": "Could you bring up the text?",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_17",
+        "message": "Let's read through the text.",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_18",
+        "message": "Would it be possible to project the text?",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_19",
+        "message": "I'm eager to delve into the text.",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_20",
+        "message": "Can you provide the text for us?",
+        "intent": "show_text"
+    },
+    {
+        "id": "show_text_21",
+        "message": "I'd love to inspect the text.",
+        "intent": "show_text"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
