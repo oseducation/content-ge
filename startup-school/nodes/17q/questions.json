@@ -1,0 +1,52 @@
+[{
+    "name": "simplicity_in_pricing",
+    "question": "Why is it important to keep the pricing page simple for customers?",
+    "choices": [{
+        "choice": "To display as many options as possible",
+        "is_right_choice": false
+    }, {
+        "choice": "To make the buying process smooth and prevent customers from backing out",
+        "is_right_choice": true
+    }, {
+        "choice": "To showcase the company's wide range of products",
+        "is_right_choice": false
+    }, {
+        "choice": "To make the page look more attractive",
+        "is_right_choice": false
+    }],
+    "explanation": "Keeping the pricing page simple is crucial to avoid overwhelming customers with too many options and complex information that could deter them from making a purchase. A simple, straightforward pricing structure aids in making the buying process smoother, thus preventing potential customers from getting confused and abandoning their purchase."
+}, {
+    "name": "complex_vs_simple_pricing_example",
+    "question": "Which company was mentioned as an example of simple pricing?",
+    "choices": [{
+        "choice": "Quicken",
+        "is_right_choice": false
+    }, {
+        "choice": "GitLab",
+        "is_right_choice": true
+    }, {
+        "choice": "Microsoft",
+        "is_right_choice": false
+    }, {
+        "choice": "Adobe",
+        "is_right_choice": false
+    }],
+    "explanation": "GitLab was highlighted as a positive example for keeping its pricing simple and straightforward with just three plans clearly stated on their pricing page, making it easy for customers to decide without confusion."
+}, {
+    "name": "negative_example_of_pricing_strategy",
+    "question": "What was a major issue with Quicken's pricing page design mentioned in the text?",
+    "choices": [{
+        "choice": "It offered a free version",
+        "is_right_choice": false
+    }, {
+        "choice": "It was too simple and lacked detailed information",
+        "is_right_choice": false
+    }, {
+        "choice": "It included multiple purchase buttons and prices, creating confusion",
+        "is_right_choice": true
+    }, {
+        "choice": "It did not offer a clear pricing plan",
+        "is_right_choice": false
+    }],
+    "explanation": "Quicken's pricing page design was criticized for being overly complex with five different purchase buttons, prices ranging significantly, and the presence of crossed-out prices and discount symbols, making the purchasing decision confusing for customers."
+}]

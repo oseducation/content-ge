@@ -1,0 +1,69 @@
+[{
+    "name": "Trial Project Purpose",
+    "question": "What is the primary purpose of undertaking a trial project with a potential co-founder?",
+    "choices": [{
+        "choice": "To legally bind them to your startup as a co-founder.",
+        "is_right_choice": false
+    }, {
+        "choice": "To evaluate how well you work together before making a commitment.",
+        "is_right_choice": true
+    }, {
+        "choice": "To generate revenue for your startup before it's officially launched.",
+        "is_right_choice": false
+    }, {
+        "choice": "To create buzz in the market about your upcoming startup.",
+        "is_right_choice": false
+    }],
+    "explanation": "The primary purpose of a trial project with a potential co-founder is to assess compatibility and the ability to collaborate effectively before making a formal commitment, ensuring a mutual understanding and clear expectations."
+}, {
+    "name": "Trial Project Duration",
+    "question": "What is the recommended timeline for a trial project between potential co-founders?",
+    "choices": [{
+        "choice": "One week",
+        "is_right_choice": false
+    }, {
+        "choice": "Two to four weeks",
+        "is_right_choice": true
+    }, {
+        "choice": "Six months",
+        "is_right_choice": false
+    }, {
+        "choice": "Indefinitely",
+        "is_right_choice": false
+    }],
+    "explanation": "The suggested timeline for a trial project is two to four weeks, as this provides sufficient time to collaborate and assess compatibility without prolonging the decision process unduly."
+}, {
+    "name": "Ownership of Trial Project Work",
+    "question": "Why is it important to decide who owns the work at the end of a trial project?",
+    "choices": [{
+        "choice": "To ensure that the work can be patented.",
+        "is_right_choice": false
+    }, {
+        "choice": "To prevent legal issues and understand contributions.",
+        "is_right_choice": true
+    }, {
+        "choice": "The ownership automatically goes to the potential co-founder.",
+        "is_right_choice": false
+    }, {
+        "choice": "To make it easier to dissolve the startup.",
+        "is_right_choice": false
+    }],
+    "explanation": "Deciding who owns the work at the end of a trial project is critical to prevent potential legal issues and clarify contributions, ensuring that both parties have a clear understanding of their rights and responsibilities."
+}, {
+    "name": "Compatibility and Leap of Faith",
+    "question": "Even after conducting trial projects and discussions, why must one be willing to take a leap of faith in choosing a co-founder?",
+    "choices": [{
+        "choice": "Because trial projects can predict future success accurately.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because starting a startup involves inherent risk and unpredictability.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because legal contracts can cover all aspects of the co-founder relationship.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it's a standard industry practice to do so.",
+        "is_right_choice": false
+    }],
+    "explanation": "Choosing a co-founder requires a leap of faith because starting a startup is inherently risky and unpredictable. Trial projects can help assess compatibility to a degree, but the final decision involves trusting your judgment in the face of uncertainties."
+}]

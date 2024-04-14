@@ -1,0 +1,52 @@
+[{
+    "name": "Non-violent Communication Components",
+    "question": "Which of the following best represents the correct order of components in non-violent communication?",
+    "choices": [{
+        "choice": "Observation, Need, Emotion, Request",
+        "is_right_choice": false
+    }, {
+        "choice": "Observation, Emotion, Need, Request",
+        "is_right_choice": true
+    }, {
+        "choice": "Need, Observation, Emotion, Request",
+        "is_right_choice": false
+    }, {
+        "choice": "Emotion, Observation, Need, Request",
+        "is_right_choice": false
+    }],
+    "explanation": "The correct sequence starts with Observation (factual statement), follows with Emotion (how the observation made you feel), proceeds to Need (identifying the underlying need related to the emotion), and concludes with Request (suggesting a solution or improvement). This structure supports constructive and respectful communication."
+}, {
+    "name": "Understanding Emotion in Non-violent Communication",
+    "question": "Why is it important to distinguish between feelings and thoughts in the 'Emotion' part of non-violent communication?",
+    "choices": [{
+        "choice": "Because mixing feelings with thoughts can lead to confusion and further disagreements",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it's more professional to talk about thoughts rather than feelings",
+        "is_right_choice": false
+    }, {
+        "choice": "Because thoughts are more important than feelings in professional settings",
+        "is_right_choice": false
+    }, {
+        "choice": "Because feelings are not relevant in business discussions",
+        "is_right_choice": false
+    }],
+    "explanation": "Distinguishing between feelings and thoughts is crucial because thoughts are often interpretations or judgments that can lead to misunderstandings or escalation of conflict. Focusing on feelings helps to express genuine emotions related to the situation without assigning blame."
+}, {
+    "name": "Purpose of the 'Observation' Component",
+    "question": "Why is it recommended to start non-violent communication with an observation rather than an opinion?",
+    "choices": [{
+        "choice": "Because observations are subjective and can be easily argued",
+        "is_right_choice": false
+    }, {
+        "choice": "Because starting with an opinion can make the other person defensive",
+        "is_right_choice": true
+    }, {
+        "choice": "Because opinions are usually incorrect",
+        "is_right_choice": false
+    }, {
+        "choice": "Because observations take less time to explain than opinions",
+        "is_right_choice": false
+    }],
+    "explanation": "Starting with an observation focuses the conversation on factual and verifiable information, reducing the likelihood of the other party feeling attacked or becoming defensive. It sets a neutral ground for the discussion, unlike opinions, which are subjective and can be perceived as accusations."
+}]

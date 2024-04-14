@@ -1,0 +1,52 @@
+[{
+    "name": "Gottman's Prediction Accuracy",
+    "question": "What is John Gottman's accuracy rate for predicting the sustainability of a marriage after observing a couple argue for 15 minutes?",
+    "choices": [{
+        "choice": "85%",
+        "is_right_choice": true
+    }, {
+        "choice": "94%",
+        "is_right_choice": false
+    }, {
+        "choice": "75%",
+        "is_right_choice": false
+    }, {
+        "choice": "60%",
+        "is_right_choice": false
+    }],
+    "explanation": "John Gottman's accuracy rate for predicting whether a couple will still be married four years later, after observing them argue for 15 minutes, is 85%. His accuracy rate increases to 94% if he observes them for an hour and asks about their plans and hopes."  
+}, {
+    "name": "Common Causes of Disagreements",
+    "question": "Which of the following is NOT listed as a common cause of disagreements in relationships according to John Gottman's research?",
+    "choices": [{
+        "choice": "Money",
+        "is_right_choice": false
+    }, {
+        "choice": "Intimacy",
+        "is_right_choice": false
+    }, {
+        "choice": "Career Choices",
+        "is_right_choice": true
+    }, {
+        "choice": "In-laws",
+        "is_right_choice": false
+    }],
+    "explanation": "Career choices are not mentioned as a common cause of disagreements in John Gottman's research on relationships. The research highlights usual causes of arguments such as money, intimacy, time, jealousy, children, and in-laws."
+}, {
+    "name": "Application of Gottman's Research to Business",
+    "question": "How can John Gottman's research on marriages be applied to startup relationships?",
+    "choices": [{
+        "choice": "By avoiding arguments with business partners",
+        "is_right_choice": false
+    }, {
+        "choice": "By predicting business failure or success",
+        "is_right_choice": false
+    }, {
+        "choice": "By preparing for and managing disagreements effectively",
+        "is_right_choice": true
+    }, {
+        "choice": "By choosing partners only from happy marriages",
+        "is_right_choice": false
+    }],
+    "explanation": "John Gottman's research on marriages can be applied to startup relationships by preparing for and managing disagreements effectively. Understanding that disagreements are normal and predicting what they might be about can help business partners plan how to handle these situations, which is key to working together successfully on passion projects."
+}]

@@ -1,0 +1,69 @@
+[{
+    "name": "SEO Basic Concept",
+    "question": "What is the primary goal of Search Engine Optimization (SEO)?",
+    "choices": [{
+        "choice": "To make websites load faster",
+        "is_right_choice": false
+    }, {
+        "choice": "To help websites rank higher in search engine results",
+        "is_right_choice": true
+    }, {
+        "choice": "To ensure websites are more secure",
+        "is_right_choice": false
+    }, {
+        "choice": "To increase the number of images on a website",
+        "is_right_choice": false
+    }],
+    "explanation": "The primary goal of SEO is to help websites rank higher in search engine results, making them more visible to potential visitors or customers."
+}, {
+    "name": "SEO Keyword Trends",
+    "question": "Why is it important to keep an eye on keyword trends in SEO?",
+    "choices": [{
+        "choice": "Because keywords never change",
+        "is_right_choice": false
+    }, {
+        "choice": "To ensure you are using the most colorful language",
+        "is_right_choice": false
+    }, {
+        "choice": "Because the popularity and relevancy of keywords can change over time",
+        "is_right_choice": true
+    }, {
+        "choice": "To keep your website looking modern",
+        "is_right_choice": false
+    }],
+    "explanation": "Keyword trends are important in SEO because the popularity and relevancy of keywords can evolve over time, making some terms more valuable for ranking than others."
+}, {
+    "name": "On-Page vs Off-Page SEO",
+    "question": "Which of the following best describes off-page SEO?",
+    "choices": [{
+        "choice": "Optimizing your webpage's loading speed",
+        "is_right_choice": false
+    }, {
+        "choice": "Improving the visual layout of your webpage",
+        "is_right_choice": false
+    }, {
+        "choice": "Addressing technical issues on your website",
+        "is_right_choice": false
+    }, {
+        "choice": "Increasing your website's domain authority through external references",
+        "is_right_choice": true
+    }],
+    "explanation": "Off-page SEO relates to activities performed outside of your own website to impact your rankings within search engine results. Improving domain authority through getting references (like backlinks) from other high-quality websites is a key off-page SEO strategy."
+}, {
+    "name": "SEO Fundamental Strategies",
+    "question": "What strategy should you follow when crafting content for SEO?",
+    "choices": [{
+        "choice": "Write the content first and then find keywords to fit in",
+        "is_right_choice": false
+    }, {
+        "choice": "Focus only on including as many keywords as possible",
+        "is_right_choice": false
+    }, {
+        "choice": "Look for what people are searching for and create content based on that",
+        "is_right_choice": true
+    }, {
+        "choice": "Ignore current SEO trends and focus on what you find interesting",
+        "is_right_choice": false
+    }],
+    "explanation": "The most effective SEO content strategy involves identifying what people are searching for first and then crafting your content to meet those search needs, ensuring a better match between user queries and your content."
+}]

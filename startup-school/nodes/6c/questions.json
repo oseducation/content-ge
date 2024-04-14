@@ -1,0 +1,52 @@
+[{
+    "name": "Reasons for Delay in Pivoting",
+    "question": "What is a primary reason founders delay pivoting their startup?",
+    "choices": [{
+        "choice": "They are waiting for more investment.",
+        "is_right_choice": false
+    }, {
+        "choice": "Loss aversion related to their initial investment.",
+        "is_right_choice": true
+    }, {
+        "choice": "They are unsure of which direction to pivot to.",
+        "is_right_choice": false
+    }, {
+        "choice": "There is too much external pressure to succeed.",
+        "is_right_choice": false
+    }],
+    "explanation": "Founders often delay pivoting due to loss aversion, where the fear of losing the time, effort, and resources already invested in their current direction prevents them from making necessary changes."
+}, {
+    "name": "Misleading Success",
+    "question": "Why can a small amount of success be misleading for founders?",
+    "choices": [{
+        "choice": "It always indicates that the startup is on the right path.",
+        "is_right_choice": false
+    }, {
+        "choice": "It can trap founders into thinking their current direction is more successful than it is.",
+        "is_right_choice": true
+    }, {
+        "choice": "It means the startup will definitely become a big success.",
+        "is_right_choice": false
+    }, {
+        "choice": "Success is never misleading.",
+        "is_right_choice": false
+    }],
+    "explanation": "A small amount of success can be misleading because it may give founders false hope, preventing them from seeing the need to pivot. Encouragement from users or customers, even if not entirely sincere, can contribute to this illusion."
+}, {
+    "name": "Failure Perception",
+    "question": "How does the fear of admitting failure affect startup founders' decision to pivot?",
+    "choices": [{
+        "choice": "It encourages them to pivot sooner.",
+        "is_right_choice": false
+    }, {
+        "choice": "It has no impact on their decision-making process.",
+        "is_right_choice": false
+    }, {
+        "choice": "It may lead them to pivot more frequently.",
+        "is_right_choice": false
+    }, {
+        "choice": "It can prevent them from pivoting due to a reluctance to give up on their current direction.",
+        "is_right_choice": true
+    }],
+    "explanation": "The fear of admitting failure can prevent startup founders from pivoting because changing direction might feel like they are giving up on their original vision, making it difficult to accept the need for a change."
+}]

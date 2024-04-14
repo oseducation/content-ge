@@ -1,0 +1,52 @@
+[{
+    "name": "definition",
+    "question": "What does the term 'tar pit' idea refer to in the startup world?",
+    "choices": [{
+        "choice": "A highly successful idea that quickly propels a startup to fame.",
+        "is_right_choice": false
+    }, {
+        "choice": "A consumer idea that seems appealing but often leads to failure.",
+        "is_right_choice": true
+    }, {
+        "choice": "A technical problem that requires a lot of time to solve.",
+        "is_right_choice": false
+    }, {
+        "choice": "A business strategy that involves slow but steady growth.",
+        "is_right_choice": false
+    }],
+    "explanation": "In the startup world, 'tar pit' ideas refer to consumer concepts that are initially appealing and encourage entry, but are notorious for high failure rates. These ideas are challenging to move away from once committed due to their deceptive allure."
+}, {
+    "name": "strategy",
+    "question": "What is the recommended approach when dealing with 'tar pit' ideas?",
+    "choices": [{
+        "choice": "Avoid them entirely to prevent the risk of failure.",
+        "is_right_choice": false
+    }, {
+        "choice": "Pursue them with caution and be ready to pivot when necessary.",
+        "is_right_choice": true
+    }, {
+        "choice": "Fully commit to them without considering potential pitfalls.",
+        "is_right_choice": false
+    }, {
+        "choice": "Keep them as side projects while focusing on more viable ideas.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text suggests that the ideal way to deal with a 'tar pit' idea is not to avoid it entirely but to pursue it with an understanding of its pitfalls. One should navigate such ideas cautiously, being open to critical evaluation and ready to make a change if necessary."
+}, {
+    "name": "awareness",
+    "question": "Why is it difficult for entrepreneurs to pivot away from 'tar pit' ideas?",
+    "choices": [{
+        "choice": "Because they require significant financial investment.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because they do not believe in their idea enough.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because of emotional attachment and encouragement from others.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because these ideas usually show immediate success.",
+        "is_right_choice": false
+    }],
+    "explanation": "Entrepreneurs find it challenging to pivot away from 'tar pit' ideas due to the emotional attachment they develop and the encouragement they receive from others. This combination can cloud judgment and make it hard to accept when an idea isn't working."
+}]

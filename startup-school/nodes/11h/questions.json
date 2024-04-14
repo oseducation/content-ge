@@ -1,0 +1,69 @@
+[{
+    "name": "Emotional Debt Concept",
+    "question": "What is 'emotional debt'?",
+    "choices": [{
+        "choice": "Financial obligations that create stress in relationships",
+        "is_right_choice": false
+    }, {
+        "choice": "Ignoring small issues in relationships that later become big problems",
+        "is_right_choice": true
+    }, {
+        "choice": "The cost of therapy and counseling for relationship issues",
+        "is_right_choice": false
+    }, {
+        "choice": "Debt incurred from emotional purchases",
+        "is_right_choice": false
+    }],
+    "explanation": "Emotional debt refers to the neglect of small issues in relationships, which can escalate into larger problems over time, similar to the concept of 'technical debt' in programming."
+}, {
+    "name": "Importance of Immediate Issue Addressing",
+    "question": "According to John Gottman's research, what habit do happy couples have?",
+    "choices": [{
+        "choice": "They only discuss issues during formal monthly meetings",
+        "is_right_choice": false
+    }, {
+        "choice": "They wait until an issue becomes serious before addressing it",
+        "is_right_choice": false
+    }, {
+        "choice": "They address issues as soon as they arise",
+        "is_right_choice": true
+    }, {
+        "choice": "They ignore small issues to focus on larger relationship goals",
+        "is_right_choice": false
+    }],
+    "explanation": "John Gottman observed that successful and happy couples tend to address issues immediately as they arise, preventing small problems from growing into larger issues."
+}, {
+    "name": "Levels of Conversation",
+    "question": "What characterizes a 'level three' conversation, as described by YC?",
+    "choices": [{
+        "choice": "Exchange of basic facts and information",
+        "is_right_choice": false
+    }, {
+        "choice": "Sharing opinions on common interests",
+        "is_right_choice": false
+    }, {
+        "choice": "Discussing the relationship between individuals and addressing current issues",
+        "is_right_choice": true
+    }, {
+        "choice": "Debating on global issues without personal involvement",
+        "is_right_choice": false
+    }],
+    "explanation": "Level three conversations, as outlined by YC, involve discussions about the relationship between the individuals, focusing on current issues and their significance, which are critical in the context of startup teams."
+}, {
+    "name": "Key Topics for Startup Team Discussions",
+    "question": "Which of the following is NOT listed as an important discussion topic for startups?",
+    "choices": [{
+        "choice": "Debating political views",
+        "is_right_choice": true
+    }, {
+        "choice": "Short-term goals",
+        "is_right_choice": false
+    }, {
+        "choice": "Metrics and goal achievements",
+        "is_right_choice": false
+    }, {
+        "choice": "Division of work and responsibilities",
+        "is_right_choice": false
+    }],
+    "explanation": "Debating political views is not mentioned as an important discussion topic for startups. The focus is instead on short-term goals, metrics and achievements, and the division of work and responsibilities to ensure effective team functioning."
+}]

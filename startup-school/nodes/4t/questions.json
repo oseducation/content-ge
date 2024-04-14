@@ -1,0 +1,52 @@
+[{
+    "name": "Approach to generating startup ideas",
+    "question": "Why is talking to potential customers and industry founders considered an effective strategy for coming up with startup ideas?",
+    "choices": [{
+        "choice": "Because it requires no real effort or expertise.",
+        "is_right_choice": false
+    }, {
+        "choice": "It helps in identifying unexplored areas and real problems needing solutions.",
+        "is_right_choice": true
+    }, {
+        "choice": "It's a quick way to get funding for your idea.",
+        "is_right_choice": false
+    }, {
+        "choice": "Only founders can give the best startup ideas.",
+        "is_right_choice": false
+    }],
+    "explanation": "Talking to potential customers and industry founders is effective because it allows you to understand real-world problems and gaps in the market. This insight can then be used to create solutions that meet a genuine need, making it a productive approach to idea generation."
+}, {
+    "name": "Success story of AtoB",
+    "question": "How did the founders of AtoB come up with their startup idea?",
+    "choices": [{
+        "choice": "By conducting online surveys.",
+        "is_right_choice": false
+    }, {
+        "choice": "Through academic research.",
+        "is_right_choice": false
+    }, {
+        "choice": "Talking directly to truck drivers and learning from other founders.",
+        "is_right_choice": true
+    }, {
+        "choice": "They already had a background in trucking.",
+        "is_right_choice": false
+    }],
+    "explanation": "The founders of AtoB used a methodical approach of going to truck stops, speaking with truck drivers to understand their challenges, and learning from other founders within the trucking industry. This hands-on approach helped them gain a deep understanding of the industry's needs and innovate accordingly."
+}, {
+    "name": "Importance of industry selection",
+    "question": "Why did the founders of AtoB choose the trucking industry for their startup?",
+    "choices": [{
+        "choice": "Because they had previous experience in trucking.",
+        "is_right_choice": false
+    }, {
+        "choice": "Trucking was a family business.",
+        "is_right_choice": false
+    }, {
+        "choice": "It seemed underexplored by startups and ripe for innovation.",
+        "is_right_choice": true
+    }, {
+        "choice": "They had a large network within the trucking industry.",
+        "is_right_choice": false
+    }],
+    "explanation": "The founders of AtoB chose the trucking industry not because of personal background or expertise but because they saw it as an underexplored area by startups. This suggested a higher potential for discovering unmet needs and opportunities for innovation."
+}]

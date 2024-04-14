@@ -1,0 +1,52 @@
+[{
+    "name": "CRO_Basics",
+    "question": "What does Conversion Rate Optimization (CRO) primarily focus on in the context of startups?",
+    "choices": [{
+        "choice": "Increasing product prices for higher revenue",
+        "is_right_choice": false
+    }, {
+        "choice": "Encouraging more people to take desired actions on a site or app",
+        "is_right_choice": true
+    }, {
+        "choice": "Reducing the number of products or services offered",
+        "is_right_choice": false
+    }, {
+        "choice": "Expanding the company's reach through social media",
+        "is_right_choice": false
+    }],
+    "expenation": "Conversion Rate Optimization (CRO) is all about encouraging more users to take the desired actions (like making a purchase or signing up) on a website or app, not about pricing strategies, reducing offerings, or social media reach."
+}, {
+    "name": "Identifying_CRO_Issues",
+    "question": "At what stage should startups focus on identifying why users may be leaving their website or app?",
+    "choices": [{
+        "choice": "After they notice a decline in revenue",
+        "is_right_choice": false
+    }, {
+        "choice": "Once they have a large user base",
+        "is_right_choice": false
+    }, {
+        "choice": "At the point where users stop progressing in their journey through the site or app",
+        "is_right_choice": true
+    }, {
+        "choice": "Only during the initial design phase",
+        "is_right_choice": false
+    }],
+    "expenation": "Startups should focus on identifying user departure points throughout the user's journey on the site or app, not just based on revenue changes, user base size, or during initial design only. Understanding these friction points can guide improvements in user experience."
+}, {
+    "name": "Effective_CRO_Strategies",
+    "question": "Which of the following is NOT listed as a key area to focus on for Conversion Rate Optimization?",
+    "choices": [{
+        "choice": "Adopting a global marketing strategy",
+        "is_right_choice": true
+    }, {
+        "choice": "Ensuring a smooth sign-up process",
+        "is_right_choice": false
+    }, {
+        "choice": "Offering language translation for global users",
+        "is_right_choice": false
+    }, {
+        "choice": "Providing a good welcome experience through effective onboarding",
+        "is_right_choice": false
+    }],
+    "expenation": "While language translation, smooth sign-up processes, and effective onboarding are mentioned as focus areas for CRO, a global marketing strategy is not specifically highlighted as a key area for optimization in this context."
+}]

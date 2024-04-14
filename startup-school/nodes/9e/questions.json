@@ -1,0 +1,52 @@
+[{
+    "name": "Equity Split Importance",
+    "question": "Why is an equal equity split between co-founders considered beneficial?",
+    "choices": [{
+        "choice": "It increases the company's valuation.",
+        "is_right_choice": false
+    }, {
+        "choice": "It prevents disagreements on financial contributions.",
+        "is_right_choice": false
+    }, {
+        "choice": "It promotes a sense of fairness and partnership.",
+        "is_right_choice": true
+    }, {
+        "choice": "It simplifies legal paperwork.",
+        "is_right_choice": false
+    }],
+    "explanation": "An equal equity split is considered beneficial because it promotes a sense of fairness and partnership among co-founders, preventing issues where someone might feel they have more say over the company due to owning a larger share."
+}, {
+    "name": "Decision-Making Solution",
+    "question": "What is a practical solution for avoiding deadlocks in decision-making between co-founders?",
+    "choices": [{
+        "choice": "Hiring a mediator for each decision",
+        "is_right_choice": false
+    }, {
+        "choice": "Giving the CEO one extra share",
+        "is_right_choice": true
+    }, {
+        "choice": "Implementing a third-party decision council",
+        "is_right_choice": false
+    }, {
+        "choice": "Flipping a coin",
+        "is_right_choice": false
+    }],
+    "explanation": "Giving the CEO one extra share is a practical solution for avoiding deadlocks in decision-making, as it allows for a tiebreaker without significantly altering the balance of ownership."
+}, {
+    "name": "Managing Deadlocks",
+    "question": "Why is it damaging for a company to reach a deadlock in decision-making?",
+    "choices": [{
+        "choice": "It can lead to significant legal expenses.",
+        "is_right_choice": false
+    }, {
+        "choice": "It may cause the company to miss market opportunities.",
+        "is_right_choice": false
+    }, {
+        "choice": "No decision gets made, hindering progress.",
+        "is_right_choice": true
+    }, {
+        "choice": "It automatically dissolves the company.",
+        "is_right_choice": false
+    }],
+    "explanation": "Deadlocks in decision-making are damaging because they result in no decision being made, which can hinder the company's progress and lead to missed opportunities."
+}]

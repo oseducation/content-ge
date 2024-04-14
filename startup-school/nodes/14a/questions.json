@@ -1,0 +1,52 @@
+[{
+    "name": "Mindset Shift for Startups",
+    "question": "What is the traditional view of launching a new business or product that the text aims to challenge?",
+    "choices": [{
+        "choice": "That launching is an ongoing process, not a one-time event.",
+        "is_right_choice": false
+    }, {
+        "choice": "That the first launch of a product has to be perfect for the business to succeed.",
+        "is_right_choice": true
+    }, {
+        "choice": "That customers will always be interested in a new product at launch.",
+        "is_right_choice": false
+    }, {
+        "choice": "That businesses should spend at least six months preparing for a launch.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text challenges the traditional view that the first launch of a product must be perfect for the business to succeed, suggesting instead that launching should be seen as a regular task, not a one-time event."
+}, {
+    "name": "Problem of Over-Preparing",
+    "question": "What is described as a potential risk when businesses spend too much time perfecting their product launch?",
+    "choices": [{
+        "choice": "The product becomes too expensive.",
+        "is_right_choice": false
+    }, {
+        "choice": "The product becomes obsolete before launch.",
+        "is_right_choice": false
+    }, {
+        "choice": "Nobody may care or be interested in the product at launch.",
+        "is_right_choice": true
+    }, {
+        "choice": "Other companies might launch similar products first.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text warns that spending too much time preparing for the perfect launch can lead to a situation where, upon launch, nobody may care or show interest in the product, which can put the business in trouble."
+}, {
+    "name": "New Launching Mindset",
+    "question": "According to the text, how should new business owners think about launching?",
+    "choices": [{
+        "choice": "As a one-time event that defines the business's future.",
+        "is_right_choice": false
+    }, {
+        "choice": "As a flexible, regular task akin to the concept of 'always be shipping'.",
+        "is_right_choice": true
+    }, {
+        "choice": "As something that should only happen after many months of preparation.",
+        "is_right_choice": false
+    }, {
+        "choice": "As an unnecessary part of the business process.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text suggests that new business owners should adopt a more flexible mindset towards launching, viewing it as a regular task similar to the concept of 'always be shipping', rather than a one-time event."
+}]

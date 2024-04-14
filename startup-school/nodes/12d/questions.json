@@ -1,0 +1,52 @@
+[{
+    "name": "Interview Technique",
+    "question": "What is the most important thing to remember when interviewing potential customers for your startup?",
+    "choices": [{
+        "choice": "Discuss your product idea as soon as possible",
+        "is_right_choice": false
+    }, {
+        "choice": "Keep your product idea for later in the conversation",
+        "is_right_choice": true
+    }, {
+        "choice": "Focus on selling the product during the interview",
+        "is_right_choice": false
+    }, {
+        "choice": "Avoid taking notes to make the conversation flow better",
+        "is_right_choice": false
+    }],
+    "explanation": "The most important thing is to keep your product idea for later in the conversation, or possibly not discuss it at all, to avoid influencing the interviewee's responses towards what they think you want to hear."
+}, {
+    "name": "Effective Questioning",
+    "question": "Why is it recommended to ask questions that don’t have a 'yes' or 'no' answer during user interviews?",
+    "choices": [{
+        "choice": "To shorten the duration of the interview",
+        "is_right_choice": false
+    }, {
+        "choice": "To make note-taking easier",
+        "is_right_choice": false
+    }, {
+        "choice": "To get more detailed and insightful answers",
+        "is_right_choice": true
+    }, {
+        "choice": "To challenge the interviewee's opinions",
+        "is_right_choice": false
+    }],
+    "explanation": "Asking open-ended questions that don’t have a 'yes' or 'no' answer is recommended to encourage interviewees to provide more detailed, informative responses, which can offer deeper insights into their needs and behaviors."
+}, {
+    "name": "Understanding Customer Needs",
+    "question": "Why is it important to understand the behaviors of potential customers during interviews?",
+    "choices": [{
+        "choice": "To predict future market trends",
+        "is_right_choice": false
+    }, {
+        "choice": "Because changing customer behavior is difficult",
+        "is_right_choice": true
+    }, {
+        "choice": "To impress them with your knowledge",
+        "is_right_choice": false
+    }, {
+        "choice": "To focus on customers' personal stories",
+        "is_right_choice": false
+    }],
+    "explanation": "Understanding customer behaviors is important because changing behavior is hard. Knowing what they currently do is essential for identifying true needs and potential areas for innovation or improvement."
+}]

@@ -1,0 +1,69 @@
+[{
+    "name": "BusinessModels-001",
+    "question": "What does a business model in the context of startups refer to?",
+    "choices": [{
+        "choice": "The legal structure of a startup",
+        "is_right_choice": false
+    }, {
+        "choice": "How a startup makes money",
+        "is_right_choice": true
+    }, {
+        "choice": "The technology a startup uses",
+        "is_right_choice": false
+    }, {
+        "choice": "The location of a startup's headquarters",
+        "is_right_choice": false
+    }],
+    "explanation": "A business model refers to how a startup plans to make money. It's essentially the company's plan for generating revenue and profits."
+}, {
+    "name": "BusinessModels-002",
+    "question": "Which of the following is NOT one of the nine successful business models mentioned?",
+    "choices": [{
+        "choice": "Consulting Services",
+        "is_right_choice": true
+    }, {
+        "choice": "Marketplaces",
+        "is_right_choice": false
+    }, {
+        "choice": "Software (SaaS)",
+        "is_right_choice": false
+    }, {
+        "choice": "Advertising",
+        "is_right_choice": false
+    }],
+    "explanation": "Consulting Services is not listed among the nine successful business models for startups mentioned. The models discussed are Software (SaaS), Transactional, Marketplaces, Hard Tech Businesses, Usage-Based, Enterprise, Advertising, E-commerce, and Bio."
+}, {
+    "name": "BusinessModels-003",
+    "question": "Which business model is described as charging customers a monthly or yearly fee to use cloud-based software?",
+    "choices": [{
+        "choice": "Enterprise",
+        "is_right_choice": false
+    }, {
+        "choice": "Software (SaaS)",
+        "is_right_choice": true
+    }, {
+        "choice": "Usage-Based",
+        "is_right_choice": false
+    }, {
+        "choice": "E-commerce",
+        "is_right_choice": false
+    }],
+    "explanation": "The Software (SaaS) model involves charging customers a recurring monthly or yearly fee to gain access to cloud-based software, differentiating it from Usage-Based, Enterprise, and E-commerce models."
+}, {
+    "name": "BusinessModels-004",
+    "question": "What common feature do Marketplace business models, like Amazon and eBay, provide?",
+    "choices": [{
+        "choice": "They sell their own products exclusively.",
+        "is_right_choice": false
+    }, {
+        "choice": "They bring buyers and sellers together on a platform.",
+        "is_right_choice": true
+    }, {
+        "choice": "They charge based on the amount of service used.",
+        "is_right_choice": false
+    }, {
+        "choice": "They develop and sell biotechnology products.",
+        "is_right_choice": false
+    }],
+    "explanation": "Marketplace business models function by creating a platform that connects buyers and sellers, facilitating transactions between the two parties, unlike platforms focused on selling their own products, usage-based charging, or the development and sale of biotechnology products."
+}]

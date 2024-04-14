@@ -1,0 +1,69 @@
+[{
+    "name": "OpportunityCostPivot",
+    "question": "What does 'opportunity cost' imply in the context of deciding to pivot a startup?",
+    "choices": [{
+        "choice": "The financial investment made in the startup",
+        "is_right_choice": false
+    }, {
+        "choice": "Missing out on better opportunities by sticking to a failing path",
+        "is_right_choice": true
+    }, {
+        "choice": "The cost of changing the startup's direction",
+        "is_right_choice": false
+    }, {
+        "choice": "The revenue a startup loses during a pivot",
+        "is_right_choice": false
+    }],
+    "explanation": "In the context of pivoting a startup, 'opportunity cost' refers to the concept of missing out on potentially better opportunities because time and resources are being spent on a path that is not yielding the desired results."
+}, {
+    "name": "GoodReasonsToPivot",
+    "question": "Which of the following is a good reason to consider pivoting your startup?",
+    "choices": [{
+        "choice": "You're experiencing temporary burnout.",
+        "is_right_choice": false
+    }, {
+        "choice": "You frequently switch ideas.",
+        "is_right_choice": false
+    }, {
+        "choice": "Your project is not growing despite various strategies.",
+        "is_right_choice": true
+    }, {
+        "choice": "You've just started and results are not yet visible.",
+        "is_right_choice": false
+    }],
+    "explanation": "Pivoting your startup is recommended when your current project is not growing despite trying different strategies, as it indicates that the existing business model or direction may not be viable."
+}, {
+    "name": "BadReasonsToPivot",
+    "question": "Why should you avoid pivoting just because of a new trend?",
+    "choices": [{
+        "choice": "Trends guarantee startup success.",
+        "is_right_choice": false
+    }, {
+        "choice": "It can indicate a lack of commitment to your current idea.",
+        "is_right_choice": true
+    }, {
+        "choice": "Following trends reduces opportunity cost.",
+        "is_right_choice": false
+    }, {
+        "choice": "Trends can increase the financial cost of pivoting.",
+        "is_right_choice": false
+    }],
+    "explanation": "Pivoting just because of a new trend should be avoided as it may reflect a lack of commitment and thorough understanding of your current idea. Trends come and go, and successful startups are often those that solve a real problem rather than just riding the latest trend."
+}, {
+    "name": "TimeToPivot",
+    "question": "When might it be a good time to pivot your startup?",
+    "choices": [{
+        "choice": "Immediately after launch if initial results are not optimistic.",
+        "is_right_choice": false
+    }, {
+        "choice": "After a long time of no improvement and growing certainty something else will work better.",
+        "is_right_choice": true
+    }, {
+        "choice": "When facing minor setbacks and challenges.",
+        "is_right_choice": false
+    }, {
+        "choice": "Whenever a more interesting idea comes along.",
+        "is_right_choice": false
+    }],
+    "explanation": "A good time to consider pivoting is after a significant period of no improvement despite various efforts, coupled with the growing conviction that another direction might be more profitable. This suggests thoughtfulness in decision-making rather than a reactionary or impulsive approach."
+}]

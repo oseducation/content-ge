@@ -1,0 +1,35 @@
+[{
+    "name": "Web3 Startups Practicality",
+    "question": "Why is it important for Web3 startups to focus on practical applications rather than just theoretical possibilities?",
+    "choices": [{
+        "choice": "Because theoretical ideas are easier to implement",
+        "is_right_choice": false
+    }, {
+        "choice": "To ensure the technology is understandable and usable by the general public",
+        "is_right_choice": true
+    }, {
+        "choice": "Because Web3 technology is not yet fully developed",
+        "is_right_choice": false
+    }, {
+        "choice": "To make it easier to attract venture capital",
+        "is_right_choice": false
+    }],
+    "expenation": "Focusing on practical applications ensures that Web3 startups create products that are tangible, usable, and understandable by users. This is important because it transforms the theoretical aspects of Web3 into real-world solutions, similar to OpenSea's approach, which was successful due to its tangible product that generated real user growth and revenue."
+}, {
+    "name": "Web3 Success Factors",
+    "question": "What was a key factor in OpenSea's success as a Web3 startup?",
+    "choices": [{
+        "choice": "Focusing solely on theoretical possibilities",
+        "is_right_choice": false
+    }, {
+        "choice": "Generating revenue through tangible products",
+        "is_right_choice": true
+    }, {
+        "choice": "Limiting their platform to a small, niche audience",
+        "is_right_choice": false
+    }, {
+        "choice": "Using traditional technology instead of Web3",
+        "is_right_choice": false
+    }],
+    "expenation": "OpenSea's success as a Web3 startup was significantly attributed to its ability to launch a platform with tangible, understandable products that attracted users, saw growth, and generated revenue. Their approach went beyond theory to create practical value for users, which is crucial for success in the Web3 space."
+}]

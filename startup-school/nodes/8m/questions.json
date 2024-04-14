@@ -1,0 +1,69 @@
+[{
+    "name": "Scheduled One-on-Ones Importance",
+    "question": "Why are scheduled one-on-ones crucial for co-founders?",
+    "choices": [{
+        "choice": "To discuss personal matters",
+        "is_right_choice": false
+    }, {
+        "choice": "They provide a dedicated space to discuss ongoing topics",
+        "is_right_choice": true
+    }, {
+        "choice": "To reduce the frequency of communication",
+        "is_right_choice": false
+    }, {
+        "choice": "To solely focus on financial issues",
+        "is_right_choice": false
+    }],
+    "explanation": "Scheduled one-on-ones are crucial because they provide a structured and dedicated space to discuss ongoing topics, ensuring that minor issues don't interrupt the workflow and allowing for focused communication."
+}, {
+    "name": "Handling Constructive Feedback",
+    "question": "How should co-founders handle receiving constructive feedback according to best practices?",
+    "choices": [{
+        "choice": "By immediately defending their actions",
+        "is_right_choice": false
+    }, {
+        "choice": "By interrupting and arguing to justify their stance",
+        "is_right_choice": false
+    }, {
+        "choice": "Not interrupting or arguing, allowing for open and honest communication",
+        "is_right_choice": true
+    }, {
+        "choice": "Ignoring the feedback",
+        "is_right_choice": false
+    }],
+    "explanation": "The best practice for handling constructive feedback is not to interrupt or argue but to listen, allowing for open and honest communication. This approach fosters a positive environment for growth and improvement."
+}, {
+    "name": "Engaging a Coach or Counselor",
+    "question": "Why might co-founders consider engaging a coach or counselor?",
+    "choices": [{
+        "choice": "Only when their relationship has irreparable issues",
+        "is_right_choice": false
+    }, {
+        "choice": "To focus on financial planning",
+        "is_right_choice": false
+    }, {
+        "choice": "For help with difficult interpersonal situations and proactive management",
+        "is_right_choice": true
+    }, {
+        "choice": "They are legally obliged to",
+        "is_right_choice": false
+    }],
+    "explanation": "Co-founders might engage a coach or counselor for help with difficult interpersonal situations and for proactive relationship management, not necessarily because their relationship is already in trouble."
+}, {
+    "name": "Addressing Problems Early",
+    "question": "What is the recommended approach for addressing problems between co-founders?",
+    "choices": [{
+        "choice": "Ignoring issues until they resolve themselves",
+        "is_right_choice": false
+    }, {
+        "choice": "Waiting for small issues to become big problems",
+        "is_right_choice": false
+    }, {
+        "choice": "Addressing problems early",
+        "is_right_choice": true
+    }, {
+        "choice": "Discussing only during annual reviews",
+        "is_right_choice": false
+    }],
+    "explanation": "Addressing problems early is recommended to prevent small issues from becoming significant problems, facilitating smoother resolution and less impact on the business."
+}]

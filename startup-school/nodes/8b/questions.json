@@ -1,0 +1,52 @@
+[{
+    "name": "Identifying Potential Co-Founders",
+    "question": "Where is the best place to start looking for a co-founder for your startup?",
+    "choices": [{
+        "choice": "Online job listings",
+        "is_right_choice": false
+    }, {
+        "choice": "Your immediate social and professional circle",
+        "is_right_choice": true
+    }, {
+        "choice": "Industry-specific conferences",
+        "is_right_choice": false
+    }, {
+        "choice": "Cold-calling potential candidates",
+        "is_right_choice": false
+    }],
+    "explanation": "Looking among friends, classmates, and colleagues is suggested as the best starting point for finding a co-founder, given the potential for shared enthusiasm, vision, and the ability to test compatibility in low-pressure situations."
+}, {
+    "name": "Qualities of a Good Co-Founder",
+    "question": "Which quality is NOT mentioned as important for a potential co-founder?",
+    "choices": [{
+        "choice": "Being willing to relocate",
+        "is_right_choice": true
+    }, {
+        "choice": "Smart and capable",
+        "is_right_choice": false
+    }, {
+        "choice": "Enjoyable to work with",
+        "is_right_choice": false
+    }, {
+        "choice": "Someone you respect",
+        "is_right_choice": false
+    }],
+    "explanation": "The text highlights the importance of intelligence, capability, respect, and enjoyable collaboration in a co-founder but does not mention the willingness to relocate as a necessary quality."
+}, {
+    "name": "Testing Compatibility with Potential Co-Founders",
+    "question": "What is suggested as a low-pressure way to test compatibility with a potential co-founder?",
+    "choices": [{
+        "choice": "Signing a short-term contract",
+        "is_right_choice": false
+    }, {
+        "choice": "Attending a team-building retreat",
+        "is_right_choice": false
+    }, {
+        "choice": "Collaborating on a small project first",
+        "is_right_choice": true
+    }, {
+        "choice": "Conducting formal interviews",
+        "is_right_choice": false
+    }],
+    "explanation": "Collaborating on a small project is advised as a low-pressure method to assess work dynamics and compatibility with a potential co-founder before making a long-term commitment."
+}]

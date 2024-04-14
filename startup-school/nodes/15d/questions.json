@@ -1,0 +1,52 @@
+[{
+    "name": "Early Strategies",
+    "question": "What was the first step Pedro and Henrique took to acquire their early customers for Brex?",
+    "choices": [{
+        "choice": "They launched a large marketing campaign.",
+        "is_right_choice": false
+    }, {
+        "choice": "They created an invite-only email to make their product seem exclusive.",
+        "is_right_choice": false
+    }, {
+        "choice": "They started with a virtual credit card and offered it to other startups in Y Combinator.",
+        "is_right_choice": true
+    }, {
+        "choice": "They immediately worked on developing a full-fledged product with a website and mobile app.",
+        "is_right_choice": false
+    }],
+    "explanation": "Pedro and Henrique's first step to gaining early customers was offering a simple product— a virtual credit card— to other startups in the Y Combinator program, leveraging their immediate network."
+}, {
+    "name": "Marketing Approach",
+    "question": "Why was the invite-only email Brex sent out considered to be effective?",
+    "choices": [{
+        "choice": "It was very short and to the point.",
+        "is_right_choice": false
+    }, {
+        "choice": "It offered a significant discount on their services.",
+        "is_right_choice": false
+    }, {
+        "choice": "It made the offer seem special and limited, encouraging immediate action.",
+        "is_right_choice": true
+    }, {
+        "choice": "It promised financial returns to early users.",
+        "is_right_choice": false
+    }],
+    "explanation": "The invite-only email strategy was effective because it made recipients feel like they were getting an exclusive offer, thus encouraging them to act quickly to not miss out."
+}, {
+    "name": "Product Appeal",
+    "question": "What unique offer did Brex present to its customers compared to other credit card companies?",
+    "choices": [{
+        "choice": "Lower interest rates",
+        "is_right_choice": false
+    }, {
+        "choice": "Rewards and cashback on purchases",
+        "is_right_choice": false
+    }, {
+        "choice": "A no-personal-guarantee credit card for startups",
+        "is_right_choice": true
+    }, {
+        "choice": "Longer grace periods for payments",
+        "is_right_choice": false
+    }],
+    "explanation": "Brex differentiated itself by offering a no-personal-guarantee credit card specifically designed for startups, filling a unique gap in the market that other credit card companies were not addressing."
+}]

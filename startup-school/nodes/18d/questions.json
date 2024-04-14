@@ -1,0 +1,69 @@
+[{
+    "name": "role_of_founders",
+    "question": "What is the primary role of founders in the growth of their startups according to the text?",
+    "choices": [{
+        "choice": "Financial management",
+        "is_right_choice": false
+    }, {
+        "choice": "Hard work, creativity, and an unconventional approach",
+        "is_right_choice": true
+    }, {
+        "choice": "Website design and development",
+        "is_right_choice": false
+    }, {
+        "choice": "Legal compliance",
+        "is_right_choice": false
+    }],
+    "explanation": "The text highlights that founders are the true engines behind their startups due to their hard work, creativity, and unconventional approach to problems and challenges."
+}, {
+    "name": "scale_vs_unscalable",
+    "question": "Why should founders initially focus on doing things that don't easily scale?",
+    "choices": [{
+        "choice": "Because scalable tasks require more financial investment.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because unscalable tasks are easier and require less effort.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because they need to grow and obtain genuine feedback from unfamiliar audiences.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because they don't have to think about long-term strategies at the start.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text suggests that founders should be comfortable doing tasks that don’t scale easily in the initial stages to grow their startup and acquire honest feedback from people not in their immediate network."
+}, {
+    "name": "growth_expectation",
+    "question": "According to the text, what should founders not expect in the initial stages of their startup?",
+    "choices": [{
+        "choice": "To rely solely on word-of-mouth for growth",
+        "is_right_choice": false
+    }, {
+        "choice": "To face challenges that weren't taught in business school",
+        "is_right_choice": false
+    }, {
+        "choice": "To see magic happen overnight with just a website launch and some ads",
+        "is_right_choice": true
+    }, {
+        "choice": "To avoid tasks that are not scalable",
+        "is_right_choice": false
+    }],
+    "explanation": "The text explicitly warns founders not to expect magic to happen overnight just by launching a website and putting up some ads, highlighting the importance of ground-level hustle in the early stages."
+}, {
+    "name": "importance_of_feedback",
+    "question": "Why is reaching unfamiliar audiences important for startup founders?",
+    "choices": [{
+        "choice": "It allows for more efficient financial planning.",
+        "is_right_choice": false
+    }, {
+        "choice": "It provides opportunities for large-scale investments.",
+        "is_right_choice": false
+    }, {
+        "choice": "It ensures the feedback received is genuine and unbiased.",
+        "is_right_choice": true
+    }, {
+        "choice": "It guarantees immediate sales and business growth.",
+        "is_right_choice": false
+    }],
+    "explanation": "Reaching unfamiliar audiences is critical for startup founders because these individuals can offer genuine and unbiased feedback, which is essential for refining and improving their offerings."
+}]

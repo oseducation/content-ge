@@ -1,0 +1,69 @@
+[{
+    "name": "supply_demand_theory_1",
+    "question": "Why is there a large pool of founders interested in startup ideas involving celebrities or going to concerts?",
+    "choices": [{
+        "choice": "Because these ideas require the least amount of capital to start.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because these ideas sound glamorous and enjoyable.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because they have the highest success rate among startups.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because these startups do not require any technical skills.",
+        "is_right_choice": false
+    }],
+    "explanation": "There's a high interest in startup ideas around celebrities or concerts because they appear glamorous and enjoyable, making them attractive to a broad range of founders regardless of the actual demand or technical requirements."
+}, {
+    "name": "supply_demand_theory_2",
+    "question": "Which of the following startup ideas likely has a smaller pool of interested founders?",
+    "choices": [{
+        "choice": "Social networking apps",
+        "is_right_choice": false
+    }, {
+        "choice": "Music or concert discovery apps",
+        "is_right_choice": false
+    }, {
+        "choice": "Open-source developer tools",
+        "is_right_choice": true
+    }, {
+        "choice": "Celebrity fan clubs",
+        "is_right_choice": false
+    }],
+    "explanation": "Open-source developer tools and quantum computing startups attract a smaller pool of founders due to the specific technical skills and passion required, which are not as widespread as the interest in more 'fun' or glamorous startup ideas."
+}, {
+    "name": "supply_demand_theory_3",
+    "question": "What characteristic of a startup idea suggests a potentially high demand in the market?",
+    "choices": [{
+        "choice": "The idea is related to social activities like concerts.",
+        "is_right_choice": false
+    }, {
+        "choice": "The startup revolves around a trendy technology with a lot of media buzz.",
+        "is_right_choice": false
+    }, {
+        "choice": "It solves significant business problems, making companies more efficient.",
+        "is_right_choice": true
+    }, {
+        "choice": "It requires minimal technical expertise to launch.",
+        "is_right_choice": false
+    }],
+    "explanation": "Startup ideas that address significant business problems and aim to increase efficiency have a potentially high demand because they offer solutions to real and widespread issues, hence attracting interest from various sectors."
+}, {
+    "name": "supply_demand_theory_4",
+    "question": "According to the text, what makes someone an ideal candidate to start a successful startup?",
+    "choices": [{
+        "choice": "Having a strong interest in social media and entertainment.",
+        "is_right_choice": false
+    }, {
+        "choice": "Possessing unique insights or experience in a niche industry.",
+        "is_right_choice": true
+    }, {
+        "choice": "Preferring to work on glamorous and fun project ideas.",
+        "is_right_choice": false
+    }, {
+        "choice": "Wanting to create the next big consumer app.",
+        "is_right_choice": false
+    }],
+    "explanation": "An ideal candidate for starting a successful startup is someone with unique insights or experience in a niche industry, as these individuals can address complex problems with their specialized knowledge, filling market gaps in a relevant sector."
+}]

@@ -1,0 +1,52 @@
+[{
+    "name": "Conflict Resolution Timing",
+    "question": "Why is it sometimes better not to resolve an argument with a co-founder immediately?",
+    "choices": [{
+        "choice": "To wait for external advice",
+        "is_right_choice": false
+    }, {
+        "choice": "To cool down and approach the issue productively later",
+        "is_right_choice": true
+    }, {
+        "choice": "To see if the problem resolves itself",
+        "is_right_choice": false
+    }, {
+        "choice": "To focus on other business areas first",
+        "is_right_choice": false
+    }],
+    "explanation": "Pausing an argument when emotions are high allows both parties to cool down, helping to ensure that when the discussion is revisited, it can be more productive and less harmful to the relationship and the business."
+}, {
+    "name": "Understanding Stress Responses",
+    "question": "Why is it important to understand your co-founder's response to stress?",
+    "choices": [{
+        "choice": "To predict their future actions",
+        "is_right_choice": false
+    }, {
+        "choice": "To avoid all conflicts",
+        "is_right_choice": false
+    }, {
+        "choice": "To personalize your communication and conflict resolution strategy",
+        "is_right_choice": true
+    }, {
+        "choice": "To change their stress response",
+        "is_right_choice": false
+    }],
+    "explanation": "Knowing how your co-founder reacts to stress (whether they confront issues directly or need time to process alone) helps in interpreting their actions during tense moments and in tailoring the approach to manage conflicts more effectively."
+}, {
+    "name": "Choice of Co-Founder",
+    "question": "Why might choosing a co-founder with whom you have a history be beneficial?",
+    "choices": [{
+        "choice": "It guarantees business success",
+        "is_right_choice": false
+    }, {
+        "choice": "It eliminates all potential conflicts",
+        "is_right_choice": false
+    }, {
+        "choice": "It provides a foundation of understanding and resilience",
+        "is_right_choice": true
+    }, {
+        "choice": "It ensures that you have the same business skills",
+        "is_right_choice": false
+    }],
+    "explanation": "Having a history with a co-founder can be beneficial because past experiences of ups and downs can build a strong foundation of mutual understanding and resilience, key for navigating the complexities and challenges of running a startup together."
+}]

@@ -1,0 +1,35 @@
+[{
+    "name": "Benefits of Y Combinator Application",
+    "question": "What is one of the main benefits of applying to Y Combinator (YC), according to the text?",
+    "choices": [{
+        "choice": "Guaranteed funding for your startup",
+        "is_right_choice": false
+    }, {
+        "choice": "It forces you to reflect on your startup idea",
+        "is_right_choice": true
+    }, {
+        "choice": "It offers a physical space for your startup to work in",
+        "is_right_choice": false
+    }, {
+        "choice": "Immediate access to a large network of investors",
+        "is_right_choice": false
+    }],
+    "expenation": "The text highlights that one of the main benefits of applying to YC is that it forces applicants to sit down and really consider their startup idea. The application process itself is framed as a valuable opportunity for reflection and clarity, rather than focusing on the potential financial gains or networking opportunities."
+}, {
+    "name": "Cost vs. Gain of Applying to YC",
+    "question": "According to the text, how does the 'cost' of applying to Y Combinator compare to the potential 'gain'?",
+    "choices": [{
+        "choice": "The costs outweigh the gains significantly",
+        "is_right_choice": false
+    }, {
+        "choice": "The gains are minimal compared to the costs",
+        "is_right_choice": false
+    }, {
+        "choice": "The potential gains heavily outweigh the costs",
+        "is_right_choice": true
+    }, {
+        "choice": "The costs and gains are equally balanced",
+        "is_right_choice": false
+    }],
+    "expenation": "The text clearly indicates that when weighing the 'cost' of applying (in terms of time and resources) against the potential 'gain' (clarity, direction, and fine-tuning of the startup idea), the potential 'gain' leans heavily towards outweighing the 'cost'. This reinforces the notion that applying to YC is considered a worthwhile endeavor."
+}]

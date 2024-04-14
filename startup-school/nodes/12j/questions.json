@@ -1,0 +1,52 @@
+[{
+    "name": "Engaging Interviewees",
+    "question": "Why is it advisable for startups to maintain connections with interviewees after initial interviews?",
+    "choices": [{
+        "choice": "To limit their communication to only necessary updates.",
+        "is_right_choice": false
+    }, {
+        "choice": "To build trust and make them feel part of the product journey.",
+        "is_right_choice": true
+    }, {
+        "choice": "To ensure that the users do not join competing forums.",
+        "is_right_choice": false
+    }, {
+        "choice": "To reduce the overall marketing costs.",
+        "is_right_choice": false
+    }],
+    "explanation": "Maintaining connections with interviewees after initial interviews builds trust and inclusion, making them feel part of the journey, which is crucial for gathering feedback and fostering a community around the product."
+}, {
+    "name": "Platforms for Engagement",
+    "question": "Which platforms are suggested for inviting users to join private groups?",
+    "choices": [{
+        "choice": "Twitter and Facebook",
+        "is_right_choice": false
+    }, {
+        "choice": "LinkedIn and Instagram",
+        "is_right_choice": false
+    }, {
+        "choice": "Slack and WhatsApp",
+        "is_right_choice": true
+    }, {
+        "choice": "Email and Phone Calls",
+        "is_right_choice": false
+    }],
+    "explanation": "Slack and WhatsApp are recommended platforms for creating private groups where startups can keep their users engaged and involved in their product development journey."
+}, {
+    "name": "Outcome of Keeping Users Engaged",
+    "question": "What is one of the key outcomes of keeping potential users engaged and involved in your product development?",
+    "choices": [{
+        "choice": "It ensures product development is no longer necessary.",
+        "is_right_choice": false
+    }, {
+        "choice": "It confines the user's experience to the interviewing process.",
+        "is_right_choice": false
+    }, {
+        "choice": "It helps in translating user feedback into the first prototype or MVP.",
+        "is_right_choice": true
+    }, {
+        "choice": "It guarantees the product's success in the market.",
+        "is_right_choice": false
+    }],
+    "explanation": "Keeping potential users engaged and incorporating their feedback are crucial steps that help in progressing from the feedback stage to the creation of a prototype or Minimum Viable Product (MVP)."
+}]

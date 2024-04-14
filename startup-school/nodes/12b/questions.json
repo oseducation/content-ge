@@ -1,0 +1,52 @@
+[{
+    "name": "Brian Chesky’s Initiative",
+    "question": "What was the purpose behind Airbnb's CEO, Brian Chesky, living in 50 different Airbnb homes?",
+    "choices": [{
+        "choice": "To find the most luxurious Airbnb home.",
+        "is_right_choice": false
+    }, {
+        "choice": "To directly engage with hosts and understand their experiences.",
+        "is_right_choice": true
+    }, {
+        "choice": "To save on living expenses.",
+        "is_right_choice": false
+    }, {
+        "choice": "To personally decorate each home.",
+        "is_right_choice": false
+    }],
+    "explanation": "Brian Chesky's intention to live in 50 different Airbnb homes was to have a direct and personal engagement with the hosts, allowing him to better understand their experiences and needs."
+}, {
+    "name": "Direct Engagement",
+    "question": "Why do Brian Chesky and his co-founders prefer direct engagement with their hosts?",
+    "choices": [{
+        "choice": "It was a marketing strategy.",
+        "is_right_choice": false
+    }, {
+        "choice": "To avoid the cost of hiring customer support.",
+        "is_right_choice": false
+    }, {
+        "choice": "To collect decoration ideas.",
+        "is_right_choice": false
+    }, {
+        "choice": "To deeply understand and connect with their host community.",
+        "is_right_choice": true
+    }],
+    "explanation": "Direct engagement allowed the founders to deeply understand and connect with their hosts, which was essential for Airbnb's growth and to ensure that the platform met the hosts' needs effectively."
+}, {
+    "name": "Importance of Accessibility",
+    "question": "According to the text, why is being accessible to users vital for startups?",
+    "choices": [{
+        "choice": "It is a requirement by law.",
+        "is_right_choice": false
+    }, {
+        "choice": "It ensures the brand's success by understanding and engaging with users.",
+        "is_right_choice": true
+    }, {
+        "choice": "It is solely a public relations tactic.",
+        "is_right_choice": false
+    }, {
+        "choice": "Users demand to know the founders personally.",
+        "is_right_choice": false
+    }],
+    "explanation": "Being accessible and engaging directly with users is crucial for understanding their needs and motivations, which can significantly contribute to a startup's success, as exemplified by Airbnb's strategy."
+}]

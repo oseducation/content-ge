@@ -1,0 +1,35 @@
+[{
+    "name": "Top 10 YC Companies",
+    "question": "Which of the following is NOT listed as one of the top 10 Y Combinator companies?",
+    "choices": [{
+        "choice": "Uber",
+        "is_right_choice": true
+    }, {
+        "choice": "Airbnb",
+        "is_right_choice": false
+    }, {
+        "choice": "Coinbase",
+        "is_right_choice": false
+    }, {
+        "choice": "Reddit",
+        "is_right_choice": false
+    }],
+    "explanation": "Uber is not mentioned in the list of the top 10 Y Combinator companies provided. It might be a well-known startup, but it did not participate in the Y Combinator program like Airbnb, Coinbase, and Reddit."
+}, {
+    "name": "Understanding YC's Top 10",
+    "question": "What is a common factor among the top 10 companies backed by Y Combinator?",
+    "choices": [{
+        "choice": "All are based outside the United States",
+        "is_right_choice": false
+    }, {
+        "choice": "All have a global customer base",
+        "is_right_choice": true
+    }, {
+        "choice": "All are in the technology hardware sector",
+        "is_right_choice": false
+    }, {
+        "choice": "All were founded after 2015",
+        "is_right_choice": false
+    }],
+    "explanation": "The common factor among the top 10 Y Combinator companies, like Airbnb, Stripe, and Coinbase, is that they have a global customer base, serving users around the world unlike being based outside the US, focusing on technology hardware, or being founded after 2015."
+}]

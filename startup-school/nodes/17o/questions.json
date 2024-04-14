@@ -1,0 +1,52 @@
+[{
+    "name": "Undercharging Impact",
+    "question": "Why is undercharging for your products or services not a good strategy for startups?",
+    "choices": [{
+        "choice": "It ensures a faster break-even point.",
+        "is_right_choice": false
+    }, {
+        "choice": "It may lead to perceived lower quality by customers.",
+        "is_right_choice": true
+    }, {
+        "choice": "It increases the customer base quickly.",
+        "is_right_choice": false
+    }, {
+        "choice": "It guarantees quick venture capital interest.",
+        "is_right_choice": false
+    }],
+    "explanation": "Undercharging may cause customers to perceive your product or service as lower in quality. Competitors, especially larger ones, may also easily match or undercut prices, rendering the low-cost strategy ineffective. Furthermore, relying solely on being the cheaper option does not guarantee a sustainable competitive advantage or success."
+}, {
+    "name": "Doubling Income",
+    "question": "What is a potentially easier way for a startup to double its income according to the passage?",
+    "choices": [{
+        "choice": "Doubling the number of customers",
+        "is_right_choice": false
+    }, {
+        "choice": "Doubling the marketing budget",
+        "is_right_choice": false
+    }, {
+        "choice": "Doubling the prices and matching the quality",
+        "is_right_choice": true
+    }, {
+        "choice": "Halving production costs",
+        "is_right_choice": false
+    }],
+    "explanation": "The passage suggests that doubling prices (assuming the quality of offerings matches up) can be an easier and faster way to double income compared to trying to double the customer base, which can be more challenging and resource-intensive."
+}, {
+    "name": "Exceptions to High Pricing",
+    "question": "In which case might it be acceptable for a startup to initially charge less for its product or service?",
+    "choices": [{
+        "choice": "When the startup is unsure about the product's quality",
+        "is_right_choice": false
+    }, {
+        "choice": "When gaining feedback from early customers",
+        "is_right_choice": true
+    }, {
+        "choice": "When the startup aims to permanently be the cheapest option",
+        "is_right_choice": false
+    }, {
+        "choice": "When there is no competition in the market",
+        "is_right_choice": false
+    }],
+    "explanation": "Charging less in the beginning is acceptable when the goal is to gain valuable feedback from the first few customers. This early input can be critical for product development and improvement, making the initial lower pricing a strategic move rather than an undervaluation of the product or service."
+}]

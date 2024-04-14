@@ -1,0 +1,86 @@
+[{
+    "name": "Sales Email Length",
+    "question": "What is the ideal length for a sales email?",
+    "choices": [{
+        "choice": "2-3 sentences",
+        "is_right_choice": false
+    }, {
+        "choice": "6-8 sentences",
+        "is_right_choice": true
+    }, {
+        "choice": "10-12 sentences",
+        "is_right_choice": false
+    }, {
+        "choice": "Over 15 sentences",
+        "is_right_choice": false
+    }],
+    "explanation": "A great sales email should be concise to respect the reader's time, hence 6-8 sentences is the ideal length."
+}, {
+    "name": "Sales Email Content",
+    "question": "What should be avoided in the content of a sales email?",
+    "choices": [{
+        "choice": "A clear call to action",
+        "is_right_choice": false
+    }, {
+        "choice": "Personal touch like stating you're the founder",
+        "is_right_choice": false
+    }, {
+        "choice": "Complicated language and industry jargon",
+        "is_right_choice": true
+    }, {
+        "choice": "Linking to your website",
+        "is_right_choice": false
+    }],
+    "explanation": "To ensure clarity and keep the reader's interest, complicated language and industry jargon should be avoided in sales emails."
+}, {
+    "name": "Email Design",
+    "question": "How should the design of a sales email be?",
+    "choices": [{
+        "choice": "Full of colorful HTML formatting and graphics",
+        "is_right_choice": false
+    }, {
+        "choice": "Plain and simple, like writing to a good friend",
+        "is_right_choice": true
+    }, {
+        "choice": "Filled with GIFs and videos only",
+        "is_right_choice": false
+    }, {
+        "choice": "No need for design, just text",
+        "is_right_choice": false
+    }],
+    "explanation": "A sales email should be designed in a plain and simple manner to ensure readability and a personal touch, much like writing to a good friend."
+}, {
+    "name": "Establishing Credibility",
+    "question": "How can you establish credibility in your sales email?",
+    "choices": [{
+        "choice": "By only stating you are the founder",
+        "is_right_choice": false
+    }, {
+        "choice": "Using a lot of industry jargon to sound professional",
+        "is_right_choice": false
+    }, {
+        "choice": "Mentioning prestigious programs or known companies you've worked with",
+        "is_right_choice": true
+    }, {
+        "choice": "By saying your product is the best without proof",
+        "is_right_choice": false
+    }],
+    "explanation": "Establishing credibility can be achieved by mentioning reputable programs or well-known companies you've collaborated with, as it gives the reader confidence in your expertise."
+}, {
+    "name": "Call to Action",
+    "question": "What kind of call to action should a sales email include?",
+    "choices": [{
+        "choice": "A vague suggestion to contact you if interested",
+        "is_right_choice": false
+    }, {
+	"choice": "Encourage a specific action, like a call or a product trial",
+	"is_right_choice": true
+    }, {
+        "choice": "No call to action; if they’re interested, they’ll reply",
+        "is_right_choice": false
+    }, {
+        "choice": "A request to follow on social media for more info",
+        "is_right_choice": false
+    }],
+    "explanation": "A sales email should include a clear and strong call to action, encouraging a specific action (e.g., a call, meeting, or product trial) to prompt an immediate response from the reader."
+}]

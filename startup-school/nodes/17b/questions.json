@@ -1,0 +1,52 @@
+[{
+    "name": "Dominant Business Models",
+    "question": "Which business models are most dominant among the top 100 Y Combinator-backed companies?",
+    "choices": [{
+        "choice": "Advertising and E-commerce",
+        "is_right_choice": false
+    }, {
+        "choice": "Software as a Service (SaaS), Transaction-related models, and Marketplaces",
+        "is_right_choice": true
+    }, {
+        "choice": "Consumer Goods and Physical Products",
+        "is_right_choice": false
+    }, {
+        "choice": "Healthcare and Biotech",
+        "is_right_choice": false
+    }],
+    "expenation": "Software as a Service (SaaS), transaction-related models, and marketplaces are the most dominant business models among the top 100 YC-backed companies, making up 67% of them. This is in stark contrast to advertising and e-commerce, which are much less common among these successful startups."
+}, {
+    "name": "Power Law in Startups",
+    "question": "What does the 'power law effect' in startup outcomes indicate?",
+    "choices": [{
+        "choice": "All startups in the top 100 have equal value.",
+        "is_right_choice": false
+    }, {
+        "choice": "The top 10 companies account for 10% of the overall value.",
+        "is_right_choice": false
+    }, {
+        "choice": "There's no significant difference in value among the top 100 companies.",
+        "is_right_choice": false
+    }, {
+        "choice": "The top 10 companies account for 50% of the overall value of the YC top 100.",
+        "is_right_choice": true
+    }],
+    "expenation": "The 'power law effect' in startup outcomes refers to the phenomenon where a small number of companies (in this case, the top 10 out of 100) account for a disproportionately large amount of value, here being 50% of the overall value of the YC top 100. This illustrates the significant success gap between these top performers and the rest."
+}, {
+    "name": "Importance of Choosing a Business Model",
+    "question": "Why is understanding successful business models crucial for new startups?",
+    "choices": [{
+        "choice": "To follow trends without considering the startup's unique needs.",
+        "is_right_choice": false
+    }, {
+        "choice": "To avoid choosing a business model altogether.",
+        "is_right_choice": false
+    }, {
+        "choice": "To gain valuable guidance on choosing the right model for success.",
+        "is_right_choice": true
+    }, {
+        "choice": "To replicate the exact path of successful startups without customization.",
+        "is_right_choice": false
+    }],
+    "expenation": "Understanding the business models that lead to the greatest success in startups is crucial because it provides valuable guidance for new companies on choosing the right model for their own venture. Learning from the paths paved by successful companies helps in making informed decisions rather than just following trends or blindly duplicating their strategies."
+}]

@@ -1,0 +1,52 @@
+[{
+    "name": "Definition of Bootstrapping",
+    "question": "What does bootstrapping in startups mean?",
+    "choices": [{
+        "choice": "Taking large loans from banks at the start",
+        "is_right_choice": false
+    }, {
+        "choice": "Building your startup with only the money from your clients",
+        "is_right_choice": true
+    }, {
+        "choice": "Getting initial funding from venture capitalists",
+        "is_right_choice": false
+    }, {
+        "choice": "Starting a business with money from friends and family",
+        "is_right_choice": false
+    }],
+    "explanation": "Bootstrapping refers to building your startup using only the money that you get from your clients, without external investment such as loans or venture capital."
+}, {
+    "name": "Cons of Bootstrapping",
+    "question": "Which of the following is NOT listed as a drawback of bootstrapping in the text?",
+    "choices": [{
+        "choice": "Having a high universal fear factor of running out of funds",
+        "is_right_choice": false
+    }, {
+        "choice": "Needing to take up freelance work",
+        "is_right_choice": false
+    }, {
+        "choice": "The difficulty of scaling the business",
+        "is_right_choice": true
+    }, {
+        "choice": "Living on a shoestring budget",
+        "is_right_choice": false
+    }],
+    "explanation": "The text does not explicitly mention the difficulty of scaling the business as a drawback of bootstrapping, although it might be implied. Instead, it focuses on the universal fear factor, the need for freelance work to make ends meet, and living on a shoestring budget."
+}, {
+    "name": "Control in Bootstrapping",
+    "question": "Who, according to the text, potentially has more control over their startup?",
+    "choices": [{
+        "choice": "The founder who bootstraps and worries about funds",
+        "is_right_choice": true
+    }, {
+        "choice": "The founder who raises enough money early on",
+        "is_right_choice": false
+    }, {
+        "choice": "The founder who relies on venture capitalist funding",
+        "is_right_choice": false
+    }, {
+        "choice": "All of the above",
+        "is_right_choice": false
+    }],
+    "explanation": "The text suggests that the bootstrapping founder, despite the continuous worry about funds, maintains more control over their startup compared to one who raises a large amount of money early on, potentially giving up some level of control in exchange for funding."
+}]

@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding Startup Customers",
+    "question": "Who was Brian Chesky's very first Airbnb guest?",
+    "choices": [{
+        "choice": "Amal",
+        "is_right_choice": true
+    }, {
+        "choice": "Mark",
+        "is_right_choice": false
+    }, {
+        "choice": "Sarah",
+        "is_right_choice": false
+    }, {
+        "choice": "Tom",
+        "is_right_choice": false
+    }],
+    "explanation": "Amal was mentioned as the very first Airbnb guest who hung out with Brian Chesky, co-founder of Airbnb, showing the importance of real-life customer interaction."
+}, {
+    "name": "Startup Ideation Process",
+    "question": "According to the text, what is a common misconception about how startups begin?",
+    "choices": [{
+        "choice": "They are based on market research.",
+        "is_right_choice": false
+    }, {
+        "choice": "They always start with a big team.",
+        "is_right_choice": false
+    }, {
+        "choice": "They are dreamt up by 'busy money people' or are products of late-night coding.",
+        "is_right_choice": true
+    }, {
+        "choice": "They require substantial initial investment.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text highlights a misconception that startups are either the brainchild of 'busy money people' or emerge from late-night coding sessions, which is not typically how successful startups are founded."
+}, {
+    "name": "Role of Customers in Startups",
+    "question": "Why should startup founders learn from their customers according to the text?",
+    "choices": [{
+        "choice": "Customers provide the best entertainment.",
+        "is_right_choice": false
+    }, {
+        "choice": "Customers offer free advertising.",
+        "is_right_choice": false
+    }, {
+        "choice": "Customers keep the company financially stable.",
+        "is_right_choice": false
+    }, {
+        "choice": "Customers keep the company honest and provide critical feedback.",
+        "is_right_choice": true
+    }],
+    "explanation": "The text emphasizes the importance of learning from customers because they are the ones who keep the company honest by providing critical feedback and have the strongest stake in what the company offers."
+}]

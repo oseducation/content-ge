@@ -1,0 +1,52 @@
+[{
+    "name": "FAANG Job Reality",
+    "question": "What is a common misconception about working at FAANG companies according to the text?",
+    "choices": [{
+        "choice": "FAANG jobs primarily involve cutting-edge technical work.",
+        "is_right_choice": false
+    }, {
+        "choice": "FAANG experience is crucial for becoming a successful startup founder.",
+        "is_right_choice": false
+    }, {
+        "choice": "Most individuals in FAANG companies work on minor aspects of larger projects.",
+        "is_right_choice": true
+    }, {
+        "choice": "Working at a FAANG company guarantees venture capital for future startups.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text clarifies that a common misconception is that roles at FAANG companies predominantly involve major technical challenges, while in reality, many employees may find themselves working on relatively minor tasks. It suggests that the actual job experiences at these companies might not align with the expectations or needs of aspiring startup founders."
+}, {
+    "name": "Transitioning to a Startup Founder",
+    "question": "According to the text, how does FAANG experience impact an individual's journey to becoming a startup founder?",
+    "choices": [{
+        "choice": "It guarantees easier access to venture capital.",
+        "is_right_choice": false
+    }, {
+        "choice": "It directly translates to the skills needed for running a startup.",
+        "is_right_choice": false
+    }, {
+        "choice": "It makes the transition to startup founder more straightforward.",
+        "is_right_choice": false
+    }, {
+        "choice": "It offers valuable experiences but doesn't guarantee success.",
+        "is_right_choice": true
+    }],
+    "explanation": "The text indicates that while FAANG jobs offer valuable experiences, they do not ensure success in starting and running a startup, nor do they guarantee easier access to venture capital. The skills and experiences relevant to founding a company can be different from those gained in FAANG roles, emphasizing the need for aspiring founders to critically assess the benefits of such jobs in their entrepreneurial journey."
+}, {
+    "name": "Skills Relevance",
+    "question": "How relevant are the skills gained in FAANG jobs to starting a startup, according to the text?",
+    "choices": [{
+        "choice": "They are directly transferable and highly relevant.",
+        "is_right_choice": false
+    }, {
+    "choice": "Technical skills gained are exactly what's needed to start a startup.",
+        "is_right_choice": false
+    },{
+        "choice": "They may not align with the skills needed to start and run a startup.",
+        "is_right_choice": true
+    }, {
+        "choice": "Internal tool usage and processes are more applicable in startups.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text suggests that while FAANG jobs can provide certain insights and experiences, many of the skills and lessons learned, such as working on specific internal tools and corporate processes, might not directly align with or be applicable in the context of starting and running a startup. It stresses the importance of recognizing the differences in skill sets required for success in large tech companies versus in entrepreneurial ventures."
+}]

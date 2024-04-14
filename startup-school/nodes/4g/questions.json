@@ -1,0 +1,35 @@
+[{
+    "name": "Understanding Market Changes for Startups",
+    "question": "What was the key change that Checker capitalized on to create its startup idea?",
+    "choices": [{
+        "choice": "The widespread adoption of the internet",
+        "is_right_choice": false
+    }, {
+        "choice": "The rapid expansion of delivery services requiring large-scale background checks",
+        "is_right_choice": true
+    }, {
+        "choice": "The introduction of new government regulations on employment",
+        "is_right_choice": false
+    }, {
+        "choice": "A significant decrease in the cost of technology",
+        "is_right_choice": false
+    }],
+    "explanation": "Checker saw an opportunity because delivery services like DoorDash, Instacart, and Uber were rapidly expanding, which created a new, large-scale need for conducting background checks on workers. This specific need led to the success of Checker's business model."
+}, {
+    "name": "Identifying Opportunities for Startup Ideas",
+    "question": "Which of the following is vital to consider when evaluating a startup idea?",
+    "choices": [{
+        "choice": "Only focusing on current technology trends",
+        "is_right_choice": false
+    }, {
+        "choice": "Whether something has recently changed creating opportunities",
+        "is_right_choice": true
+    }, {
+        "choice": "Copying established companies' business models",
+        "is_right_choice": false
+    }, {
+        "choice": "Avoiding industries with any competition",
+        "is_right_choice": false
+    }],
+    "explanation": "When evaluating a startup idea, it's crucial to consider whether recent changes, such as new technologies, shifts in regulations, or emerging problems, have created new opportunities or made the idea possible or necessary. This approach enables a startup to find niche markets or demand areas that have not been fully served."
+}]

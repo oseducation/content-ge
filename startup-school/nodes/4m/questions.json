@@ -1,0 +1,52 @@
+[{
+    "name": "Origins of Startup Ideas",
+    "question": "What percentage of top companies from Y Combinator came up with their ideas organically?",
+    "choices": [{
+        "choice": "50%",
+        "is_right_choice": false
+    }, {
+        "choice": "70%",
+        "is_right_choice": true
+    }, {
+        "choice": "80%",
+        "is_right_choice": false
+    }, {
+        "choice": "30%",
+        "is_right_choice": false
+    }],
+    "explanation": "About 70% of top companies from Y Combinator developed their startup ideas organically, highlighting the importance of natural idea generation over forced brainstorming."
+}, {
+    "name": "Improving Startup Idea Generation",
+    "question": "Which of the following is NOT suggested as a way to naturally come up with startup ideas?",
+    "choices": [{
+        "choice": "Becoming a financial advisor",
+        "is_right_choice": true
+    }, {
+        "choice": "Becoming an expert in something valuable",
+        "is_right_choice": false
+    }, {
+        "choice": "Working at a startup",
+        "is_right_choice": false
+    }, {
+        "choice": "Building things for fun",
+        "is_right_choice": false
+    }],
+    "explanation": "The text suggests pathways like becoming an expert, working at a startup, and building projects for fun to naturally discover startup ideas, but it does not mention becoming a financial advisor as a method."
+}, {
+    "name": "Benefits of Working at a Startup",
+    "question": "What is a primary benefit of working at a startup?",
+    "choices": [{
+        "choice": "Guaranteed financial success",
+        "is_right_choice": false
+    }, {
+        "choice": "Gaining insights and knowledge",
+        "is_right_choice": true
+    }, {
+        "choice": "Immediate recognition in your field",
+        "is_right_choice": false
+    }, {
+        "choice": "Having flexible work hours",
+        "is_right_choice": false
+    }],
+    "explanation": "Working at a startup provides valuable insights and knowledge about the industry, which can spark unique and viable startup ideas."
+}]

@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding Product-Market Fit",
+    "question": "What does having a product-market fit primarily indicate for a startup?",
+    "choices": [{
+        "choice": "The startup needs to invest more in marketing.",
+        "is_right_choice": false
+    }, {
+        "choice": "The startup's main challenge is managing growth.",
+        "is_right_choice": true
+    }, {
+        "choice": "The product requires significant improvements.",
+        "is_right_choice": false
+    }, {
+        "choice": "The startup must reduce its prices to attract customers.",
+        "is_right_choice": false
+    }],
+    "explanation": "Having a product-market fit indicates that a startup has successfully created a product that meets market demand to the extent that their primary challenge shifts from attracting more customers to managing the growth and scaling operations."
+}, {
+    "name": "The Concept of Pivoting",
+    "question": "What is a pivotal reason for a startup to change direction or pivot?",
+    "choices": [{
+        "choice": "To reduce operational costs.",
+        "is_right_choice": false
+    }, {
+        "choice": "To comply with new regulations.",
+        "is_right_choice": false
+    }, {
+        "choice": "To increase chances of finding product-market fit.",
+        "is_right_choice": true
+    }, {
+        "choice": "To focus on a smaller target market.",
+        "is_right_choice": false
+    }],
+    "explanation": "A pivotal reason for a startup to change direction or pivot is to increase its chances of finding a product-market fit, especially if the initial product isn't achieving the desired success or growth."
+}, {
+    "name": "The Role of Quality Attempts in Startup Success",
+    "question": "How can a startup increase its chances of achieving product-market fit according to the advice given?",
+    "choices": [{
+        "choice": "By launching as many different products as possible without focusing on quality.",
+        "is_right_choice": false
+    }, {
+        "choice": "By acquiring another more successful startup.",
+        "is_right_choice": false
+    }, {
+        "choice": "By focusing on high-quality attempts and fully developing each idea.",
+        "is_right_choice": true
+    }, {
+        "choice": "By exclusively focusing on marketing and sales strategies.",
+        "is_right_choice": false
+    }],
+    "explanation": "The advice given suggests that a startup can increase its chances of achieving product-market fit by focusing on high-quality attempts at innovation, ensuring each product idea is fully developed, launched, and shared with potential customers, rather than hastily moving from one concept to another."
+}]

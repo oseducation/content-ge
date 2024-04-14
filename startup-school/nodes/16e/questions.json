@@ -1,0 +1,86 @@
+[{
+    "name": "Brainstorming Session Purpose",
+    "question": "What is the primary purpose of the brainstorming session in the first step for increasing conversion rates?",
+    "choices": [{
+        "choice": "To implement every idea immediately",
+        "is_right_choice": false
+    }, {
+        "choice": "To list down all ideas without immediate action",
+        "is_right_choice": true
+    }, {
+        "choice": "To prioritize the tasks based on profitability",
+        "is_right_choice": false
+    }, {
+        "choice": "To discuss the ideas with potential customers",
+        "is_right_choice": false
+    }],
+    "explanation": "The primary purpose of the brainstorming session is to jot down all ideas without rushing into action, as mentioned in Step 1. It's about getting all ideas out there but not acting on them instantly."
+}, {
+    "name": "Idea Selection Criteria",
+    "question": "How should ideas be prioritized for action, according to the guide?",
+    "choices": [{
+        "choice": "Based solely on the ease of implementation",
+        "is_right_choice": false
+    }, {
+        "choice": "Based on success probability and then on difficulty",
+        "is_right_choice": true
+    }, {
+        "choice": "By the potential financial return of each idea",
+        "is_right_choice": false
+    }, {
+        "choice": "Randomly, to maintain an element of surprise",
+        "is_right_choice": false
+    }],
+    "explanation": "Ideas should first be organized and ranked based on their likelihood of success and then sorted by how difficult or time-consuming they are, as outlined in Step 2. This process helps in selecting the ideas worth pursuing."
+}, {
+    "name": "Addressing Unsuccessful Efforts",
+    "question": "What should you do if efforts to improve a KPI are not successful?",
+    "choices": [{
+        "choice": "Immediately discard the KPI as irrelevant",
+        "is_right_choice": false
+    }, {
+        "choice": "Persist with the same strategy for a longer period",
+        "is_right_choice": false
+    }, {
+        "choice": "Ask 'why' multiple times to find the root cause",
+        "is_right_choice": true
+    }, {
+        "choice": "Switch to a completely different KPI",
+        "is_right_choice": false
+    }],
+    "explanation": "If efforts to improve a KPI aren't successful, the guide recommends to 'ask why multiple times' to uncover the root problem, as stated in Step 3. This approach helps in identifying and addressing the actual issue behind the lack of improvement."
+}, {
+    "name": "Weekly Review Focus",
+    "question": "What is the focal point of the weekly review time?",
+    "choices": [{
+        "choice": "Celebrating completed tasks only",
+        "is_right_choice": false
+    }, {
+        "choice": "Focusing on tasks that weren't started",
+        "is_right_choice": false
+    }, {
+        "choice": "Assessing the effectiveness and execution of plans",
+        "is_right_choice": true
+    }, {
+        "choice": "Planning for the next month's tasks",
+        "is_right_choice": false
+    }],
+    "explanation": "The weekly review focuses on assessing how well the plans are working, including the prediction of effort and impact, and completion of tasks, as well as considering any necessary adjustments for better productivity."
+}, {
+    "name": "Adapting Strategies",
+    "question": "How should startups adapt their strategies based on their findings?",
+    "choices": [{
+        "choice": "Stick strictly to the original plan without changes",
+        "is_right_choice": false
+    }, {
+        "choice": "Change strategies daily based on new ideas",
+        "is_right_choice": false
+    }, {
+        "choice": "Learn from trials and refine actions accordingly",
+        "is_right_choice": true
+    }, {
+        "choice": "Focus on increasing the number of brainstorming sessions",
+        "is_right_choice": false
+    }],
+    "explanation": "Startups should adapt their strategies by learning from every trial and refining their actions accordingly. This ensures that they evolve their approach based on actual results and feedback, aiming for continuous improvement."
+}]

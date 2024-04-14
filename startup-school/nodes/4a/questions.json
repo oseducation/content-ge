@@ -1,0 +1,52 @@
+[{
+    "name": "Identifying True User Problems",
+    "question": "What does the term 'solution in search of a problem' (SISP) imply in the context of startup idea formation?",
+    "choices": [{
+        "choice": "A solution that perfectly addresses user needs.",
+        "is_right_choice": false
+    }, {
+        "choice": "Developing a solution that does not solve a significant issue for users.",
+        "is_right_choice": true
+    }, {
+        "choice": "Finding multiple problems that a single solution can address.",
+        "is_right_choice": false
+    }, {
+        "choice": "Creating a problem to fit an existing solution.",
+        "is_right_choice": false
+    }],
+    "explanation": "SISP refers to creating a solution that doesn't address a real, significant problem for users, meaning the solution lacks relevance because it isn't solving a genuine issue."
+}, {
+    "name": "Avoiding Tar Pit Ideas",
+    "question": "What characterizes 'tar pit ideas' in startup formation?",
+    "choices": [{
+        "choice": "Ideas that are quick and easy to implement.",
+        "is_right_choice": false
+    }, {
+        "choice": "Ideas that appear promising but are filled with structural complexities making them historically unfeasible.",
+        "is_right_choice": true
+    }, {
+        "choice": "Ideas that have been proven successful in other markets.",
+        "is_right_choice": false
+    }, {
+        "choice": "Simple, straightforward ideas that lack innovation.",
+        "is_right_choice": false
+    }],
+    "explanation": "'Tar pit ideas' are deceptive because they seem solvable and promising at first glance but are actually bogged down by complexities and challenges that have made them unsolvable for years."
+}, {
+    "name": "Striking the Right Balance in Idea Selection",
+    "question": "What is the recommended approach for startup founders in selecting a startup idea?",
+    "choices": [{
+        "choice": "Quickly committing to the first idea that comes to mind.",
+        "is_right_choice": false
+    }, {
+        "choice": "Waiting indefinitely for the perfect idea.",
+        "is_right_choice": false
+    }, {
+        "choice": "Choosing a 'good enough' idea that offers a solid starting point and room for evolution.",
+        "is_right_choice": true
+    }, {
+        "choice": "Focusing entirely on trend-driven ideas regardless of user relevance.",
+        "is_right_choice": false
+    }],
+    "explanation": "The ideal approach for founders is to select a promising yet not perfect idea. This middle ground allows for pivots and adaptations, acknowledging that no startup idea is flawless from the onset."
+}]

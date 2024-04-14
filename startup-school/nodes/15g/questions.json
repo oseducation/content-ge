@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding Target Markets",
+    "question": "Why should startups focus on the leads that are the easiest to convert?",
+    "choices": [{
+        "choice": "Startups have unlimited resources to pursue all types of leads.",
+        "is_right_choice": false
+    }, {
+        "choice": "It maximizes the efficiency of limited time and resources for growth.",
+        "is_right_choice": true
+    }, {
+        "choice": "Targeting difficult leads often leads to quicker sales conversions.",
+        "is_right_choice": false
+    }, {
+        "choice": "Early leads tend to pay more for the product or service.",
+        "is_right_choice": false
+    }],
+    "explanation": "Startups should focus on leads that are easiest to convert because they have limited time and resources. Focusing on these leads maximizes the potential for growth efficiently."
+}, {
+    "name": "Ideal Early Adopters",
+    "question": "Which of the following sectors is mentioned as being easier to pitch to and why?",
+    "choices": [{
+        "choice": "Government sectors due to their minimal bureaucratic processes.",
+        "is_right_choice": false
+    }, {
+        "choice": "Large corporations because they have more money to spend.",
+        "is_right_choice": false
+    }, {
+        "choice": "Startups, as they have faster decision-making and try new solutions.",
+        "is_right_choice": true
+    }, {
+        "choice": "Non-profits because they are always looking for innovative solutions.",
+        "is_right_choice": false
+    }],
+    "explanation": "Startups are mentioned as being easier to pitch to primarily because they aren’t entangled in red tape like larger corporations, have faster decision-making processes, and are more inclined towards trying new solutions."
+}, {
+    "name": "Approach Strategy for Leads",
+    "question": "What should you do if a potential client seems to be leading you on without showing any concrete interest?",
+    "choices": [{
+        "choice": "Politely suggest reconnecting in a few months.",
+        "is_right_choice": true
+    }, {
+        "choice": "Double the efforts to convince them immediately.",
+        "is_right_choice": false
+    }, {
+        "choice": "Stop all communications with them.",
+        "is_right_choice": false
+    }, {
+        "choice": "Insist on an immediate face-to-face meeting.",
+        "is_right_choice": false
+    }],
+    "explanation": "If a potential client seems to be leading you on without showing concrete interest, the best course of action is to politely suggest reconnecting in a few months. This approach allows you to focus on more promising leads while leaving the door open for future engagement."
+}]

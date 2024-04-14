@@ -1,0 +1,52 @@
+[{
+    "name": "Myth_Busting_Fundraising",
+    "question": "What is a common misconception among startup beginners regarding fundraising?",
+    "choices": [{
+        "choice": "That a detailed business plan is all that's needed to start raising funds.",
+        "is_right_choice": false
+    }, {
+        "choice": "That they need to secure funding before beginning any substantial work on their startup.",
+        "is_right_choice": true
+    }, {
+        "choice": "That hiring a large team is necessary to attract investors.",
+        "is_right_choice": false
+    }, {
+        "choice": "That marketing strategies should be developed after securing funds.",
+        "is_right_choice": false
+    }],
+    "explanation": "The common misconception among startup beginners is that they need to secure funding before they can start any significant development or work on their startup idea. Successful founders often build a product prototype and gain early users first, demonstrating progress that makes attracting investment more likely."
+}, {
+    "name": "Solugen_Fundraising_Strategy",
+    "question": "How did Solugen validate their business idea before raising $4 million?",
+    "choices": [{
+        "choice": "By creating a detailed business plan.",
+        "is_right_choice": false
+    }, {
+        "choice": "By building a small device to start making their chemical product.",
+        "is_right_choice": true
+    }, {
+        "choice": "By securing a patent for their business idea.",
+        "is_right_choice": false
+    }, {
+        "choice": "By launching a wide marketing campaign.",
+        "is_right_choice": false
+    }],
+    "explanation": "Solugen validated their business idea by first building a small version of the device needed to make their chemical product, hydrogen peroxide, and selling it to hot tub supply stores. This initial success demonstrated their business viability and capability, which helped them secure $4 million in funding."
+}, {
+    "name": "Early_Version_Advantages",
+    "question": "Why do successful startup founders focus on creating an initial product or prototype?",
+    "choices": [{
+        "choice": "Because it requires a large amount of investment.",
+        "is_right_choice": false
+    }, {
+        "choice": "To avoid the need for an early user base.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it can be done cheaply and demonstrates progress.",
+        "is_right_choice": true
+    }, {
+        "choice": "To make it easier to apply for patents.",
+        "is_right_choice": false
+    }],
+    "explanation": "Successful startup founders prioritize creating an initial product or prototype because it can be done relatively inexpensively and demonstrates tangible progress. This strategic move helps in attracting both early users and potential investors by showing what the startup is capable of, even on a small scale."
+}]

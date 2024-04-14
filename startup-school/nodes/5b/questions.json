@@ -1,0 +1,35 @@
+[{
+    "name": "Definition of Consumer Idea",
+    "question": "What defines a consumer idea in startups?",
+    "choices": [{
+        "choice": "A product designed exclusively for businesses",
+        "is_right_choice": false
+    }, {
+        "choice": "A service or product meant for individual use in daily lives",
+        "is_right_choice": true
+    }, {
+        "choice": "An idea that cannot be monetized",
+        "is_right_choice": false
+    }, {
+        "choice": "Only digital products like apps and websites",
+        "is_right_choice": false
+    }],
+    "explanation": "A consumer idea in startups is defined by its target audience, which is the general public or individual consumers, rather than businesses. It's meant for personal use in daily life, not just digital products but any service or product aimed at individuals."
+}, {
+    "name": "Examples of Consumer Ideas",
+    "question": "Which of the following is an example of a consumer idea in startups?",
+    "choices": [{
+        "choice": "Enterprise software solutions",
+        "is_right_choice": false
+    }, {
+        "choice": "Social networks",
+        "is_right_choice": true
+    }, {
+        "choice": "Wholesale supply chains",
+        "is_right_choice": false
+    }, {
+        "choice": "B2B marketing services",
+        "is_right_choice": false
+    }],
+    "explanation": "Social networks are a prime example of consumer ideas in startups as they are designed for use by individuals in their daily lives, often monetized through ads, fitting the consumer idea criteria."
+}]

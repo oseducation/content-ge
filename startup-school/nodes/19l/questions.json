@@ -1,0 +1,52 @@
+[{
+    "name": "WhatNot's Early Challenges",
+    "question": "What was one of the initial challenges faced by 'What Not' during its seed funding round?",
+    "choices": [{
+        "choice": "They had too many users for their platform",
+        "is_right_choice": false
+    }, {
+        "choice": "Investors did not see its potential",
+        "is_right_choice": true
+    }, {
+        "choice": "They were selling non-collectible items",
+        "is_right_choice": false
+    }, {
+        "choice": "Their platform was too complex to use",
+        "is_right_choice": false
+    }],
+    "explanation": "The initial challenge faced by 'What Not' during its seed funding round was that investors did not see the potential in its marketplace for collectors, which led to difficulties in raising the desired amount of money."
+}, {
+    "name": "Resilience in Fundraising",
+    "question": "What was the key reason for 'What Not's' success despite initial rejections from investors?",
+    "choices": [{
+        "choice": "Seeking investment from only one large venture capital",
+        "is_right_choice": false
+    }, {
+        "choice": "Immediately changing their business model to fit investor expectations",
+        "is_right_choice": false
+    }, {
+        "choice": "Believing in their idea and continuing to seek the right investors",
+        "is_right_choice": true
+    }, {
+        "choice": "Deciding to fund everything out of pocket without external investors",
+        "is_right_choice": false
+    }],
+    "explanation": "The key reason for 'What Not's' success, despite initial rejections, was the founders' belief in their idea and persistence in finding the right investors who shared their vision, proving the importance of resilience in the fundraising process."
+}, {
+    "name": "Future Potential of Startups",
+    "question": "What message does 'What Not's' story convey to entrepreneurs facing rejections in fundraising?",
+    "choices": [{
+        "choice": "It's necessary to have a fully developed product before seeking investment",
+        "is_right_choice": false
+    }, {
+        "choice": "Only established companies can succeed in raising capital",
+        "is_right_choice": false
+    }, {
+        "choice": "Failure to raise funds initially means the business idea is not viable",
+        "is_right_choice": false
+    }, {
+        "choice": "Persistence and belief in one's idea are vital, even in the face of rejections",
+        "is_right_choice": true
+    }],
+    "explanation": "'What Not's' journey from facing initial investment rejections to becoming a multi-billion dollar business emphasizes the importance of persistence and having a strong belief in one's business idea despite early setbacks."
+}]

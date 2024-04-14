@@ -1,0 +1,69 @@
+[{
+    "name": "Retool's Original Business Model",
+    "question": "What was Retool's original business model before pivoting?",
+    "choices": [{
+        "choice": "SaaS for internal tools",
+        "is_right_choice": false
+    }, {
+        "choice": "Venmo-like service for the UK",
+        "is_right_choice": true
+    }, {
+        "choice": "E-commerce platform",
+        "is_right_choice": false
+    }, {
+        "choice": "Online education platform",
+        "is_right_choice": false
+    }],
+    "explanation": "Before pivoting, Retool was a Venmo-like service for the UK, aiming to replicate Venmo's success in a new market."
+}, {
+    "name": "Founder/Market Fit Post-Pivot",
+    "question": "What was Retool's founder/market fit score after the pivot?",
+    "choices": [{
+        "choice": "3 out of 10",
+        "is_right_choice": false
+    }, {
+        "choice": "5 out of 10",
+        "is_right_choice": false
+    }, {
+        "choice": "7 out of 10",
+        "is_right_choice": false
+    }, {
+        "choice": "10 out of 10",
+        "is_right_choice": true
+    }],
+    "explanation": "Post-pivot, Retool's founder/market fit score improved drastically to 10 out of 10, showcasing a perfect match between the founders' experience and the market needs for the new product."
+}, {
+    "name": "Reason for Retool's Pivot",
+    "question": "Why did Retool decide to pivot from their original business model?",
+    "choices": [{
+        "choice": "They wanted to explore a more innovative field",
+        "is_right_choice": false
+    }, {
+        "choice": "The original product was too successful",
+        "is_right_choice": false
+    }, {
+        "choice": "The financials weren't working out",
+        "is_right_choice": true
+    }, {
+        "choice": "They were unable to gain any users",
+        "is_right_choice": false
+    }],
+    "explanation": "Retool decided to pivot because, despite gaining users, the financials weren't working out with their original model, primarily due to difficulties in getting people to pay and losing money on transactions."
+}, {
+    "name": "Ease of Getting Started Post-Pivot",
+    "question": "What was the ease of getting started score for Retool after they pivoted?",
+    "choices": [{
+        "choice": "3 out of 10",
+        "is_right_choice": false
+    }, {
+        "choice": "5 out of 10",
+        "is_right_choice": false
+    }, {
+        "choice": "7 out of 10",
+        "is_right_choice": false
+    }, {
+        "choice": "\"Not explicitly given, but indicated as high due to building the new version in just two weeks and quickly finding their first customers\"",
+        "is_right_choice": true
+    }],
+    "explanation": "While an exact score isn't provided, the text indicates that the ease of getting started was high for the pivoted Retool, as evidenced by their ability to build the new version in just two weeks and quickly find their first customers."
+}]

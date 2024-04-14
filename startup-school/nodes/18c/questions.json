@@ -1,0 +1,52 @@
+[{
+    "name": "Airbnb Strategy",
+    "question": "What significant action did Airbnb's founders take to understand their market better in New York?",
+    "choices": [{
+        "choice": "They conducted online surveys to gather feedback.",
+        "is_right_choice": false
+    }, {
+        "choice": "They personally visited hosts as photographers.",
+        "is_right_choice": true
+    }, {
+        "choice": "They hosted a conference for all New York hosts.",
+        "is_right_choice": false
+    }, {
+        "choice": "They launched an advertising campaign in New York City.",
+        "is_right_choice": false
+    }],
+    "explanation": "Airbnb's founders chose to personally visit their hosts under the guise of photographers. This direct approach allowed them to understand the challenges and needs of their hosts firsthand, which was a crucial step in improving their service."
+}, {
+    "name": "Understanding Users",
+    "question": "Why did Paul Graham ask Airbnb's founders, 'Who are your users?'",
+    "choices": [{
+        "choice": "To determine the target market for branding strategies.",
+        "is_right_choice": false
+    }, {
+        "choice": "To prepare them for a marketing campaign.",
+        "is_right_choice": false
+    }, {
+        "choice": "To challenge them to engage more deeply with their users.",
+        "is_right_choice": true
+    }, {
+        "choice": "To understand the demographic data of their user base.",
+        "is_right_choice": false
+    }],
+    "explanation": "Paul Graham's question aimed to prompt Airbnb's founders to consider their level of understanding and engagement with their actual users. This question was not about demographics or marketing but about encouraging the founders to engage directly and deeply with their user base to understand and meet their needs."
+}, {
+    "name": "Things That Don't Scale",
+    "question": "What principle did Airbnb demonstrate by flying to New York to meet with hosts?",
+    "choices": [{
+        "choice": "Lean Startup Methodology",
+        "is_right_choice": false
+    }, {
+        "choice": "Minimum Viable Product (MVP) Testing",
+        "is_right_choice": false
+    }, {
+        "choice": "Customer Segmentation Analysis",
+        "is_right_choice": false
+    }, {
+        "choice": "Doing Things That Don't Scale",
+        "is_right_choice": true
+    }],
+    "explanation": "Airbnb's action of personally visiting hosts in New York exemplifies the principle of doing 'Things That Don't Scale.' This approach involves taking highly personalized and sometimes inefficient actions to gain a deep understanding of the product and its users, which can lead to significant growth even though these actions may not be scalable in the long term."
+}]

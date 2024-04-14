@@ -1,0 +1,18 @@
+[{
+    "name": "Assessing Startup Ideas",
+    "question": "What is the final piece of advice given for figuring out if your startup idea is any good?",
+    "choices": [{
+        "choice": "Conduct extensive market research.",
+        "is_right_choice": false
+    }, {
+        "choice": "Launch it and see what happens.",
+        "is_right_choice": true
+    }, {
+        "choice": "Consult with industry experts.",
+        "is_right_choice": false
+    }, {
+        "choice": "Wait for a better idea.",
+        "is_right_choice": false
+    }],
+    "explanation": "The final piece of advice given for evaluating a startup idea's potential is to launch it and see what happens, suggesting that real-world application and experience can provide the best insights and lessons."
+}]

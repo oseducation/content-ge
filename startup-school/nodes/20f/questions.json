@@ -1,0 +1,69 @@
+[{
+    "name": "Components of a Startup Application",
+    "question": "What is one of the primary concerns when reviewing a startup application?",
+    "choices": [{
+        "choice": "The color scheme of the startup's logo",
+        "is_right_choice": false
+    }, {
+        "choice": "The history of the founders and how they met",
+        "is_right_choice": true
+    }, {
+        "choice": "The number of employees in the startup",
+        "is_right_choice": false
+    }, {
+        "choice": "The geographical location of the startup's office",
+        "is_right_choice": false
+    }],
+    "explanation": "When reviewing a startup application, understanding the founders' history, how they met, and their roles in the startup is essential. This helps in evaluating the team's potential and synergy, which is critical for a startup's success."
+}, {
+    "name": "Importance of Problem-Solution Fit",
+    "question": "Which question is crucial to assess whether there is a market need for the startup's product?",
+    "choices": [{
+        "choice": "Is the product aesthetically pleasing?",
+        "is_right_choice": false
+    }, {
+        "choice": "Is there any proof that people want this product?",
+        "is_right_choice": true
+    }, {
+        "choice": "How advanced is the technology used in the product?",
+        "is_right_choice": false
+    }, {
+        "choice": "How many features does the product have?",
+        "is_right_choice": false
+    }],
+    "explanation": "Asking whether there is proof that people want the product helps assess the problem-solution fit and market demand. It indicates if the startup has validated the need for their solution among potential users or customers."
+}, {
+    "name": "Significance of Founder Commitment",
+    "question": "How can founders demonstrate their commitment to their startup?",
+    "choices": [{
+        "choice": "By applying to multiple accelerators simultaneously",
+        "is_right_choice": false
+    }, {
+        "choice": "By quitting their job to focus on the startup",
+        "is_right_choice": true
+    }, {
+        "choice": "By having a large number of followers on social media",
+        "is_right_choice": false
+    }, {
+        "choice": "By relocating to a major tech hub",
+        "is_right_choice": false
+    }],
+    "explanation": "Founders can demonstrate their commitment by making significant life changes, such as quitting their jobs to focus on the startup. This level of dedication indicates a strong belief in their venture and willingness to take risks for its success."
+}, {
+    "name": "Clarity in Applications",
+    "question": "Why is it important for startup applications to be clear and direct?",
+    "choices": [{
+        "choice": "To ensure the application stands out visually",
+        "is_right_choice": false
+    }, {
+        "choice": "To help reviewers quickly understand the startup's basics",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it's a requirement for all legal documents",
+        "is_right_choice": false
+    }, {
+        "choice": "To make the application longer and more detailed",
+        "is_right_choice": false
+    }],
+    "explanation": "Clarity and directness in an application are crucial so that reviewers can quickly grasp the essentials of the startup, like its idea, team, and product-market fit. This understanding is vital for a positive assessment and potential support."
+}]

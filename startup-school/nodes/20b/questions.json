@@ -1,0 +1,35 @@
+[{
+    "name": "Defining luck in the context of startups",
+    "question": "According to the text, how can one increase their luck in the startup world?",
+    "choices": [{
+        "choice": "By waiting for the right opportunity to come without taking initiative.",
+        "is_right_choice": false
+    }, {
+        "choice": "By taking risks and stepping out into the world.",
+        "is_right_choice": true
+    }, {
+        "choice": "Luck is purely a matter of chance and cannot be influenced by one's actions.",
+        "is_right_choice": false
+    }, {
+        "choice": "By focusing solely on perfecting their product or service.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text emphasizes that luck isn't something that randomly happens; it's the result of taking action, particularly risks. Hence, stepping out and trying different things, like applying to Y Combinator, is highlighted as a method to 'create' one's own luck."
+}, {
+    "name": "Applying to Y Combinator",
+    "question": "What is portrayed as a first step towards creating your own luck in startups?",
+    "choices": [{
+        "choice": "Reading about successful startups only.",
+        "is_right_choice": false
+    }, {
+        "choice": "Applying to Y Combinator.",
+        "is_right_choice": true
+    }, {
+        "choice": "Avoiding risky decisions to keep the business safe.",
+        "is_right_choice": false
+    }, {
+        "choice": "Waiting for a perfect business idea to come.",
+        "is_right_choice": false
+    }],
+    "explanation": "From the information given, applying to Y Combinator (YC) is suggested as a practical first step towards 'creating' ones' own luck, as it embodies the act of taking risks and making an effort to change the course of their entrepreneurial journey."
+}]

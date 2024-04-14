@@ -1,0 +1,52 @@
+[{
+    "name": "Identifying Startup Opportunities",
+    "question": "What is a key strategy for generating startup ideas according to the text?",
+    "choices": [{
+        "choice": "Focusing solely on evergreen industries",
+        "is_right_choice": false
+    }, {
+        "choice": "Spotting opportunities in recent changes",
+        "is_right_choice": true
+    }, {
+        "choice": "Copying successful startups",
+        "is_right_choice": false
+    }, {
+        "choice": "Relying on past experiences only",
+        "is_right_choice": false
+    }],
+    "expenation": "The key strategy mentioned for coming up with startup ideas is to look at recent changes in the world and identify new opportunities these changes have created, as illustrated by the example of Gather Town during the COVID-19 pandemic."
+},{
+    "name": "Gather Town's Pivot",
+    "question": "How did Gather Town identify their startup idea during the COVID-19 pandemic?",
+    "choices": [{
+        "choice": "By analyzing past pandemics",
+        "is_right_choice": false
+    }, {
+        "choice": "Through customer surveys",
+        "is_right_choice": false
+    }, {
+        "choice": "Spotting the need for new ways to connect online",
+        "is_right_choice": true
+    }, {
+        "choice": "Expanding their existing product line",
+        "is_right_choice": false
+    }],
+    "expenation": "Gather Town identified their startup idea during the COVID-19 pandemic by noticing the increased need for new ways to connect online, as traditional modes of socializing were disrupted, leading them to create an online space for people to hang out."
+},{
+    "name": "Sources of Change",
+    "question": "According to the text, which of the following can be a source of change that opens up new opportunities for startups?",
+    "choices": [{
+        "choice": "New technologies only",
+        "is_right_choice": false
+    }, {
+        "choice": "Shifts in living habits",
+        "is_right_choice": false
+    }, {
+        "choice": "Global events like pandemics",
+        "is_right_choice": false
+    }, {
+        "choice": "All of the above",
+        "is_right_choice": true
+    }],
+    "expenation": "The text highlights that various sources of change, including new technologies, shifts in how people live, and global events like pandemics, can open up opportunities for startups by creating new needs."
+}]

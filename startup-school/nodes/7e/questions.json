@@ -1,0 +1,52 @@
+[{
+    "name": "Identifying Startup Opportunities",
+    "question": "According to the text, what is a critical first step in identifying a potential opportunity for a startup?",
+    "choices": [{
+        "choice": "Creating a detailed business plan",
+        "is_right_choice": false
+    }, {
+        "choice": "Identifying a problem you personally experience",
+        "is_right_choice": true
+    }, {
+        "choice": "Conducting a market analysis",
+        "is_right_choice": false
+    }, {
+        "choice": "Securing funding",
+        "is_right_choice": false
+    }],
+    "explanation": "The text emphasizes the importance of identifying a problem that the founder has personally experienced as a critical first step in recognizing a potential startup opportunity. This personal connection to the problem is fundamental in developing a solution that addresses real needs."
+}, {
+    "name": "Ignoring Skepticism",
+    "question": "Why should founders ignore skepticism according to the successful startup stories mentioned?",
+    "choices": [{
+        "choice": "Experts often have conflicting opinions",
+        "is_right_choice": false
+    }, {
+        "choice": "Skepticism can provide constructive feedback",
+        "is_right_choice": false
+    }, {
+        "choice": "It's important to prove others wrong",
+        "is_right_choice": false
+    }, {
+        "choice": "Experts might not understand the user's pain points",
+        "is_right_choice": true
+    }],
+    "explanation": "The text highlights that founders should ignore skepticism, especially from 'experts' who might not be users themselves and, therefore, might not understand the actual pain points and needs of users. This disconnect could lead experts to underestimate the potential of the idea."
+}, {
+    "name": "Market Potential",
+    "question": "What does the text suggest about initial market assessments for startups?",
+    "choices": [{
+        "choice": "They are always accurate",
+        "is_right_choice": false
+    }, {
+        "choice": "They should be considered final",
+        "is_right_choice": false
+    }, {
+        "choice": "They often underestimate the true market size",
+        "is_right_choice": true
+    }, {
+        "choice": "They are unnecessary",
+        "is_right_choice": false
+    }],
+    "explanation": "The text advises caution with initial market assessments, suggesting that they often underestimate the true market size. It mentions that transformational technologies can open up new use cases not considered at the start, implying that the potential market could be much larger than initially anticipated."
+}]

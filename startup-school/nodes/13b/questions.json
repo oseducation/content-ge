@@ -1,0 +1,35 @@
+[{
+    "name": "Understanding Users",
+    "question": "Why is speaking to potential users before creating your MVP (Minimum Viable Product) crucial for startup success?",
+    "choices": [{
+        "choice": "It helps in securing initial funding.",
+        "is_right_choice": false
+    }, {
+        "choice": "It offers insight into whether your product really solves a problem.",
+        "is_right_choice": true
+    }, {
+        "choice": "It is a required step in all business planning processes.",
+        "is_right_choice": false
+    }, {
+        "choice": "It guarantees the product will be successful upon launch.",
+        "is_right_choice": false
+    }],
+    "explanation": "Speaking to potential users is crucial because it offers insight and validation that the product is actually solving a real problem for its intended users. This early feedback is vital for making necessary adjustments before spending resources on full-scale product development."
+}, {
+    "name": "Identifying First Users",
+    "question": "Who should ideally be your first user when creating a new product for your startup?",
+    "choices": [{
+        "choice": "A famous influencer.",
+        "is_right_choice": false
+    }, {
+        "choice": "A large, undefined group of potential customers.",
+        "is_right_choice": false
+    }, {
+        "choice": "Someone who has the problem your product aims to solve, potentially yourself.",
+        "is_right_choice": true
+    }, {
+        "choice": "The first person who shows any interest, regardless of their problem-fit.",
+        "is_right_choice": false
+    }],
+    "explanation": "Your first user should ideally be someone who directly faces the problem your product solves, including yourself. This ensures that the product is being developed with a clear understanding of the problem, making it more likely to succeed."
+}]

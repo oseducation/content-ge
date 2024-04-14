@@ -1,0 +1,69 @@
+[{
+    "name": "Understanding Transactional Businesses",
+    "question": "Which of the following companies is an example of a transactional business?",
+    "choices": [{
+        "choice": "Google",
+        "is_right_choice": false
+    }, {
+        "choice": "Stripe",
+        "is_right_choice": true
+    }, {
+        "choice": "Amazon",
+        "is_right_choice": false
+    }, {
+        "choice": "Netflix",
+        "is_right_choice": false
+    }],
+    "explanation": "Stripe is explicitly mentioned in the text as a transactional business because it helps companies handle their cash. This direct involvement in moving money around characterizes transactional businesses."
+}, {
+    "name": "Benefits of Transactional Businesses",
+    "question": "Why are transactional businesses considered strong?",
+    "choices": [{
+        "choice": "They offer free services",
+        "is_right_choice": false
+    }, {
+        "choice": "They are embedded in day-to-day operations",
+        "is_right_choice": true
+    }, {
+        "choice": "They have no competition",
+        "is_right_choice": false
+    }, {
+        "choice": "They only operate online",
+        "is_right_choice": false
+    }],
+    "explanation": "The text highlights the strength of transactional businesses coming from their integration into the day-to-day activities of other companies, making them indispensable. This integration causes companies to rely heavily on them, thus solidifying their position."
+}, {
+    "name": "Comparing Transactional and Affiliate Businesses",
+    "question": "What is a key difference between transactional and affiliate businesses?",
+    "choices": [{
+        "choice": "Affiliate businesses are larger",
+        "is_right_choice": false
+    }, {
+        "choice": "Affiliate businesses do not handle cash directly",
+        "is_right_choice": true
+    }, {
+        "choice": "Transactional businesses offer fewer services",
+        "is_right_choice": false
+    }, {
+        "choice": "Transactional businesses are less profitable",
+        "is_right_choice": false
+    }],
+    "explanation": "The text contrasts affiliate and transactional businesses by pointing out that affiliate businesses generate revenue only after a series of events, as opposed to transactional businesses that handle cash directly and take a piece for themselves."
+}, {
+    "name": "Strategy for Startup Success",
+    "question": "According to the text, why is aiming to be a transactional business a good strategy for startups?",
+    "choices": [{
+        "choice": "Easy marketing",
+        "is_right_choice": false
+    }, {
+        "choice": "Low operational costs",
+        "is_right_choice": false
+    }, {
+        "choice": "Direct cash handling",
+        "is_right_choice": false
+    }, {
+        "choice": "Strong market position and value capture",
+        "is_right_choice": true
+    }],
+    "explanation": "The text suggests aiming to be a transactional business as a good strategy for startups not just because they handle cash directly, but because they tend to capture a significant portion of the market's overall value, embedding themselves as critical components in other companies' operations."
+}]

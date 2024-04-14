@@ -1,0 +1,69 @@
+[{
+    "name": "Qualifying Customers Definition",
+    "question": "What does 'qualifying your customers' mean in a startup environment?",
+    "choices": [{
+        "choice": "Offering discounts to attract more customers.",
+        "is_right_choice": false
+    }, {
+        "choice": "Identifying who is likely to buy your product or service.",
+        "is_right_choice": true
+    }, {
+        "choice": "Limiting your customer base to reduce costs.",
+        "is_right_choice": false
+    }, {
+        "choice": "Increasing your product prices for better profit margins.",
+        "is_right_choice": false
+    }],
+    "expenation": "In a startup environment, 'qualifying your customers' means identifying the individuals or entities that are most likely to purchase your product or service, ensuring the startup's efforts and resources are effectively directed."
+}, {
+    "name": "Sales Tools",
+    "question": "Which of the following tools is designed to pull up contact details from LinkedIn?",
+    "choices": [{
+        "choice": "apollo.io",
+        "is_right_choice": false
+    }, {
+        "choice": "close.com",
+        "is_right_choice": false
+    }, {
+        "choice": "pipedrive",
+        "is_right_choice": false
+    }, {
+        "choice": "hunter.io",
+        "is_right_choice": true
+    }],
+    "expenation": "hunter.io specializes in pulling up contact details from LinkedIn, making it easier for startups to directly reach out to potential customers via email."
+}, {
+    "name": "Resource for Deep Diving into Sales",
+    "question": "Which book is recommended for gaining deeper insights into startup sales?",
+    "choices": [{
+        "choice": "The Lean Startup",
+        "is_right_choice": false
+    }, {
+        "choice": "Founding Sales",
+        "is_right_choice": true
+    }, {
+        "choice": "Zero to One",
+        "is_right_choice": false
+    }, {
+        "choice": "The Startup Owner's Manual",
+        "is_right_choice": false
+    }],
+    "expenation": "'Founding Sales' is suggested as a valuable read for those looking to dive deeper into the subject of sales within a startup context."
+}, {
+    "name": "Online Sales Resource",
+    "question": "Which online resource is highlighted for updates on the latest happenings in the startup world?",
+    "choices": [{
+        "choice": "TechCrunch",
+        "is_right_choice": false
+    }, {
+        "choice": "The Hustle",
+        "is_right_choice": false
+    }, {
+        "choice": "Lenny's Newsletter",
+        "is_right_choice": true
+    }, {
+        "choice": "Startup Grind",
+        "is_right_choice": false
+    }],
+    "expenation": "Lenny's Newsletter is recommended as a cool online resource for sharing updates on all the latest developments and happenings in the startup ecosystem."
+}]

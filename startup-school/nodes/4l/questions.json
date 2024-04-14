@@ -1,0 +1,52 @@
+[{
+    "name": "Hard to Start Ideas",
+    "question": "Why can startup ideas that are hard to start be seen as great opportunities?",
+    "choices": [{
+        "choice": "They require less funding.",
+        "is_right_choice": false
+    }, {
+        "choice": "The challenge deters many competitors.",
+        "is_right_choice": true
+    }, {
+        "choice": "They are easier to market.",
+        "is_right_choice": false
+    }, {
+        "choice": "They always result in quick success.",
+        "is_right_choice": false
+    }],
+    "explanation": "Startup ideas that are hard to start often deter many competitors due to the challenges involved. This leaves a large opportunity open for those willing to tackle the problems, as seen with Stripe, which found success by making it easier to handle online credit card payments."
+}, {
+    "name": "Boring Space Ideas",
+    "question": "How can ideas in a boring space turn out to be surprisingly successful?",
+    "choices": [{
+        "choice": "They always promise higher profits.",
+        "is_right_choice": false
+    }, {
+        "choice": "They involve less work.",
+        "is_right_choice": false
+    }, {
+        "choice": "They are overlooked and less competitive.",
+        "is_right_choice": true
+    }, {
+        "choice": "They require no innovation.",
+        "is_right_choice": false
+    }],
+    "explanation": "Ideas in boring spaces can be gold mines because they're often overlooked due to their lack of initial excitement, making them far less competitive. This was the case with Gusto in the payroll software industry."
+}, {
+    "name": "Ideas with Existing Competition",
+    "question": "Why are startup ideas with existing competition potentially successful?",
+    "choices": [{
+        "choice": "It means the market is fully saturated.",
+        "is_right_choice": false
+    }, {
+        "choice": "There is no demand for the idea.",
+        "is_right_choice": false
+    }, {
+        "choice": "Competitors might be missing something important.",
+        "is_right_choice": true
+    }, {
+        "choice": "It ensures faster investment.",
+        "is_right_choice": false
+    }],
+    "explanation": "The presence of competitors can actually be a good sign, indicating demand. A startup idea can be successful if it identifies and addresses something important that existing competitors are missing, as Dropbox did with its user-friendly interface."
+}]

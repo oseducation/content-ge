@@ -1,0 +1,69 @@
+[{
+    "name": "Segment Pricing Strategy",
+    "question": "What was the initial reaction of Segment’s customers when they were asked to start paying for the service?",
+    "choices": [{
+        "choice": "They immediately canceled their subscriptions.",
+        "is_right_choice": false
+    }, {
+        "choice": "They suggested Segment should charge more.",
+        "is_right_choice": true
+    }, {
+        "choice": "They asked for a discount.",
+        "is_right_choice": false
+    }, {
+        "choice": "They didn’t respond to Segment’s proposal.",
+        "is_right_choice": false
+    }],
+    "explanation": "Segment's customers reacted unexpectedly by suggesting the company should charge more for their service, indicating they valued the service enough to pay more than was asked. This reaction highlights how low pricing can sometimes be perceived as low value."
+}, {
+    "name": "Pricing Leap",
+    "question": "How much did Segment’s sales advisor suggest they should charge for their product annually?",
+    "choices": [{
+        "choice": "$1,200",
+        "is_right_choice": false
+    }, {
+        "choice": "$12,000",
+        "is_right_choice": false
+    }, {
+        "choice": "$120,000",
+        "is_right_choice": true
+    }, {
+        "choice": "$18,000",
+        "is_right_choice": false
+    }],
+    "explanation": "Segment's sales advisor recommended a massive price increase to $120,000 a year, presenting the product as an enterprise-level solution. This suggestion highlights the importance of valuing your product appropriately and understanding the market's willingness to pay."
+}, {
+    "name": "Final Negotiated Price",
+    "question": "What was the price per year that Segment and their customer finally agreed upon after negotiations?",
+    "choices": [{
+        "choice": "$120",
+        "is_right_choice": false
+    }, {
+        "choice": "$12,000",
+        "is_right_choice": false
+    }, {
+        "choice": "$120,000",
+        "is_right_choice": false
+    }, {
+        "choice": "$18,000",
+        "is_right_choice": true
+    }],
+    "explanation": "After negotiations, Segment managed to seal a deal at $18,000 a year with their customer. This outcome was significantly higher than their original $120 a year pricing, illustrating the power of negotiation and the potential undervaluation of their service."
+}, {
+    "name": "Impact of Pricing on Company Value",
+    "question": "What was the outcome for Segment after revising their pricing strategy?",
+    "choices": [{
+        "choice": "They went out of business.",
+        "is_right_choice": false
+    }, {
+        "choice": "Their valuation remained the same.",
+        "is_right_choice": false
+    }, {
+        "choice": "They were acquired by Twilio for over $3 billion.",
+        "is_right_choice": true
+    }, {
+        "choice": "They decreased their customer base.",
+        "is_right_choice": false
+    }],
+    "explanation": "The strategic revision of Segment’s pricing strategy eventually contributed to its acquisition by Twilio for over $3 billion. This showcases how critical pricing is as a component of a business strategy and its potential to drastically increase a company's valuation."
+}]

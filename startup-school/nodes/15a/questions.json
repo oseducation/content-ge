@@ -1,0 +1,52 @@
+[{
+    "name": "Essay Importance",
+    "question": "Who wrote the essay '*Do Things That Don't Scale*' that discusses the importance of hands-on approaches in the early stages of a startup?",
+    "choices": [{
+        "choice": "Mark Zuckerberg",
+        "is_right_choice": false
+    }, {
+        "choice": "Paul Graham",
+        "is_right_choice": true
+    }, {
+        "choice": "Elon Musk",
+        "is_right_choice": false
+    }, {
+        "choice": "Steve Jobs",
+        "is_right_choice": false
+    }],
+    "explanation": "Paul Graham, who co-founded Y-Combinator, a famous startup program, wrote the essay '*Do Things That Don't Scale*'. The essay elaborates on the significance of founders taking a hands-on approach in the initial stages of their startup."
+}, {
+    "name": "Startup Success",
+    "question": "According to the text, what is a common misconception about what is needed for a startup to succeed?",
+    "choices": [{
+        "choice": "A detailed business plan",
+        "is_right_choice": false
+    }, {
+        "choice": "A fully developed product",
+        "is_right_choice": false
+    }, {
+        "choice": "Having a great product or service alone is enough",
+        "is_right_choice": true
+    }, {
+        "choice": "Extensive funding from investors",
+        "is_right_choice": false
+    }],
+    "explanation": "The text points out that a common misconception is believing that having a great product or service alone is sufficient for success. It emphasizes the necessity of active engagement and adaptability to customer needs beyond just the product quality."
+}, {
+    "name": "Founder's Role",
+    "question": "What does the text highlight as a crucial aspect for a founder in the success of a startup?",
+    "choices": [{
+        "choice": "Focusing solely on product development",
+        "is_right_choice": false
+    }, {
+        "choice": "Having a passive role and waiting for customers to come",
+        "is_right_choice": false
+    }, {
+        "choice": "Outsourcing the selling process to marketing teams",
+        "is_right_choice": false
+    }, {
+        "choice": "Actively engaging in the process and giving the startup guidance",
+        "is_right_choice": true
+    }],
+    "explanation": "The text emphasizes that beyond knowing how to sell the product, the founder's active engagement, desire to succeed, and guidance are what truly make a difference in the success of the startup."
+}]

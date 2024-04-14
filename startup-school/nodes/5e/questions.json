@@ -1,0 +1,52 @@
+[{
+    "name": "GoogleGrowth",
+    "question": "How did Google initially attract users to its site?",
+    "choices": [{
+        "choice": "Large-scale advertising campaigns",
+        "is_right_choice": false
+    }, {
+        "choice": "Word of mouth",
+        "is_right_choice": true
+    }, {
+        "choice": "Aggressive sales tactics",
+        "is_right_choice": false
+    }, {
+        "choice": "Partnerships with other tech companies",
+        "is_right_choice": false
+    }],
+    "explanation": "Google attracted millions of users primarily through word of mouth, without spending money on advertising or growth hacking campaigns."
+},{
+    "name": "GoogleFounders",
+    "question": "What was the initial stance of Google's founders regarding running a startup?",
+    "choices": [{
+        "choice": "They were dedicated to creating a leading technology company",
+        "is_right_choice": false
+    }, {
+        "choice": "They hoped to quickly sell the technology and move on",
+        "is_right_choice": false
+    }, {
+        "choice": "They were not keen on running a startup and tried to sell their technology",
+        "is_right_choice": true
+    }, {
+        "choice": "They wanted to partner with major corporations without creating a startup",
+        "is_right_choice": false
+    }],
+    "explanation": "Google's founders were initially reluctant to run a startup, to the extent they even attempted selling their technology to companies like Yahoo."
+},{
+    "name": "GoogleUserAcquisition",
+    "question": "Which strategy did Google NOT use in its startup days to attract users?",
+    "choices": [{
+        "choice": "Relying on its superior search algorithm",
+        "is_right_choice": false
+    }, {
+        "choice": "Branding and marketing strategies",
+        "is_right_choice": true
+    }, {
+        "choice": "Building an incredibly good product",
+        "is_right_choice": false
+    }, {
+        "choice": "Cultivating user enthusiasm and recommendations",
+        "is_right_choice": false
+    }],
+    "explanation": "Google did not invest in user acquisition, branding, or marketing in its early days, instead relying on the quality of its product and word of mouth to attract users."
+}]

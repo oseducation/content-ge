@@ -1,0 +1,52 @@
+[{
+    "name": "Importance of Startup Environment",
+    "question": "Why is working at a startup considered an ideal environment for aspiring entrepreneurs?",
+    "choices": [{
+        "choice": "Due to the higher salary compared to established companies",
+        "is_right_choice": false
+    }, {
+        "choice": "It provides insights into startup operations and a pool of potential co-founders",
+        "is_right_choice": true
+    }, {
+        "choice": "Startups have less work, allowing more time for personal projects",
+        "is_right_choice": false
+    }, {
+        "choice": "Startups offer more job security",
+        "is_right_choice": false
+    }],
+    "explanation": "Working at a startup is considered ideal for aspiring entrepreneurs because it offers a firsthand look into how startups operate and a milieu rich with potential co-founders willing to take risks, unlike the more risk-averse atmosphere often found in established companies."
+}, {
+    "name": "Skill Development for Non-Programmers",
+    "question": "What is recommended for non-programmers aspiring to start their own company?",
+    "choices": [{
+        "choice": "Immediately hire a team of developers",
+        "is_right_choice": false
+    }, {
+        "choice": "Learn basic programming skills or partner with a co-founder who can code",
+        "is_right_choice": true
+    }, {
+        "choice": "Outsource all technical development overseas",
+        "is_right_choice": false
+    }, {
+        "choice": "Ignore the technical aspects and focus on marketing",
+        "is_right_choice": false
+    }],
+    "explanation": "For non-programmers, it is recommended to either learn basic programming skills or find a co-founder who possesses these skills. This approach is crucial in the early stages of bringing an idea to life and ensures that the aspiring entrepreneur can contribute to or fully understand the development process."
+}, {
+    "name": "Initial Steps in Ideation Process",
+    "question": "What should you do when you come up with an idea you think should be built?",
+    "choices": [{
+        "choice": "Immediately seek venture capital to fund the idea",
+        "is_right_choice": false
+    }, {
+        "choice": "Create a simple initial version or pitch it to potential users",
+        "is_right_choice": true
+    }, {
+        "choice": "Wait for someone else to build it",
+        "is_right_choice": false
+    }, {
+        "choice": "Discard it if it sounds too challenging",
+        "is_right_choice": false
+    }],
+    "explanation": "When you conceive an idea that excites you, the recommended next steps are to either create a basic prototype or version of it, or present the concept to potential users to measure their interest. This early validation process is crucial for understanding the viability of the idea without committing extensive resources."
+}]

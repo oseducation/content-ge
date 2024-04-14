@@ -1,0 +1,52 @@
+[{
+    "name": "Assessing Startup Potential",
+    "question": "According to the advice from Paul Buchheit at Y Combinator, what indicates more potential for a startup idea?",
+    "choices": [{
+        "choice": "Having a large number of sign-ups for a concept or product.",
+        "is_right_choice": false
+    }, {
+        "choice": "Creating a product that is loved by a few users.",
+        "is_right_choice": true
+    }, {
+        "choice": "Receiving mixed feedback from a wide audience.",
+        "is_right_choice": false
+    }, {
+        "choice": "Working on many projects at once to see which one succeeds.",
+        "is_right_choice": false
+    }],
+    "explanation": "Paul Buchheit suggests that a product loved by a few is more valuable than one that receives indifferent feedback from many. This is because strong positive reactions from a small user base are more indicative of a product's potential to impact its market significantly."
+}, {
+    "name": "Startup Readiness",
+    "question": "What sign might indicate it's time to consider pursuing your startup idea full-time?",
+    "choices": [{
+        "choice": "When you are completely satisfied with your current job.",
+        "is_right_choice": false
+    }, {
+        "choice": "Once you have saved up enough money to last a year without income.",
+        "is_right_choice": false
+    }, {
+        "choice": "If working on your side projects invigorates you more than your day job.",
+        "is_right_choice": true
+    }, {
+        "choice": "After all of your side projects gain significant traction.",
+        "is_right_choice": false
+    }],
+    "explanation": "Feeling more invigorated by working on your side projects than by your day job is a sign that you may be ready to pursue your startup ideas full-time. It shows that you have passion and dedication that could fuel the difficult journey of building a company."
+}, {
+    "name": "Pre-Startup Considerations",
+    "question": "What advice is given for someone who doesn't have a startup idea or a co-founder yet?",
+    "choices": [{
+        "choice": "Wait until you come up with a perfect idea.",
+        "is_right_choice": false
+    }, {
+        "choice": "Start by engaging with smart people and working on side projects.",
+        "is_right_choice": true
+    }, {
+        "choice": "Focus on saving as much money as possible before starting.",
+        "is_right_choice": false
+    }, {
+        "choice": "Immediately leave your job and search for inspiration.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text suggests starting by engaging with smart individuals, brainstorming ideas, and working on side projects as a way to eventually find a co-founder and form a startup idea. This approach helps build a network, gain experience, and possibly stumble upon or develop a worthwhile business idea through collaboration and practical involvement in projects."
+}]

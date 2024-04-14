@@ -1,0 +1,52 @@
+[{
+    "name": "Pricing Strategies Basics",
+    "question": "What is a key mistake startup owners should avoid when deciding on pricing?",
+    "choices": [{
+        "choice": "Relying solely on market trends",
+        "is_right_choice": false
+    }, {
+        "choice": "Pricing based on cost plus a little extra",
+        "is_right_choice": true
+    }, {
+        "choice": "Consulting with their customers",
+        "is_right_choice": false
+    }, {
+        "choice": "Frequently adjusting their prices",
+        "is_right_choice": false
+    }],
+    "expenation": "The key mistake to avoid is pricing solely based on the cost plus a small margin ('Cost Plus Pricing'), as it neglects the perceived value the customer places on the product or service, which is a crucial aspect in pricing strategies."
+}, {
+    "name": "Understanding Customer Value",
+    "question": "How can a startup owner determine the perceived customer value of their product?",
+    "choices": [{
+        "choice": "By comparing their product to competitors only",
+        "is_right_choice": false
+    }, {
+        "choice": "By increasing their marketing budget",
+        "is_right_choice": false
+    }, {
+        "choice": "By conducting customer surveys to understand their needs",
+        "is_right_choice": true
+    }, {
+        "choice": "Assuming it's the same as the production cost",
+        "is_right_choice": false
+    }],
+    "expenation": "The best way to determine the perceived customer value is by directly communicating with the customers, such as through surveys, to understand what they need from the product and what value it provides for them."
+}, {
+    "name": "Pricing Strategy Insight",
+    "question": "What is a sign that a startup might be charging too little for its product?",
+    "choices": [{
+        "choice": "When customers easily accept the price without negotiation",
+        "is_right_choice": true
+    }, {
+        "choice": "When a startup has a high profit margin",
+        "is_right_choice": false
+    }, {
+        "choice": "When the cost is higher than the price",
+        "is_right_choice": false
+    }, {
+        "choice": "When competitors complain",
+        "is_right_choice": false
+    }],
+    "expenation": "If customers too readily accept the price without any negotiation or second thought, it may indicate the price is set too low, potentially leaving additional revenue unclaimed. This suggests there may be room to increase the price without negatively impacting sales."
+}]

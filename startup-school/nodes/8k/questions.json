@@ -1,0 +1,69 @@
+[{
+    "name": "decision_making_challenges",
+    "question": "What was the main challenge faced by the author's company due to the lack of clearly defined roles and decision-making processes?",
+    "choices": [{
+        "choice": "Financial mismanagement",
+        "is_right_choice": false
+    }, {
+        "choice": "Inability to reach unanimous decisions",
+        "is_right_choice": true
+    }, {
+        "choice": "Product development delays",
+        "is_right_choice": false
+    }, {
+        "choice": "Marketing strategy disputes",
+        "is_right_choice": false
+    }],
+    "explanation": "The main challenge was the inability to move forward due to the consensus approach, which made it difficult to reach unanimous decisions."
+},{
+    "name": "assign_clear_titles_benefit",
+    "question": "Why is assigning clear titles, such as a CEO, important in startups?",
+    "choices": [{
+        "choice": "To ensure financial stability",
+        "is_right_choice": false
+    }, {
+        "choice": "For resolving disputes and making decisive actions",
+        "is_right_choice": true
+    }, {
+        "choice": "To boost the company's public image",
+        "is_right_choice": false
+    }, {
+        "choice": "To simplify the hiring process",
+        "is_right_choice": false
+    }],
+    "explanation": "Assigning clear titles, like a CEO, is important for breaking ties in disagreements, encouraging hard conversations, and taking decisive action."
+},{
+    "name": "establishing_areas_of_ownership_importance",
+    "question": "How does establishing areas of ownership benefit a startup's decision-making process?",
+    "choices": [{
+        "choice": "It eliminates the need for meetings",
+        "is_right_choice": false
+    }, {
+        "choice": "It clarifies who is responsible for certain decisions",
+        "is_right_choice": true
+    }, {
+        "choice": "It reduces the company's operational costs",
+        "is_right_choice": false
+    }, {
+        "choice": "It increases the company's market share",
+        "is_right_choice": false
+    }],
+    "explanation": "Establishing areas of ownership clarifies who is responsible for certain decisions, streamlining the decision-making process by making it clear who the final decision-maker is for different types of decisions."
+},{
+    "name": "handling_disagreements_strategy",
+    "question": "What is a necessary strategy for handling disagreements between co-founders according to the text?",
+    "choices": [{
+        "choice": "Ignoring the disagreements",
+        "is_right_choice": false
+    }, {
+        "choice": "Having a predefined plan for proceeding with disagreements",
+        "is_right_choice": true
+    }, {
+        "choice": "Letting external advisors make the decisions",
+        "is_right_choice": false
+    }, {
+        "choice": "Only focusing on unanimous decisions",
+        "is_right_choice": false
+    }],
+    "explanation": "The text highlights the importance of having a plan for how to proceed when co-founders disagree, which helps in managing and overcoming disagreements effectively."
+}]

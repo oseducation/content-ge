@@ -1,0 +1,86 @@
+[{
+    "name": "What is a SAFE?",
+    "question": "What does SAFE stand for in the context of startup fundraising?",
+    "choices": [{
+        "choice": "Simple Agreement for Financial Equity",
+        "is_right_choice": false
+    }, {
+        "choice": "Simple Agreement for Future Equity",
+        "is_right_choice": true
+    }, {
+        "choice": "Standard Agreement for Financial Empowerment",
+        "is_right_choice": false
+    }, {
+        "choice": "Standard Agreement for Future Earnings",
+        "is_right_choice": false
+    }],
+    "explanation": "SAFE stands for Simple Agreement for Future Equity. It is a fundraising tool that allows startups to raise capital without immediately giving up equity or board seats."
+}, {
+    "name": "Control After Fundraising",
+    "question": "How does using SAFEs in fundraising affect a founder's control over their company?",
+    "choices": [{
+        "choice": "It results in immediate loss of control and board seats.",
+        "is_right_choice": false
+    }, {
+        "choice": "Founders must grant information rights to investors.",
+        "is_right_choice": false
+    }, {
+        "choice": "No immediate change in shareholding or board composition occurs.",
+        "is_right_choice": true
+    }, {
+        "choice": "It leads to mandatory sharing of financial records with investors.",
+        "is_right_choice": false
+    }],
+    "explanation": "Using SAFEs for fundraising means that no immediate change in shareholding or board composition occurs, allowing founders to maintain control over their company without having to grant information rights or share financial records prematurely."
+}, {
+    "name": "Impact of SAFEs on Startups",
+    "question": "Which startup is mentioned as an example of successfully utilizing SAFEs for fundraising?",
+    "choices": [{
+        "choice": "Airbnb",
+        "is_right_choice": false
+    }, {
+        "choice": "Dropbox",
+        "is_right_choice": false
+    }, {
+        "choice": "Slack",
+        "is_right_choice": false
+    }, {
+        "choice": "Zapier",
+        "is_right_choice": true
+    }],
+    "explanation": "Zapier is highlighted as a successful example of a startup that utilized SAFEs for fundraising, enabling it to maintain control and operational freedom to become a hundred million dollar revenue business with a single round of funding."
+}, {
+    "name": "Future Equity",
+    "question": "When do investors receive shares if a startup raises funding through SAFEs?",
+    "choices": [{
+        "choice": "Immediately after closing funds",
+        "is_right_choice": false
+    }, {
+        "choice": "Upon the startup's IPO",
+        "is_right_choice": false
+    }, {
+        "choice": "During the next funding round",
+        "is_right_choice": true
+    }, {
+        "choice": "SAFEs do not convert into shares",
+        "is_right_choice": false
+    }],
+    "explanation": "Investors receive shares when a startup that has raised funding through SAFEs goes through its next funding round, not immediately after the initial fundraising, which helps maintain the founder's control over the company."
+}, {
+    "name": "Benefits of SAFEs",
+    "question": "Which of the following is NOT a benefit of using SAFEs for startup fundraising?",
+    "choices": [{
+        "choice": "Investors get immediate board seats",
+        "is_right_choice": true
+    }, {
+        "choice": "Founders maintain control over their company",
+        "is_right_choice": false
+    }, {
+        "choice": "Investors don't receive shares immediately",
+        "is_right_choice": false
+    }, {
+        "choice": "No information rights are granted immediately",
+        "is_right_choice": false
+    }],
+    "explanation": "A benefit of using SAFEs is that they allow founders to raise funds without immediately giving up board seats, maintaining control over the company, and without granting information rights or shares to investors right away. Thus, the incorrect benefit listed is that 'Investors get immediate board seats'."
+}]

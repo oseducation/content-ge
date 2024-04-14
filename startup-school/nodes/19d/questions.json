@@ -1,0 +1,52 @@
+[{
+    "name": "Fundraising Myths",
+    "question": "What is the key aspect investors are looking for from startups, according to the article?",
+    "choices": [{
+        "choice": "A glamorous and impressive presentation",
+        "is_right_choice": false
+    }, {
+        "choice": "An honest conversation and demonstration of value",
+        "is_right_choice": true
+    }, {
+        "choice": "Magic words or phrases that convince them instantly",
+        "is_right_choice": false
+    }, {
+        "choice": "A well-rehearsed pitch and polished deck",
+        "is_right_choice": false
+    }],
+    "explanation": "The article emphasizes that investors value honest conversations about the business, its potential, and its value, rather than being swayed by glamour, magic words, or rehearsed pitches."
+}, {
+    "name": "Fundraising Myths",
+    "question": "What does the success story of Retool suggest about startup fundraising?",
+    "choices": [{
+        "choice": "Big fancy pitch decks are necessary for fundraising",
+        "is_right_choice": false
+    }, {
+        "choice": "Having a celebrity endorsement ensures investment",
+        "is_right_choice": false
+    }, {
+        "choice": "Investments are based on the speculative value of the startup",
+        "is_right_choice": false
+    }, {
+        "choice": "Being honest and demonstrating the product's utility is effective",
+        "is_right_choice": true
+    }],
+    "explanation": "Retool's success story illustrates that direct product demonstrations and honest discussions about its utility and value, rather than elaborate presentations, can effectively secure investments."
+}, {
+    "name": "Fundraising Myths",
+    "question": "Why might a startup struggle to get investment, based on the insights from the article?",
+    "choices": [{
+        "choice": "The founders are not doing enough to impress investors with their presentations",
+        "is_right_choice": false
+    }, {
+        "choice": "The business idea sounds too unconventional or risky",
+        "is_right_choice": false
+    }, {
+        "choice": "The startup has not sufficiently demonstrated its value or potential",
+        "is_right_choice": true
+    }, {
+        "choice": "The product does not utilize the latest technology",
+        "is_right_choice": false
+    }],
+    "explanation": "According to the article, a startup might struggle to get investment not because of a lack of impressiveness in their presentation, but because it hasn't clearly demonstrated the value or potential of their product to investors."
+}]

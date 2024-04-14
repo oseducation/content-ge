@@ -1,0 +1,69 @@
+[{
+    "name": "Co-founder matching platform basics",
+    "question": "What is the primary purpose of YC's co-founder matching platform?",
+    "choices": [{
+        "choice": "To provide financial support to startups",
+        "is_right_choice": false
+    }, {
+        "choice": "To match individuals looking for a co-founder",
+        "is_right_choice": true
+    }, {
+        "choice": "To offer online courses on startup management",
+        "is_right_choice": false
+    }, {
+        "choice": "To review and approve startup ideas",
+        "is_right_choice": false
+    }],
+    "explanation": "YC's co-founder matching platform is designed to help individuals find a co-founder by matching profiles based on their skills, interests, and startup ideas."
+}, {
+    "name": "Platform success indicator",
+    "question": "How does the platform demonstrate its success?",
+    "choices": [{
+        "choice": "By the number of startups it has directly funded",
+        "is_right_choice": false
+    }, {
+        "choice": "By the total number of user accounts created",
+        "is_right_choice": false
+    }, {
+        "choice": "By the number of profiles created and matches made",
+        "is_right_choice": true
+    }, {
+        "choice": "By the length of the video chats during 'speed dating'",
+        "is_right_choice": false
+    }],
+    "explanation": "The platform's success is indicated by the number of profiles created (40,000 profiles) and the number of matches made (over 100,000), demonstrating its efficiency in connecting potential co-founders."
+}, {
+    "name": "Feature uniqueness",
+    "question": "What unique feature does YC’s co-founder matching platform offer to facilitate quick interactions?",
+    "choices": [{
+        "choice": "In-person meetings",
+        "is_right_choice": false
+    }, {
+        "choice": "One-on-one video chats in a 'speed dating' format",
+        "is_right_choice": true
+    }, {
+        "choice": "Unlimited messaging",
+        "is_right_choice": false
+    }, {
+        "choice": "Automated profile matching",
+        "is_right_choice": false
+    }],
+    "explanation": "The platform's unique 'speed dating' feature offers one-on-one video chats, each lasting about five minutes, enabling efficient and quick interactions among potential co-founders."
+}, {
+    "name": "Profile approval process",
+    "question": "What is the first step upon completing your profile on the Co-founder matching platform?",
+    "choices": [{
+        "choice": "You can immediately start messaging potential co-founders.",
+        "is_right_choice": false
+    }, {
+        "choice": "Your profile goes through a manual review process.",
+        "is_right_choice": true
+    }, {
+        "choice": "You must attend a mandatory webinar about how to use the platform.",
+        "is_right_choice": false
+    }, {
+        "choice": "You participate in a 'speed dating' session.",
+        "is_right_choice": false
+    }],
+    "explanation": "Once a profile is completed, it undergoes a manual review process by the team to ensure authenticity before the user can explore and message other profiles."   
+}]

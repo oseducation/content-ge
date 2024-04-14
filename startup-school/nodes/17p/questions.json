@@ -1,0 +1,52 @@
+[{
+    "name": "Pricing Flexibility",
+    "question": "According to the text, is the price of a product or service for a startup fixed or flexible?",
+    "choices": [{
+        "choice": "Fixed",
+        "is_right_choice": false
+    }, {
+        "choice": "Flexible",
+        "is_right_choice": true
+    }, {
+        "choice": "Only fixed after the first customer",
+        "is_right_choice": false
+    }, {
+        "choice": "Cannot be changed once published",
+        "is_right_choice": false
+    }],
+    "expenation": "The text emphasizes that pricing is not set in stone and suggests that finding the right price is an evolving process. This indicates that prices are flexible and can be adjusted as needed."
+}, {
+    "name": "Handling Existing Customers",
+    "question": "What strategy is suggested for dealing with existing customers when increasing prices?",
+    "choices": [{
+        "choice": "Increase prices for all including existing customers",
+        "is_right_choice": false
+    }, {
+        "choice": "Keep the original prices for existing customers",
+        "is_right_choice": true
+    }, {
+        "choice": "Remove any customers who complain about the price increase",
+        "is_right_choice": false
+    }, {
+        "choice": "Offer discounts to existing customers to avoid complaints",
+        "is_right_choice": false
+    }],
+    "expenation": "The text suggests allowing existing customers to keep their current prices when increasing prices for products or services, demonstrating a practical approach to maintaining customer satisfaction amidst changes."
+}, {
+    "name": "Inspiration Example",
+    "question": "Which company is mentioned as an example of successfully raising prices?",
+    "choices": [{
+        "choice": "Amazon",
+        "is_right_choice": false
+    }, {
+        "choice": "Netflix",
+        "is_right_choice": true
+    }, {
+        "choice": "Google",
+        "is_right_choice": false
+    }, {
+        "choice": "Facebook",
+        "is_right_choice": false
+    }],
+    "expenation": "The text mentions Netflix as an example, highlighting how the company has successfully raised its prices over the years while continuing to grow its subscriber base and revenue."
+}]

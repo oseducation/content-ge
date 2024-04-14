@@ -1,0 +1,69 @@
+[{
+    "name": "Segment's initial startup concept",
+    "question": "What was the initial idea behind Segment?",
+    "choices": [{
+        "choice": "A data analytics platform",
+        "is_right_choice": false
+    }, {
+        "choice": "A JavaScript tool for websites",
+        "is_right_choice": false
+    }, {
+        "choice": "A classroom feedback tool",
+        "is_right_choice": true
+    }, {
+        "choice": "An e-commerce platform",
+        "is_right_choice": false
+    }],
+    "explanation": "Segment's initial concept was a classroom feedback tool designed to help students notify their professor if they were confused about a lesson, not a data analytics platform or JavaScript tool for websites."
+}, {
+    "name": "Market fit for Segment's initial idea",
+    "question": "How did the founders of Segment assess their founder/market fit for their initial classroom feedback tool idea?",
+    "choices": [{
+        "choice": "Above average, around 7 out of 10",
+        "is_right_choice": false
+    }, {
+        "choice": "Excellent, 9 out of 10",
+        "is_right_choice": false
+    }, {
+        "choice": "Poor, 2 out of 10",
+        "is_right_choice": false
+    }, {
+        "choice": "Average, around 5 out of 10",
+        "is_right_choice": true
+    }],
+    "explanation": "The founder/market fit for the classroom feedback tool idea was considered average, around 5 out of 10, since while the founders were students themselves and understood their user base, they were not education experts."
+}, {
+    "name": "Reason for Segment's pivot to data infrastructure",
+    "question": "Why did Segment pivot to focusing on data infrastructure?",
+    "choices": [{
+        "choice": "Because they received significant venture capital for data infrastructure",
+        "is_right_choice": false
+    }, {
+        "choice": "Due to overwhelming positive market feedback",
+        "is_right_choice": true
+    }, {
+        "choice": "Because they decided to go back to school",
+        "is_right_choice": false
+    }, {
+        "choice": "Because the original idea was too difficult to develop",
+        "is_right_choice": false
+    }],
+    "explanation": "Segment pivoted to data infrastructure due to overwhelmingly positive market feedback for their JavaScript tool, which was initially given away for free but soon saw high demand for more support and features."
+}, {
+    "name": "Assessment of founder/market fit for Segment's successful pivot",
+    "question": "How was the founder/market fit assessed for Segment's pivot into data infrastructure?",
+    "choices": [{
+        "choice": "Poor, due to lack of market knowledge",
+        "is_right_choice": false
+    }, {
+        "choice": "Average, similar to their initial idea",
+        "is_right_choice": false
+    }, {
+        "choice": "Good, but not exceptional",
+        "is_right_choice": false
+    }, {
+        "choice": "Excellent, with founders having extensive experience in analytics",
+        "is_right_choice": true
+    }],
+    "explanation": "For Segment's pivot into data infrastructure, the founder/market fit was considered excellent due to the founders' extensive experience in analytics, making them well-suited for this venture compared to their original classroom feedback tool idea."
+}]

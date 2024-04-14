@@ -1,0 +1,52 @@
+[{
+    "name": "Personal Desire in Startup",
+    "question": "Why is assessing personal desire for a startup idea important?",
+    "choices": [{
+        "choice": "It ensures the product has the highest production cost.",
+        "is_right_choice": false
+    }, {
+        "choice": "It helps determine if there's genuine interest from the founder and potential users.",
+        "is_right_choice": true
+    }, {
+        "choice": "It guarantees governmental support for the startup.",
+        "is_right_choice": false
+    }, {
+        "choice": "It simplifies the legal process of registering a business.",
+        "is_right_choice": false
+    }],
+    "explanation": "Assessing personal desire is crucial because it helps to identify if both the founder and potential users have a genuine interest and need for the product or service. This assessment is a key indicator of whether the product may have a broader appeal or market demand."
+}, {
+    "name": "Red Flags in Startup Development",
+    "question": "What does developing a product that doesn't resonate with your own needs or those of people you know indicate?",
+    "choices": [{
+        "choice": "A guaranteed success in unknown markets",
+        "is_right_choice": false
+    }, {
+        "choice": "The need for more aggressive marketing strategies",
+        "is_right_choice": false
+    }, {
+        "choice": "A significant red flag suggesting a lack of broader appeal or market demand",
+        "is_right_choice": true
+    }, {
+        "choice": "That the product is too innovative for the current market",
+        "is_right_choice": false
+    }],
+    "explanation": "When a product doesn't resonate with the founder's own needs or those of their immediate circle, it's a significant red flag that suggests the product may not have broader market appeal or demand. This situation calls for reevaluation of the startup idea."
+}, {
+    "name": "Role of User Feedback",
+    "question": "What is the role of engaging directly with potential users for your startup product?",
+    "choices": [{
+        "choice": "To solely increase the product's price based on user demands",
+        "is_right_choice": false
+    }, {
+        "choice": "To win startup awards and recognitions",
+        "is_right_choice": false
+    }, {
+        "choice": "To gather insights on real demand and refine the product idea",
+        "is_right_choice": true
+    }, {
+        "choice": "Engaging with potential users is considered unimportant",
+        "is_right_choice": false
+    }],
+    "explanation": "Engaging directly with potential users is crucial for gathering invaluable insights into the real demand for your product. Conversations with these users can help refine your idea to ensure it aligns with actual market needs and desires."
+}]

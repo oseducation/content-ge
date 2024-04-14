@@ -1,0 +1,69 @@
+[{
+    "name": "retention_strategy_gamification",
+    "question": "How do FAANG companies gamify their retention strategy for employees?",
+    "choices": [{
+        "choice": "By organizing regular gaming tournaments among employees.",
+        "is_right_choice": false
+    }, {
+        "choice": "By offering advancement to the next level and unlocking new rewards, creating a sense of progression.",
+        "is_right_choice": true
+    }, {
+        "choice": "By using video games during team meetings.",
+        "is_right_choice": false
+    }, {
+        "choice": "By evaluating employees through video game-like exams.",
+        "is_right_choice": false
+    }],
+    "explanation": "FAANG companies gamify their retention strategy by offering employees a sense of progression through levels and rewards, much like a video game, encouraging them to stay and advance within the company."
+}, {
+    "name": "equity_vesting_impact",
+    "question": "Why does the equity vesting schedule used by FAANG companies effectively retain employees?",
+    "choices": [{
+        "choice": "Because it requires immediate repayment if employees leave.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it provides a large upfront cash bonus that locks employees in.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because employees have to stay with the company for a period (typically four years) to fully vest their equity, leveraging loss aversion.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it allows employees to take their equity with them immediately if they leave, encouraging them to stay out of gratitude.",
+        "is_right_choice": false
+    }],
+    "explanation": "The equity vesting schedule, typically over four years, leverages the psychological principle of loss aversion by making employees more likely to stay to avoid losing the value of unvested equity, thereby effectively retaining them."
+}, {
+    "name": "impact_of_lifestyle_inflation",
+    "question": "How does lifestyle inflation among FAANG employees affect their likelihood to leave and start a company?",
+    "choices": [{
+        "choice": "It has no real impact since FAANG salaries are high enough to negate any effects of lifestyle inflation.",
+        "is_right_choice": false
+    }, {
+        "choice": "It encourages employees to leave and start their own company due to increased financial confidence.",
+        "is_right_choice": false
+    }, {
+        "choice": "It makes employees more likely to take risks and invest in startups.",
+        "is_right_choice": false
+    }, {
+        "choice": "It makes leaving financially difficult as employees' spending increases in line with their income, tying them to their job.",
+        "is_right_choice": true
+    }],
+    "explanation": "Lifestyle inflation ties FAANG employees closer to their jobs as their spending habits evolve to match their higher income, making the financial implications of leaving to start a company more daunting."
+}, {
+    "name": "effect_of_speculative_projects",
+    "question": "What impact do speculative projects have on FAANG employees’ motivation to stay or leave?",
+    "choices": [{
+        "choice": "They significantly increase motivation as they promise groundbreaking outcomes.",
+        "is_right_choice": false
+    }, {
+        "choice": "They have little to no impact as employees are more concerned with compensation than project outcomes.",
+        "is_right_choice": false
+    }, {
+        "choice": "They lead to a sense of futility and dissatisfaction when projects do not come to fruition, affecting the decision to stay.",
+        "is_right_choice": true
+    }, {
+        "choice": "They motivate employees to leave and start their own ventures to avoid speculative work.",
+        "is_right_choice": false
+    }],
+    "explanation": "Speculative projects can lead to a sense of futility among employees if years of work do not result in tangible outcomes, potentially affecting their motivation to stay with the company."
+}]

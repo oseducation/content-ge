@@ -1,0 +1,69 @@
+[{
+    "name": "Recurring Revenue and Customer Retention",
+    "question": "Why is recurring revenue considered a safety net for startups?",
+    "choices": [{
+        "choice": "It requires customers to make large one-time payments.",
+        "is_right_choice": false
+    }, {
+        "choice": "It provides a predictable stream of income from customers.",
+        "is_right_choice": true
+    }, {
+        "choice": "It eliminates the need for customer service.",
+        "is_right_choice": false
+    }, {
+        "choice": "It increases customer acquisition costs.",
+        "is_right_choice": false
+    }],
+    "explanation": "Recurring revenue is considered a safety net because it offers a predictable and consistent income stream, with customers paying on a regular basis, which is vital for the financial stability of a startup."
+}, {
+    "name": "Benefits of Recurring Revenue Model",
+    "question": "What is a major advantage of the recurring revenue model over the one-time purchase model?",
+    "choices": [{
+        "choice": "Lower customer lifetime value",
+        "is_right_choice": false
+    }, {
+        "choice": "Higher dependency on one-time sales",
+        "is_right_choice": false
+    }, {
+        "choice": "Increased customer acquisition costs",
+        "is_right_choice": false
+    }, {
+        "choice": "Higher customer lifetime value",
+        "is_right_choice": true
+    }],
+    "explanation": "The recurring revenue model has the major advantage of offering a higher customer lifetime value compared to the one-time purchase model, due to the consistent income generated over time from each customer."
+}, {
+    "name": "Importance of Customer Retention",
+    "question": "What happens if a startup has a high churn rate?",
+    "choices": [{
+        "choice": "It can maintain a stable income without acquiring new customers.",
+        "is_right_choice": false
+    }, {
+        "choice": "It increases its customer lifetime value significantly.",
+        "is_right_choice": false
+    }, {
+        "choice": "It loses customers and income over time, risking the business's profitability.",
+        "is_right_choice": true
+    }, {
+        "choice": "Its customer acquisition costs decrease.",
+        "is_right_choice": false
+    }],
+    "explanation": "A high churn rate means a startup is losing customers at a fast pace, leading to a continuous drain on customers and income, which can significantly risk the business's profitability and sustainability."
+}, {
+    "name": "Effects of Churn Rate on Customer Base",
+    "question": "What would be the effect on the customer base by the end of the year if a startup begins with 100 customers and has a monthly churn rate of 5%?",
+    "choices": [{
+        "choice": "It would increase to 150 customers.",
+        "is_right_choice": false
+    }, {
+        "choice": "It would remain unchanged at 100 customers.",
+        "is_right_choice": false
+    }, {
+        "choice": "It would decrease to roughly 54 customers.",
+        "is_right_choice": true
+    }, {
+        "choice": "It would decrease to below 20 customers.",
+        "is_right_choice": false
+    }],
+    "explanation": "Starting with 100 customers and experiencing a monthly churn rate of 5% means losing about 5% of the customer base each month. By the end of the year, this compound loss leaves the startup with roughly 54 customers, almost half of the initial amount."
+}]

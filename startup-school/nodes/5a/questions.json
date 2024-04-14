@@ -1,0 +1,52 @@
+[{
+    "name": "Tar Pit Ideas Definition",
+    "question": "What is the metaphorical meaning of 'tar pit' ideas in startups?",
+    "choices": [{
+        "choice": "Ideas that are initially unattractive but become successful with hard work.",
+        "is_right_choice": false
+    }, {
+        "choice": "Startup ideas that seem appealing but are difficult and often lead to failure.",
+        "is_right_choice": true
+    }, {
+        "choice": "Highly innovative ideas that change the startup ecosystem.",
+        "is_right_choice": false
+    }, {
+        "choice": "Simple, easily implementable ideas that guarantee success.",
+        "is_right_choice": false
+    }],
+    "expenation": "The metaphorical meaning of 'tar pit' ideas in startups refers to ideas that appear appealing and promising at first, much like a watery oasis to animals, but are actually highly challenging and sticky, often leading to the failure of the startup, much like animals getting trapped in actual tar pits."
+}, {
+    "name": "Purpose of Identifying Tar Pit Ideas",
+    "question": "Why is it important for startups to identify 'tar pit' ideas?",
+    "choices": [{
+        "choice": "To ensure they have a unique idea that no one else has thought of.",
+        "is_right_choice": false
+    }, {
+        "choice": "To find the quickest path to monetization.",
+        "is_right_choice": false
+    }, {
+        "choice": "To avoid common pitfalls that lead to failure.",
+        "is_right_choice": true
+    }, {
+        "choice": "To attract more investors.",
+        "is_right_choice": false
+    }],
+    "expenation": "Identifying 'tar pit' ideas is crucial for startups because it helps them avoid common pitfalls that have led to the failure of many startups. By steering clear of these deceptive and challenging ideas, startups can increase their chances of succeeding."
+}, {
+    "name": "Origin of the Term 'Tar Pit'",
+    "question": "What natural phenomenon is the term 'tar pit' in startups metaphorically compared to?",
+    "choices": [{
+        "choice": "A mirage in a desert.",
+        "is_right_choice": false
+    }, {
+        "choice": "A sticky trap made by spiders.",
+        "is_right_choice": false
+    }, {
+        "choice": "A dense forest.",
+        "is_right_choice": false
+    }, {
+        "choice": "A place where petroleum seeps up through the earth, forming sticky traps.",
+        "is_right_choice": true
+    }],
+    "expenation": "The term 'tar pit' in startups is metaphorically compared to natural tar pits where petroleum seeps up through the earth, creating a trap that looks like water but is actually sticky tar. This metaphor illustrates how certain startup ideas can appear promising but end up being traps leading to failure."
+}]

@@ -1,0 +1,52 @@
+[{
+    "name": "Key Elements to Start a Company",
+    "question": "What are the two key elements generally needed to start a company?",
+    "choices": [{
+        "choice": "Business plan and investors",
+        "is_right_choice": false
+    }, {
+        "choice": "A viable idea and a compatible co-founder",
+        "is_right_choice": true
+    }, {
+        "choice": "Office space and a marketing strategy",
+        "is_right_choice": false
+    }, {
+        "choice": "Product prototype and patents",
+        "is_right_choice": false
+    }],
+    "explanation": "The text outlines a viable idea and a compatible co-founder as the two key elements that are generally needed to start a company. These elements form the foundation upon which a startup can be built, before considering other aspects like investors or office space."
+}, {
+    "name": "Idea Generation Process",
+    "question": "Why is it advised not to separate the processes of idea generation and finding a co-founder?",
+    "choices": [{
+        "choice": "It's easier to get financial support this way.",
+        "is_right_choice": false
+    }, {
+        "choice": "It provides social proof of the idea's viability.",
+        "is_right_choice": false
+    }, {
+        "choice": "Ideas evolve better through collaboration and discussion.",
+        "is_right_choice": true
+    }, {
+        "choice": "It shortens the startup launch timeline.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text advises against separating idea generation from finding a co-founder because discussing and refining initial vague hunches with a potential co-founder or insightful individuals can significantly improve the evolution of these ideas into tangible concepts through collaboration."
+}, {
+    "name": "Building Relationships",
+    "question": "What is suggested as a way to prepare for launching a future startup?",
+    "choices": [{
+        "choice": "Securing investments early on",
+        "is_right_choice": false
+    }, {
+        "choice": "Attending startup bootcamps",
+        "is_right_choice": false
+    }, {
+        "choice": "Nurturing conversations and relationships",
+        "is_right_choice": true
+    }, {
+        "choice": "Focusing solely on individual skills",
+        "is_right_choice": false
+    }],
+    "explanation": "To prepare for launching a future startup, the text encourages nurturing meaningful conversations and relationships. This strategy fosters a culture of curiosity and collaboration, which is more beneficial and foundational than focusing solely on aspects like securing investments early on or only improving individual skills."
+}]

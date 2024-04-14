@@ -1,0 +1,52 @@
+[{
+    "name": "Indicators_to_Leave_FAANG",
+    "question": "What is a clear indicator that it might be time to leave your FAANG job for entrepreneurial ventures?",
+    "choices": [{
+        "choice": "Achieving all your financial goals",
+        "is_right_choice": false
+    }, {
+        "choice": "Feeling deep dissatisfaction and trapped in your job",
+        "is_right_choice": true
+    }, {
+        "choice": "Being offered a higher position within the company",
+        "is_right_choice": false
+    }, {
+        "choice": "Wanting to relocate to a new city",
+        "is_right_choice": false
+    }],
+    "explanation": "Feeling deep dissatisfaction with the job and feeling trapped or disillusioned, despite the financial rewards, is a clear indicator that it might be time to leave for entrepreneurial ventures."
+}, {
+    "name": "Maintaining_Financial_Flexibility",
+    "question": "Why is maintaining a low personal burn rate important when considering leaving a FAANG job?",
+    "choices": [{
+        "choice": "It ensures you can vacation luxuriously between jobs",
+        "is_right_choice": false
+    }, {
+        "choice": "It guarantees immediate employment in another high-paying job",
+        "is_right_choice": false
+    }, {
+        "choice": "It reduces the financial risks of stepping out on your own",
+        "is_right_choice": true
+    }, {
+        "choice": "It makes you eligible for larger bank loans",
+        "is_right_choice": false
+    }],
+    "explanation": "Maintaining a low personal burn rate ensures you're not overly dependent on the high salary and perks, giving you financial flexibility and reducing the risk associated with stepping out on your own."
+}, {
+    "name": "Strategic_Planning_FAANG_Exit",
+    "question": "How does having a pre-set plan affect your decision to leave a FAANG job?",
+    "choices": [{
+        "choice": "It confuses your long-term goals with short-term gains",
+        "is_right_choice": false
+    }, {
+        "choice": "It helps in achieving higher positions within the same company",
+        "is_right_choice": false
+    }, {
+        "choice": "It makes it easier to resist short-term temptations for long-term goals",
+        "is_right_choice": true
+    }, {
+        "choice": "It ensures a higher salary in future entrepreneurial ventures",
+        "is_right_choice": false
+    }],
+    "explanation": "Having a pre-set plan helps you stay focused on your long-term goals, making it easier to resist the temptations of short-term bonuses or promotions, thus facilitating a smoother transition to entrepreneurial ventures."
+}]

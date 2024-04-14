@@ -1,0 +1,35 @@
+[{
+    "name": "Practical Strategies for Finding Startup Ideas",
+    "question": "What is the suggested method for founders looking to come up with new startup ideas?",
+    "choices": [{
+        "choice": "Conducting a market survey on the latest trends.",
+        "is_right_choice": false
+    }, {
+        "choice": "Reflecting on personal job, internship, and life experiences to identify unique problems encountered.",
+        "is_right_choice": true
+    }, {
+        "choice": "Consulting with industry experts to predict future demands.",
+        "is_right_choice": false
+    }, {
+        "choice": "Investing in the most popular startup sectors without personal insight.",
+        "is_right_choice": false
+    }],
+    "explanation": "The suggested method involves each team member reflecting on their own personal experiences from jobs, internships, and significant life events to identify unique problems they have faced. This approach is proposed because it utilizes personal insights, which likely leads to the identification of problems and opportunities that others may not have noticed. This makes the resulting startup ideas more practical and grounded in real-world challenges, enhancing their potential for success."
+}, {
+    "name": "Benefit of Leveraging Personal Experience for Startup Ideas",
+    "question": "Why does leveraging personal experiences potentially lead to successful startup ideas?",
+    "choices": [{
+        "choice": "It ensures a more extensive market reach from the start.",
+        "is_right_choice": false
+    }, {
+        "choice": "It makes securing initial funding easier.",
+        "is_right_choice": false
+    }, {
+        "choice": "It provides a unique perspective on real-world challenges, making solutions more valuable.",
+        "is_right_choice": true
+    }, {
+        "choice": "Personal experiences guarantee a quicker development process.",
+        "is_right_choice": false
+    }],
+    "explanation": "Leveraging personal experiences allows founders to tap into unique perspectives on problems and opportunities that might not be evident to others. This can lead to the identification of real-world challenges that require solutions, making the resulting startup ideas both innovative and valuable. Since these ideas are based on firsthand knowledge and insights, they are more likely to resonate with potential users and succeed in the market."
+}]

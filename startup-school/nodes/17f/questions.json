@@ -1,0 +1,52 @@
+[{
+    "name": "SaaS Dominance Reason",
+    "question": "Why do SaaS (Software as a Service) businesses often outperform other types of startups?",
+    "choices": [{
+        "choice": "They offer physical products",
+        "is_right_choice": false
+    }, {
+        "choice": "They have a steady stream of recurring revenue",
+        "is_right_choice": true
+    }, {
+        "choice": "They require less capital to start",
+        "is_right_choice": false
+    }, {
+        "choice": "They are easier to manage",
+        "is_right_choice": false
+    }],
+    "explanation": "SaaS businesses outshine others mainly because of their steady stream of recurring revenue, allowing for predictable financial planning and consistent growth."
+}, {
+    "name": "Percentage of SaaS Companies in Y Combinator",
+    "question": "What percentage of the top 100 companies from Y Combinator are SaaS businesses?",
+    "choices": [{
+        "choice": "50%",
+        "is_right_choice": false
+    }, {
+        "choice": "25%",
+        "is_right_choice": false
+    }, {
+        "choice": "31%",
+        "is_right_choice": true
+    }, {
+        "choice": "10%",
+        "is_right_choice": false
+    }],
+    "explanation": "31% of the top 100 companies that emerged from Y Combinator are SaaS businesses, highlighting their significant presence and success in the startup world."
+}, {
+    "name": "Recurring Revenue Benefit",
+    "question": "What is the main benefit of the recurring revenue model for SaaS businesses?",
+    "choices": [{
+        "choice": "It allows for large, one-time sales.",
+        "is_right_choice": false
+    }, {
+        "choice": "It ensures a steady income and facilitates growth.",
+        "is_right_choice": true
+    }, {
+        "choice": "It reduces the overall operational costs.",
+        "is_right_choice": false
+    }, {
+        "choice": "It eliminates the need for marketing.",
+        "is_right_choice": false
+    }],
+    "explanation": "The recurring revenue model benefits SaaS businesses primarily by ensuring a steady income, which helps in making smarter decisions, planning effectively, and supporting consistent growth."
+}]

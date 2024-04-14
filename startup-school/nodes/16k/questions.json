@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding Startup KPIs",
+    "question": "What is the primary focus for startups in the early stages of assessing KPIs?",
+    "choices": [{
+        "choice": "Maximizing the number of free users",
+        "is_right_choice": false
+    }, {
+        "choice": "Finding the right balance between CAC and LTV",
+        "is_right_choice": false
+    }, {
+        "choice": "Growing the number of paying users rapidly",
+        "is_right_choice": true
+    }, {
+        "choice": "Increasing social media followers",
+        "is_right_choice": false
+    }],
+    "explanation": "In the early stages of assessing KPIs, startups should focus on growing the number of paying users rapidly rather than simply increasing the number of free users or social media followers. This is because paying customers are key to revenue generation, and balancing CAC (Cost of Acquiring Customer) and LTV (Lifetime Value of a Customer) becomes relevant after confirming market interest in the product."
+}, {
+    "name": "The Pitfall of Concentrating on Free Users",
+    "question": "Why should startups be cautious about focusing too much on the feedback from free users?",
+    "choices": [{
+        "choice": "Free users are always unhappy with the product",
+        "is_right_choice": false
+    }, {
+        "choice": "Free users' feedback may not align with paying customers' needs",
+        "is_right_choice": true
+    }, {
+        "choice": "Paying customers do not provide feedback",
+        "is_right_choice": false
+    }, {
+        "choice": "Free users provide too much feedback",
+        "is_right_choice": false
+    }],
+    "explanation": "Startups should be cautious about focusing too much on the feedback from free users because their feedback may not align with the needs of paying customers. Relying heavily on the perspectives of free users can lead startups away from understanding and meeting the preferences of those who are willing to pay for the product, which is critical for revenue generation."
+}, {
+    "name": "The Real-life Case of Scribd",
+    "question": "What significant change did Scribd observe after starting to charge for their service?",
+    "choices": [{
+        "choice": "They lost over 90% of their user base but revenue increased",
+        "is_right_choice": true
+    }, {
+        "choice": "Revenue decreased significantly",
+        "is_right_choice": false
+    }, {
+        "choice": "Their free user base grew larger",
+        "is_right_choice": false
+    }, {
+        "choice": "They gained more feedback from free users",
+        "is_right_choice": false
+    }],
+    "explanation": "After Scribd started charging for their service in 2010, they observed that while they lost over 90% of their users, their revenue increased significantly. This shift indicated that having a smaller base of paying users was more beneficial in terms of revenue generation than maintaining a large free user base, underscoring the importance of focusing on customers willing to pay for the product."
+}]

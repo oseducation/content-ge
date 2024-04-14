@@ -1,0 +1,52 @@
+[{
+    "name": "Appropriate Use of X for Y Pitches",
+    "question": "According to the text, under which condition is the 'X for Y' pitch considered appropriate?",
+    "choices": [{
+        "choice": "When X is a niche market product",
+        "is_right_choice": false
+    }, {
+        "choice": "When X is a widely known brand",
+        "is_right_choice": true
+    }, {
+        "choice": "When Y is a small, focused market",
+        "is_right_choice": false
+    }, {
+        "choice": "All situations are appropriate for 'X for Y' pitches",
+        "is_right_choice": false
+    }],
+    "explanation": "The 'X for Y' pitch is considered appropriate when X represents a broadly recognized brand. This helps in quickly conveying the startup's value proposition to familiar audiences like investors or the press, as they can easily understand what you are likened to."
+}, {
+    "name": "Characteristics of Effective Startup Descriptions",
+    "question": "What is a key feature of the best one-liner descriptions for startups?",
+    "choices": [{
+        "choice": "They rely on complex words to sound impressive.",
+        "is_right_choice": false
+    }, {
+        "choice": "They are long and detailed.",
+        "is_right_choice": false
+    }, {
+        "choice": "They contain salesy language to attract attention.",
+        "is_right_choice": false
+    }, {
+        "choice": "They are simple and don’t use complex words or salesy language.",
+        "is_right_choice": true
+    }],
+    "explanation": "The best one-liner descriptions for startups are praised for being simple and straight to the point, without the use of complex words or salesy language. This makes them easily understandable and effective in communicating the startup's mission."
+}, {
+    "name": "Rules for Using 'X for Y' Method",
+    "question": "Which of the following is NOT one of the rules for using the 'X for Y' method as mentioned in the text?",
+    "choices": [{
+        "choice": "Y must be a newly emerging market.",
+        "is_right_choice": true
+    }, {
+        "choice": "X should be a widely known brand.",
+        "is_right_choice": false
+    }, {
+        "choice": "It must be clear why Y wants what X offers.",
+        "is_right_choice": false
+    }, {
+        "choice": "Y should represent a large market.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text does not mention that Y must be a newly emerging market as a rule for using the 'X for Y' method. Instead, it emphasizes that X should be a known brand, the connection between X and Y must be clear, and Y should represent a significant market."
+}]

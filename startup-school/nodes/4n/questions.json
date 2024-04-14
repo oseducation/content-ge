@@ -1,0 +1,52 @@
+[{
+    "name": "Expertise Relevance",
+    "question": "Why is it advantageous to come up with startup ideas that align with your team's expertise?",
+    "choices": [{
+        "choice": "It enhances competitiveness in unfamiliar markets.",
+        "is_right_choice": false
+    }, {
+        "choice": "It leverages the team's strengths, making the idea more viable.",
+        "is_right_choice": true
+    }, {
+        "choice": "It simplifies legal and regulatory compliance.",
+        "is_right_choice": false
+    }, {
+        "choice": "It guarantees financial support from investors.",
+        "is_right_choice": false
+    }],
+    "explanation": "Starting with ideas that align with the team's expertise leverages their strengths, ensuring the idea is something they are capable of executing well, thereby improving its chances of success."
+}, {
+    "name": "Applicability of Expertise Strategy",
+    "question": "For whom might starting with ideas in their area of expertise not be the best approach?",
+    "choices": [{
+        "choice": "Individuals with extensive industry experience.",
+        "is_right_choice": false
+    }, {
+        "choice": "Teams lacking clear leadership.",
+        "is_right_choice": false
+    }, {
+        "choice": "Young entrepreneurs or college students.",
+        "is_right_choice": true
+    }, {
+        "choice": "Founders with previous startup success.",
+        "is_right_choice": false
+    }],
+    "explanation": "Young entrepreneurs or college students might not have developed expertise in a specific field yet, making this approach less applicable. They may need to explore other ways to generate ideas that match their current skills and experience."
+}, {
+    "name": "Understanding Specific Case",
+    "question": "What field did the founders of Rezi concentrate on when searching for startup ideas?",
+    "choices": [{
+        "choice": "Education technology",
+        "is_right_choice": false
+    }, {
+        "choice": "Biotechnology",
+        "is_right_choice": false
+    }, {
+        "choice": "Real estate and financial technology",
+        "is_right_choice": true
+    }, {
+        "choice": "Renewable energy sources",
+        "is_right_choice": false
+    }],
+    "explanation": "The founders of Rezi focused on real estate and financial technology for their startup idea due to their extensive background in these areas, enabling them to identify a successful concept effectively."
+}]

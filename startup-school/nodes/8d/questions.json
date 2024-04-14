@@ -1,0 +1,52 @@
+[{
+    "name": "Core Aspects for Choosing a Co-Founder",
+    "question": "What is the most important factor to consider when choosing a co-founder for your startup?",
+    "choices": [{
+        "choice": "Ability to fundraise",
+        "is_right_choice": false
+    }, {
+        "choice": "Alignment of goals and values",
+        "is_right_choice": true
+    }, {
+        "choice": "Complementary skills",
+        "is_right_choice": false
+    }, {
+        "choice": "Geographical proximity",
+        "is_right_choice": false
+    }],
+    "explanation": "The most important factor when choosing a co-founder is the alignment of goals and values. This ensures that both founders are working towards the same objectives with a shared understanding and approach."
+}, {
+    "name": "Overemphasized Aspects",
+    "question": "Which aspect is often overemphasized when looking for a co-founder according to the text?",
+    "choices": [{
+        "choice": "Financial capabilities",
+        "is_right_choice": false
+    }, {
+        "choice": "Handling stress",
+        "is_right_choice": false
+    }, {
+        "choice": "Complementary skills",
+        "is_right_choice": true
+    }, {
+        "choice": "Personal hobbies and interests",
+        "is_right_choice": false
+    }],
+    "explanation": "Complementary skills are often overemphasized when looking for a co-founder. The text suggests that while skills like fundraising and networking are important, they are learnable and should not be the primary focus over core values and compatibility."
+}, {
+    "name": "Exception for Non-Technical Founders",
+    "question": "What is the crucial advice given to non-technical founders looking for a co-founder?",
+    "choices": [{
+        "choice": "Focus on finding a co-founder with strong marketing skills",
+        "is_right_choice": false
+    }, {
+        "choice": "Prioritize finding a co-founder with a technical background",
+        "is_right_choice": true
+    }, {
+        "choice": "Look for a co-founder who can work weekends",
+        "is_right_choice": false
+    }, {
+        "choice": "Ensure the co-founder is financially well-off",
+        "is_right_choice": false
+    }],
+    "explanation": "For non-technical founders, the crucial advice given is to prioritize finding a co-founder with a technical background, especially for tech startups, as this skill set is essential and not as easily acquired compared to other skills like marketing or sales."
+}]

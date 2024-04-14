@@ -1,0 +1,52 @@
+[{
+    "name": "Facebook's Initial Growth Strategy",
+    "question": "What was a key factor in Facebook's initial rapid growth?",
+    "choices": [{
+        "choice": "Extensive advertising campaigns",
+        "is_right_choice": false
+    }, {
+        "choice": "Organic user interest and excitement",
+        "is_right_choice": true
+    }, {
+        "choice": "Celebrity endorsements",
+        "is_right_choice": false
+    }, {
+        "choice": "International expansion strategies",
+        "is_right_choice": false
+    }],
+    "explanation": "Facebook's initial rapid growth was significantly attributed to organic user interest and excitement. People were eager for it to be available at their universities, and this natural pull of the product facilitated its expansion without the need for heavy advertising or aggressive marketing tactics."
+}, {
+    "name": "Marketing Strategies in Facebook's Early Days",
+    "question": "How much did Facebook spend on marketing to achieve its early rapid growth?",
+    "choices": [{
+        "choice": "$1 million",
+        "is_right_choice": false
+    }, {
+        "choice": "They did not spend any money on marketing",
+        "is_right_choice": true
+    }, {
+        "choice": "$10,000",
+        "is_right_choice": false
+    }, {
+        "choice": "$500,000",
+        "is_right_choice": false
+    }],
+    "explanation": "Facebook did not spend any money on marketing to achieve its early rapid growth. The growth was primarily fueled by the product's appeal and the organic interest of users, demonstrating the power of creating a product that meets users' needs and preferences."
+}, {
+    "name": "User Engagement on Early Facebook",
+    "question": "How long was the average user spending on Facebook per day when investors like Peter Thiel and Reed Hoffman got involved?",
+    "choices": [{
+        "choice": "30 minutes",
+        "is_right_choice": false
+    }, {
+        "choice": "1 hour",
+        "is_right_choice": false
+    }, {
+        "choice": "Two hours",
+        "is_right_choice": true
+    }, {
+        "choice": "Four hours",
+        "is_right_choice": false
+    }],
+    "explanation": "When investors like Peter Thiel and Reed Hoffman got involved with Facebook, the average user was spending about two hours a day on the site. This high level of user engagement highlighted the product's success and the strong interest and usage among its user base."
+}]

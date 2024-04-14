@@ -1,0 +1,86 @@
+[{
+    "name": "Monitoring Mental Health",
+    "question": "Why is it important to monitor each other’s well-being in a co-founder relationship?",
+    "choices": [{
+        "choice": "To ensure both co-founders are equally distributing workload",
+        "is_right_choice": false
+    }, {
+        "choice": "To spot signs of burnout or stress and support each other",
+        "is_right_choice": true
+    }, {
+        "choice": "To compete and motivate each other to work harder",
+        "is_right_choice": false
+    }, {
+        "choice": "To maintain a professional distance in the workplace",
+        "is_right_choice": false
+    }],
+    "explanation": "Monitoring each other's well-being is crucial to spot signs of burnout or stress, which allows co-founders to support each other and prevent potential negative impacts on their health and the business."
+}, {
+    "name": "Stress Responses",
+    "question": "Why is understanding each other’s stress responses important in a co-founder relationship?",
+    "choices": [{
+        "choice": "To take advantage of each other's weaknesses",
+        "is_right_choice": false
+    }, {
+        "choice": "To exploit stressful situations for personal gain",
+        "is_right_choice": false
+    }, {
+        "choice": "To use as leverage in arguments",
+        "is_right_choice": false
+    }, {
+        "choice": "To prevent cycles of miscommunication and support each other effectively",
+        "is_right_choice": true
+    }],
+    "explanation": "Understanding how each co-founder reacts under stress is key to preventing miscommunication and ensuring that both parties can support each other effectively in high-pressure situations."
+}, {
+    "name": "Problem-Solving Approaches",
+    "question": "How can understanding a co-founder’s approach to problem-solving improve communication?",
+    "choices": [{
+        "choice": "By allowing one co-founder to dominate the decision-making process",
+        "is_right_choice": false
+    }, {
+        "choice": "By addressing issues early on before they escalate",
+        "is_right_choice": true
+    }, {
+        "choice": "By ignoring small problems until they disappear",
+        "is_right_choice": false
+    }, {
+        "choice": "By creating a competitive environment for finding solutions",
+        "is_right_choice": false
+    }],
+    "explanation": "Understanding if a co-founder tends to speak up about small problems or waits until frustrations build up helps in addressing issues early, preventing them from escalating and affecting the relationship and business."
+}, {
+    "name": "Comfortable Environments for Discussion",
+    "question": "How can identifying comfortable environments for discussion benefit a co-founder relationship?",
+    "choices": [{
+        "choice": "It establishes a hierarchy between co-founders",
+        "is_right_choice": false
+    }, {
+        "choice": "It saves time by having discussions only during formal meetings",
+        "is_right_choice": false
+    }, {
+        "choice": "It makes discussions more efficient by limiting them to work settings",
+        "is_right_choice": false
+    }, {
+        "choice": "It enhances openness and comfort in voicing concerns",
+        "is_right_choice": true
+    }],
+    "explanation": "Finding out which settings are most conducive for open discussions, whether casual or structured, can significantly enhance how comfortably concerns are voiced and how open and effective communication is."
+}, {
+    "name": "Handling Criticism",
+    "question": "Why is it important for co-founders to handle criticism constructively?",
+    "choices": [{
+        "choice": "To focus on blaming each other for mistakes",
+        "is_right_choice": false
+    }, {
+        "choice": "To undermine each other's confidence",
+        "is_right_choice": false
+    }, {
+        "choice": "To enhance personal growth and improve the business",
+        "is_right_choice": true
+    }, {
+        "choice": "To establish one co-founder as superior to the other",
+        "is_right_choice": false
+    }],
+    "explanation": "Discussing mistakes without emotional baggage and not taking things personally are crucial for constructive feedback, which contributes to personal growth and business improvements."
+}]

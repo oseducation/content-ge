@@ -1,0 +1,69 @@
+[{
+    "name": "SAFE_Origin",
+    "question": "Who created the Simple Agreement for Equity (SAFE) and in what year?",
+    "choices": [{
+        "choice": "Techstars in 2012",
+        "is_right_choice": false
+    }, {
+        "choice": "Y Combinator in 2013",
+        "is_right_choice": true
+    }, {
+        "choice": "Sequoia Capital in 2014",
+        "is_right_choice": false
+    }, {
+        "choice": "Andreessen Horowitz in 2011",
+        "is_right_choice": false
+    }],
+    "explanation": "SAFE was created by Y Combinator in 2013 as an easy, understandable, and straightforward document designed to help startups raise funds efficiently."
+}, {
+    "name": "SAFE_Characteristics",
+    "question": "What makes the SAFE an attractive option for startups looking to raise funds?",
+    "choices": [{
+        "choice": "It offers a high interest rate to investors.",
+        "is_right_choice": false
+    }, {
+        "choice": "It requires lengthy negotiations.",
+        "is_right_choice": false
+    }, {
+        "choice": "It's easy to understand and inexpensive to use.",
+        "is_right_choice": true
+    }, {
+        "choice": "It automatically guarantees a return on investment.",
+        "is_right_choice": false
+    }],
+    "explanation": "SAFE is popular among startups due to its straightforward, easy-to-understand nature and because it is inexpensive to use, which does not require paying legal fees for drafting agreements."
+}, {
+    "name": "SAFE_Benefits",
+    "question": "How has SAFE changed the fundraising process for founders?",
+    "choices": [{
+        "choice": "It has made the process longer and more complicated.",
+        "is_right_choice": false
+    }, {
+        "choice": "It requires more legal oversight than traditional methods.",
+        "is_right_choice": false
+    }, {
+        "choice": "It allows for quick closure on investment deals, saving time and money.",
+        "is_right_choice": true
+    }, {
+        "choice": "It limits the amount of money a startup can raise.",
+        "is_right_choice": false
+    }],
+    "explanation": "SAFE has revolutionized fundraising for founders by enabling them to close investment deals quickly and inexpensively, without the need for prolonged negotiations or extensive legal oversight."
+}, {
+    "name": "SAFE_Accessibility",
+    "question": "Where can one find the SAFE document to use for their startup?",
+    "choices": [{
+        "choice": "On the Y Combinator website",
+        "is_right_choice": true
+    }, {
+        "choice": "In legal textbooks",
+        "is_right_choice": false
+    }, {
+        "choice": "By hiring a financial consultant",
+        "is_right_choice": false
+    }, {
+        "choice": "It's confidential and not publicly available",
+        "is_right_choice": false
+    }],
+    "explanation": "The SAFE document can be easily downloaded from the Y Combinator website, making it accessible for startups to use for fundraising."
+}]

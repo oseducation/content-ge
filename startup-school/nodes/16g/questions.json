@@ -1,0 +1,86 @@
+[{
+    "name": "Common Trap Identification",
+    "question": "Which task is an example of a 'low-leverage' task that might distract a startup from achieving product-market fit?",
+    "choices": [{
+        "choice": "Conducting extensive customer research",
+        "is_right_choice": false
+    }, {
+        "choice": "Spending too much time setting up legal stuff",
+        "is_right_choice": true
+    }, {
+        "choice": "Iterating on product features based on feedback",
+        "is_right_choice": false
+    }, {
+        "choice": "Focusing on scaling the business",
+        "is_right_choice": false
+    }],
+    "explanation": "A 'low-leverage' task, such as spending too much time on setting up legal stuff, might provide a sense of achievement but does little to contribute toward achieving product-market fit, which should be the ultimate goal of a startup."
+}, {
+    "name": "Illusion of Success",
+    "question": "What does the 'illusion of success' mental trap refer to in the context of startups?",
+    "choices": [{
+        "choice": "Believing that any growth, even if slow, equals product-market fit",
+        "is_right_choice": true
+    }, {
+        "choice": "Assuming that success is guaranteed because the idea is unique",
+        "is_right_choice": false
+    }, {
+        "choice": "Overestimating the value of early adopters",
+        "is_right_choice": false
+    }, {
+        "choice": "Misinterpreting feedback as more favorable than it is",
+        "is_right_choice": false
+    }],
+    "explanation": "The 'illusion of success' mental trap is believing that your product is doing well and finding product-market fit when in reality, the growth might be slow and not indicative of true success or fit in the market."
+}, {
+    "name": "Over-Protection",
+    "question": "What does the 'over-protection' trap involve?",
+    "choices": [{
+        "choice": "Being overly cautious about sharing your startup idea with others",
+        "is_right_choice": false
+    }, {
+        "choice": "Focusing too much on minor issues instead of pushing for new developments",
+        "is_right_choice": true
+    }, {
+        "choice": "Securing too many patents for your product",
+        "is_right_choice": false
+    }, {
+        "choice": "Insisting on a perfect product before launch",
+        "is_right_choice": false
+    }],
+    "explanation": "'Over-protection' is a trap where startups spend too much time fixing little issues rather than pushing forward with new, potentially riskier, but rewarding innovations."
+}, {
+    "name": "Paralysis by Perfectionism",
+    "question": "What is the key to overcoming 'paralysis by perfectionism or indecision'?",
+    "choices": [{
+        "choice": "Waiting for the perfect moment to make decisions",
+        "is_right_choice": false
+    }, {
+        "choice": "Making decisions promptly and learning from them",
+        "is_right_choice": true
+    }, {
+        "choice": "Consulting with industry experts for every decision",
+        "is_right_choice": false
+    }, {
+        "choice": "Focusing on minor decisions to ensure no mistakes",
+        "is_right_choice": false
+    }],
+    "explanation": "Overcoming 'paralysis by perfectionism or indecision' involves making decisions promptly, even if they may not always be right, and quickly learning and rectifying any mistakes to keep moving forward."
+}, {
+    "name": "Ignoring Big Problems",
+    "question": "What does 'ignoring the elephant in the room' mean for a startup?",
+    "choices": [{
+        "choice": "Focusing only on immediate, small tasks",
+        "is_right_choice": false
+    }, {
+        "choice": "Avoiding dealing with major issues that threaten the startup's existence",
+        "is_right_choice": true
+    }, {
+        "choice": "Overlooking the competition",
+        "is_right_choice": false
+    }, {
+        "choice": "Ignoring customer feedback",
+        "is_right_choice": false
+    }],
+    "explanation": "'Ignoring the elephant in the room' is a significant mistake where startups focus on insignificant problems while avoiding more considerable issues that pose existential threats, distracting them from securing the longer-term success of the business."
+}]

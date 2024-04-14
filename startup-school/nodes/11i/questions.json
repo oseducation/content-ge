@@ -1,0 +1,69 @@
+[{
+    "name": "Understanding Team Dynamics",
+    "question": "Why is it important to understand your own and your teammates' attachment styles?",
+    "choices": [{
+        "choice": "To predict how long the project will take",
+        "is_right_choice": false
+    }, {
+        "choice": "To understand each other's reactions and needs",
+        "is_right_choice": true
+    }, {
+        "choice": "To assign tasks more efficiently",
+        "is_right_choice": false
+    }, {
+        "choice": "To compete with other teams",
+        "is_right_choice": false
+    }],
+    "explanation": "Understanding your own and your teammates' attachment styles is crucial for recognizing how each member deals with people and reacts in various situations, which helps in understanding each other's reactions and needs."
+}, {
+    "name": "Setting Up a Process for Disagreements",
+    "question": "Why is it important to agree on a process for handling disagreements before they arise?",
+    "choices": [{
+        "choice": "It ensures disagreements will never happen",
+        "is_right_choice": false
+    }, {
+        "choice": "It allows for disagreements to be handled calmly",
+        "is_right_choice": true
+    }, {
+        "choice": "It eliminates the need for regular check-ins",
+        "is_right_choice": false
+    }, {
+        "choice": "It makes it easier to decide team roles",
+        "is_right_choice": false
+    }],
+    "explanation": "Agreeing on a process for handling disagreements in advance allows the team to approach conflicts calmly and constructively because this agreement is made when everyone is in a positive and rational state."
+}, {
+    "name": "Importance of Non-violent Communication",
+    "question": "What is the goal of non-violent communication within a team?",
+    "choices": [{
+        "choice": "To avoid any form of disagreement",
+        "is_right_choice": false
+    }, {
+        "choice": "To express oneself without making others defensive",
+        "is_right_choice": true
+    }, {
+        "choice": "To make the team more efficient in their tasks",
+        "is_right_choice": false
+    }, {
+        "choice": "To establish a team hierarchy",
+        "is_right_choice": false
+    }],
+    "explanation": "Non-violent communication aims to share thoughts and feedback in an honest, yet gentle way that does not provoke defensiveness in others, fostering a more positive and open dialogue within the team."
+}, {
+    "name": "Benefits of Regular Check-ins",
+    "question": "What is the main purpose of having regular check-ins with your team?",
+    "choices": [{
+        "choice": "To evaluate the team's performance",
+        "is_right_choice": false
+    }, {
+        "choice": "To address small issues before they become bigger",
+        "is_right_choice": true
+    }, {
+        "choice": "To plan the project's next steps",
+        "is_right_choice": false
+    }, {
+        "choice": "To discuss new project ideas",
+        "is_right_choice": false
+    }],
+    "explanation": "The main purpose of having regular check-ins is to address and resolve small issues promptly before they accumulate and evolve into more significant problems, maintaining healthy team dynamics."
+}]

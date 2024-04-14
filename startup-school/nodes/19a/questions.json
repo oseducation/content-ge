@@ -1,0 +1,52 @@
+[{
+    "name": "Paul Graham's Essays",
+    "question": "What topics are covered in Paul Graham's essays on fundraising?",
+    "choices": [{
+        "choice": "The importance of UI/UX in startups",
+        "is_right_choice": false
+    }, {
+        "choice": "Surviving the fundraising process",
+        "is_right_choice": true
+    }, {
+        "choice": "Best programming languages for startups",
+        "is_right_choice": false
+    }, {
+        "choice": "Marketing strategies for new products",
+        "is_right_choice": false
+    }],
+    "explanation": "Paul Graham's essays, as highlighted in the article, specifically address issues such as surviving the fundraising process, securing startup funding, persuading investors, and understanding investor herd dynamics."
+}, {
+    "name": "Jeff Ralston's Contribution",
+    "question": "What valuable resource did Jeff Ralston provide for startups looking to raise a seed round?",
+    "choices": [{
+        "choice": "An e-book on startup management",
+        "is_right_choice": false
+    }, {
+        "choice": "A series of tweets on investment strategies",
+        "is_right_choice": false
+    }, {
+        "choice": "A video presentation on seed fundraising",
+        "is_right_choice": true
+    }, {
+        "choice": "A podcast series on entrepreneurial challenges",
+        "is_right_choice": false
+    }],
+    "explanation": "Jeff Ralston provided a comprehensive guide on raising a seed round through a video presentation, offering a thorough walkthrough of the process from start to finish."
+}, {
+    "name": "Pitch Deck Guidance",
+    "question": "Which of the following resources is mentioned as a guide for creating an effective pitch deck?",
+    "choices": [{
+        "choice": "A step-by-step manual for financial modeling",
+        "is_right_choice": false
+    }, {
+        "choice": "An article on developing a minimalist website design",
+        "is_right_choice": false
+    }, {
+        "choice": "A guide on how to build your seed round pitch deck",
+        "is_right_choice": true
+    }, {
+        "choice": "Instructions for creating a viral marketing campaign",
+        "is_right_choice": false
+    }],
+    "explanation": "The article specifically mentions a guide on how to build your seed round pitch deck, aimed at helping startups create effective presentations for potential investors."
+}]

@@ -1,0 +1,52 @@
+[{
+    "name": "Marketplace Startups Dominance",
+    "question": "Why do marketplace startups often become the dominant players in their industry?",
+    "choices": [{
+        "choice": "Because they offer lower prices than traditional stores.",
+        "is_right_choice": false
+    }, {
+        "choice": "Due to network effects, where the value of the platform increases with each new user.",
+        "is_right_choice": true
+    }, {
+        "choice": "They have more physical locations than traditional businesses.",
+        "is_right_choice": false
+    }, {
+        "choice": "Marketplace startups spend more on advertising than their competitors.",
+        "is_right_choice": false
+    }],
+    "explanation": "Marketplace startups become dominant in their industry primarily due to network effects. This concept implies that the value of the platform increases with each additional user, both for those offering something and for those seeking something, thereby attracting an ever-growing user base."
+}, {
+    "name": "The Chicken and Egg Problem",
+    "question": "What is the 'chicken and egg problem' faced by marketplace startups?",
+    "choices": [{
+        "choice": "Deciding whether to focus on profit or growth first.",
+        "is_right_choice": false
+    }, {
+        "choice": "Balancing supply and demand in the early stages of the platform.",
+        "is_right_choice": true
+    }, {
+        "choice": "Determining the correct price point for services.",
+        "is_right_choice": false
+    }, {
+        "choice": "Choosing between a local or global launch strategy.",
+        "is_right_choice": false
+    }],
+    "explanation": "The 'chicken and egg problem' for marketplace startups refers to the challenge of simultaneously attracting and balancing both suppliers and consumers on the platform, which is crucial for the marketplace to function effectively from the onset."
+}, {
+    "name": "Value Share of Marketplace Startups",
+    "question": "What percentage of the overall value do marketplace startups hold among the top 100 companies?",
+    "choices": [{
+        "choice": "14%",
+        "is_right_choice": false
+    }, {
+        "choice": "30%",
+        "is_right_choice": true
+    }, {
+        "choice": "50%",
+        "is_right_choice": false
+    }, {
+        "choice": "25%",
+        "is_right_choice": false
+    }],
+    "explanation": "Despite only making up 14 of the top 100 companies, marketplace startups hold 30% of the overall value, indicating their significant impact and dominance in the marketplace."
+}]

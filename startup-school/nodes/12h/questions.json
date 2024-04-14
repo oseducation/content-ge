@@ -1,0 +1,52 @@
+[{
+    "name": "Determining Problem Value 1",
+    "question": "Why is it important to check if people are already spending money on solutions to the problem your product aims to solve?",
+    "choices": [{
+        "choice": "To ensure the problem doesn't already have too many solutions.",
+        "is_right_choice": false
+    }, {
+        "choice": "To confirm there's a market willingness to pay for such solutions, indicating potential profitability for your product.",
+        "is_right_choice": true
+    }, {
+        "choice": "To find potential investors for your product.",
+        "is_right_choice": false
+    }, {
+        "choice": "To identify potential partners for a joint venture.",
+        "is_right_choice": false
+    }],
+    "explanation": "Checking if people are already spending money on similar solutions helps confirm there is an existing demand and willingness to pay for a solution, indicating that your product could also be profitable if it addresses the problem effectively."
+}, {
+    "name": "Determining Problem Value 2",
+    "question": "What indicates that your solution might be valued when assessing if there is money to be made in solving a problem?",
+    "choices": [{
+        "choice": "Your product uses the latest technology.",
+        "is_right_choice": false
+    }, {
+        "choice": "People who currently solve the problem get paid well.",
+        "is_right_choice": true
+    }, {
+        "choice": "There are no competitors in the market.",
+        "is_right_choice": false
+    }, {
+        "choice": "The solution requires minimal marketing efforts.",
+        "is_right_choice": false
+    }],
+    "explanation": "If the people who currently solve the problem are paid well, it indicates there is valuable recognition and financial remuneration associated with solving that problem, suggesting your solution may also be valued if it effectively addresses the problem."
+}, {
+    "name": "Determining Problem Value 3",
+    "question": "Why is understanding if your product is easy to sell important in the startup world?",
+    "choices": [{
+        "choice": "Because it helps in price setting.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it ensures faster production.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it may impact the overall success and adaptation of your product in the market.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it's required for legal reasons.",
+        "is_right_choice": false
+    }],
+    "explanation": "Understanding if your product is easy to sell is crucial because it directly impacts the product's market adaptation and success. If your target audience is reluctant to change or try new solutions, it might be challenging to sell your product, affecting its overall success."
+}]

@@ -1,0 +1,52 @@
+[{
+    "name": "Fundraising_Myth_vs_Reality",
+    "question": "Which fundraising stage is commonly perceived as complicated, slow, and expensive based on media portrayal?",
+    "choices": [{
+        "choice": "Friends and Family round",
+        "is_right_choice": false
+    }, {
+        "choice": "Series A and growth rounds",
+        "is_right_choice": true
+    }, {
+        "choice": "Pre-seed funding",
+        "is_right_choice": false
+    }, {
+        "choice": "Crowdfunding",
+        "is_right_choice": false
+    }],
+    "explanation": "Series A and growth rounds are perceived as complicated, slow, and expensive due to their high visibility in tech news, involving large sums of money, taking months to close, and requiring significant legal fees."
+},{
+    "name": "Seed_Round_Characteristics",
+    "question": "What is true about initial seed funding rounds?",
+    "choices": [{
+        "choice": "They require extensive legal fees.",
+        "is_right_choice": false
+    }, {
+        "choice": "They are primarily covered by top-tier venture capitalists.",
+        "is_right_choice": false
+    }, {
+        "choice": "They can close in weeks and for an amount less glamorous than Series A rounds.",
+        "is_right_choice": true
+    }, {
+        "choice": "They are generally for raising funds over $10 million.",
+        "is_right_choice": false
+    }],
+    "explanation": "Initial seed funding rounds typically involve smaller sums, like $500,000 to a couple of million dollars, can close in weeks, and usually do not carry significant legal fees, making them less glamorous but more accessible."
+},{
+    "name": "Starting_with_Fundraising",
+    "question": "What should a budding entrepreneur understand about fundraising?",
+    "choices": [{
+        "choice": "Only high-value fundraisings like Series A are possible for startups.",
+        "is_right_choice": false
+    }, {
+        "choice": "Fundraising is only for tech companies mentioned in the news.",
+        "is_right_choice": false
+    }, {
+        "choice": "Raising a small amount from friends and family can be quick and straightforward.",
+        "is_right_choice": true
+    }, {
+        "choice": "Legal representation is required for all types of fundraising activities.",
+        "is_right_choice": false
+    }],
+    "explanation": "Budding entrepreneurs should understand that not all types of fundraising are complex and costly. Raising a small sum from friends and family for initial stages like pre-seed can be quick, simple, and usually doesn’t require a lawyer."
+}]

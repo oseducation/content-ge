@@ -1,0 +1,52 @@
+[{
+    "name": "The importance of conflict resolution",
+    "question": "Why is it important for startup co-founders to address conflicts early on?",
+    "choices": [{
+        "choice": "To ensure the team is always in agreement",
+        "is_right_choice": false
+    }, {
+        "choice": "To prevent the relationship from becoming irreparable",
+        "is_right_choice": true
+    }, {
+        "choice": "To make sure one co-founder always has the upper hand",
+        "is_right_choice": false
+    }, {
+        "choice": "Because conflict is harmful to the startup's image",
+        "is_right_choice": false
+    }],
+    "expenation": "Addressing conflicts early on is important to prevent the co-founder relationship from becoming irreparable. Avoiding conflicts can lead to a breakdown in communication, making it difficult to resolve issues and potentially resulting in the need to part ways."
+}, {
+    "name": "Consequences of avoiding conflict",
+    "question": "What are the potential consequences of prolonged avoidance of conflict between co-founders?",
+    "choices": [{
+        "choice": "Improved decision-making capabilities",
+        "is_right_choice": false
+    }, {
+        "choice": "Stronger co-founder relationship",
+        "is_right_choice": false
+    }, {
+        "choice": "Complicated stock vesting situations and legal issues",
+        "is_right_choice": true
+    }, {
+        "choice": "Increased profitability of the startup",
+        "is_right_choice": false
+    }],
+    "expenation": "Prolonged avoidance of conflict between co-founders can lead to complicated stock vesting situations and legal issues when the relationship eventually faces a breakup. It makes the situation messier and can harm the startup."
+}, {
+    "name": "Signs of a failing co-founder relationship",
+    "question": "Which of the following is a sign that a co-founder relationship might be beyond repair?",
+    "choices": [{
+        "choice": "Having real conversations every day",
+        "is_right_choice": false
+    }, {
+        "choice": "Disagreeing constructively on decisions",
+        "is_right_choice": false
+    }, {
+        "choice": "Avoiding real conversations for weeks or months",
+        "is_right_choice": true
+    }, {
+        "choice": "Resolving conflicts immediately as they arise",
+        "is_right_choice": false
+    }],
+    "expenation": "Avoiding real conversations for weeks or months is a sign that a co-founder relationship might be beyond repair. It indicates a breakdown in communication and an inability to resolve conflicts constructively."
+}]

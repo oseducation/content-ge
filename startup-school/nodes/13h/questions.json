@@ -1,0 +1,69 @@
+[{
+    "name": "Understanding MVP",
+    "question": "What does MVP stand for?",
+    "choices": [{
+        "choice": "Most Valuable Player",
+        "is_right_choice": false
+    }, {
+        "choice": "Minimum Viable Product",
+        "is_right_choice": true
+    }, {
+        "choice": "Maximum Value Proposition",
+        "is_right_choice": false
+    }, {
+        "choice": "Minimum Variable Process",
+        "is_right_choice": false
+    }],
+    "explanation": "MVP stands for Minimum Viable Product, which is essentially a version of a new product that allows a team to collect the maximum amount of validated learnings about customers with the least effort."
+}, {
+    "name": "Time Management for MVP Development",
+    "question": "What is the significance of time-boxing your spec when building an MVP?",
+    "choices": [{
+        "choice": "It ensures you have unlimited time to work on your product.",
+        "is_right_choice": false
+    }, {
+        "choice": "It allows for adding as many features as possible.",
+        "is_right_choice": false
+    }, {
+        "choice": "It helps in prioritizing features that can be built within a set timeframe.",
+        "is_right_choice": true
+    }, {
+        "choice": "It encourages extending the deadline to fit more features.",
+        "is_right_choice": false
+    }],
+    "explanation": "Time-boxing your spec means setting a strict time limit for the development phase and prioritizing only the features that can be built within this timeframe, making the development process more efficient."
+}, {
+    "name": "The Process of Spec Cutting",
+    "question": "Why might you need to cut your spec when building an MVP?",
+    "choices": [{
+        "choice": "Because all features are equally important.",
+        "is_right_choice": false
+    }, {
+        "choice": "To add more features than originally planned.",
+        "is_right_choice": false
+    }, {
+        "choice": "To make room for more extensive research and development.",
+        "is_right_choice": false
+    }, {
+        "choice": "If the initial plan was too ambitious to complete in time.",
+        "is_right_choice": true
+    }],
+    "explanation": "Cutting your spec may be necessary if you find that your initial plan was too ambitious and you can't possibly finish all planned features in time. It involves prioritizing and focusing on what's crucial for the MVP."
+}, {
+    "name": "Emotional Attachment to MVP",
+    "question": "Why should you not fall head over heels with your MVP?",
+    "choices": [{
+        "choice": "Because it's perfect and doesn’t require any changes.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it represents the final version of your product.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it's just the first step in the product development journey.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because users will not provide any feedback.",
+        "is_right_choice": false
+    }],
+    "explanation": "It's vital not to get too attached to the MVP because it's just the beginning of the product development journey. The MVP allows for gathering user feedback to refine and enhance future versions, not to be the final product iteration."
+}]

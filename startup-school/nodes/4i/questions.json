@@ -1,0 +1,52 @@
+[{
+    "name": "Startup Commitment",
+    "question": "What is an essential question to ask yourself when selecting a startup idea for long-term commitment?",
+    "choices": [{
+        "choice": "Can this idea make me rich quickly?",
+        "is_right_choice": false
+    }, {
+        "choice": "Is this something I want to work on for many years?",
+        "is_right_choice": true
+    }, {
+        "choice": "Is this idea completely unique and unheard of?",
+        "is_right_choice": false
+    }, {
+        "choice": "Will everyone love my startup idea?",
+        "is_right_choice": false
+    }],
+    "explanation": "The key question to consider when choosing a startup idea for a long-term commitment is whether it's something you're willing to work on for many years, acknowledging that passion for the idea might grow with its success."
+}, {
+    "name": "Passion for Startup Ideas",
+    "question": "How might your enthusiasm for a startup idea change over time according to the text?",
+    "choices": [{
+        "choice": "It disappears as the novelty wears off.",
+        "is_right_choice": false
+    }, {
+        "choice": "It remains constant from the very beginning.",
+        "is_right_choice": false
+    }, {
+        "choice": "It decreases as the business becomes more challenging.",
+        "is_right_choice": false
+    }, {
+        "choice": "It might grow as the business starts to succeed.",
+        "is_right_choice": true
+    }],
+    "explanation": "Your enthusiasm for a startup idea can grow over time, especially as the business begins to succeed, even if the area initially seems dull or unexciting."
+}, {
+    "name": "Nature of Successful Startups",
+    "question": "Which statement best describes the areas where many successful startups have been built?",
+    "choices": [{
+        "choice": "Innovative and high-tech industries only.",
+        "is_right_choice": false
+    }, {
+        "choice": "Exclusively in consumer electronics and social media.",
+        "is_right_choice": false
+    }, {
+        "choice": "Often in areas that might seem dull, like software for taxes or accounting.",
+        "is_right_choice": true
+    }, {
+        "choice": "In fast-moving, trend-based markets.",
+        "is_right_choice": false
+    }],
+    "explanation": "Many successful startups are built in areas that might initially seem dull or unexciting, such as software for taxes or accounting, not just in innovative or high-tech industries."
+}]

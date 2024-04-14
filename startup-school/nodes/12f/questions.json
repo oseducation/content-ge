@@ -1,0 +1,52 @@
+[{
+    "name": "Focus of User Interviews",
+    "question": "What is the main purpose of conducting interviews with users according to the text?",
+    "choices": [{
+        "choice": "To showcase the product's features",
+        "is_right_choice": false
+    }, {
+        "choice": "To understand the problems users face",
+        "is_right_choice": true
+    }, {
+        "choice": "To persuade users to like the product",
+        "is_right_choice": false
+    }, {
+        "choice": "To finalize the product design",
+        "is_right_choice": false
+    }],
+    "explanation": "The main purpose of conducting interviews with users, as mentioned in the text, is to understand the problems users face, rather than focusing on the product's features or persuading users about the product's benefits."
+}, {
+    "name": "User Problem Identification",
+    "question": "Why is it important to focus on problems faced by users during interviews?",
+    "choices": [{
+        "choice": "Because users are experts in finding solutions to their problems",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it allows the development of features users want",
+        "is_right_choice": false
+    }, {
+        "choice": "Because users are better at identifying problems than solutions",
+        "is_right_choice": true
+    }, {
+        "choice": "Because users usually demand too many features",
+        "is_right_choice": false
+    }],
+    "explanation": "Focusing on problems during interviews is crucial because, as the text suggests, users are generally good at spotting problems but may not be the best at coming up with effective solutions."
+}, {
+    "name": "Example Analysis",
+    "question": "What was a common reason users had for their requests in both the Gmail and Airbnb examples?",
+    "choices": [{
+        "choice": "They wanted more features for convenience",
+        "is_right_choice": false
+    }, {
+        "choice": "They sought to improve the product's functionality",
+        "is_right_choice": false
+    }, {
+        "choice": "They wanted to save time or felt a need for security",
+        "is_right_choice": true
+    }, {
+        "choice": "They were dissatisfied with the product design",
+        "is_right_choice": false
+    }],
+    "explanation": "In both Gmail and Airbnb examples, the underlying reasons for users' requests were to save time (Gmail wanting to see the inbox and email at once due to slow loading) and a need for security (Airbnb guests wanting to know their hosts), highlighting the importance of understanding the real problems users face."
+}]

@@ -1,0 +1,35 @@
+[{
+    "name": "Leadership Authenticity",
+    "question": "What is a key takeaway regarding leadership from Reed Hastings' experience?",
+    "choices": [{
+        "choice": "Mimicking successful leaders is the best strategy for leadership.",
+        "is_right_choice": false
+    }, {
+        "choice": "Embracing one's own unique style is crucial for leadership.",
+        "is_right_choice": true
+    }, {
+        "choice": "Only outgoing and sociable people can be great leaders.",
+        "is_right_choice": false
+    }, {
+        "choice": "Technical skills are more important than personal authenticity.",
+        "is_right_choice": false
+    }],
+    "explanation": "Reed Hastings' experience emphasizes the importance of being authentic. He tried to mimic Steve Jobs but realized that effective leadership comes from being true to oneself, not by imitating others."
+}, {
+    "name": "Leadership Diversity",
+    "question": "According to the text, what statement about leadership is true?",
+    "choices": [{
+        "choice": "All great leaders follow a standard model or style.",
+        "is_right_choice": false
+    }, {
+        "choice": "Only people with fiery temperaments can be great leaders.",
+        "is_right_choice": false
+    }, {
+        "choice": "Great leaders can have diverse personalities and styles.",
+        "is_right_choice": true
+    }, {
+        "choice": "Leadership effectiveness is solely dependent on being outgoing.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text illustrates that there isn't one single image or style that defines a good leader. Great leaders can come from a range of personalities and backgrounds, indicating that diversity in leadership styles is not only common but also positive."
+}]

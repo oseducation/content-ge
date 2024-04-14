@@ -1,0 +1,69 @@
+[{
+    "name": "Attachment Style Origins",
+    "question": "Who created the Attachment Theory that laid the groundwork for identifying different attachment styles?",
+    "choices": [{
+        "choice": "Cindy Hazan and Phillip Shaver",
+        "is_right_choice": false
+    }, {
+        "choice": "John Bowlby",
+        "is_right_choice": true
+    }, {
+        "choice": "Sigmund Freud",
+        "is_right_choice": false
+    }, {
+        "choice": "Carl Jung",
+        "is_right_choice": false
+    }],
+    "explanation": "John Bowlby created the Attachment Theory, which discusses different ways we connect with people we love. Cindy Hazan and Phillip Shaver used this theory to create a quiz that helps people understand their attachment styles."
+}, {
+    "name": "Understanding Attachment Styles",
+    "question": "Which attachment style is described as comfortable with closeness and trusting, finding it easy to rely on others?",
+    "choices": [{
+        "choice": "Anxious",
+        "is_right_choice": false
+    }, {
+        "choice": "Avoidant",
+        "is_right_choice": false
+    }, {
+        "choice": "Secure",
+        "is_right_choice": true
+    }, {
+        "choice": "Disorganized",
+        "is_right_choice": false
+    }],
+    "explanation": "The Secure attachment style is marked by a comfort with closeness and trust, where the individual finds it easy to rely on others and for others to rely on them. They do not worry excessively about being abandoned or someone getting too close."
+}, {
+    "name": "Tips for Avoidant Individuals",
+    "question": "What is a recommended action for someone with an avoidant attachment style to help improve their relationship?",
+    "choices": [{
+        "choice": "Actively seek out conflicts",
+        "is_right_choice": false
+    }, {
+        "choice": "Increase the distance to feel safer",
+        "is_right_choice": false
+    }, {
+        "choice": "Offer reassurance and share feelings of retreat",
+        "is_right_choice": true
+    }, {
+        "choice": "Rely solely on fleeting connections",
+        "is_right_choice": false
+    }],
+    "explanation": "For those with an avoidant attachment style, a key step towards improving relationships is to offer reassurance and to open up about their reasons for sometimes feeling the need to retreat. This helps in addressing issues of intimacy and connection."
+}, {
+    "name": "Anxious Attachment Style Strategies",
+    "question": "What is an effective strategy for individuals with an anxious attachment style seeking closeness?",
+    "choices": [{
+        "choice": "Demand more attention and reassurance",
+        "is_right_choice": false
+    }, {
+        "choice": "Assume silence is a sign of indifference",
+        "is_right_choice": false
+    }, {
+        "choice": "Ask for closeness in a gentler way",
+        "is_right_choice": true
+    }, {
+        "choice": "Avoid discussing feelings to prevent conflict",
+        "is_right_choice": false
+    }],
+    "explanation": "For individuals with an anxious attachment style, learning to ask for closeness in a gentler, less confrontational way can help in mitigating the push-pull dynamic that often exacerbates their anxieties in relationships."
+}]

@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding SAFEs",
+    "question": "What is the primary function of a SAFE in startup funding?",
+    "choices": [{
+        "choice": "To provide a long-term loan to startups",
+        "is_right_choice": false
+    }, {
+        "choice": "To allow investors to purchase shares at a later date",
+        "is_right_choice": true
+    }, {
+        "choice": "To offer immediate equity to investors",
+        "is_right_choice": false
+    }, {
+        "choice": "To act as a traditional funding round for startups",
+        "is_right_choice": false
+    }],
+    "expenation": "SAFEs, or Simple Agreements for Future Equity, allow investors to give money to a startup with the promise of receiving shares at a later date, rather than offering immediate equity or acting as a loan."
+}, {
+    "name": "Impact of SAFEs",
+    "question": "How did SAFEs benefit Asher Bio?",
+    "choices": [{
+        "choice": "By allowing it to bypass the need for a traditional funding round initially",
+        "is_right_choice": true
+    }, {
+        "choice": "By providing it with more than $150 million in initial funding",
+        "is_right_choice": false
+    }, {
+        "choice": "By offering it a loan without interest",
+        "is_right_choice": false
+    }, {
+        "choice": "By giving it immediate access to pharmaceutical investors",
+        "is_right_choice": false
+    }],
+    "expenation": "SAFEs benefited Asher Bio by enabling them to raise their first million dollars without the hassle of a traditional funding round, allowing for early progress that positioned them strongly for future investments."
+}, {
+    "name": "Asher Bio's Funding Journey",
+    "question": "What was significant about Asher Bio raising over $150 million in funding?",
+    "choices": [{
+        "choice": "It demonstrated the long-term viability of SAFEs",
+        "is_right_choice": false
+    }, {
+        "choice": "It marked the end of their need for further investment",
+        "is_right_choice": false
+    }, {
+        "choice": "It showed the effectiveness of starting with SAFEs for early funding",
+        "is_right_choice": true
+    }, {
+        "choice": "It proved that biotech startups require less initial investment",
+        "is_right_choice": false
+    }],
+    "expenation": "The significant aspect of Asher Bio raising over $150 million after initially using SAFEs for their first million highlights the effectiveness of SAFEs in providing a strong foundation for subsequent larger rounds of funding."
+}]

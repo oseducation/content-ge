@@ -1,0 +1,52 @@
+[{
+    "name": "Timing and Startup Success in the Web 2.0 Era",
+    "question": "Why was timing considered crucial for the success of consumer startups during the rise of Web 2.0?",
+    "choices": [{
+        "choice": "Because there were too many online services available, creating a highly competitive market.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because the technological and social environment was ripe for the introduction of new online services.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because most startups had the technological edge over their competitors.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because TV had become obsolete, leaving a void in entertainment.",
+        "is_right_choice": false
+    }],
+    "explanation": "The timing was crucial because a combination of widespread broadband internet, personal computer ownership, and a social environment looking for new forms of entertainment made it the perfect moment to launch new online services. This unique set of conditions made the Web 2.0 era ripe for the success of startups that could leverage these technologies and social phenomena."
+}, {
+    "name": "Competition Faced by Early Facebook",
+    "question": "Which of the following was considered Facebook's real competition at the time of its launch?",
+    "choices": [{
+        "choice": "Other social networks like Myspace",
+        "is_right_choice": false
+    }, {
+        "choice": "Traditional forms of entertainment like television",
+        "is_right_choice": true
+    }, {
+        "choice": "Video game consoles",
+        "is_right_choice": false
+    }, {
+        "choice": "Print media such as newspapers and magazines",
+        "is_right_choice": false
+    }],
+    "explanation": "At the time of its launch, Facebook wasn't primarily competing against other websites or social networks; its real competition was traditional forms of entertainment, particularly television. This context provided a unique advantage, as it offered a new and engaging way for people, especially college students, to spend their time online."
+}, {
+    "name": "Impact of Broadband in Colleges",
+    "question": "How did broadband internet in colleges contribute to the success of Web 2.0 startups?",
+    "choices": [{
+        "choice": "It allowed for faster development of mobile apps.",
+        "is_right_choice": false
+    }, {
+        "choice": "It provided a high-speed infrastructure for web-based services to thrive.",
+        "is_right_choice": true
+    }, {
+        "choice": "It decreased the overall cost of accessing the internet.",
+        "is_right_choice": false
+    }, {
+        "choice": "It increased the competition among startups.",
+        "is_right_choice": false
+    }],
+    "explanation": "Broadband internet in colleges played a crucial role in providing the necessary high-speed infrastructure that enabled web-based services to thrive. This was especially true for startups in the Web 2.0 era, which often relied on fast, reliable internet connectivity to deliver rich, interactive experiences to users."
+}]

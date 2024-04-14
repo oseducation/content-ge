@@ -1,0 +1,69 @@
+[{
+    "name": "Repeated Business",
+    "question": "What does 'repeated business' signify for a startup?",
+    "choices": [{
+        "choice": "Having a one-time big sale",
+        "is_right_choice": false
+    }, {
+        "choice": "Customers returning and spending more money",
+        "is_right_choice": true
+    }, {
+        "choice": "Expanding business locations frequently",
+        "is_right_choice": false
+    }, {
+        "choice": "Increasing product prices over time",
+        "is_right_choice": false
+    }],
+    "explanation": "Repeated business means a startup is successful in making customers come back to spend more, indicating reliable income and customer satisfaction."
+},{
+    "name": "Customer Ties",
+    "question": "Why are strong customer ties important for startups?",
+    "choices": [{
+        "choice": "To have more followers on social media",
+        "is_right_choice": false
+    }, {
+        "choice": "To increase company's spending",
+        "is_right_choice": false
+    }, {
+        "choice": "To ensure customers choose them over competitors",
+        "is_right_choice": true
+    }, {
+        "choice": "Only for marketing purposes",
+        "is_right_choice": false
+    }],
+    "explanation": "Strong customer ties are crucial for retaining customers and ensuring they prefer the company's products or services over competitors, highlighting their loyalty and satisfaction."
+},{
+    "name": "Lean on Software",
+    "question": "What advantage does leaning on software provide startups?",
+    "choices": [{
+        "choice": "Requires more office space",
+        "is_right_choice": false
+    }, {
+        "choice": "Increases the need for physical stores",
+        "is_right_choice": false
+    }, {
+        "choice": "Allows rapid growth without many new hires",
+        "is_right_choice": true
+    }, {
+        "choice": "Makes it harder to manage the business",
+        "is_right_choice": false
+    }],
+    "explanation": "Using technology or software helps startups grow quickly without the proportional increase in workforce, making scalability more efficient and cost-effective."
+},{
+    "name": "Business Model",
+    "question": "Why do successful startups utilize proven and familiar business models?",
+    "choices": [{
+        "choice": "Because they lack creativity",
+        "is_right_choice": false
+    }, {
+        "choice": "To follow regulations strictly",
+        "is_right_choice": false
+    }, {
+        "choice": "Customers trust and understand them",
+        "is_right_choice": true
+    }, {
+        "choice": "To make their work easier",
+        "is_right_choice": false
+    }],
+    "explanation": "Choosing a proven and familiar business model helps startups gain customer trust and acceptance, as customers are more likely to support what they already understand and deem reliable."
+}]

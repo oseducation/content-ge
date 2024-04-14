@@ -1,0 +1,69 @@
+[{
+    "name": "Types of Startup Launches",
+    "question": "What is the main reason for startups to launch continuously?",
+    "choices": [{
+        "choice": "To gain immediate profitability",
+        "is_right_choice": false
+    }, {
+        "choice": "To learn and adapt based on feedback",
+        "is_right_choice": true
+    }, {
+        "choice": "To satisfy investor demands",
+        "is_right_choice": false
+    }, {
+        "choice": "To avoid competition",
+        "is_right_choice": false
+    }],
+    "explanation": "Continuous launching allows startups to learn from real user feedback, see what works, what doesn't, and adapt accordingly. It's not primarily about immediate profits, investor demands, or avoiding competition."
+}, {
+    "name": "Types of Startup Launches",
+    "question": "What was unique about the 'Lara' company's silent launch?",
+    "choices": [{
+        "choice": "They launched with a full-featured product",
+        "is_right_choice": false
+    }, {
+        "choice": "They obtained a patent",
+        "is_right_choice": false
+    }, {
+        "choice": "They launched with just a domain name and a sign-up option for their waitlist",
+        "is_right_choice": true
+    }, {
+        "choice": "They had a large marketing campaign",
+        "is_right_choice": false
+    }],
+    "explanation": "The 'Lara' company's silent launch was unique in its simplicity, launching with just a domain name, a brief description, and a sign-up option for their waitlist, demonstrating that a silent launch does not require extensive resources."
+}, {
+    "name": "Types of Startup Launches",
+    "question": "Why should the 'Friends and Family Launch' phase be kept short?",
+    "choices": [{
+        "choice": "To reduce costs",
+        "is_right_choice": false
+    }, {
+        "choice": "To immediately start making profits",
+        "is_right_choice": false
+    }, {
+        "choice": "Because they may not be the ideal users",
+        "is_right_choice": true
+    }, {
+        "choice": "To avoid negative feedback",
+        "is_right_choice": false
+    }],
+    "explanation": "The 'Friends and Family Launch' phase should be short because friends and family may not represent the ideal users of the product, and the startup needs to quickly move on to getting feedback from real, potential users."
+}, {
+    "name": "Types of Startup Launches",
+    "question": "What is the primary caution against relying too heavily on press releases for growth?",
+    "choices": [{
+        "choice": "They are too expensive",
+        "is_right_choice": false
+    }, {
+        "choice": "They may not lead to sustained growth",
+        "is_right_choice": true
+    }, {
+        "choice": "Legal restrictions",
+        "is_right_choice": false
+    }, {
+        "choice": "Limited reach",
+        "is_right_choice": false
+    }],
+    "explanation": "The caution against relying too heavily on press releases is that while they may provide initial exposure to early users and investors, they are unlikely to lead to sustained business growth."
+}]

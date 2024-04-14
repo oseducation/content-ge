@@ -1,0 +1,52 @@
+[{
+    "name": "Scalability Definition",
+    "question": "What does scalability mean in the context of startups?",
+    "choices": [{
+        "choice": "Expanding the team as quickly as possible.",
+        "is_right_choice": false
+    }, {
+        "choice": "Increasing sales and reach without substantially increasing resources.",
+        "is_right_choice": true
+    }, {
+        "choice": "Focusing solely on software development.",
+        "is_right_choice": false
+    }, {
+        "choice": "Reducing the costs of resources.",
+        "is_right_choice": false
+    }],
+    "explanation": "Scalability in the startup context means the ability to increase sales and reach more customers without a proportional increase in resources required."
+}, {
+    "name": "Software Startup Scalability",
+    "question": "Why are software startups considered to be more scalable?",
+    "choices": [{
+        "choice": "Because they require large offices.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because they can reach many people without much additional work.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because they need a lot of skilled workers to grow.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because software development is inexpensive.",
+        "is_right_choice": false
+    }],
+    "explanation": "Software startups are more scalable because once a great program is developed, it can be distributed to a large number of people without significantly increasing work or resources."
+}, {
+    "name": "Challenge in Scaling Service Businesses",
+    "question": "What major challenge do service startups face when scaling?",
+    "choices": [{
+        "choice": "They do not require skilled workers.",
+        "is_right_choice": false
+    }, {
+        "choice": "They need to constantly reduce prices to stay competitive.",
+        "is_right_choice": false
+    }, {
+        "choice": "They must hire more skilled people to serve more customers, which is costly.",
+        "is_right_choice": true
+    }, {
+        "choice": "They solely rely on software for growth.",
+        "is_right_choice": false
+    }],
+    "explanation": "Service startups face the challenge of needing to hire more skilled workers to serve an increasing number of customers, which can be expensive and slow the rate of growth."
+}]

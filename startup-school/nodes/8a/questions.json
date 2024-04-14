@@ -1,0 +1,69 @@
+[{
+    "name": "benefits_of_cofounder",
+    "question": "What is one of the primary benefits of having a co-founder for a startup?",
+    "choices": [{
+        "choice": "Decreasing overall business costs",
+        "is_right_choice": false
+    }, {
+        "choice": "Increasing productivity",
+        "is_right_choice": true
+    }, {
+        "choice": "Reducing the need for external funding",
+        "is_right_choice": false
+    }, {
+        "choice": "Eliminating legal complexities",
+        "is_right_choice": false
+    }],
+    "explanation": "Having a co-founder increases productivity because with more hands on deck, tasks can be completed faster, and more can be accomplished in less time."
+}, {
+    "name": "role_of_cofounder",
+    "question": "Why is having a co-founder crucial in the startup's decision-making process?",
+    "choices": [{
+        "choice": "They take over all decision-making responsibilities.",
+        "is_right_choice": false
+    }, {
+        "choice": "They provide a single perspective on all matters.",
+        "is_right_choice": false
+    }, {
+        "choice": "They contribute to brainstorming and help avoid bad ideas.",
+        "is_right_choice": true
+    }, {
+        "choice": "They solely focus on financial decisions.",
+        "is_right_choice": false
+    }],
+    "explanation": "A co-founder plays a crucial role in brainstorming and decision making by offering alternate perspectives, helping to refine ideas, and steering clear of potential pitfalls."
+}, {
+    "name": "success_rate",
+    "question": "According to Y Combinator's observation, how does having a co-founder affect a startup's success rate?",
+    "choices": [{
+        "choice": "It has no significant impact on a startup's success.",
+        "is_right_choice": false
+    }, {
+        "choice": "It slightly decreases the chances of success.",
+        "is_right_choice": false
+    }, {
+        "choice": "It greatly increases the chances of success.",
+        "is_right_choice": true
+    }, {
+        "choice": "It guarantees success in the startup world.",
+        "is_right_choice": false
+    }],
+    "explanation": "According to Y Combinator, having a co-founder greatly increases a startup's chances of success. This is evidenced by the fact that of their top 100 companies, only four were started by solo founders."
+}, {
+    "name": "emotional_support",
+    "question": "How does a co-founder contribute during the emotional highs and lows of a startup journey?",
+    "choices": [{
+        "choice": "By providing financial advice only",
+        "is_right_choice": false
+    }, {
+        "choice": "By being indifferent to emotional changes",
+        "is_right_choice": false
+    }, {
+        "choice": "By offering moral support and empathy",
+        "is_right_choice": true
+    }, {
+        "choice": "By focusing on competing with other startups",
+        "is_right_choice": false
+    }],
+    "explanation": "A co-founder provides moral support, empathy, and balance during both the high and low periods of a startup journey, which is crucial for maintaining motivation and resilience."
+}]

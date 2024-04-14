@@ -1,0 +1,69 @@
+[{
+    "name": "Brex_origin",
+    "question": "What was Brex's original idea before they pivoted?",
+    "choices": [{
+        "choice": "A social network for professionals",
+        "is_right_choice": false
+    }, {
+        "choice": "A new VR hardware headset for work",
+        "is_right_choice": true
+    }, {
+        "choice": "An online payment system",
+        "is_right_choice": false
+    }, {
+        "choice": "A credit card for startups",
+        "is_right_choice": false
+    }],
+    "explanation": "Brex originally started with an idea for a new VR hardware headset for work. This idea was later pivoted to a credit card for startups, which led to their success."
+}, {
+    "name": "founder_market_fit",
+    "question": "What was the founder/market fit score for Brex's original VR headset idea?",
+    "choices": [{
+        "choice": "10 out of 10",
+        "is_right_choice": false
+    }, {
+        "choice": "1 out of 10",
+        "is_right_choice": true
+    }, {
+        "choice": "5 out of 10",
+        "is_right_choice": false
+    }, {
+        "choice": "8 out of 10",
+        "is_right_choice": false
+    }],
+    "explanation": "The founder/market fit for Brex's original VR headset idea was very low at 1 out of 10, indicating a poor alignment between the founders' expertise and the market they initially chose."
+}, {
+    "name": "pivot_success_indicators",
+    "question": "What made Brex's pivot to a credit card for startups a success?",
+    "choices": [{
+        "choice": "Prior experience and connections in FinTech",
+        "is_right_choice": true
+    }, {
+        "choice": "Experience in hardware and optics",
+        "is_right_choice": false
+    }, {
+        "choice": "Interest from the VR industry",
+        "is_right_choice": false
+    }, {
+        "choice": "A large initial investment",
+        "is_right_choice": false
+    }],
+    "explanation": "The success of Brex's pivot to a credit card for startups was significantly influenced by the founders' prior experience and connections in the FinTech industry, aligning their expertise with the market."
+}, {
+    "name": "brex_pivot_timing",
+    "question": "During which program did Brex decide to pivot their business idea?",
+    "choices": [{
+        "choice": "Before joining YC",
+        "is_right_choice": false
+    }, {
+        "choice": "After leaving YC",
+        "is_right_choice": false
+    }, {
+        "choice": "During the YC Winter '17 program",
+        "is_right_choice": true
+    }, {
+        "choice": "They did not pivot",
+        "is_right_choice": false
+    }],
+    "explanation": "Brex decided to pivot their business idea during the Y Combinator (YC) Winter '17 program, where they shifted from a VR headset to a credit card for startups."
+}]

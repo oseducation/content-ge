@@ -1,0 +1,35 @@
+[{
+    "name": "Co-Founder Agreements",
+    "question": "Why is it important to document co-founder agreements when starting a business?",
+    "choices": [{
+        "choice": "To make future fundraising easier",
+        "is_right_choice": false
+    }, {
+        "choice": "To avoid misunderstandings and make handling future issues easier",
+        "is_right_choice": true
+    }, {
+        "choice": "Documentation is a legal requirement in all countries",
+        "is_right_choice": false
+    }, {
+        "choice": "To establish a company's credit rating",
+        "is_right_choice": false
+    }],
+    "explanation": "Documenting co-founder agreements is crucial because it helps avoid misunderstandings and simplifies the process of handling any future issues that might arise, by having a clear reference of what was agreed upon initially."
+}, {
+    "name": "Founders Vesting",
+    "question": "What does founders vesting refer to?",
+    "choices": [{
+        "choice": "The process of obtaining venture capital funding",
+        "is_right_choice": false
+    }, {
+        "choice": "Rules about how ownership might change over time",
+        "is_right_choice": true
+    }, {
+        "choice": "The initial distribution of shares among founders",
+        "is_right_choice": false
+    }, {
+        "choice": "Legal protocols for removing a co-founder",
+        "is_right_choice": false
+    }],
+    "explanation": "Founders vesting refers to the rules about how ownership might change over time, ensuring that the commitment and contribution of each co-founder are aligned with the equity they receive."
+}]

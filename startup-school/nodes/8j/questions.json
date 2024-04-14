@@ -1,0 +1,69 @@
+[{
+    "name": "Importance of Trust",
+    "question": "Why is trust particularly crucial in a co-founder partnership?",
+    "choices": [{
+        "choice": "It ensures a smooth workflow",
+        "is_right_choice": false
+    }, {
+        "choice": "It's the foundation of a strong relationship",
+        "is_right_choice": true
+    }, {
+        "choice": "It guarantees business success",
+        "is_right_choice": false
+    }, {
+        "choice": "It eases financial management",
+        "is_right_choice": false
+    }],
+    "expenation": "Trust is crucial in a co-founder partnership because it serves as the foundation of the relationship, affecting everything from decision-making to the resolution of conflicts. A strong trust foundation is essential for a healthy and effective co-founder relationship."
+}, {
+    "name": "Trust Building Tips",
+    "question": "Which of the following is NOT a recommended way to build and maintain trust in a co-founder relationship?",
+    "choices": [{
+        "choice": "Micromanaging each other's work",
+        "is_right_choice": true
+    }, {
+        "choice": "Trusting by default",
+        "is_right_choice": false
+    }, {
+        "choice": "Following through on commitments",
+        "is_right_choice": false
+    }, {
+        "choice": "Creating space for mistakes",
+        "is_right_choice": false
+    }],
+    "expenation": "Micromanaging each other's work is not a recommended way to build and maintain trust in a co-founder relationship. It can lead to feelings of being overly controlled and undermines trust. Instead, trust by default, follow through on commitments, and create space for mistakes are suggested approaches."
+}, {
+    "name": "Micromanagement Consequences",
+    "question": "What was the consequence of the CEO's micromanagement in the referenced YC batch story?",
+    "choices": [{
+        "choice": "The partnership became more productive",
+        "is_right_choice": false
+    }, {
+        "choice": "It led to the development of new business strategies",
+        "is_right_choice": false
+    }, {
+        "choice": "It caused the partnership to end abruptly",
+        "is_right_choice": true
+    }, {
+        "choice": "It resulted in successful funding rounds",
+        "is_right_choice": false
+    }],
+    "expenation": "The consequence of the CEO's micromanagement in the referenced YC batch story was an abrupt end to the partnership. This illustrates how a lack of trust, demonstrated through micromanagement, can negatively impact co-founder relationships, leading to serious disagreements and even breakups."
+}, {
+    "name": "Trust vs. Capabilities Belief",
+    "question": "According to the text, what does trust in a co-founder relationship encompass besides believing in each other's capabilities?",
+    "choices": [{
+        "choice": "Financial investment only",
+        "is_right_choice": false
+    }, {
+        "choice": "Personal liking only",
+        "is_right_choice": false
+    }, {
+        "choice": "Creating an environment safe for risks and mistakes",
+        "is_right_choice": true
+    }, {
+        "choice": "Sharing the same hobbies",
+        "is_right_choice": false
+    }],
+    "expenation": "Besides believing in each other's capabilities, trust in a co-founder relationship encompasses creating an environment where both co-founders feel safe to take risks, make mistakes, and grow together. This aspect of trust is crucial for fostering a collaborative and innovative business atmosphere."
+}]

@@ -1,0 +1,52 @@
+[{
+    "name": "Consumer Focus Reasons",
+    "question": "Why do many founders gravitate towards consumer-focused startup ideas?",
+    "choices": [{
+        "choice": "They believe enterprise startups are easier to scale.",
+        "is_right_choice": false
+    }, {
+        "choice": "They are influenced by personal experiences and popular success stories.",
+        "is_right_choice": true
+    }, {
+        "choice": "There is less competition in consumer markets.",
+        "is_right_choice": false
+    }, {
+        "choice": "Consumer startups require less initial investment.",
+        "is_right_choice": false
+    }],
+    "explanation": "Founders are often drawn to consumer-focused startup ideas due to their own experiences as consumers and the influence of widely celebrated success stories in the consumer space, like those of Steve Jobs and Mark Zuckerberg."
+}, {
+    "name": "Tar Pits Analogy",
+    "question": "What does the 'tar pits' analogy imply about consumer-focused startup ideas?",
+    "choices": [{
+        "choice": "They require less initial effort to start.",
+        "is_right_choice": false
+    }, {
+        "choice": "They are straightforward and easy to succeed in.",
+        "is_right_choice": false
+    }, {
+        "choice": "They can be traps that are difficult to escape.",
+        "is_right_choice": true
+    }, {
+        "choice": "They are more profitable than other types of startups.",
+        "is_right_choice": false
+    }],
+    "explanation": "The 'tar pits' analogy suggests that consumer-focused startup ideas often trap founders in difficult situations that are hard to escape, implying the complexity and challenges in succeeding in the consumer market."
+}, {
+    "name": "Enterprise Startups Spotlight",
+    "question": "Why do companies like Cisco or Oracle rarely get mentioned in casual conversations about cool startups?",
+    "choices": [{
+        "choice": "Their products are too complex to understand.",
+        "is_right_choice": false
+    }, {
+        "choice": "They do not create consumer products.",
+        "is_right_choice": true
+    }, {
+        "choice": "They have not been successful.",
+        "is_right_choice": false
+    }, {
+        "choice": "These companies are too new to be recognized.",
+        "is_right_choice": false
+    }],
+    "explanation": "Companies like Cisco and Oracle rarely feature in casual conversations about cool startups because they don’t create consumer products; they’re focused on enterprise solutions, which are less visible to the general public compared to consumer-focused products."
+}]

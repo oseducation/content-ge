@@ -1,0 +1,35 @@
+[{
+    "name": "Nuvocargo's Inspiration for Startup Idea",
+    "question": "What was the primary strategy Deepak used to come up with the idea for Nuvocargo?",
+    "choices": [{
+        "choice": "He invented a completely new product that no one had ever thought of.",
+        "is_right_choice": false
+    }, {
+        "choice": "He adapted an existing successful business model to a new market.",
+        "is_right_choice": true
+    }, {
+        "choice": "He expanded an existing company's operations into his own niche.",
+        "is_right_choice": false
+    }, {
+        "choice": "He focused solely on technological innovation without considering market demand.",
+        "is_right_choice": false
+    }],
+    "explanation": "Deepak's primary strategy for coming up with the idea for Nuvocargo was to adapt an existing successful business model (similar to Flexport's) to a new market, specifically Latin America, rather than inventing a completely new product or focusing only on technological innovation without market demand."
+}, {
+    "name": "Factors for Choosing Startup Ideas",
+    "question": "Which of the following factors did Deepak NOT consider when choosing the concept for Nuvocargo?",
+    "choices": [{
+        "choice": "The size of the target market.",
+        "is_right_choice": false
+    }, {
+        "choice": "The availability of technological resources.",
+        "is_right_choice": true
+    }, {
+        "choice": "Existing similar successful companies.",
+        "is_right_choice": false
+    }, {
+        "choice": "His own capability to manage the business.",
+        "is_right_choice": false
+    }],
+    "explanation": "When choosing the concept for Nuvocargo, Deepak considered the size of the target market, existing similar successful companies, and his own capability to manage the business. The availability of technological resources was not mentioned as a factor in his decision-making process."
+}]

@@ -1,0 +1,35 @@
+[{
+    "name": "Identifying priority tasks for early-stage startups",
+    "question": "What should be the top priority for early-stage startups according to the text?",
+    "choices": [{
+        "choice": "Attending as many conferences as possible",
+        "is_right_choice": false
+    }, {
+        "choice": "Chatting with users to understand their needs",
+        "is_right_choice": true
+    }, {
+        "choice": "Developing an Android app",
+        "is_right_choice": false
+    }, {
+        "choice": "Securing funding through casual chats",
+        "is_right_choice": false
+    }],
+    "explanation": "The text emphasizes that the top priority for early-stage startups should be chatting with their users to better understand their wants and needs. This direct feedback helps in making necessary improvements to their product or service, which is crucial for their growth."
+}, {
+    "name": "Understanding 'fake progress' in startups",
+    "question": "Which of the following is considered 'fake progress' for early-stage startups?",
+    "choices": [{
+        "choice": "Gathering user feedback",
+        "is_right_choice": false
+    }, {
+        "choice": "Focusing heavily on funding conversations",
+        "is_right_choice": true
+    }, {
+        "choice": "Improving the product based on user feedback",
+        "is_right_choice": false
+    }, {
+        "choice": "Responding to market needs",
+        "is_right_choice": false
+    }],
+    "explanation": "The text describes 'fake progress' as tasks that may feel rewarding but don't actually contribute to fitting the product better to the market needs. Focusing too heavily on funding conversations is highlighted as a form of 'fake progress' that can distract from more impactful activities like engaging with users."
+}]

@@ -1,0 +1,86 @@
+[{
+    "name": "Coinbase Origin",
+    "question": "What was the primary challenge in buying Bitcoin before the advent of Coinbase?",
+    "choices": [{
+        "choice": "High transaction fees",
+        "is_right_choice": false
+    }, {
+        "choice": "The process was convoluted and seemed risky",
+        "is_right_choice": true
+    }, {
+        "choice": "Lack of interest in Bitcoin",
+        "is_right_choice": false
+    }, {
+        "choice": "Bitcoin was illegal in many countries",
+        "is_right_choice": false
+    }],
+    "expenation": "Before Coinbase made its mark, purchasing Bitcoin was a difficult task involving convoluted processes, such as sending money orders to foreign countries, which appeared risky and discouraged many from investing in Bitcoin."
+}, {
+    "name": "Mt. Gox History",
+    "question": "What was Mt. Gox before becoming a Bitcoin exchange?",
+    "choices": [{
+        "choice": "A gaming platform",
+        "is_right_choice": false
+    }, {
+        "choice": "An online bookstore",
+        "is_right_choice": false
+    }, {
+        "choice": "A platform for trading Magic: The Gathering cards",
+        "is_right_choice": true
+    }, {
+        "choice": "A stock trading platform",
+        "is_right_choice": false
+    }],
+    "expenation": "Mt. Gox, before pivoting to become a Bitcoin exchange, initially started as a platform for trading Magic: The Gathering cards, showcasing its humble and unrelated beginnings."
+}, {
+    "name": "Brian Armstrong's Vision",
+    "question": "What was Brian Armstrong's vision for Coinbase?",
+    "choices": [{
+        "choice": "Creating a new cryptocurrency",
+        "is_right_choice": false
+    }, {
+        "choice": "Focusing on P2P transfers",
+        "is_right_choice": false
+    }, {
+        "choice": "Making Bitcoin purchases simple and secure",
+        "is_right_choice": true
+    }, {
+        "choice": "Developing a complex trading platform",
+        "is_right_choice": false
+    }],
+    "expenation": "Brian Armstrong saw a significant gap in the market for a secure and straightforward platform to buy Bitcoin, leading to the creation of Coinbase with the vision to remove the complexities of the purchasing process."
+}, {
+    "name": "Coinbase's Initial Simplicity",
+    "question": "What was a key feature of Coinbase when it first started?",
+    "choices": [{
+        "choice": "It offered complex trading options",
+        "is_right_choice": false
+    }, {
+        "choice": "It included social networking features",
+        "is_right_choice": false
+    }, {
+        "choice": "Its platform was strikingly simple",
+        "is_right_choice": true
+    }, {
+        "choice": "It focused exclusively on Bitcoin mining",
+        "is_right_choice": false
+    }],
+    "expenation": "The early success of Coinbase can be attributed to its straightforward and user-friendly platform, where users could easily log in, decide how much Bitcoin they wanted, and purchase it without navigating through complex features."
+}, {
+    "name": "Investor Skepticism",
+    "question": "What was one of the major challenges Brian Armstrong faced when starting Coinbase?",
+    "choices": [{
+        "choice": "Technical difficulties in website development",
+        "is_right_choice": false
+    }, {
+        "choice": "Lack of personal interest in Bitcoin",
+        "is_right_choice": false
+    }, {
+        "choice": "Raising funds due to investor skepticism",
+        "is_right_choice": true
+    }, {
+        "choice": "Finding a co-founder",
+        "is_right_choice": false
+    }],
+    "expenation": "Despite the potential of Coinbase, Brian Armstrong encountered significant challenges in raising funds, mainly due to investor skepticism regarding Bitcoin and the viability of Coinbase as a business model."
+}]

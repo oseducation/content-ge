@@ -1,0 +1,35 @@
+[{
+    "name": "Competition Perception",
+    "question": "Why is having competition often considered a positive indicator for a startup idea?",
+    "choices": [{
+        "choice": "It means the startup will have a monopoly.",
+        "is_right_choice": false
+    }, {
+        "choice": "It validates the market demand and interest in the solution.",
+        "is_right_choice": true
+    }, {
+        "choice": "It ensures the startup will face no challenges.",
+        "is_right_choice": false
+    }, {
+        "choice": "It guarantees the startup's success.",
+        "is_right_choice": false
+    }],
+    "expenation": "The presence of competition is seen as a positive because it indicates that there is a market demand for the solution or product the startup plans to offer. It signifies that there are customers interested in what the startup is proposing, which is a crucial validation step for any new business idea."
+}, {
+    "name": "Differentiation Strategy",
+    "question": "When entering a market with well-established competitors, what is crucial for a new startup?",
+    "choices": [{
+        "choice": "Copying competitor strategies exactly",
+        "is_right_choice": false
+    }, {
+        "choice": "Having a larger marketing budget than competitors",
+        "is_right_choice": false
+    }, {
+        "choice": "Offering lower prices for the same services",
+        "is_right_choice": false
+    }, {
+        "choice": "Having a unique insight or approach",
+        "is_right_choice": true
+    }],
+    "expenation": "For a startup entering a market with established competitors, it's essential to have a unique insight or approach that differentiates it from its rivals. This can be through innovative technology, a different business model, or a novel way of servicing customer needs that competitors have not explored. This differentiation provides the startup with a competitive advantage."
+}]

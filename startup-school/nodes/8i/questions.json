@@ -1,0 +1,69 @@
+[{
+    "name": "work_commitment",
+    "question": "Why is it important to discuss work commitment with a potential co-founder before starting a business together?",
+    "choices": [{
+        "choice": "To ensure both have the same hobbies",
+        "is_right_choice": false
+    }, {
+        "choice": "To clarify expectations regarding time dedication to the startup",
+        "is_right_choice": true
+    }, {
+        "choice": "To decide who works weekends and who does not",
+        "is_right_choice": false
+    }, {
+        "choice": "To determine who takes more vacations",
+        "is_right_choice": false
+    }],
+    "explanation": "Discussing work commitment is essential to clarify expectations regarding the amount of time each co-founder plans to dedicate to the startup, including evenings, weekends, and vacations. This prevents future misunderstandings and ensures alignment in commitment levels."
+}, {
+    "name": "communication_availability",
+    "question": "What is the purpose of defining communication and availability expectations with a co-founder?",
+    "choices": [{
+        "choice": "To agree on using only one type of communication tool",
+        "is_right_choice": false
+    }, {
+        "choice": "To limit the time spent on phone calls",
+        "is_right_choice": false
+    }, {
+        "choice": "To understand each other's communication styles and responsiveness expectations",
+        "is_right_choice": true
+    }, {
+        "choice": "To avoid talking to each other outside of work hours",
+        "is_right_choice": false
+    }],
+    "explanation": "Defining communication and availability expectations is crucial to understand each other’s preferences for responding to messages or emails and communication styles, which helps avoid frustration and ensures effective collaboration."
+}, {
+    "name": "financial_expectations",
+    "question": "Why is it important to discuss financial expectations with your co-founder early on?",
+    "choices": [{
+        "choice": "To determine who has more savings",
+        "is_right_choice": false
+    }, {
+        "choice": "For deciding the startup's budget only",
+        "is_right_choice": false
+    }, {
+        "choice": "To plan future personal expenditures",
+        "is_right_choice": false
+    }, {
+        "choice": "To understand how long each can sustain without a salary, impacting stress levels and decisions",
+        "is_right_choice": true
+    }],
+    "explanation": "Discussing financial expectations, such as how long each co-founder can go without a salary, is crucial. It impacts stress levels and decision-making within the startup, ensuring both are prepared for the financial challenges ahead."
+}, {
+    "name": "milestones_motivation",
+    "question": "Discussing milestones and motivation helps to:",
+    "choices": [{
+        "choice": "Only set financial goals for the startup",
+        "is_right_choice": false
+    }, {
+        "choice": "Clarify what progress looks like to each co-founder to stay motivated",
+        "is_right_choice": true
+    }, {
+        "choice": "Determine who is more motivated",
+        "is_right_choice": false
+    }, {
+        "choice": "Assign roles based on personal interests",
+        "is_right_choice": false
+    }],
+    "explanation": "Talking about milestones and what each co-founder needs to stay motivated is key to ensuring alignment on the startup’s direction and progress. It clarifies expectations on what 'progress' means and how it contributes to motivation."
+}]

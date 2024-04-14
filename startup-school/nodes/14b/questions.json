@@ -1,0 +1,52 @@
+[{
+    "name": "Launch Timing",
+    "question": "According to the text, when is the best time to launch a startup?",
+    "choices": [{
+        "choice": "After the product is fully polished and error-free",
+        "is_right_choice": false
+    }, {
+        "choice": "As soon as possible, even if the product is not perfect",
+        "is_right_choice": true
+    }, {
+        "choice": "Only after extensive market research and product testing",
+        "is_right_choice": false
+    }, {
+        "choice": "After securing a substantial amount of funding",
+        "is_right_choice": false
+    }],
+    "expenation": "Launching as soon as possible allows founders to test their assumptions and solve real problems for their users, which is invaluable for the growth and direction of the startup."
+}, {
+    "name": "Learning from Launches",
+    "question": "What should startups do if their initial launch does not meet expectations?",
+    "choices": [{
+        "choice": "Wait for a more opportune market condition and try again",
+        "is_right_choice": false
+    }, {
+        "choice": "Give up and consider the venture a failure",
+        "is_right_choice": false
+    }, {
+        "choice": "View it as a learning opportunity, improve the product, and re-launch",
+        "is_right_choice": true
+    }, {
+        "choice": "Focus exclusively on marketing the existing product more aggressively",
+        "is_right_choice": false
+    }],
+    "expenation": "A less-than-ideal launch should be seen as a learning opportunity rather than a failure, supporting the iterative process of launching, learning, and improving."
+}, {
+    "name": "User Base Development",
+    "question": "How important is it to have a large number of users in the early stage of a startup?",
+    "choices": [{
+        "choice": "It is critical to success; a large user base is the primary goal",
+        "is_right_choice": false
+    }, {
+        "choice": "It's more important to have a few users who really love the product",
+        "is_right_choice": true
+    }, {
+        "choice": "User numbers are not important at all in the early stages",
+        "is_right_choice": false
+    }, {
+        "choice": "A sizable user base is important, but product quality can be compromised to achieve it",
+        "is_right_choice": false
+    }],
+    "expenation": "Having even just a few users who truly love your product is crucial. Their feedback and loyalty can help improve the product and attract more users over time."
+}]

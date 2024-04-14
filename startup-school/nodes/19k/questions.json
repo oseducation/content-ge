@@ -1,0 +1,52 @@
+[{
+    "name": "Myth about investor rejection",
+    "question": "What is the common misconception about startups receiving a 'no' from investors?",
+    "choices": [{
+        "choice": "It means the startup team is not working hard enough.",
+        "is_right_choice": false
+    }, {
+        "choice": "It indicates the startup idea is not good.",
+        "is_right_choice": true
+    }, {
+        "choice": "It suggests the investors don't have enough money.",
+        "is_right_choice": false
+    }, {
+        "choice": "It proves the startup is bound to fail.",
+        "is_right_choice": false
+    }],
+    "explanation": "The misconception is that if an investor rejects a startup, it means the idea is not good. However, the text clarifies that even startups with potential can be turned down by investors for various reasons and that rejection is not an indicator of a startup's future success or the value of its idea."
+}, {
+    "name": "Envision's startup journey",
+    "question": "What was unique about Serbia's approach to securing her first investment for Envision?",
+    "choices": [{
+        "choice": "She promised to work without pay for two years.",
+        "is_right_choice": true
+    }, {
+        "choice": "She offered half of her company for a small investment.",
+        "is_right_choice": false
+    }, {
+        "choice": "She promised to buy back the investment in double after a year.",
+        "is_right_choice": false
+    }, {
+        "choice": "She created a marketing strategy that went viral.",
+        "is_right_choice": false
+    }],
+    "explanation": "Serbia's unique approach to securing her first investment for Envision involved a significant personal sacrifice. She promised not to take any salary for two years if the investor would bet on her. This brave and unusual commitment helped her secure the initial funding, showing how founders might need to take extraordinary steps to gain investor confidence."
+}, {
+    "name": "Impact of persistence in startup fundraising",
+    "question": "What happened to Envision after facing initial rejections?",
+    "choices": [{
+        "choice": "It failed due to lack of funding.",
+        "is_right_choice": false
+    }, {
+        "choice": "It was bought for $275 million.",
+        "is_right_choice": true
+    }, {
+        "choice": "It changed its business model completely.",
+        "is_right_choice": false
+    }, {
+        "choice": "It never managed to secure any investment.",
+        "is_right_choice": false
+    }],
+    "explanation": "Despite facing more than 50 rejections from investors initially, Envision persisted and was eventually bought for a significant amount of $275 million. This underscores the importance of perseverance and resilience in the face of rejection during the fundraising process."
+}]

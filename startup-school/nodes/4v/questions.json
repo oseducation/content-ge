@@ -1,0 +1,35 @@
+[{
+    "name": "Choosing a Co-Founder Strategy",
+    "question": "Why might teaming up with a co-founder who already has a startup idea be a good strategy?",
+    "choices": [{
+        "choice": "It's a way to avoid doing any work.",
+        "is_right_choice": false
+    }, {
+        "choice": "It can be a quick way to enter the startup world with a partner and a plan.",
+        "is_right_choice": true
+    }, {
+        "choice": "It guarantees the startup's success.",
+        "is_right_choice": false
+    }, {
+        "choice": "It ensures you don't have to interact with others.",
+        "is_right_choice": false
+    }],
+    "explanation": "Teaming up with a co-founder who already has a startup idea is a good strategy because it enables one to quickly enter the startup ecosystem fully equipped with a partner who has a plan, thereby streamlining the process of launching a startup."
+}, {
+    "name": "Co-Founder Matching Platforms",
+    "question": "Where can you find people who have a startup idea but are looking for someone to join them?",
+    "choices": [{
+        "choice": "Random online chat rooms",
+        "is_right_choice": false
+    }, {
+        "choice": "Startup School co-founder matching platforms",
+        "is_right_choice": true
+    }, {
+        "choice": "Generic job listing sites",
+        "is_right_choice": false
+    }, {
+        "choice": "Social media influencers",
+        "is_right_choice": false
+    }],
+    "explanation": "Startup School co-founder matching platforms are specialized venues designed to connect individuals with startup ideas to those looking for co-founders, making them the ideal place for this purpose."
+}]

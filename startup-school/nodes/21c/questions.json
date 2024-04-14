@@ -1,0 +1,52 @@
+[{
+    "name": "importance_of_understanding_people",
+    "question": "Why is it important for startup leaders to have good judgment about people?",
+    "choices": [{
+        "choice": "To save costs on hiring and firing",
+        "is_right_choice": false
+    }, {
+        "choice": "To ensure the right people are empowered to help carry out the leader's vision",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it is a legal requirement",
+        "is_right_choice": false
+    }, {
+        "choice": "To create a diverse and inclusive work environment",
+        "is_right_choice": false
+    }],
+    "explanation": "Having good judgment about people is crucial for startup leaders because the individuals they choose to empower and bring on board will take on leadership roles and help execute the leader's vision, significantly impacting the startup's success."
+}, {
+    "name": "developing_judgement_skill",
+    "question": "How can someone improve their judgement about people according to the text?",
+    "choices": [{
+        "choice": "Rely solely on gut instinct",
+        "is_right_choice": false
+    }, {
+        "choice": "Hire based on first impressions",
+        "is_right_choice": false
+    }, {
+        "choice": "Speak to many people and learn from each interaction",
+        "is_right_choice": true
+    }, {
+        "choice": "Focus only on candidates' technical skills",
+        "is_right_choice": false
+    }],
+    "explanation": "Improving judgement about people comes from speaking to a wide range of individuals and learning from each interaction, whether or not the leader intends to hire them, allowing the leader to understand what qualities make a great team member."
+}, {
+    "name": "hiring_as_a_learning_journey",
+    "question": "Why is reflection on hiring decisions important in the startup journey?",
+    "choices": [{
+        "choice": "To create a historical record of hires",
+        "is_right_choice": false
+    }, {
+        "choice": "To ensure legal compliance",
+        "is_right_choice": false
+    }, {
+        "choice": "To understand what attributes contribute to successful hires",
+        "is_right_choice": true
+    }, {
+        "choice": "To prepare for potential legal disputes",
+        "is_right_choice": false
+    }],
+    "explanation": "Reflecting on hiring decisions is important because it helps leaders understand the effectiveness of their choices, learn from the process, and identify the attributes that contribute to successful hires, thus improving future judgments."
+}]

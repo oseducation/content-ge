@@ -1,0 +1,35 @@
+[{
+    "name": "Comparison between Dev Shops and Technical Co-Founders for Startups",
+    "question": "Why might a technical co-founder be more beneficial for a startup than a dev shop?",
+    "choices": [{
+        "choice": "Dev shops offer more personalized and flexible service.",
+        "is_right_choice": false
+    }, {
+        "choice": "Technical co-founders share the startup's commitment and vision, enhancing product alignment with user needs.",
+        "is_right_choice": true
+    }, {
+        "choice": "Dev shops are less expensive than hiring a technical co-founder.",
+        "is_right_choice": false
+    }, {
+        "choice": "Technical co-founders require less involvement in the startup's day-to-day operations.",
+        "is_right_choice": false
+    }],
+    "explanation": "A technical co-founder is more beneficial for a startup than a dev shop because they are inherently more aligned with the startup's vision and commitment, making them more flexible and able to adapt to the evolving needs of the business and its users. In contrast, dev shops are typically project-oriented and may not be equipped to handle rapid changes or have a vested interest in the product's success beyond their contracted obligations."
+}, {
+    "name": "Financial Implication of Choosing a Dev Shop",
+    "question": "What is a significant drawback of hiring a Dev Shop for an early-stage startup?",
+    "choices": [{
+        "choice": "Dev shops provide too many options for startups to choose from.",
+        "is_right_choice": false
+    }, {
+        "choice": "Dev shops often require a smaller initial investment than a technical co-founder.",
+        "is_right_choice": false
+    }, {
+        "choice": "Dev shops are typically more expensive from the start.",
+        "is_right_choice": true
+    }, {
+        "choice": "Dev shops offer a slower development process.",
+        "is_right_choice": false
+    }],
+    "explanation": "One significant drawback of hiring a Dev Shop for an early-stage startup is the higher initial cost. Dev shops are typically more expensive from the start, making them less ideal for startups that are often operating with limited budgets and need to manage their financial resources wisely."
+}]

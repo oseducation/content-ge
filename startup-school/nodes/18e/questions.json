@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding the Core of Product-Market Fit",
+    "question": "What does product-market fit mean in the context of startups?",
+    "choices": [{
+        "choice": "Having a large number of users or visitors",
+        "is_right_choice": false
+    }, {
+        "choice": "Creating a product that people actually want",
+        "is_right_choice": true
+    }, {
+        "choice": "Receiving significant investment for your product",
+        "is_right_choice": false
+    }, {
+        "choice": "Launching the product in multiple markets",
+        "is_right_choice": false
+    }],
+    "expenation": "Product-market fit means creating a product that meets the demands and needs of the market, essentially a product that people want and are willing to use. The concept emphasizes the importance of aligning a product with its target market's requirements rather than merely achieving superficial metrics like user numbers or geographical expansion."
+}, {
+    "name": "Measuring Product-Market Fit",
+    "question": "What is considered the best way to measure product-market fit?",
+    "choices": [{
+        "choice": "Number of searches or visits",
+        "is_right_choice": false
+    }, {
+        "choice": "Retention or repeat usage",
+        "is_right_choice": true
+    }, {
+        "choice": "Total registered users",
+        "is_right_choice": false
+    }, {
+        "choice": "Conversion rates",
+        "is_right_choice": false
+    }],
+    "expenation": "Retention or repeat usage is highlighted as the most effective way to gauge product-market fit. It shows whether users genuinely value the product enough to continue using it, indicating its true alignment with their needs and preferences. This metric provides a more accurate depiction of product-market fit than more superficial measures such as total registered users or conversion rates, which can be misleading and don't necessarily reflect an affinity for the product."
+}, {
+    "name": "Key Metrics to Avoid",
+    "question": "Which of the following is NOT a deceptive metric when assessing product-market fit?",
+    "choices": [{
+        "choice": "Total registered users",
+        "is_right_choice": false
+    }, {
+        "choice": "Visitors",
+        "is_right_choice": false
+    }, {
+        "choice": "Retention rates",
+        "is_right_choice": true
+    }, {
+        "choice": "Conversion rates",
+        "is_right_choice": false
+    }],
+    "expenation": "Retention rates are not considered a deceptive metric when assessing product-market fit, unlike total registered users, visitors, or conversion rates. Retention rates accurately reflect how much users value the product over time by measuring how often they return or keep using the product. This metric offers insight into genuine product engagement and satisfaction, distinguishing it from metrics that may not fully capture users' true commitment or interest in the product."
+}]

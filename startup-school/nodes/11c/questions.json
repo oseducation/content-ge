@@ -1,0 +1,69 @@
+[{
+    "name": "Understanding Conflict Resolution in Teamwork",
+    "question": "According to John Gottman, which of the following should be avoided to handle disagreements among co-founders effectively?",
+    "choices": [{
+        "choice": "Focusing solely on solutions",
+        "is_right_choice": false
+    }, {
+        "choice": "Criticizing and bringing up unrelated issues",
+        "is_right_choice": true
+    }, {
+        "choice": "Setting clear team goals",
+        "is_right_choice": false
+    }, {
+        "choice": "Encouraging open communication",
+        "is_right_choice": false
+    }],
+    "explanation": "Criticizing and bringing up unrelated issues diverts the focus from resolving the immediate problem to personal grievances or irrelevant matters, which is counterproductive in finding a resolution to disagreements."
+}, {
+    "name": "Effective Communication in Teams",
+    "question": "Why is avoiding personal insults important when resolving team conflicts?",
+    "choices": [{
+        "choice": "It helps in quick decision-making",
+        "is_right_choice": false
+    }, {
+        "choice": "It contributes to a positive work environment",
+        "is_right_choice": true
+    }, {
+        "choice": "Insults can be motivating",
+        "is_right_choice": false
+    }, {
+        "choice": "It saves time in meetings",
+        "is_right_choice": false
+    }],
+    "explanation": "Avoiding personal insults is crucial for maintaining a respectful and constructive work setting, which fosters productivity and positivity, rather than negativity and defensiveness."
+}, {
+    "name": "Accountability in Team Issues",
+    "question": "What is the impact of not taking responsibility for problems within a team?",
+    "choices": [{
+        "choice": "Improves team efficiency",
+        "is_right_choice": false
+    }, {
+        "choice": "Reduces blame culture",
+        "is_right_choice": false
+    }, {
+        "choice": "It creates roadblocks to finding solutions",
+        "is_right_choice": true
+    }, {
+        "choice": "Encourages individualism",
+        "is_right_choice": false
+    }],
+    "explanation": "Not taking responsibility for issues within the team delays the problem-solving process as it prevents the identification and acknowledgment of issues that need to be addressed."
+}, {
+    "name": "Confronting vs. Avoiding Problems",
+    "question": "What is the consequence of avoiding problems instead of addressing them in a team setting?",
+    "choices": [{
+        "choice": "It encourages independence",
+        "is_right_choice": false
+    }, {
+        "choice": "It leads to quick resolutions",
+        "is_right_choice": false
+    }, {
+        "choice": "It promotes team bonding",
+        "is_right_choice": false
+    }, {
+        "choice": "It prevents resolution and exacerbates issues",
+        "is_right_choice": true
+    }],
+    "explanation": "Avoiding problems rather than confronting them prevents resolutions from being found and often leads to the exacerbation of existing issues, negatively affecting team dynamics and efficiency."
+}]

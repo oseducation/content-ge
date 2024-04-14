@@ -1,0 +1,52 @@
+[{
+    "name": "Growth Channel for Rare Ideas",
+    "question": "Which growth channel is most effective for a startup offering a rare service or product, like skydiving or building a spaceship?",
+    "choices": [{
+        "choice": "Social Media Marketing",
+        "is_right_choice": false
+    }, {
+        "choice": "Search Engine Optimization (SEO) or Paid Ads",
+        "is_right_choice": true
+    }, {
+        "choice": "Billboards and Physical Advertisements",
+        "is_right_choice": false
+    }, {
+        "choice": "Television Commercials",
+        "is_right_choice": false
+    }],
+    "explanation": "For rare services or products, making your startup visible on Google through Search Engine Optimization (SEO) or Paid Ads is most effective, as people tend to search online for unique and uncommon offerings."
+}, {
+    "name": "Focusing On Growth Channels",
+    "question": "Why is it not advisable for startups to focus on all available growth channels simultaneously?",
+    "choices": [{
+        "choice": "It increases the company's financial risk.",
+        "is_right_choice": false
+    }, {
+        "choice": "It can dilute the company's messaging and branding.",
+        "is_right_choice": false
+    }, {
+        "choice": "Successful companies usually focus on one or two channels that work best for them.",
+        "is_right_choice": true
+    }, {
+        "choice": "It leads to rapid overexpansion and operational issues.",
+        "is_right_choice": false
+    }],
+    "explanation": "It is not advisable for startups to focus on all growth channels simultaneously because successful companies typically concentrate on one or two channels that are most effective for them, rather than spreading resources too thin."
+}, {
+    "name": "Product Virality",
+    "question": "What is the primary mechanism behind a product’s virality?",
+    "choices": [{
+        "choice": "High-quality customer service",
+        "is_right_choice": false
+    }, {
+        "choice": "Mass media exposure",
+        "is_right_choice": false
+    }, {
+        "choice": "People sharing the product with others because they like it",
+        "is_right_choice": true
+    }, {
+        "choice": "Celebrity endorsements",
+        "is_right_choice": false
+    }],
+    "explanation": "The primary mechanism behind a product's virality is people sharing the product with others because they genuinely like it, leading to a natural and organic spread of the product."
+}]

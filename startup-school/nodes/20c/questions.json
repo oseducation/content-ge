@@ -1,0 +1,52 @@
+[{
+    "name": "myth_about_stage_for_YC",
+    "question": "Which statement best reflects Y Combinator's stance on the stage of startups they accept?",
+    "choices": [{
+        "choice": "Only startups that haven't written a single line of code can apply.",
+        "is_right_choice": false
+    }, {
+        "choice": "YC accepts startups at any stage, including those that have raised millions.",
+        "is_right_choice": true
+    }, {
+        "choice": "Startups with notable sales are considered too advanced for YC.",
+        "is_right_choice": false
+    }, {
+        "choice": "Companies can only apply if they are still seeking product-market fit.",
+        "is_right_choice": false
+    }],
+    "explanation": "Y Combinator accepts startups at various stages of their journey, from those that haven't started coding to those that have already raised significant funding."
+}, {
+    "name": "learning_from_YC",
+    "question": "Why is watching YC’s online videos not considered the same as applying to and participating in YC?",
+    "choices": [{
+        "choice": "Because online videos provide all the necessary tools and advice.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because you can't watch the videos without an application.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because as a YC founder, you get access to real-time help, office hours, and special advice not shared online.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because the videos are not updated regularly.",
+        "is_right_choice": false
+    }],
+    "explanation": "While YC's online videos are helpful, participating in YC provides a unique set of resources, including direct support and advice from partners, which cannot be replicated by just watching online content."
+}, {
+    "name": "advice_for_reapplying_to_YC",
+    "question": "What does repeated application to YC demonstrate according to the text?",
+    "choices": [{
+        "choice": "That the startup is not progressing.",
+        "is_right_choice": false
+    }, {
+        "choice": "A lack of other opportunities.",
+        "is_right_choice": false
+    }, {
+        "choice": "Persistence and determination.",
+        "is_right_choice": true
+    }, {
+        "choice": "Confusion and lack of direction.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text suggests that applying to YC multiple times, even after initial rejection, is seen as a sign of persistence, a quality that is valued and can lead to eventual success in being accepted."
+}]

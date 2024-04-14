@@ -1,0 +1,52 @@
+[{
+    "name": "Definition of Pivot",
+    "question": "What does a 'pivot' entail in the context of the startup world?",
+    "choices": [{
+        "choice": "Hiring more team members",
+        "is_right_choice": false
+    }, {
+        "choice": "Changing the company's direction significantly",
+        "is_right_choice": true
+    }, {
+        "choice": "Getting more investment for the same business idea",
+        "is_right_choice": false
+    }, {
+        "choice": "Expanding to new geographical markets with the same product",
+        "is_right_choice": false
+    }],
+    "explanation": "In the context of startups, a 'pivot' usually refers to a significant change in the company's direction, which could involve changing its product, business model, target market, or a combination of these."
+}, {
+    "name": "Frequency of Pivoting",
+    "question": "How often should early-stage startups consider pivoting?",
+    "choices": [{
+        "choice": "Once a year",
+        "is_right_choice": false
+    }, {
+        "choice": "Only when facing financial difficulties",
+        "is_right_choice": false
+    }, {
+        "choice": "Regularly, as part of rapid iteration and flexibility",
+        "is_right_choice": true
+    }, {
+        "choice": "Never, to maintain the original vision",
+        "is_right_choice": false
+    }],
+    "explanation": "For early-stage startups, constantly refining, adjusting, or even overhauling the initial idea as they learn more about their market and users is considered a normal part of the process. Regular evaluation and adaptation are key to finding the right path."
+}, {
+    "name": "Example of a Pivot",
+    "question": "Which company is an example of executing a pivot in the truest sense?",
+    "choices": [{
+        "choice": "Facebook, from a university social network to a global platform",
+        "is_right_choice": false
+    }, {
+        "choice": "Slack, from a gaming company to a messaging platform",
+        "is_right_choice": true
+    }, {
+        "choice": "Amazon, from an online bookstore to a global marketplace",
+        "is_right_choice": false
+    }, {
+        "choice": "Google, from a search engine to a tech conglomerate",
+        "is_right_choice": false
+    }],
+    "explanation": "Slack is a classic example of a company that executed a pivot in the truest sense. Initially starting as a gaming company working on a project called Glitch, they pivoted to become what is now known as Slack, a messaging platform."
+}]

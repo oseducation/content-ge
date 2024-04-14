@@ -1,0 +1,52 @@
+[{
+    "name": "Exceptions_to_Revenue_KPIs",
+    "question": "Which types of startups might need to consider exceptions to traditional revenue Key Performance Indicators (KPIs)?",
+    "choices": [{
+        "choice": "Software startups",
+        "is_right_choice": false
+    }, {
+        "choice": "Hardware companies",
+        "is_right_choice": true
+    }, {
+        "choice": "Retail businesses",
+        "is_right_choice": false
+    }, {
+        "choice": "Food and beverage companies",
+        "is_right_choice": false
+    }],
+    "explanation": "Hardware companies, along with biotech companies and enterprises with long sales cycles, are mentioned as types of businesses that might need to consider exceptions to traditional revenue KPIs. This is due to the unique challenges they face in measuring success."
+}, {
+    "name": "Alternative_Indicators_of_Growth",
+    "question": "What might be considered as signs of progress for startups where traditional revenue KPIs don't apply?",
+    "choices": [{
+        "choice": "The number of social media followers",
+        "is_right_choice": false
+    }, {
+        "choice": "Letters of intent",
+        "is_right_choice": true
+    }, {
+        "choice": "Number of employees",
+        "is_right_choice": false
+    }, {
+        "choice": "Annual company retreats",
+        "is_right_choice": false
+    }],
+    "explanation": "For startups where traditional revenue KPIs are not applicable, letters of intent, contracts, and technical milestones are considered valuable signs of progress, as they are indicative of potential future success."
+}, {
+    "name": "Maintaining_Honesty_in_Measurement",
+    "question": "Why is it important to recheck alternative signs of progress often in startups?",
+    "choices": [{
+        "choice": "To ensure they are still relevant to the business model",
+        "is_right_choice": false
+    }, {
+        "choice": "To maintain a competitive edge",
+        "is_right_choice": false
+    }, {
+        "choice": "To keep the measures clear and honest",
+        "is_right_choice": true
+    }, {
+        "choice": "To adjust the company's marketing strategy",
+        "is_right_choice": false
+    }],
+    "explanation": "Rechecking alternative signs of progress often is crucial to ensure that these indicators are truly reflective of growth and success, and not just 'fancy numbers or achievements' that might mislead the understanding of the company's real progress."
+}]

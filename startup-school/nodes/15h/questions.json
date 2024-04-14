@@ -1,0 +1,69 @@
+[{
+    "name": "The Essence of Pricing in Startups",
+    "question": "Why is it important for startups to charge their clients for products or services?",
+    "choices": [{
+        "choice": "To increase their product's market exposure.",
+        "is_right_choice": false
+    }, {
+        "choice": "It's a clear sign that the product has value.",
+        "is_right_choice": true
+    }, {
+        "choice": "It's a standard legal requirement for startups.",
+        "is_right_choice": false
+    }, {
+        "choice": "To create a large user base quickly.",
+        "is_right_choice": false
+    }],
+    "explanation": "Charging clients for products or services signifies that the product offers value to the customers, distinguishing a tangible business from a hobby or a non-profit endeavor."
+}, {
+    "name": "Customer Rejection and Pricing Strategy",
+    "question": "What should startups do if a potential customer rejects any form of payment for their product?",
+    "choices": [{
+        "choice": "Keep negotiating until they agree to pay.",
+        "is_right_choice": false
+    }, {
+        "choice": "Consider them as a bad fit and move on.",
+        "is_right_choice": true
+    }, {
+        "choice": "Immediately lower the price to meet their expectations.",
+        "is_right_choice": false
+    }, {
+        "choice": "Offer the product for free as a last resort.",
+        "is_right_choice": false
+    }],
+    "explanation": "Startups should view rejection of payment as a sign that the potential customer may not see value in their product and consider focusing their energy on customers who are willing to pay."
+}, {
+    "name": "Pricing Flexibility Strategy",
+    "question": "What is a more attractive option than free trials for B2B sales according to the text?",
+    "choices": [{
+        "choice": "One-time payment models",
+        "is_right_choice": false
+    }, {
+        "choice": "Money-back guarantees",
+        "is_right_choice": true
+    }, {
+        "choice": "Lifetime subscriptions",
+        "is_right_choice": false
+    }, {
+        "choice": "Annual contracts with no opt-out",
+        "is_right_choice": false
+    }],
+    "explanation": "For B2B sales, money-back guarantees are suggested as more attractive than free trials because they provide assurance while still requiring a purchase commitment."
+}, {
+    "name": "Pricing Adjustment Strategy",
+    "question": "What does the text suggest about startups increasing their prices over time?",
+    "choices": [{
+        "choice": "It should be avoided to keep customers happy.",
+        "is_right_choice": false
+    }, {
+        "choice": "It's risky and likely to drive customers away.",
+        "is_right_choice": false
+    }, {
+        "choice": "It's encouraged as long as customers see value.",
+        "is_right_choice": true
+    }, {
+        "choice": "Prices should only go up after the first year.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text encourages startups to slowly increase prices, suggesting that as long as customers see the value in the product and are willing to pay, even if with some grumbles, it's a positive strategy for growth."
+}]

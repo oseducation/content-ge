@@ -1,0 +1,69 @@
+[{
+    "name": "CommunicationImportance",
+    "question": "Why is communication considered vital in a co-founder relationship?",
+    "choices": [{
+        "choice": "Because it helps in marketing the startup effectively.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it's fundamental to establishing efficient ways of working together.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it is required for legal agreements only.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it enables them to work independently without coordination.",
+        "is_right_choice": false
+    }],
+    "explanation": "Communication is essential because it establishes efficient ways of working together, akin to how crucial communication is in a close personal relationship."
+}, {
+    "name": "EarlyDiscussionBenefit",
+    "question": "What is one benefit of discussing expectations early in a co-founder relationship?",
+    "choices": [{
+        "choice": "It allows for avoiding the startup's marketing strategies.",
+        "is_right_choice": false
+    }, {
+        "choice": "It helps in avoiding unnecessary legal documentation.",
+        "is_right_choice": false
+    }, {
+        "choice": "It enables co-founders to handle difficult conversations productively.",
+        "is_right_choice": true
+    }, {
+        "choice": "It guarantees the startup's financial success.",
+        "is_right_choice": false
+    }],
+    "explanation": "Discussing expectations early helps ensure that co-founders can handle difficult conversations in a productive manner, thus preventing major issues later on."
+}, {
+    "name": "UnaddressedTopics",
+    "question": "What topic, when overlooked, made a co-founder leave the author's startup?",
+    "choices": [{
+        "choice": "Marketing strategies not being innovative enough.",
+        "is_right_choice": false
+    }, {
+        "choice": "The company's name and branding",
+        "is_right_choice": false
+    }, {
+        "choice": "The personal timeline for the product's success",
+        "is_right_choice": true
+    }, {
+        "choice": "Office location preferences",
+        "is_right_choice": false
+    }],
+    "explanation": "A co-founder left the author's startup because the team hadn't discussed personal timelines for the product's success, leading to frustration and unmet expectations."
+}, {
+    "name": "FinancialSituationDiscussion",
+    "question": "Why is it important to discuss individual financial situations early on in a startup venture?",
+    "choices": [{
+        "choice": "To decide who gets the largest office.",
+        "is_right_choice": false
+    }, {
+        "choice": "To make more informed decisions and avoid unnecessary distractions.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it influences the startup's brand name selection.",
+        "is_right_choice": false
+    }, {
+        "choice": "It's important for determining product pricing.",
+        "is_right_choice": false
+    }],
+    "explanation": "Discussing individual financial situations helps in making more informed decisions early on and can prevent unnecessary distractions by avoiding unexpected pressure from financial strains."
+}]

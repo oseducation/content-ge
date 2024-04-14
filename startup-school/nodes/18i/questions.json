@@ -1,0 +1,52 @@
+[{
+    "name": "Referral Basics",
+    "question": "What is the primary incentive for users when participating in a referral program?",
+    "choices": [{
+        "choice": "Getting recognition from the company",
+        "is_right_choice": false
+    }, {
+        "choice": "Earning rewards or incentives",
+        "is_right_choice": true
+    }, {
+        "choice": "Gaining administrative privileges in the service",
+        "is_right_choice": false
+    }, {
+        "choice": "Receiving free marketing tips",
+        "is_right_choice": false
+    }],
+    "explanation": "In referral programs, the primary incentive for users is to earn rewards or incentives, such as discounts or credit, for referring new users to the service."
+}, {
+    "name": "Creating a Referral Product",
+    "question": "Which of the following is NOT a consideration when creating a referral product?",
+    "choices": [{
+        "choice": "The color scheme of the referral email",
+        "is_right_choice": true
+    }, {
+        "choice": "The offer being extended in the referral",
+        "is_right_choice": false
+    }, {
+        "choice": "The number of people who will send invites",
+        "is_right_choice": false
+    }, {
+        "choice": "The number of sign-ups from the invites sent",
+        "is_right_choice": false
+    }],
+    "explanation": "While the offer, the number of people sending invites, and the number of sign-ups are crucial considerations in creating a referral product, the color scheme of the referral email is not specifically mentioned as a key consideration, indicating it's less critical to the referral product's success."
+}, {
+    "name": "Effective Referral Invite Email",
+    "question": "Which tactic is NOT recommended for making a referral invite email more effective?",
+    "choices": [{
+        "choice": "Sending the email from a generic company address",
+        "is_right_choice": true
+    }, {
+        "choice": "Making the value clear from the start",
+        "is_right_choice": false
+    }, {
+        "choice": "Creating a sense of urgency with an end date for the offer",
+        "is_right_choice": false
+    }, {
+        "choice": "Including social proof, such as the referrer’s membership duration",
+        "is_right_choice": false
+    }],
+    "explanation": "Sending the referral invite email from a generic company address is not recommended because making the email come from a recognizable person, someone the recipient knows, adds a level of trust and familiarity, increasing the likelihood that the email won't be disregarded."
+}]

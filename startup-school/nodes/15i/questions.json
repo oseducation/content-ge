@@ -1,0 +1,69 @@
+[{
+    "name": "conversion_rate_calculation",
+    "question": "If a startup sends out 500 emails and receives 13 responses, what is the response rate?",
+    "choices": [{
+        "choice": "2.6%",
+        "is_right_choice": true
+    }, {
+        "choice": "10%",
+        "is_right_choice": false
+    }, {
+        "choice": "5%",
+        "is_right_choice": false
+    }, {
+        "choice": "50%",
+        "is_right_choice": false
+    }],
+    "expenation": "The response rate is calculated by dividing the number of responses by the number of emails sent and then multiplying by 100 to get a percentage. So, (13/500)*100 = 2.6%."
+}, {
+    "name": "importance_of_crm",
+    "question": "Why is it essential for startups to use CRM software in optimizing their sales funnel?",
+    "choices": [{
+        "choice": "To have a database of customer emails",
+        "is_right_choice": false
+    }, {
+        "choice": "To track and measure conversion rates",
+        "is_right_choice": true
+    }, {
+        "choice": "To automatically close sales",
+        "is_right_choice": false
+    }, {
+        "choice": "To send bulk emails",
+        "is_right_choice": false
+    }],
+    "expenation": "CRM software is essential for tracking and measuring conversion rates throughout the sales funnel, which is crucial for understanding performance and identifying areas for improvement."
+}, {
+    "name": "learning_from_sales_data",
+    "question": "What is a key takeaway from tracking your sales funnel data?",
+    "choices": [{
+        "choice": "To focus solely on the number of emails sent",
+        "is_right_choice": false
+    }, {
+        "choice": "You can't improve what you're not measuring",
+        "is_right_choice": true
+    }, {
+        "choice": "To realize sales is not important",
+        "is_right_choice": false
+    }, {
+        "choice": "To stop sending emails if no immediate sales are made",
+        "is_right_choice": false
+    }],
+    "expenation": "The key takeaway from tracking sales funnel data is that improvement is only possible when you measure your activities and outcomes, hence the importance of understanding that 'You can't improve what you're not measuring'."
+}, {
+    "name": "role_of_personal_sales_efforts",
+    "question": "Why is it important for startup founders to engage in sales efforts during the initial stages?",
+    "choices": [{
+        "choice": "Because founders are the only ones who can send emails",
+        "is_right_choice": false
+    }, {
+        "choice": "To avoid hiring a sales team",
+        "is_right_choice": false
+    }, {
+        "choice": "Founders understand the product and customer pain points best",
+        "is_right_choice": true
+    }, {
+        "choice": "To save money on marketing",
+        "is_right_choice": false
+    }],
+    "expenation": "Founders engaging in sales efforts during the initial stages is vital because they have the deepest understanding of the product and the customer's pain points, which allows for more effective sales and product development."
+}]

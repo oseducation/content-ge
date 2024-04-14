@@ -1,0 +1,52 @@
+[{
+    "name": "Benchling's Early Challenges",
+    "question": "What was one of the initial doubts about the founders of Benchling that affected their seed funding phase?",
+    "choices": [{
+        "choice": "Their lack of experience in the biotech field",
+        "is_right_choice": false
+    }, {
+        "choice": "Their soft-spoken nature and how it might affect sales",
+        "is_right_choice": true
+    }, {
+        "choice": "Their disagreement on the company's direction",
+        "is_right_choice": false
+    }, {
+        "choice": "Their technology wasn't advanced enough",
+        "is_right_choice": false
+    }],
+    "explanation": "The initial doubts about the founders, specifically concerning their soft-spoken nature, led to questions about their capability in handling intense enterprise sales. This was a significant concern during their seed funding phase and played a role in the challenges they faced securing funding."
+}, {
+    "name": "Revenue Generation",
+    "question": "How long did it take Benchling to start making sales and revenue after Y Combinator?",
+    "choices": [{
+        "choice": "6 months",
+        "is_right_choice": false
+    }, {
+        "choice": "1 year",
+        "is_right_choice": false
+    }, {
+        "choice": "Almost 2 years",
+        "is_right_choice": true
+    }, {
+        "choice": "3 years",
+        "is_right_choice": false
+    }],
+    "explanation": "Benchling faced a significant challenge in generating revenue and only started making sales and revenue almost two years after participating in Y Combinator. This emphasizes the slow but steady progress the company made before finding its commercial success."
+}, {
+    "name": "Benchling's Growth Milestone",
+    "question": "What milestone is Benchling poised to achieve, reflecting its significant growth from inception to the present?",
+    "choices": [{
+        "choice": "Acquisition by a larger biotech firm",
+        "is_right_choice": false
+    }, {
+        "choice": "Expansion to international markets",
+        "is_right_choice": false
+    }, {
+        "choice": "Going public",
+        "is_right_choice": true
+    }, {
+        "choice": "Doubling its product offerings",
+        "is_right_choice": false
+    }],
+    "explanation": "Benchling, having grown substantially since its inception in 2012, is now poised to go public. This milestone reflects the company's incredible turnaround and success, marking a new phase of growth and expansion."
+}]

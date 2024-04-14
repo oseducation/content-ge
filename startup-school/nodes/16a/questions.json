@@ -1,0 +1,69 @@
+[{
+    "name": "Defining KPI",
+    "question": "What does KPI stand for in the context of startup performance measurement?",
+    "choices": [{
+        "choice": "Key Priority Indicator",
+        "is_right_choice": false
+    }, {
+        "choice": "Key Performance Indicator",
+        "is_right_choice": true
+    }, {
+        "choice": "Key Progress Indicator",
+        "is_right_choice": false
+    }, {
+        "choice": "Key Profit Indicator",
+        "is_right_choice": false
+    }],
+    "explanation": "KPI stands for Key Performance Indicator, which is a metric used to measure the performance and success of a startup's strategies."
+}, {
+    "name": "Role of Prioritization",
+    "question": "How does prioritization benefit a startup's daily operations?",
+    "choices": [{
+        "choice": "It extends the number of hours in a day.",
+        "is_right_choice": false
+    }, {
+        "choice": "It focuses the startup's efforts on tasks that drive toward key goals.",
+        "is_right_choice": true
+    }, {
+        "choice": "It eliminates the need for KPIs.",
+        "is_right_choice": false
+    }, {
+        "choice": "It guarantees business success.",
+        "is_right_choice": false
+    }],
+    "explanation": "Prioritization helps a startup by guiding it to focus its time and effort on the most important tasks that drive the business towards achieving its key goals."
+}, {
+    "name": "KPIs and Vanity Metrics",
+    "question": "Why should startups avoid focusing on vanity metrics?",
+    "choices": [{
+        "choice": "Because they are too complex to measure.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because they can attract more investors.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because they do not drive real business progress.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because they are irrelevant to the business model.",
+        "is_right_choice": false
+    }],
+    "explanation": "Startups should avoid focusing on vanity metrics because, despite looking impressive, these metrics do not contribute to real and measurable business progress."
+}, {
+    "name": "Importance of Moving Fast",
+    "question": "Why is it important for startups to prioritize speeding towards the market?",
+    "choices": [{
+        "choice": "It ensures the startup's technology remains a secret longer.",
+        "is_right_choice": false
+    }, {
+        "choice": "It allows the startup to avoid making any product.",
+        "is_right_choice": false
+    }, {
+        "choice": "It helps in earning revenue sooner and reduces dependence on outside funds.",
+        "is_right_choice": true
+    }, {
+        "choice": "It guarantees a monopoly in the market.",
+        "is_right_choice": false
+    }],
+    "explanation": "Speeding towards the market is vital because it enables the startup to start earning revenue sooner, which can then be reinvested in the business, and reduces the need for external funding, among other benefits."
+}]

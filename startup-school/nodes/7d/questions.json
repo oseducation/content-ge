@@ -1,0 +1,69 @@
+[{
+    "name": "Stripe's Initial Appeal",
+    "question": "What was a key factor in Stripe's initial appeal to potential users?",
+    "choices": [{
+        "choice": "Its cheap pricing compared to competitors",
+        "is_right_choice": false
+    }, {
+        "choice": "Focus on developers as the target customer base",
+        "is_right_choice": true
+    }, {
+        "choice": "It was the only payment processor available",
+        "is_right_choice": false
+    }, {
+        "choice": "It required no paperwork to sign up",
+        "is_right_choice": false
+    }],
+    "explanation": "Stripe set itself apart by focusing on developers as its primary customers, offering them a product and documentation designed specifically to meet their needs, unlike competitors who targeted business professionals."
+}, {
+    "name": "Hurdles for Stripe",
+    "question": "What was a major obstacle Stripe faced in its early days?",
+    "choices": [{
+        "choice": "Lack of interest from the developer community",
+        "is_right_choice": false
+    }, {
+        "choice": "Lower price points compared to competitors",
+        "is_right_choice": false
+    }, {
+        "choice": "Securing partnerships with established banks",
+        "is_right_choice": true
+    }, {
+        "choice": "Creating a user-friendly interface",
+        "is_right_choice": false
+    }],
+    "explanation": "Stripe faced significant challenges in securing partnerships with established banks like Wells Fargo, a critical step for a new entrant in the highly regulated banking and payments space."
+}, {
+    "name": "Market Perception of Stripe",
+    "question": "How did many view Stripe's chances of success against established competitors like PayPal?",
+    "choices": [{
+        "choice": "Stripe was overwhelmingly favored to dominate PayPal",
+        "is_right_choice": false
+    }, {
+        "choice": "Many saw Stripe as just another player in a crowded field",
+        "is_right_choice": true
+    }, {
+        "choice": "Stripe was not compared to PayPal at all",
+        "is_right_choice": false
+    }, {
+        "choice": "Stripe was seen as a subsidiary of PayPal",
+        "is_right_choice": false
+    }],
+    "explanation": "Despite entering a market dominated by heavyweights like PayPal, many viewed Stripe as merely another competitor among many, underestimating its potential to innovate and successfully address a specific market need."
+}, {
+    "name": "Stripe’s Pricing Strategy",
+    "question": "How did Stripe’s pricing compare to its competitors when it first launched?",
+    "choices": [{
+        "choice": "It was the least expensive option",
+        "is_right_choice": false
+    }, {
+        "choice": "Pricing was comparable to other options",
+        "is_right_choice": false
+    }, {
+        "choice": "There is no mention of Stripe's pricing strategy",
+        "is_right_choice": false
+    }, {
+        "choice": "It was the most expensive option",
+        "is_right_choice": true
+    }],
+    "explanation": "Despite being the most expensive option in the market, Stripe was highly sought after, indicating that users valued the solution and user experience it offered over the cost."
+}]

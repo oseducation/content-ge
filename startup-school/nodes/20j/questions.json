@@ -1,0 +1,52 @@
+[{
+    "name": "Y Combinator Application Process",
+    "question": "What is a key factor that Y Combinator considers when reviewing applications?",
+    "choices": [{
+        "choice": "The size of the startup",
+        "is_right_choice": false
+    }, {
+        "choice": "The uniqueness of the startup idea",
+        "is_right_choice": false
+    }, {
+        "choice": "How true the applicant stays to themselves",
+        "is_right_choice": true
+    }, {
+        "choice": "The applicant's location",
+        "is_right_choice": false
+    }],
+    "explanation": "Y Combinator values applicants who stay true to themselves, indicating that authenticity is a key factor in their review process."
+}, {
+    "name": "Applying to Y Combinator Multiple Times",
+    "question": "What does Y Combinator especially pay attention to in a reapplication?",
+    "choices": [{
+        "choice": "If the startup has made more revenue",
+        "is_right_choice": false
+    }, {
+        "choice": "If the startup has changed its business idea",
+        "is_right_choice": false
+    }, {
+        "choice": "How well the applicant addressed the feedback from the previous application",
+        "is_right_choice": true
+    }, {
+        "choice": "If the startup has more team members than before",
+        "is_right_choice": false
+    }],
+    "explanation": "Y Combinator pays a lot of attention to whether applicants have taken the feedback from their previous application to heart and acted upon it, recognizing this as a sign of determination and commitment to improvement."
+}, {
+    "name": "Benefits of Applying to Y Combinator",
+    "question": "Why is applying to Y Combinator considered to have a high return on time investment?",
+    "choices": [{
+        "choice": "Because it takes a lot of time to complete the application",
+        "is_right_choice": false
+    }, {
+        "choice": "Because of the networking opportunities it provides",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it could significantly change your startup's future",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it guarantees funding for your startup",
+        "is_right_choice": false
+    }],
+    "explanation": "The potential benefits of getting into Y Combinator, such as the immense support and guidance that could significantly change a startup's future, justifies the time invested in applying."
+}]

@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding Scaling in Early-Stage Startups",
+    "question": "Why is it advisable for early-stage startups to engage in actions that don't scale?",
+    "choices": [{
+        "choice": "It ensures rapid expansion and funding.",
+        "is_right_choice": false
+    }, {
+        "choice": "It helps in building a strong foundation by understanding customer needs deeply.",
+        "is_right_choice": true
+    }, {
+        "choice": "Scaling actions are too complex for early-stage startups.",
+        "is_right_choice": false
+    }, {
+        "choice": "Non-scalable actions are cheaper and easier to implement.",
+        "is_right_choice": false
+    }],
+    "explanation": "Non-scalable actions, such as handcrafting products for early customers or spending extensive time understanding a single user's needs, help in building a better product and knowing the customers well. This foundational work is more valuable at the initial stages than attempting to scale too quickly."
+}, {
+    "name": "Measuring Product-Market Fit",
+    "question": "What is considered one of the best methods to measure product-market fit for a startup?",
+    "choices": [{
+        "choice": "The number of features added per month.",
+        "is_right_choice": false
+    }, {
+        "choice": "User retention rate.",
+        "is_right_choice": true
+    }, {
+        "choice": "Social media followers.",
+        "is_right_choice": false
+    }, {
+        "choice": "Initial fundraising amounts.",
+        "is_right_choice": false
+    }],
+    "explanation": "Measuring user retention rate is a key indicator of product-market fit. If users continually return to use the product, it suggests that the product resonates well with its intended audience and is meeting their needs."
+}, {
+    "name": "Cultivating a Culture of Experimentation",
+    "question": "Why is fostering a culture of experimentation crucial for startups?",
+    "choices": [{
+        "choice": "It focuses on brainstorming rather than actual implementation.",
+        "is_right_choice": false
+    }, {
+        "choice": "It guarantees immediate financial success.",
+        "is_right_choice": false
+    }, {
+        "choice": "It uses data to guide decisions, tests assumptions, and learns from outcomes.",
+        "is_right_choice": true
+    }, {
+        "choice": "It eliminates the need for customer feedback.",
+        "is_right_choice": false
+    }],
+    "explanation": "A culture of experimentation enables startups to make informed decisions through real data, test assumptions, and learn from different outcomes. This approach helps in refining products and strategies based on evidence, ensuring that as the startup grows, it makes smart, data-driven choices."
+}]

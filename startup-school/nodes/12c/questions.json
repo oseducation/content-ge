@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding Your Audience",
+    "question": "Why is it important to talk to your personal network and co-workers/former colleagues when identifying potential users for your startup?",
+    "choices": [{
+        "choice": "They will always be your first customers.",
+        "is_right_choice": false
+    }, {
+        "choice": "They are more likely to give honest feedback and can help you find potential users outside your circles.",
+        "is_right_choice": true
+    }, {
+        "choice": "They are the only reliable source of information.",
+        "is_right_choice": false
+    }, {
+        "choice": "They can provide all the funding you need.",
+        "is_right_choice": false
+    }],
+    "explanation": "While your personal network and co-workers/former colleagues might not always be your first customers or able to fund your venture, they are valuable for initial feedback because they're more likely to respond to your outreach. However, it's important to note that the honesty of their feedback might be affected by personal relationships."
+}, {
+    "name": "Finding Early Users",
+    "question": "Which platforms are commonly used by startup founders to find and connect with potential users?",
+    "choices": [{
+        "choice": "Only in-person events",
+        "is_right_choice": false
+    }, {
+        "choice": "LinkedIn, online forums, Slack, and Discord",
+        "is_right_choice": true
+    }, {
+        "choice": "Facebook and Instagram only",
+        "is_right_choice": false
+    }, {
+        "choice": "TV and radio advertisements",
+        "is_right_choice": false
+    }],
+    "explanation": "Startup founders often utilize digital platforms such as LinkedIn, online forums, and chat communities like Slack and Discord to connect with potential users. These platforms allow for direct and scalable outreach, especially in the early stages of a startup. In-person events are also valuable but aren't the sole method used."
+}, {
+    "name": "Goals of Mock Startup Outreach",
+    "question": "When interviewing potential customers for a startup aimed at reducing carbon emissions, what key information should you seek?",
+    "choices": [{
+        "choice": "The company’s current profit margins",
+        "is_right_choice": false
+    }, {
+        "choice": "Why the company cares or does not care about carbon emissions",
+        "is_right_choice": true
+    }, {
+        "choice": "The company’s preference for office snacks",
+        "is_right_choice": false
+    }, {
+        "choice": "How many employees work at the company",
+        "is_right_choice": false
+    }],
+    "explanation": "For a startup focused on reducing carbon emissions, understanding if and why a company cares about its carbon footprint is crucial. This information guides the development of a product or service that addresses the specific needs and motivations related to carbon emissions, making it more likely to be adopted."
+}]

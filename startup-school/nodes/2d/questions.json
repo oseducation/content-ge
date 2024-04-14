@@ -1,0 +1,52 @@
+[{
+    "name": "Initial Motivations Versus Enduring Motivations",
+    "question": "According to the analysis, which is more important in determining a startup founder's resilience?",
+    "choices": [{
+        "choice": "Initial motivations for starting the company",
+        "is_right_choice": false
+    }, {
+        "choice": "Enduring motivations that develop over time",
+        "is_right_choice": true
+    }, {
+        "choice": "The founder’s talent level",
+        "is_right_choice": false
+    }, {
+        "choice": "The financial success of the startup",
+        "is_right_choice": false
+    }],
+    "explanation": "The text suggests that while many believe initial motivations are crucial, it's actually the motivations that develop and sustain a founder through the tough times that are more important for resilience. Therefore, enduring motivations are key."
+}, {
+    "name": "Legitimacy of Financial Motivations",
+    "question": "What is the author's stance on starting a company with the motivation to make money?",
+    "choices": [{
+        "choice": "It's discouraged and seen as a poor reason",
+        "is_right_choice": false
+    }, {
+        "choice": "It's seen as a legitimate reason",
+        "is_right_choice": true
+    }, {
+        "choice": "It's only valid if the startup is in the tech industry",
+        "is_right_choice": false
+    }, {
+        "choice": "It's a temporary motivation that should evolve",
+        "is_right_choice": false
+    }],
+    "explanation": "The author argues that starting a company with the motivation to make money is a legitimate reason, counter to the common belief that you should have a more 'noble' reason for starting a startup."
+}, {
+    "name": "Evolving Motivations",
+    "question": "What does the text imply about the nature of motivations for startup founders?",
+    "choices": [{
+        "choice": "Motivations remain static from startup inception to success",
+        "is_right_choice": false
+    }, {
+        "choice": "Motivations tend to evolve as the founder's journey progresses",
+        "is_right_choice": true
+    }, {
+        "choice": "Financial motivations diminish as the startup grows",
+        "is_right_choice": false
+    }, {
+        "choice": "Curiosity as a motivation is not sustainable",
+        "is_right_choice": false
+    }],
+    "explanation": "The text highlights that motivations for starting a company can evolve over time, with founders possibly becoming more invested in their companies than they initially planned. This evolution of motivations is key to navigating the challenges of the startup journey."
+}]

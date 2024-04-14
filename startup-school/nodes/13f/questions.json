@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding MVP in Heavily Regulated Industries",
+    "question": "Why might starting a business in heavily regulated areas like insurance or banking require a different approach to the MVP?",
+    "choices": [{
+        "choice": "Because you can launch any type of product without restrictions.",
+        "is_right_choice": false
+    }, {
+        "choice": "Due to the complexities and regulations involved.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it's easier and quicker to start in these fields.",
+        "is_right_choice": false
+    }, {
+        "choice": "Regulations in these areas are more lenient.",
+        "is_right_choice": false
+    }],
+    "explanation": "Heavily regulated areas require a different approach to MVP because of the complexities and legal restrictions involved, making it difficult to launch products without proper scrutiny and adherence to regulations."
+}, {
+    "name": "MVP Strategies for Complex Fields",
+    "question": "What is a viable first step for startups in complex or heavily regulated fields like rocket science or new drug development?",
+    "choices": [{
+        "choice": "Starting with a comprehensive product range.",
+        "is_right_choice": false
+    }, {
+        "choice": "Launching a detailed website to explain their business.",
+        "is_right_choice": true
+    }, {
+        "choice": "Waiting for regulatory clearances before doing anything.",
+        "is_right_choice": false
+    }, {
+        "choice": "Investing in heavy marketing before the product is ready.",
+        "is_right_choice": false
+    }],
+    "explanation": "For startups in complex or heavily regulated fields, beginning with a basic but detailed website to explain what they do is a strategic first step. This approach is feasible and offers a quick way to establish a presence without facing immediate regulatory hurdles."
+}, {
+    "name": "Timeline for MVP Development",
+    "question": "How long might it take to develop a simple website as an MVP for a startup in a complex field?",
+    "choices": [{
+        "choice": "Months to years",
+        "is_right_choice": false
+    }, {
+        "choice": "Weeks to months",
+        "is_right_choice": false
+    }, {
+        "choice": "Days, not weeks",
+        "is_right_choice": true
+    }, {
+        "choice": "At least one year",
+        "is_right_choice": false
+    }],
+    "explanation": "Developing a simple website as an MVP for a startup in a complex field can be done in days, not weeks, offering a quick and efficient way to start establishing an online presence and informing potential customers or investors about the business."
+}]

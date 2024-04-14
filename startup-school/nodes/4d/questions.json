@@ -1,0 +1,52 @@
+[{
+    "name": "Problem Urgency",
+    "question": "Why is it crucial for startups to focus on solving acute problems?",
+    "choices": [{
+        "choice": "To gain quick media attention",
+        "is_right_choice": false
+    }, {
+        "choice": "It represents a significant opportunity by addressing urgent, unmet needs",
+        "is_right_choice": true
+    }, {
+        "choice": "It is easier to market solutions to any problem",
+        "is_right_choice": false
+    }, {
+        "choice": "To ensure the product is innovative",
+        "is_right_choice": false
+    }],
+    "expenation": "Focusing on acute problems is crucial because it means solving urgent, unmet needs, representing a significant opportunity for value creation and market impact, as demonstrated by Brex's approach."
+}, {
+    "name": "Brex's Solution",
+    "question": "What major problem did Brex address for startups?",
+    "choices": [{
+        "choice": "Difficulty in hiring talent",
+        "is_right_choice": false
+    }, {
+        "choice": "Challenges in digital marketing",
+        "is_right_choice": false
+    }, {
+        "choice": "Struggles to obtain corporate credit cards",
+        "is_right_choice": true
+    }, {
+        "choice": "Inefficient payroll systems",
+        "is_right_choice": false
+    }],
+    "expenation": "Brex addressed the acute problem of startups struggling to obtain corporate credit cards from banks, which was a significant barrier to managing finances for new, unestablished businesses."
+}, {
+    "name": "Indicator of Acute Problem",
+    "question": "What indicates that a startup is addressing an acute problem?",
+    "choices": [{
+        "choice": "The product can be offered globally",
+        "is_right_choice": false
+    }, {
+        "choice": "The alternative solutions are non-existent or inadequate",
+        "is_right_choice": true
+    }, {
+        "choice": "The startup has multiple revenue streams",
+        "is_right_choice": false
+    }, {
+        "choice": "The solution uses cutting-edge technology",
+        "is_right_choice": false
+    }],
+    "expenation": "An acute problem is indicated by the presence of non-existent or inadequate alternative solutions. This creates a significant opportunity for startups, as they can provide value by addressing these urgent and previously unmet needs."
+}]

@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding the Process",
+    "question": "What is the first step to take after conducting user interviews for a startup idea?",
+    "choices": [{
+        "choice": "Start building the MVP immediately",
+        "is_right_choice": false
+    }, {
+        "choice": "Gather your notes from the interviews",
+        "is_right_choice": true
+    }, {
+        "choice": "Form a hypothesis about the solution",
+        "is_right_choice": false
+    }, {
+        "choice": "Write down your conclusions",
+        "is_right_choice": false
+    }],
+    "explanation": "Gathering your notes from every interview is crucial as the first step. It ensures all the information collected is organized and accessible for further analysis."
+}, {
+    "name": "From Learning to Testing",
+    "question": "What should directly follow the step of writing down your conclusions from user interviews?",
+    "choices": [{
+        "choice": "Begin advertising your product",
+        "is_right_choice": false
+    }, {
+        "choice": "Form a hypothesis about the solution to the problem",
+        "is_right_choice": true
+    }, {
+        "choice": "Conduct more user interviews",
+        "is_right_choice": false
+    }, {
+        "choice": "Launch the product",
+        "is_right_choice": false
+    }],
+    "explanation": "After writing down your conclusions, the next logical step in the process is to form a hypothesis regarding the solution based on the insights gathered. This sets the foundation for developing the MVP."
+}, {
+    "name": "Purpose of MVP",
+    "question": "What is the primary goal of building an MVP after conducting user interviews?",
+    "choices": [{
+        "choice": "To finalize the product design",
+        "is_right_choice": false
+    }, {
+        "choice": "To start building the final product",
+        "is_right_choice": false
+    }, {
+        "choice": "To test the hypothesis with real users",
+        "is_right_choice": true
+    }, {
+        "choice": "To gather more notes for analysis",
+        "is_right_choice": false
+    }],
+    "explanation": "The primary goal of developing an MVP is to test the hypothesis formulated from user interviews and feedback, ensuring the solution is moving in the right direction before full-scale development."
+}]

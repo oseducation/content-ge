@@ -1,0 +1,69 @@
+[{
+    "name": "myth_fundraising_glamour",
+    "question": "What is a common misconception about startup fundraising?",
+    "choices": [{
+        "choice": "It's a quick and easy process.",
+        "is_right_choice": false
+    }, {
+        "choice": "It's all about glamorous pitches like on Shark Tank.",
+        "is_right_choice": true
+    }, {
+        "choice": "It requires no preparation.",
+        "is_right_choice": false
+    }, {
+        "choice": "It's only for tech startups.",
+        "is_right_choice": false
+    }],
+    "explanation": "The misconception is that fundraising is all about the glamour and high-pressure pitches as often portrayed on television shows like Shark Tank. However, the reality is that it involves more mundane and straightforward one-on-one conversations, far from the glitzy depiction."
+}, {
+    "name": "fundraising_reality",
+    "question": "What does the actual process of raising money for a startup resemble?",
+    "choices": [{
+        "choice": "Lavish gala events",
+        "is_right_choice": false
+    }, {
+        "choice": "Public speaking contests",
+        "is_right_choice": false
+    }, {
+        "choice": "Coffee chats and Zoom meetings",
+        "is_right_choice": true
+    }, {
+        "choice": "Online crowdfunding campaigns",
+        "is_right_choice": false
+    }],
+    "explanation": "The actual fundraising process is much more mundane than what is popularly thought, consisting mainly of coffee chats and Zoom meetings, rather than high-pressure events or glamorous pitches."
+}, {
+    "name": "investor_engagements",
+    "question": "How many investors did Fresh Paint speak to before securing their funding?",
+    "choices": [{
+        "choice": "160",
+        "is_right_choice": true
+    }, {
+        "choice": "39",
+        "is_right_choice": false
+    }, {
+        "choice": "200",
+        "is_right_choice": false
+    }, {
+        "choice": "100",
+        "is_right_choice": false
+    }],
+    "explanation": "Fresh Paint spoke to 160 investors during their fundraising journey, reflecting the grind of numerous meetings and discussions before successfully securing the funds needed."
+}, {
+    "name": "investment_range",
+    "question": "What was the range of investment amounts that Fresh Paint received?",
+    "choices": [{
+        "choice": "$5k to $100k",
+        "is_right_choice": false
+    }, {
+        "choice": "$1k to $200k",
+        "is_right_choice": false
+    }, {
+        "choice": "$5k to $200k",
+        "is_right_choice": true
+    }, {
+        "choice": "$10k to $150k",
+        "is_right_choice": false
+    }],
+    "explanation": "Fresh Paint received investments ranging from as little as $5k up to $200k, highlighting the variability in investment amounts during their fundraising campaign."
+}]

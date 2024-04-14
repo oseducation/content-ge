@@ -1,0 +1,52 @@
+[{
+    "name": "Equity Split Importance",
+    "question": "Why is deciding the equity split with co-founders considered a key factor in a startup's success?",
+    "choices": [{
+        "choice": "It determines the startup's legal structure.",
+        "is_right_choice": false
+    }, {
+        "choice": "It keeps co-founders motivated over the long term.",
+        "is_right_choice": true
+    }, {
+        "choice": "It helps in securing external funding more easily.",
+        "is_right_choice": false
+    }, {
+        "choice": "It reduces the operational costs of the startup.",
+        "is_right_choice": false
+    }],
+    "explanation": "Deciding the equity split is crucial because it directly impacts co-founders' motivation and commitment to building a successful and impactful company over many years."
+}, {
+    "name": "Vesting's Role",
+    "question": "What is the purpose of a typical four-year vesting schedule with a one-year cliff for co-founders' equity?",
+    "choices": [{
+        "choice": "To prevent co-founders from selling their equity too soon.",
+        "is_right_choice": false
+    }, {
+        "choice": "To increase the company's valuation.",
+        "is_right_choice": false
+    }, {
+        "choice": "To act as a safety net if co-founders leave early.",
+        "is_right_choice": true
+    }, {
+        "choice": "To complicate the equity split negotiations.",
+        "is_right_choice": false
+    }],
+    "explanation": "The purpose of vesting schedules is to protect the company by ensuring that co-founders earn their equity over time, therefore acting as a safety net if they leave the company within the first year, preventing them from taking equity without a long-term commitment."
+}, {
+    "name": "Equality in Equity Split",
+    "question": "Why might an equal equity split not be the best solution for all startups?",
+    "choices": [{
+        "choice": "It can lead to legal complications.",
+        "is_right_choice": false
+    }, {
+        "choice": "It may not accurately reflect each co-founder's contribution and motivation.",
+        "is_right_choice": true
+    }, {
+        "choice": "It is often against the law.",
+        "is_right_choice": false
+    }, {
+        "choice": "It makes it harder to attract external investors.",
+        "is_right_choice": false
+    }],
+    "explanation": "An equal equity split may be simple, but it does not always consider the varying contributions and motivations of the co-founders. Therefore, equity agreements should be thoughtfully tailored to truly motivate each co-founder based on their long-term contributions to the startup."
+}]

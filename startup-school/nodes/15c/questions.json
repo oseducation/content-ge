@@ -1,0 +1,69 @@
+[{
+    "name": "Importance of Understanding Customers",
+    "question": "Why is it important for startup founders to understand their customers?",
+    "choices": [{
+        "choice": "To solely focus on product development",
+        "is_right_choice": false
+    }, {
+        "choice": "To know what the customer wants or needs",
+        "is_right_choice": true
+    }, {
+        "choice": "Understanding customers is not necessary if the product is good",
+        "is_right_choice": false
+    }, {
+        "choice": "To reduce marketing costs",
+        "is_right_choice": false
+    }],
+    "explanation": "Understanding the customer is critical for startup founders as it helps them to align their solution (product/service) with the customer's needs and problems, thereby making their offering more effective and sellable."
+},{
+    "name": "Sales Skills Foundation",
+    "question": "Why should selling be a foundational skill for startup founders according to the text?",
+    "choices": [{
+        "choice": "It's an easy job to outsource.",
+        "is_right_choice": false
+    }, {
+        "choice": "It gives them power over the startup's future.",
+        "is_right_choice": true
+    }, {
+        "choice": "Selling is not as important as product development.",
+        "is_right_choice": false
+    }, {
+        "choice": "Founders should focus only on investment gathering.",
+        "is_right_choice": false
+    }],
+    "explanation": "Selling is described as foundational because it empowers startup founders to directly influence their company's future by being actively involved in understanding and fulfilling customer needs."
+},{
+    "name": "Ease of Learning Sales",
+    "question": "What does the text suggest is necessary to learn sales effectively?",
+    "choices": [{
+        "choice": "Being a natural-born seller",
+        "is_right_choice": false
+    }, {
+        "choice": "Knowing the product, market, and problems being solved",
+        "is_right_choice": true
+    }, {
+        "choice": "Having a large sales team from the start",
+        "is_right_choice": false
+    }, {
+        "choice": "Attending expensive sales training programs",
+        "is_right_choice": false
+    }],
+    "explanation": "The text emphasizes that learning sales can be straightforward for startup founders if they focus on understanding their product, the market they are serving, and the specific problems their product or service is solving."
+},{
+    "name": "Real-life Successful Founders",
+    "question": "Which of the following is not mentioned as an example of a startup founder who mastered sales?",
+    "choices": [{
+        "choice": "Elon Musk",
+        "is_right_choice": true
+    }, {
+        "choice": "Tony (DoorDash)",
+        "is_right_choice": false
+    }, {
+        "choice": "Mathilde (Front)",
+        "is_right_choice": false
+    }, {
+        "choice": "Tracy (PlanGrid)",
+        "is_right_choice": false
+    }],
+    "explanation": "Elon Musk, despite being a highly prominent entrepreneur known for his involvement in multiple successful startups, is not mentioned in the provided text as an example of a startup founder who mastered sales. The text specifically names Tony (DoorDash), Mathilde (Front), Tracy (PlanGrid), and Steve Jobs."
+}]

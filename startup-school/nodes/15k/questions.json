@@ -1,0 +1,69 @@
+[{
+    "name": "Airbnb_initial_growth",
+    "question": "What was one of the initial growth strategies used by Airbnb?",
+    "choices": [{
+        "choice": "Investing heavily in Facebook ads",
+        "is_right_choice": false
+    }, {
+        "choice": "Utilizing non-scalable methods",
+        "is_right_choice": true
+    }, {
+        "choice": "Focusing on Google search from the beginning",
+        "is_right_choice": false
+    }, {
+        "choice": "Creating a referral program",
+        "is_right_choice": false
+    }],
+    "explanation": "Airbnb's initial growth strategy did not rely on scalable methods like Facebook ads, Google search, or their referral program. Instead, they focused on smaller, non-scalable methods that were different from what they would use for growth at a larger scale."
+}, {
+    "name": "early_stage_growth_mistake",
+    "question": "Why might it be a mistake for startups to focus on scalable growth channels from the beginning?",
+    "choices": [{
+        "choice": "Scalable channels do not work for startups",
+        "is_right_choice": false
+    }, {
+        "choice": "Scalable channels are too expensive",
+        "is_right_choice": true
+    }, {
+        "choice": "Startups do not have enough content for scalable channels",
+        "is_right_choice": false
+    }, {
+        "choice": "Non-scalable channels are more effective in every aspect",
+        "is_right_choice": false
+    }],
+    "explanation": "Focusing on scalable growth channels from the beginning can be a mistake for startups because these channels can be expensive due to high competition and may not be the most effective way to reach their initial customer base."
+}, {
+    "name": "sales_strategy_evolution",
+    "question": "How does a startup's sales strategy evolve as it grows?",
+    "choices": [{
+        "choice": "It becomes less important",
+        "is_right_choice": false
+    }, {
+        "choice": "It does not change",
+        "is_right_choice": false
+    }, {
+        "choice": "It shifts to focus only on digital marketing",
+        "is_right_choice": false
+    }, {
+        "choice": "It is performed by more people with automated tools and metrics",
+        "is_right_choice": true
+    }],
+    "explanation": "As a startup grows, its sales strategy remains grounded in the same fundamental idea but is carried out by more individuals, utilizing more automated tools and metrics, to enhance effectiveness and efficiency."
+}, {
+    "name": "online_marketing_timing",
+    "question": "Why is starting with online marketing not recommended for most startups?",
+    "choices": [{
+        "choice": "It's too complicated for startups to manage",
+        "is_right_choice": false
+    }, {
+        "choice": "It doesn't help in understanding the customer base",
+        "is_right_choice": true
+    }, {
+        "choice": "Online platforms don't accept startups",
+        "is_right_choice": false
+    }, {
+        "choice": "It's too modern for traditional businesses",
+        "is_right_choice": false
+    }],
+    "explanation": "Starting with online marketing is not recommended for most startups because these platforms bring in customers that the startup may not be able to easily reach out to and engage in meaningful conversations, which is crucial in the early stages for understanding and refining the customer base."
+}]

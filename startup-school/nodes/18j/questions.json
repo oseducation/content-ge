@@ -1,0 +1,52 @@
+[{
+    "name": "Paid_Growth_Timing",
+    "question": "According to the text, when is it advisable for a startup to consider diving into paid growth strategies?",
+    "choices": [{
+        "choice": "Immediately after launching the product",
+        "is_right_choice": false
+    }, {
+        "choice": "Once the startup has some income",
+        "is_right_choice": true
+    }, {
+        "choice": "After securing venture capital",
+        "is_right_choice": false
+    }, {
+        "choice": "Only after reaching profitability",
+        "is_right_choice": false
+    }],
+    "explanation": "The text advises startups to avoid jumping into paid growth strategies without having some income first. This mitigates the risk of spending on advertising without the ability to recover costs."
+}, {
+    "name": "Customer_Acquisition_Cost",
+    "question": "What is Customer Acquisition Cost (CAC) as described in the text?",
+    "choices": [{
+        "choice": "The total revenue a startup makes from a new customer",
+        "is_right_choice": false
+    }, {
+        "choice": "The cost associated with developing a new product for the market",
+        "is_right_choice": false
+    }, {
+        "choice": "The money spent to acquire a new customer",
+        "is_right_choice": true
+    }, {
+        "choice": "The profit earned from a new customer minus the marketing expenses",
+        "is_right_choice": false
+    }],
+    "explanation": "Customer Acquisition Cost (CAC) is defined in the text as the money spent to get a new customer. It highlights the importance of ensuring earnings from a new customer are greater than the CAC to avoid running at a loss."
+}, {
+    "name": "Effective_Platforms_for_Paid_Growth",
+    "question": "Which platforms does the text recommend focusing on for paid growth?",
+    "choices": [{
+        "choice": "Twitter and LinkedIn",
+        "is_right_choice": false
+    }, {
+        "choice": "Google only",
+        "is_right_choice": false
+    }, {
+        "choice": "Google, Facebook, and Instagram",
+        "is_right_choice": true
+    }, {
+        "choice": "Snapchat and TikTok",
+        "is_right_choice": false
+    }],
+    "explanation": "The text specifically mentions Google, Facebook, and Instagram as the significant platforms for startups to concentrate on for getting visibility and pushing paid growth efforts."
+}]

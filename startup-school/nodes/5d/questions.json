@@ -1,0 +1,52 @@
+[{
+    "name": "Quality Bar Challenge",
+    "question": "Why do many consumer-focused startups fail to meet the quality bar?",
+    "choices": [{
+        "choice": "Because consumer expectations are unpredictably low",
+        "is_right_choice": false
+    }, {
+        "choice": "Due to underestimating the high quality standards of existing products",
+        "is_right_choice": true
+    }, {
+        "choice": "Because their products are too innovative",
+        "is_right_choice": false
+    }, {
+        "choice": "They focus too much on marketing",
+        "is_right_choice": false
+    }],
+    "explanation": "Many consumer-focused startups fail to meet the quality bar because they underestimate how high the quality standards are for consumer products. Successful products set a high benchmark, and new entrants often don't realize the level of quality required to compete."
+}, {
+    "name": "Timing in Success",
+    "question": "How does timing affect the success of consumer startups?",
+    "choices": [{
+        "choice": "Timing has no real impact on success",
+        "is_right_choice": false
+    }, {
+        "choice": "Only affects the initial marketing phase",
+        "is_right_choice": false
+    }, {
+        "choice": "Can make or break the business depending on market readiness",
+        "is_right_choice": true
+    }, {
+        "choice": "Is only relevant for tech-related products",
+        "is_right_choice": false
+    }],
+    "explanation": "Timing can significantly impact the success of consumer startups because launching a product when the market is not ready, or missing the optimal launch window, can result in failure regardless of the product's potential."
+}, {
+    "name": "Founder's Misunderstanding",
+    "question": "What common misunderstanding do founders have regarding consumer products?",
+    "choices": [{
+        "choice": "Believing that existing social networks are easy to compete with",
+        "is_right_choice": false
+    }, {
+        "choice": "Thinking that quality can be compromised for faster market entry",
+        "is_right_choice": false
+    }, {
+        "choice": "Not fully grasping the level of success established products have",
+        "is_right_choice": true
+    }, {
+        "choice": "Assuming that timing is not a critical factor for success",
+        "is_right_choice": false
+    }],
+    "explanation": "A common misunderstanding among founders is not fully appreciating how difficult it is to reach the level of success that established consumer products have achieved. They may believe in their idea, but underestimate the challenges in matching the quality and timing required."
+}]

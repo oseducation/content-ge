@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding Prioritization in Startups",
+    "question": "What is one of the key considerations in prioritizing tasks for startup success?",
+    "choices": [{
+        "choice": "Focusing on tasks that require the least amount of time.",
+        "is_right_choice": false
+    }, {
+        "choice": "Focusing on the most impactful tasks for the venture.",
+        "is_right_choice": true
+    }, {
+        "choice": "Prioritizing tasks that are easier to outsource.",
+        "is_right_choice": false
+    }, {
+        "choice": "Allocating more time to tasks with the longest deadlines.",
+        "is_right_choice": false
+    }],
+    "explanation": "Focusing on the most impactful tasks for the venture is crucial for startup success because it ensures that the limited time and resources are spent on activities that will have the greatest positive effect on the business."
+}, {
+    "name": "Time Management and Life Balance",
+    "question": "Which of the following is highlighted as a personal aspect of prioritization in startups?",
+    "choices": [{
+        "choice": "Finding a one-size-fits-all strategy for time management.",
+        "is_right_choice": false
+    }, {
+        "choice": "The importance of speed in the startup world.",
+        "is_right_choice": true
+    }, {
+        "choice": "Adapting corporate strategies to startup environments.",
+        "is_right_choice": false
+    }, {
+        "choice": "Focusing solely on the startup, neglecting other areas of life.",
+        "is_right_choice": false
+    }],
+    "explanation": "The importance of speed is highlighted as a crucial aspect of managing time within the context of startup prioritization. It's mentioned to underline how quickly things need to move in the startup world, making time management and prioritization even more critical."
+}, {
+    "name": "Co-Founder Expectations",
+    "question": "According to the discussion on prioritization in startups, finding common ground with your co-founder on what aspect is extremely crucial?",
+    "choices": [{
+        "choice": "Deciding on the startup's branding strategy.",
+        "is_right_choice": false
+    }, {
+        "choice": "Setting expectations on workload and hours.",
+        "is_right_choice": true
+    }, {
+        "choice": "Choosing the right office location.",
+        "is_right_choice": false
+    }, {
+        "choice": "Determining the startup's target market.",
+        "is_right_choice": false
+    }],
+    "explanation": "Finding common ground with your co-founder on setting expectations regarding workload and hours is crucial for maintaining a healthy working relationship and ensuring that both founders are aligned on the commitment required to the startup."
+}]

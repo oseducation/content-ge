@@ -1,0 +1,69 @@
+[{
+    "name": "Risk Assessment",
+    "question": "Why is it important to assess what you have to lose before starting a company?",
+    "choices": [{
+        "choice": "To ensure you have enough savings",
+        "is_right_choice": false
+    }, {
+        "choice": "To understand your own tolerance for risk and potential loss",
+        "is_right_choice": true
+    }, {
+        "choice": "To calculate the potential profits of the startup",
+        "is_right_choice": false
+    }, {
+        "choice": "To impress potential investors",
+        "is_right_choice": false
+    }],
+    "expenation": "Understanding your tolerance for risk and potential loss is crucial because it helps in making an informed decision about whether the startup path is right for you, considering the worst-case scenario."
+}, {
+    "name": "Worst-Case Scenario",
+    "question": "What might be a worst-case scenario for someone starting a company?",
+    "choices": [{
+        "choice": "Becoming too successful too quickly",
+        "is_right_choice": false
+    }, {
+        "choice": "Facing legal challenges",
+        "is_right_choice": false
+    }, {
+        "choice": "Ending up without any significant income for a year",
+        "is_right_choice": true
+    }, {
+        "choice": "Receiving too much media attention",
+        "is_right_choice": false
+    }],
+    "expenation": "The worst-case scenario cited for someone starting a company is ending up without any significant income for a year. This outcome forces potential founders to consider their financial resilience and risk tolerance."
+}, {
+    "name": "Impact of Personal Circumstances",
+    "question": "How can personal circumstances affect the perceived risk of starting a company?",
+    "choices": [{
+        "choice": "They can influence your marketing strategy",
+        "is_right_choice": false
+    }, {
+        "choice": "They dictate the kind of business you should start",
+        "is_right_choice": false
+    }, {
+        "choice": "They determine your eligibility for bank loans",
+        "is_right_choice": false
+    }, {
+        "choice": "They vary the impact of potential loss, like missing out on income or career opportunities",
+        "is_right_choice": true
+    }],
+    "expenation": "Personal circumstances such as being fresh out of college or having a stable career with significant prospects significantly affect how one perceives the risk involved in starting a company, especially considering the impact of potential losses."
+}, {
+    "name": "Future Opportunities",
+    "question": "How can an unsuccessful startup endeavor be beneficial in the long run?",
+    "choices": [{
+        "choice": "It can eliminate future job opportunities",
+        "is_right_choice": false
+    }, {
+        "choice": "It can be a stepping stone to another entrepreneurial venture or career focus",
+        "is_right_choice": true
+    }, {
+        "choice": "It ensures quick financial success in future endeavors",
+        "is_right_choice": false
+    }, {
+        "choice": "It exempts you from paying taxes",
+        "is_right_choice": false
+    }],
+    "expenation": "An unsuccessful startup can provide valuable lessons and insights, making it a beneficial stepping stone towards either another entrepreneurial venture or a more focused career path based on the skills and preferences discovered during the startup journey."
+}]

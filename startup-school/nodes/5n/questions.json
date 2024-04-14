@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding Smart Pivots",
+    "question": "What is a key indicator of a smart pivot for a startup?",
+    "choices": [{
+        "choice": "Shifting to ideas with high competition and low market demand",
+        "is_right_choice": false
+    }, {
+        "choice": "Identifying a high demand for a solution with fewer competitors working on it",
+        "is_right_choice": true
+    }, {
+        "choice": "Following the most popular startup trends regardless of market demand",
+        "is_right_choice": false
+    }, {
+        "choice": "Avoiding any significant changes to the startup's original idea",
+        "is_right_choice": false
+    }],
+    "explanation": "A smart pivot involves moving from an area with low market demand and high competition to one with high demand and fewer competitors. This strategic shift is based on supply and demand dynamics, improving the startup's chances of success."
+}, {
+    "name": "Advice for Founders",
+    "question": "What should founders focus on to increase their chances of success, according to the passage?",
+    "choices": [{
+        "choice": "Ignoring market demands and focusing on unique ideas only",
+        "is_right_choice": false
+    }, {
+        "choice": "Targeting the most crowded and popular sectors",
+        "is_right_choice": false
+    }, {
+        "choice": "Conducting thorough research to understand market demand and supply of similar ideas",
+        "is_right_choice": true
+    }, {
+        "choice": "Strictly following the advice of all advisors without personal assessment",
+        "is_right_choice": false
+    }],
+    "explanation": "The passage suggests that founders should increase their chances of success by conducting thorough research to understand what the market demands and where there's a low supply of similar ideas. This strategic approach helps in making smart pivots and achieving success."
+}, {
+    "name": "Success in Startups",
+    "question": "According to the passage, what factor does not guarantee startup success?",
+    "choices": [{
+        "choice": "Moving to tougher, less crowded spaces",
+        "is_right_choice": false
+    }, {
+        "choice": "Following advice that promises guaranteed success",
+        "is_right_choice": true
+    }, {
+        "choice": "Recognizing the need to pivot away from crowded markets",
+        "is_right_choice": false
+    }, {
+        "choice": "Understanding and acting on supply and demand dynamics",
+        "is_right_choice": false
+    }],
+    "explanation": "The passage explicitly states that no advisor can guarantee success, indicating that following advice that promises more than a strategic reevaluation and smart pivoting does not guarantee startup success. It underscores the complexity and uncertainty in achieving startup success, emphasizing strategic moves and market understanding over empty promises."
+}]

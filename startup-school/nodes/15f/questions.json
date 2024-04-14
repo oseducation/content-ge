@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding Sales Funnel Basics",
+    "question": "What is the primary purpose of a sales funnel?",
+    "choices": [{
+        "choice": "To automate customer service responses.",
+        "is_right_choice": false
+    }, {
+        "choice": "To narrow down potential customers to actual customers.",
+        "is_right_choice": true
+    }, {
+        "choice": "To collect email addresses for a newsletter.",
+        "is_right_choice": false
+    }, {
+        "choice": "To schedule meetings with every potential lead.",
+        "is_right_choice": false
+    }],
+    "explanation": "A sales funnel serves the primary purpose of taking a large number of potential customers (leads) and narrowing down these prospects to identify those who will become actual customers, similar to selecting ducks in the game analogy."
+}, {
+    "name": "Stages of Sales Funnel",
+    "question": "Which of the following steps is NOT part of the sales funnel described?",
+    "choices": [{
+        "choice": "Collecting customer feedback.",
+        "is_right_choice": true
+    }, {
+        "choice": "Prospecting or lead generation.",
+        "is_right_choice": false
+    }, {
+        "choice": "Scheduling a demo or meeting.",
+        "is_right_choice": false
+    }, {
+        "choice": "Talking pricing.",
+        "is_right_choice": false
+    }],
+    "explanation": "Although collecting customer feedback is important for product improvement and customer satisfaction, it was not listed as a step in the sales funnel process described. The sales funnel process mainly focuses on converting potential leads to actual customers through specific stages such as prospecting, demonstrating the product, discussing pricing, closing the deal, and onboarding."
+}, {
+    "name": "Tools for Managing Sales Funnel",
+    "question": "Why is it recommended to use a CRM tool in managing the sales funnel?",
+    "choices": [{
+        "choice": "To play online games during work hours.",
+        "is_right_choice": false
+    }, {
+        "choice": "To automate the entire sales process so you don't have to work.",
+        "is_right_choice": false
+    }, {
+        "choice": "To keep track of where each customer is in your funnel.",
+        "is_right_choice": true
+    }, {
+        "choice": "Only to manage customer email addresses.",
+        "is_right_choice": false
+    }],
+    "explanation": "A CRM (Customer Relationship Management) tool is recommended for managing a sales funnel because it helps keep track of where each prospect or customer is in the funnel. This organization is crucial for efficiently moving leads through the funnel and ensuring that prospects don't get lost in the process."
+}]

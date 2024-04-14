@@ -1,0 +1,52 @@
+[{
+    "name": "Importance of Preparation in Communication",
+    "question": "What did former U.S. President Woodrow Wilson say about the preparation required for a short speech?",
+    "choices": [{
+        "choice": "He would need no preparation at all.",
+        "is_right_choice": false
+    }, {
+        "choice": "He would need two weeks to prepare.",
+        "is_right_choice": true
+    }, {
+        "choice": "He prefers to speak without a time limit and without preparation.",
+        "is_right_choice": false
+    }, {
+        "choice": "He could prepare in just a few hours.",
+        "is_right_choice": false
+    }],
+    "expenation": "Woodrow Wilson remarked that for a short 10-minute speech, he'd need two weeks of preparation, emphasizing the importance of thorough preparation to achieve simplicity and clarity in communication."
+}, {
+    "name": "Principles of Amazon's Plan",
+    "question": "According to Jeff Bezos, what are the three straightforward principles that Amazon's plan is based on?",
+    "choices": [{
+        "choice": "Technology, Innovation, and Customer Service",
+        "is_right_choice": false
+    }, {
+        "choice": "Faster delivery, larger array of stuff, and cheaper prices",
+        "is_right_choice": true
+    }, {
+        "choice": "Sustainability, Global Reach, and Speed",
+        "is_right_choice": false
+    }, {
+        "choice": "Quality, Customer Loyalty, and Globalization",
+        "is_right_choice": false
+    }],
+    "expenation": "Jeff Bezos stated that Amazon's retail plan was based on three principles: Customers will always desire cheaper prices, a larger selection of products, and faster delivery. These became the firm pillars of Amazon for 20 years."
+}, {
+    "name": "Leadership Communication Skills",
+    "question": "What is suggested as a way to improve communication skills according to the text?",
+    "choices": [{
+        "choice": "Only speak to large audiences to gain confidence.",
+        "is_right_choice": false
+    }, {
+        "choice": "Limit communication to emails and written messages.",
+        "is_right_choice": false
+    }, {
+        "choice": "Practicing the speech in front of a smaller group first.",
+        "is_right_choice": true
+    }, {
+        "choice": "Avoid asking for feedback to remain confident.",
+        "is_right_choice": false
+    }],
+    "expenation": "To improve communication skills, the text suggests planning and preparing your communications, including practicing your talk in front of a smaller group first to hone it, and asking for feedback, indicating that rehearsal and feedback are critical tools for improving clarity in communication."
+}]

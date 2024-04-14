@@ -1,0 +1,35 @@
+[{
+    "name": "Reasons for Not Applying to Incubator Programs",
+    "question": "Which of the following is NOT a valid reason for choosing not to apply to a startup incubator?",
+    "choices": [{
+        "choice": "Your startup is a non-tech business.",
+        "is_right_choice": false
+    }, {
+        "choice": "You are planning to work on your startup as a side project.",
+        "is_right_choice": false
+    }, {
+        "choice": "You believe your startup has a strong technical foundation.",
+        "is_right_choice": true
+    }, {
+        "choice": "You are not interested in seeking venture capital.",
+        "is_right_choice": false
+    }],
+    "explanation": "Having a strong technical foundation is not a reason to avoid applying to an incubator. In fact, startups with strong tech components are often more favored by such programs. The other options represent scenarios where an incubator program might not be suitable, such as limited commitment, a non-tech focus, or disinterest in venture capital."
+}, {
+    "name": "Commitment Level for Incubators",
+    "question": "Why might a limited commitment to a startup be a reason not to apply for an incubator program?",
+    "choices": [{
+        "choice": "Incubators require significant financial investment.",
+        "is_right_choice": false
+    }, {
+        "choice": "Incubators prefer longer-term projects that aim for significant growth.",
+        "is_right_choice": true
+    }, {
+        "choice": "Most incubator programs last less than six months.",
+        "is_right_choice": false
+    }, {
+        "choice": "Short-term projects typically have higher success rates in incubators.",
+        "is_right_choice": false
+    }],
+    "explanation": "Incubators tend to support startups that are committed to long-term growth and have the potential for significant expansion. If an entrepreneur views their startup as a short-term endeavour or is planning to discontinue their involvement quickly, this does not align with the objectives of most incubator programs, which aim to nurture and grow businesses over a longer period."
+}]

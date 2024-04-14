@@ -1,0 +1,52 @@
+[{
+    "name": "MVP_example_Airbnb",
+    "question": "What were the characteristics of Airbnb's MVP when it first launched?",
+    "choices": [{
+        "choice": "Payment processing through a smartphone app",
+        "is_right_choice": false
+    }, {
+        "choice": "Exchange of money with the host in person",
+        "is_right_choice": true
+    }, {
+        "choice": "Precise location of the house on a map",
+        "is_right_choice": false
+    }, {
+        "choice": "High-quality images of the listings",
+        "is_right_choice": false
+    }],
+    "expenation": "Airbnb's MVP lacked any online payment processing capability, requiring guests and hosts to exchange money in person. Additionally, it didn't feature a map to show the property's location, showcasing its initial lack of advanced features."
+}, {
+    "name": "MVP_example_Twitch",
+    "question": "What was Twitch originally known as when it first launched?",
+    "choices": [{
+        "choice": "GameStream.tv",
+        "is_right_choice": false
+    }, {
+        "choice": "LivePlay",
+        "is_right_choice": false
+    }, {
+        "choice": "PlayerOne.tv",
+        "is_right_choice": false
+    }, {
+        "choice": "Justin.tv",
+        "is_right_choice": true
+    }],
+    "expenation": "Twitch was initially launched as Justin.tv, which was essentially a one-channel online reality TV show, vastly different from its current form as a popular live-streaming platform for gaming and other activities."
+}, {
+    "name": "MVP_characteristic_Stripe",
+    "question": "What unique customer service did Stripe offer during its early stages?",
+    "choices": [{
+        "choice": "24/7 phone support",
+        "is_right_choice": false
+    }, {
+        "choice": "Online chat support",
+        "is_right_choice": false
+    }, {
+        "choice": "Founders visiting offices for integration help",
+        "is_right_choice": true
+    }, {
+        "choice": "Automated setup guides",
+        "is_right_choice": false
+    }],
+    "expenation": "In its early stages, Stripe differentiated itself by providing exceptional customer service. The founders would personally visit clients' offices to assist with the integration of their payment processing service, demonstrating a hands-on approach to customer support and problem-solving."
+}]

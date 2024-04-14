@@ -1,0 +1,69 @@
+[{
+    "name": "Evaluating Startup Ideas - Potential Size",
+    "question": "When evaluating a startup idea, why is considering the potential size of the idea important?",
+    "choices": [{
+        "choice": "It helps in determining the color scheme of the business.",
+        "is_right_choice": false
+    }, {
+        "choice": "It indicates whether the idea could become a big, publicly traded company.",
+        "is_right_choice": true
+    }, {
+        "choice": "It decides how many people you should hire initially.",
+        "is_right_choice": false
+    }, {
+        "choice": "It determines the initial investment required.",
+        "is_right_choice": false
+    }],
+    "expenation": "Considering the potential size of the idea is crucial because it indicates the scalability and future growth prospects of the startup. A higher potential size means the idea has the possibility to become a significant player, like a new car company or bank."
+}, {
+    "name": "Evaluating Startup Ideas - Founder/Market Fit",
+    "question": "What does a perfect score (10 out of 10) in Founder/Market Fit indicate?",
+    "choices": [{
+        "choice": "The idea requires a large initial investment.",
+        "is_right_choice": false
+    }, {
+        "choice": "The founder needs to learn more about the market.",
+        "is_right_choice": false
+    }, {
+        "choice": "The founder's background and skills directly align with the startup.",
+        "is_right_choice": true
+    }, {
+        "choice": "The startup idea is easy to start.",
+        "is_right_choice": false
+    }],
+    "expenation": "A perfect score in Founder/Market Fit suggests that the founder's personal experience, background, and skills are highly relevant and directly aligned with the startup idea, increasing the likelihood of its success."
+}, {
+    "name": "Evaluating Startup Ideas - Ease of Getting Started",
+    "question": "Why is the 'Ease of Getting Started' an important factor to consider when evaluating a startup idea?",
+    "choices": [{
+        "choice": "It indicates the level of competition in the market.",
+        "is_right_choice": false
+    }, {
+        "choice": "It's crucial for deciding the startup's name.",
+        "is_right_choice": false
+    }, {
+        "choice": "It can determine the startup's potential for quick success.",
+        "is_right_choice": false
+    }, {
+        "choice": "An easier start can lead to better chances of success since some ideas never take off due to complexity.",
+        "is_right_choice": true
+    }],
+    "expenation": "Considering the 'Ease of Getting Started' is crucial because ideas that are simpler and quicker to launch have a better chance of success. Complexities and difficulties in starting up can hinder even great ideas from taking off."
+}, {
+    "name": "Evaluating Startup Ideas - Early Market Feedback",
+    "question": "What does high early market feedback score indicate when evaluating a startup idea?",
+    "choices": [{
+        "choice": "The product is too expensive.",
+        "is_right_choice": false
+    }, {
+        "choice": "There's a high level of market competition.",
+        "is_right_choice": false
+    }, {
+        "choice": "Customers immediately want the product and purchasing is straightforward.",
+        "is_right_choice": true
+    }, {
+        "choice": "The startup will require a large marketing budget.",
+        "is_right_choice": false
+    }],
+    "expenation": "High early market feedback score reflects positive initial reactions from potential customers, indicating strong demand, interest, or need for the product, which can significantly contribute to the startup's success."
+}]

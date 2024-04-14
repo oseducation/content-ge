@@ -1,0 +1,52 @@
+[{
+    "name": "Popularity Requirement for Advertising Business Model",
+    "question": "Why is it important for a startup using an advertising business model to be extremely popular?",
+    "choices": [{
+        "choice": "Because it needs to outcompete other business models.",
+        "is_right_choice": false
+    }, {
+        "choice": "To achieve network effects where the presence of each new user adds value for other users.",
+        "is_right_choice": true
+    }, {
+        "choice": "To ensure it can lower its advertising rates.",
+        "is_right_choice": false
+    }, {
+        "choice": "To attract venture capital funding.",
+        "is_right_choice": false
+    }],
+    "explanation": "In an advertising business model, extreme popularity is crucial to achieve network effects, meaning the platform becomes more valuable as more people use it. This high user engagement is essential for attracting advertisers and generating significant revenue."
+}, {
+    "name": "Success Rate of Advertising Model in Top Startups",
+    "question": "What percentage of the top 100 startups from Y Combinator have primarily used advertising to generate revenue?",
+    "choices": [{
+        "choice": "50%",
+        "is_right_choice": false
+    }, {
+        "choice": "25%",
+        "is_right_choice": false
+    }, {
+        "choice": "3%",
+        "is_right_choice": true
+    }, {
+        "choice": "10%",
+        "is_right_choice": false
+    }],
+    "explanation": "Only 3% of the top 100 startups from Y Combinator have primarily relied on advertising for their revenue, reflecting the challenge of succeeding with this business model."
+}, {
+    "name": "Choosing a Business Model",
+    "question": "What should be the key consideration in choosing an advertising business model for your startup?",
+    "choices": [{
+        "choice": "It's an easy model to implement.",
+        "is_right_choice": false
+    }, {
+        "choice": "It works well for any type of startup.",
+        "is_right_choice": false
+    }, {
+        "choice": "Believing your startup can rank among the top 10 sites on the internet.",
+        "is_right_choice": true
+    }, {
+        "choice": "It requires less initial investment.",
+        "is_right_choice": false
+    }],
+    "explanation": "Choosing an advertising business model should be based on the confidence that your startup can achieve the level of popularity and user engagement necessary to rank among the top 10 sites on the internet, as this model depends heavily on network effects and high traffic to generate significant revenue."
+}]

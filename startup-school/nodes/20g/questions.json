@@ -1,0 +1,69 @@
+[{
+    "name": "Importance of Technical Team Members for YC Interviews",
+    "question": "How significantly does having a technically skilled founder affect your chances of getting an interview with Y Combinator?",
+    "choices": [{
+        "choice": "It doubles your chances",
+        "is_right_choice": false
+    }, {
+        "choice": "It increases your chances five-fold",
+        "is_right_choice": true
+    }, {
+        "choice": "It has no effect on your chances",
+        "is_right_choice": false
+    }, {
+        "choice": "It slightly decreases your chances",
+        "is_right_choice": false
+    }],
+    "explanation": "Having a technically skilled founder in your team substantially increases your chances of securing an interview with Y Combinator. Specifically, the presence of such a founder can boost your chances by a five-fold increase, highlighting the importance Y Combinator places on technical expertise."
+}, {
+    "name": "Effectiveness of YC’s Co-Founder Matching",
+    "question": "Why does Y Combinator offer a co-founder matching service?",
+    "choices": [{
+        "choice": "To increase fees collected from startups",
+        "is_right_choice": false
+    }, {
+        "choice": "To ensure all startups have a technical founder",
+        "is_right_choice": false
+    }, {
+        "choice": "To boost startups' chances by adding technical talent",
+        "is_right_choice": true
+    }, {
+        "choice": "To make the application process more challenging",
+        "is_right_choice": false
+    }],
+    "explanation": "Y Combinator offers a co-founder matching service as a way to enhance startups' chances of success and securing an interview by facilitating the addition of technical talent to their teams. This induction of technical skills into the startup team aligns with YC's emphasis on the importance of having technical founders for a stronger application."
+}, {
+    "name": "Misconceptions about YC's Selection Process",
+    "question": "What is a common misconception about the Y Combinator application process?",
+    "choices": [{
+        "choice": "You need a fully developed product to apply",
+        "is_right_choice": false
+    }, {
+        "choice": "You need to have strong connections or introductions to get in",
+        "is_right_choice": true
+    }, {
+        "choice": "Applications are only open to software startups",
+        "is_right_choice": false
+    }, {
+        "choice": "Technical founders are not necessary",
+        "is_right_choice": false
+    }],
+    "explanation": "A common misconception about the Y Combinator application process is the need for strong connections or introductions to enhance one's chances of getting in. YC’s selection process is notably meritocratic, emphasizing talent and potential over who you know, and decisions are made based on application forms submitted through their website, not on connections."
+}, {
+    "name": "Protecting Equity and Avoiding Scams",
+    "question": "Why should startup founders be cautious of individuals claiming they can secure a place in YC for equity or money?",
+    "choices": [{
+        "choice": "Those individuals may actually improve your application",
+        "is_right_choice": false
+    }, {
+        "choice": "Such claims are generally truthful and helpful",
+        "is_right_choice": false
+    }, {
+        "choice": "Such individuals can guarantee a spot in Y Combinator",
+        "is_right_choice": false
+    }, {
+        "choice": "Those individuals are likely exploiting founders and can't guarantee entry into YC",
+        "is_right_choice": true
+    }],
+    "explanation": "Startup founders should be wary of individuals claiming they can ensure a spot in Y Combinator in exchange for equity or money because these claims are usually deceptive. Such individuals are preying on eager founders and cannot actually guarantee entry into YC. It's important to protect one's equity and to rely on the meritocratic application process YC provides."
+}]

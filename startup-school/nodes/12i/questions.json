@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding MVP Prototyping",
+    "question": "What is the primary purpose of using a Minimum Viable Product (MVP) during the early stages of product development?",
+    "choices": [{
+        "choice": "To fully develop the product's final features",
+        "is_right_choice": false
+    }, {
+        "choice": "To pitch the core idea to potential customers and gather feedback",
+        "is_right_choice": true
+    }, {
+        "choice": "To generate revenue",
+        "is_right_choice": false
+    }, {
+        "choice": "To finalize the product's design and branding",
+        "is_right_choice": false
+    }],
+    "explanation": "The primary purpose of using an MVP in early product development is to pitch the core idea to potential customers and gather their feedback, not to fully develop or finalize the product."
+}, {
+    "name": "Prototype Interaction",
+    "question": "When presenting a prototype to potential users, what is the suggested approach for guiding them?",
+    "choices": [{
+        "choice": "Provide detailed step-by-step instructions",
+        "is_right_choice": false
+    }, {
+        "choice": "Let them explore the prototype freely",
+        "is_right_choice": true
+    }, {
+        "choice": "Avoid giving any form of instruction or context",
+        "is_right_choice": false
+    }, {
+        "choice": "Only show them the finished parts of the prototype",
+        "is_right_choice": false
+    }],
+    "explanation": "Letting the users explore the prototype freely, rather than providing step-by-step instructions, helps in understanding how intuitive and user-friendly the product is."
+}, {
+    "name": "Improving User Experience",
+    "question": "What technique is recommended to gain valuable insights while users interact with a prototype?",
+    "choices": [{
+        "choice": "Asking users to complete a survey after using the prototype",
+        "is_right_choice": false
+    }, {
+        "choice": "Observing users without any interaction",
+        "is_right_choice": false
+    }, {
+        "choice": "Asking users to voice their thoughts during the interaction",
+        "is_right_choice": true
+    }, {
+        "choice": "Limiting users' interaction to specific functions",
+        "is_right_choice": false
+    }],
+    "explanation": "Asking users to voice their thoughts while interacting with the prototype provides immediate and actionable insights into their experience, which is more effective than surveys, observations, or limitations."
+}]

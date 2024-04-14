@@ -1,0 +1,52 @@
+[{
+    "name": "Good Practice in Asking Questions",
+    "question": "Which of the following is considered a good practice in asking interview questions for startups?",
+    "choices": [{
+        "choice": "Always ask yes/no questions to get straightforward answers.",
+        "is_right_choice": false
+    }, {
+        "choice": "Learn to ask follow-up questions to get more information.",
+        "is_right_choice": true
+    }, {
+        "choice": "Focus on asking double-barreled questions to save time.",
+        "is_right_choice": false
+    }, {
+        "choice": "Ask people if they will use your product to validate its market fit.",
+        "is_right_choice": false
+    }],
+    "explanation": "Asking follow-up questions is a good practice because it helps in digging deeper into responses for more clarity and information, making it possible to understand the interviewee's perspective better. The other options are either ineffective or advised against for getting meaningful insights."
+}, {
+    "name": "Avoidable Question Types",
+    "question": "Why are 'Yes/no questions' advised against in startup interviews?",
+    "choices": [{
+        "choice": "They are too complicated to understand.",
+        "is_right_choice": false
+    }, {
+        "choice": "They provide concrete examples and real, useful information.",
+        "is_right_choice": false
+    }, {
+        "choice": "They don't add a lot to the conversation and lack depth.",
+        "is_right_choice": true
+    }, {
+        "choice": "They are considered too rude to ask in a professional setting.",
+        "is_right_choice": false
+    }],
+    "explanation": "Yes/no questions are advised against because they tend to offer very little depth or detail, making it hard to gather insightful or actionable information. They don't facilitate the opening up of a meaningful dialogue that can provide deeper understanding."
+}, {
+    "name": "Questioning Techniques",
+    "question": "Which type of question is recommended to avoid as it can confuse the interviewee?",
+    "choices": [{
+        "choice": "Open-ended questions",
+        "is_right_choice": false
+    }, {
+        "choice": "Follow-up questions",
+        "is_right_choice": false
+    }, {
+        "choice": "Double-barreled questions",
+        "is_right_choice": true
+    }, {
+        "choice": "Problem-solving questions",
+        "is_right_choice": false
+    }],
+    "explanation": "Double-barreled questions are recommended to avoid because they pose two questions at once, which can lead to confusion and mixed answers from the interviewee. It's better to ask one question at a time to receive clear and focused responses."
+}]

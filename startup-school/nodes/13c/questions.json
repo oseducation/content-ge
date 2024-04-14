@@ -1,0 +1,52 @@
+[{
+    "name": "pre_launch_goal_1",
+    "question": "What is the first step for a pre-launch startup according to the text?",
+    "choices": [{
+        "choice": "Creating a detailed business plan",
+        "is_right_choice": false
+    }, {
+        "choice": "Launch quickly",
+        "is_right_choice": true
+    }, {
+        "choice": "Gather as much feedback as possible",
+        "is_right_choice": false
+    }, {
+        "choice": "Design a perfect product",
+        "is_right_choice": false
+    }],
+    "explanation": "Launching quickly is highlighted as the first and key step for pre-launch startups, underlining the importance of getting a product to market rapidly, even if it's not in a perfect state."
+}, {
+    "name": "pre_launch_goal_2",
+    "question": "Why is it important to interact with the product's first customers according to the text?",
+    "choices": [{
+        "choice": "For legal reasons",
+        "is_right_choice": false
+    }, {
+        "choice": "To get feedback and insights",
+        "is_right_choice": true
+    }, {
+        "choice": "Just to boost the sales",
+        "is_right_choice": false
+    }, {
+        "choice": "It is not considered important",
+        "is_right_choice": false
+    }],
+    "explanation": "Interacting with the first customers is crucial for gathering valuable insights and feedback on the product, as it may lead to necessary adjustments that better align with customer needs."
+}, {
+    "name": "pre_launch_goal_3",
+    "question": "What does the text imply about making changes to your product?",
+    "choices": [{
+        "choice": "You should change the problem your product solves if it's not successful initially",
+        "is_right_choice": false
+    }, {
+        "choice": "Never make changes to your initial product idea",
+        "is_right_choice": false
+    }, {
+        "choice": "Continuously improve and iterate the product based on feedback and its performance",
+        "is_right_choice": true
+    }, {
+        "choice": "Switch the focus of the product to different markets frequently",
+        "is_right_choice": false
+    }],
+    "explanation": "The text recommends continuous refinement and iteration of the product based on user feedback and performance, rather than changing the fundamental problem it solves or frequently switching markets."
+}]

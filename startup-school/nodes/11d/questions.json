@@ -1,0 +1,69 @@
+[{
+    "name": "Dividing Responsibilities",
+    "question": "What is the main purpose of the 'divide and conquer' strategy in a startup business partnership?",
+    "choices": [{
+        "choice": "To ensure that all tasks are completed as quickly as possible",
+        "is_right_choice": false
+    }, {
+        "choice": "To clearly define who is responsible for different parts of the business to avoid conflicts",
+        "is_right_choice": true
+    }, {
+        "choice": "To create a competitive environment among co-founders",
+        "is_right_choice": false
+    }, {
+        "choice": "To decide who gets higher shares of the company",
+        "is_right_choice": false
+    }],
+    "explanation": "The 'divide and conquer' strategy is aimed at avoiding arguments and misunderstandings by deciding who is in charge of what parts of the business from the start. This clear division of responsibilities helps in managing the areas of the business more efficiently and minimizes conflicts between partners."
+}, {
+    "name": "Intervention Timing",
+    "question": "When is it considered a good time for a co-founder to step in and help with another co-founder's designated part of the business?",
+    "choices": [{
+        "choice": "When the business is not making any profits",
+        "is_right_choice": false
+    }, {
+        "choice": "After achieving a fundraising goal or meeting deadlines",
+        "is_right_choice": true
+    }, {
+        "choice": "Whenever they feel like the other is not doing a good job",
+        "is_right_choice": false
+    }, {
+        "choice": "Only when there's a disagreement about the direction of the business",
+        "is_right_choice": false
+    }],
+    "explanation": "The text suggests that good times for a co-founder to step in and help could be after the business has met specific objectives like gathering the needed funds or completing work on time. These moments are chosen as indicators for when support might be needed or to gauge the success of managing specific business areas."
+}, {
+    "name": "Managing Disagreements",
+    "question": "When founders have to discuss serious business issues, what approach is recommended to avoid impairing decision-making?",
+    "choices": [{
+        "choice": "Discussing these issues only during official board meetings",
+        "is_right_choice": false
+    }, {
+        "choice": "Avoiding the discussion of such issues to keep the peace",
+        "is_right_choice": false
+    }, {
+        "choice": "Getting emotional to show how much they care about the business",
+        "is_right_choice": false
+    }, {
+        "choice": "Not getting angry or emotional during the discussion",
+        "is_right_choice": true
+    }],
+    "explanation": "The text advises not to get angry or emotional during serious discussions as it can stop co-founders from thinking clearly. Setting rules for calm and unemotional discourse early is crucial for handling difficult topics effectively."
+}, {
+    "name": "Roles and Decisions",
+    "question": "In most startup situations, who is responsible for making the final decisions if there's a conflict among founders?",
+    "choices": [{
+        "choice": "The head of marketing",
+        "is_right_choice": false
+    }, {
+        "choice": "The CEO",
+        "is_right_choice": true
+    }, {
+        "choice": "All co-founders through a majority vote",
+        "is_right_choice": false
+    }, {
+        "choice": "The board of directors",
+        "is_right_choice": false
+    }],
+    "explanation": "According to the text, in most situations, the final decision comes from the head of the company, which is typically the CEO. If the conflict involves the CEO directly, then it becomes the responsibility of the board to resolve the issue. Initially, this board often consists of the founders themselves."
+}]

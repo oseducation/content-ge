@@ -1,0 +1,69 @@
+[{
+    "name": "Role of Startup Experience in Career Advancement",
+    "question": "Why do employers value previous startup experience?",
+    "choices": [{
+        "choice": "It suggests a person is likely to expect a higher salary.",
+        "is_right_choice": false
+    }, {
+        "choice": "It indicates a person's ability to take initiative and lead projects.",
+        "is_right_choice": true
+    }, {
+        "choice": "It implies the person prefers to work independently and not in a team.",
+        "is_right_choice": false
+    }, {
+        "choice": "It guarantees the person has at least 10 years of work experience.",
+        "is_right_choice": false
+    }],
+    "explanation": "Employers value previous startup experience because it demonstrates a candidate's proactive attitude, initiative, and leadership skills, key qualities for driving projects and business segments forward."
+}, {
+    "name": "Impact of Startup Failure on Career Opportunities",
+    "question": "What is the impact of a failed startup on a founder's career according to the text?",
+    "choices": [{
+        "choice": "It significantly diminishes their career prospects.",
+        "is_right_choice": false
+    }, {
+        "choice": "It has no impact on their future career opportunities.",
+        "is_right_choice": false
+    }, {
+        "choice": "It often leads to leadership roles in more established companies.",
+        "is_right_choice": true
+    }, {
+        "choice": "It restricts them to only work in startups.",
+        "is_right_choice": false
+    }],
+    "explanation": "Even if a startup does not succeed, the founder's journey can lead to significant opportunities, like leadership roles in established companies, demonstrating the value of the experience gained during the startup process."
+}, {
+    "name": "Contribution of Startup Experience to Career",
+    "question": "Which company actively recruits former founders to lead product divisions?",
+    "choices": [{
+        "choice": "Google",
+        "is_right_choice": false
+    }, {
+        "choice": "Rippling",
+        "is_right_choice": true
+    }, {
+        "choice": "Facebook",
+        "is_right_choice": false
+    }, {
+        "choice": "Airbnb",
+        "is_right_choice": false
+    }],
+    "explanation": "Rippling, a 10 billion dollar company and a YC alum, actively seeks out former founders to lead entire product divisions, highlighting their high regard for entrepreneurial experience."
+}, {
+    "name": "Career Paths and Startup Experience",
+    "question": "What does the story of Nick Grandy illustrate about startup experience?",
+    "choices": [{
+        "choice": "You need multiple successful startups to join a company like Airbnb.",
+        "is_right_choice": false
+    }, {
+        "choice": "Failure in a startup venture closes all doors to future opportunities.",
+        "is_right_choice": false
+    }, {
+        "choice": "Startup experience, even from failed ventures, can lead to impactful roles in successful companies.",
+        "is_right_choice": true
+    }, {
+        "choice": "Working in a startup is less valuable than corporate experience.",
+        "is_right_choice": false
+    }],
+    "explanation": "Nick Grandy's journey from founding a startup that didn't succeed to becoming Airbnb's first employee and then starting another successful YC company shows that startup experience, regardless of the venture's outcome, can open up significant career opportunities."
+}]

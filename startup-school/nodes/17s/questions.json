@@ -1,0 +1,86 @@
+[{
+    "name": "Importance of charging for products",
+    "question": "Why is it important to charge for your product or service according to the insights?",
+    "choices": [{
+        "choice": "To avoid taxes",
+        "is_right_choice": false
+    }, {
+        "choice": "It's a fundamental aspect of operating a business",
+        "is_right_choice": true
+    }, {
+        "choice": "To make the product seem valuable",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it's required by law",
+        "is_right_choice": false
+    }],
+    "explanation": "Charging for your product or service is crucial because it's a basic and very important aspect of operating a business. It might seem obvious, but it underpins the financial health and viability of the company."
+}, {
+    "name": "Basis for pricing strategy",
+    "question": "What should a startup's pricing strategy be based more on?",
+    "choices": [{
+        "choice": "The cost of materials",
+        "is_right_choice": false
+    }, {
+        "choice": "Competitor pricing",
+        "is_right_choice": false
+    }, {
+        "choice": "The value offered to customers",
+        "is_right_choice": true
+    }, {
+        "choice": "Market demand",
+        "is_right_choice": false
+    }],
+    "explanation": "A startup's pricing strategy should be based more on the value offered to customers rather than just the costs involved in the product or service creation. It focuses on the benefits and improvements the product brings to the customer's life or business."
+}, {
+    "name": "Common pricing mistake by startups",
+    "question": "What common mistake do many new companies make regarding their pricing?",
+    "choices": [{
+        "choice": "Setting prices too high",
+        "is_right_choice": false
+    }, {
+        "choice": "Offering too many discounts",
+        "is_right_choice": false
+    }, {
+        "choice": "Underpricing their offerings",
+        "is_right_choice": true
+    }, {
+        "choice": "Using complex pricing structures",
+        "is_right_choice": false
+    }],
+    "explanation": "Many fresh businesses tend to underprice their offerings, which is a common mistake. This stems from unsureness about the value they provide or fear of not being competitive, leading to pricing that does not fully capture the value of the product or service."
+}, {
+    "name": "Flexibility in pricing",
+    "question": "How should startups view the permanence of their initial pricing?",
+    "choices": [{
+        "choice": "As permanent and unchangeable",
+        "is_right_choice": false
+    }, {
+        "choice": "As temporary, with room for adjustment",
+        "is_right_choice": true
+    }, {
+        "choice": "As dictated by the market, with no input from the company",
+        "is_right_choice": false
+    }, {
+        "choice": "As something to be determined by customer feedback alone",
+        "is_right_choice": false
+    }],
+    "explanation": "Startups should view their initial pricing as temporary, with room for adjustment. It acknowledges the learning curve involved in understanding the market and refining product offerings, allowing for price adjustments to better align with value provided and market conditions."
+}, {
+    "name": "Simplicity in pricing structure",
+    "question": "Why is it recommended to keep pricing structures simple?",
+    "choices": [{
+        "choice": "To reduce operational costs",
+        "is_right_choice": false
+    }, {
+        "choice": "To comply with international trade laws",
+        "is_right_choice": false
+    }, {
+        "choice": "To make it easier for customers to understand and pay",
+        "is_right_choice": true
+    }, {
+        "choice": "To make it easier to adjust prices in the future",
+        "is_right_choice": false
+    }],
+    "explanation": "Keeping pricing structures simple is recommended to make it easier for customers to understand and therefore more likely for them to pay. Confusing pricing can deter customers, impacting sales negatively."
+}]

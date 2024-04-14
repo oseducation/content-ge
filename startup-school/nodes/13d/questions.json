@@ -1,0 +1,86 @@
+[{
+    "name": "Understanding MVP",
+    "question": "What does MVP stand for in the context of startups?",
+    "choices": [{
+        "choice": "Most Valuable Player",
+        "is_right_choice": false
+    }, {
+        "choice": "Minimum Viable Product",
+        "is_right_choice": true
+    }, {
+        "choice": "Maximum Value Proposition",
+        "is_right_choice": false
+    }, {
+        "choice": "Minimum Variable Process",
+        "is_right_choice": false
+    }],
+    "explanation": "In the context of startups, MVP stands for Minimum Viable Product, which is a basic version of a product that is built quickly to address a real problem for users."
+}, {
+    "name": "Purpose of MVP",
+    "question": "What is the primary purpose of launching an MVP for your startup?",
+    "choices": [{
+        "choice": "To address every problem for every user",
+        "is_right_choice": false
+    }, {
+        "choice": "To make the product as special as possible",
+        "is_right_choice": false
+    }, {
+        "choice": "To address a real problem for first users",
+        "is_right_choice": true
+    }, {
+        "choice": "To immediately generate a large revenue",
+        "is_right_choice": false
+    }],
+    "explanation": "The primary purpose of launching an MVP is to address a real problem for first users with a simple version of the product."
+}, {
+    "name": "MVP Complexity",
+    "question": "How complex should your startup's MVP be at the beginning?",
+    "choices": [{
+        "choice": "Very complex with many features",
+        "is_right_choice": false
+    }, {
+        "choice": "As simple as possible",
+        "is_right_choice": true
+    }, {
+        "choice": "Moderately complex to impress investors",
+        "is_right_choice": false
+    }, {
+        "choice": "Complete with all envisioned features",
+        "is_right_choice": false
+    }],
+    "explanation": "Your startup's MVP should be as simple as possible at the beginning, focusing on a few main things that first users really need."
+}, {
+    "name": "MVP Features",
+    "question": "How should you decide which features to include in your MVP?",
+    "choices": [{
+        "choice": "Include as many features as possible",
+        "is_right_choice": false
+    }, {
+        "choice": "Focus on features for a small group of first users",
+        "is_right_choice": true
+    }, {
+        "choice": "Only include features that are innovative",
+        "is_right_choice": false
+    }, {
+        "choice": "Wait for user feedback before adding any features",
+        "is_right_choice": false
+    }],
+    "explanation": "When deciding which features to include in your MVP, focus on addressing a few key issues for a small group of first users before adding more features later based on feedback and demand."
+}, {
+    "name": "MVP Goal",
+    "question": "What should be your mindset regarding the MVP's role in your startup's development?",
+    "choices": [{
+        "choice": "It's the final version of your product",
+        "is_right_choice": false
+    }, {
+        "choice": "It's just a base to grow from",
+        "is_right_choice": true
+    }, {
+        "choice": "It should immediately solve all users' problems",
+        "is_right_choice": false
+    }, {
+        "choice": "It should not be launched until it's perfect",
+        "is_right_choice": false
+    }],
+    "explanation": "The MVP should be seen as just a base for your startup to grow from. It's a starting point, not the end goal, allowing you to refine and expand your product over time."
+}]

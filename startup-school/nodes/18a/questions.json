@@ -1,0 +1,35 @@
+[{
+    "name": "Understanding Product-Market Fit",
+    "question": "What is the primary misconception about product success among new startup founders?",
+    "choices": [{
+        "choice": "Believing that a good product doesn’t need marketing",
+        "is_right_choice": false
+    }, {
+        "choice": "Thinking that simply creating a product will ensure its success",
+        "is_right_choice": true
+    }, {
+        "choice": "Assuming that finding the market for a product is easy",
+        "is_right_choice": false
+    }, {
+        "choice": "Thinking that product quality doesn’t matter as long as marketing is strong",
+        "is_right_choice": false
+    }],
+    "explanation": "The primary misconception among new startup founders is thinking that just by creating a product and introducing it to the world, it will automatically become a success. This overlooks the complexities and challenges of achieving product-market fit and the importance of proactive strategies in reaching and engaging a target audience."
+}, {
+    "name": "Challenges in achieving Product-Market Fit",
+    "question": "Why is reaching customers and achieving product-market fit particularly challenging for startups?",
+    "choices": [{
+        "choice": "Because there is a guaranteed audience waiting for every product",
+        "is_right_choice": false
+    }, {
+        "choice": "Due to lack of understanding of market needs",
+        "is_right_choice": false
+    }, {
+        "choice": "Startups often lack the resources and strategies to effectively reach their audience",
+        "is_right_choice": true
+    }, {
+        "choice": "Products built by startups are not appealing to customers",
+        "is_right_choice": false
+    }],
+    "explanation": "The main challenge for startups in achieving product-market fit lies in the often limited resources available and the lack of a strategic approach to reaching and engaging their target audience, rather than an inherent lack of interest in their products or an automatic audience base."
+}]

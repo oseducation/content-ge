@@ -1,0 +1,69 @@
+[{
+    "name": "Understanding Monthly Retention",
+    "question": "Why is monthly retention considered crucial for the success of a startup?",
+    "choices": [{
+        "choice": "It indicates how much profit the startup makes each month.",
+        "is_right_choice": false
+    }, {
+        "choice": "It shows how well the startup keeps its customers returning each month.",
+        "is_right_choice": true
+    }, {
+        "choice": "It measures the startup's monthly expenses.",
+        "is_right_choice": false
+    }, {
+        "choice": "It determines the startup's market share.",
+        "is_right_choice": false
+    }],
+    "expenation": "Monthly retention is crucial because it reflects the startup's ability to keep its customers engaged and coming back, which is essential for sustained growth and success. It's not directly about profit, expenses, or market share, but rather customer loyalty and engagement."
+}, {
+    "name": "Concept of a Moat",
+    "question": "What does the term 'moat' refer to in the context of startups?",
+    "choices": [{
+        "choice": "A medieval defense mechanism",
+        "is_right_choice": false
+    }, {
+        "choice": "A financial strategy for reducing taxes",
+        "is_right_choice": false
+    }, {
+        "choice": "A competitive advantage that protects the business",
+        "is_right_choice": true
+    }, {
+        "choice": "A legal requirement for starting a business",
+        "is_right_choice": false
+    }],
+    "expenation": "In the context of startups, a 'moat' refers to any competitive advantage or strong position that a company has, which protects it from competitors trying to take its place, much like a moat around a castle serves to protect it from invaders."
+}, {
+    "name": "Types of Moats",
+    "question": "Which of the following is an example of a 'network effect' as a moat?",
+    "choices": [{
+        "choice": "A product becoming cheaper as more people use it.",
+        "is_right_choice": false
+    }, {
+        "choice": "A service becoming more valuable as more people use it.",
+        "is_right_choice": true
+    }, {
+        "choice": "A product that requires frequent replacement.",
+        "is_right_choice": false
+    }, {
+        "choice": "A business with a unique legal patent.",
+        "is_right_choice": false
+    }],
+    "expenation": "A 'network effect' as a moat refers to the phenomenon where a service or product increases in value as more people use it, making it increasingly dominant in the market. This is not about cost reduction, frequency of product replacement, or legal protections but about the increasing utility and attractiveness of a service or platform as its user base expands."
+}, {
+    "name": "Importance of Moats",
+    "question": "How can technical innovations serve as a moat for a startup?",
+    "choices": [{
+        "choice": "By making the business operations more transparent",
+        "is_right_choice": false
+    }, {
+        "choice": "By reducing the environmental impact of the business",
+        "is_right_choice": false
+    }, {
+        "choice": "By creating a difficult to replicate product or service",
+        "is_right_choice": true
+    }, {
+        "choice": "By increasing the number of employees at the startup",
+        "is_right_choice": false
+    }],
+    "expenation": "Technical innovations can serve as a moat when they result in a product or service that is hard for competitors to replicate. This can be due to the innovation's complexity, proprietary technology, or significant research and development efforts required, making it a strong competitive advantage."
+}]

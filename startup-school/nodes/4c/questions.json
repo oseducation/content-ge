@@ -1,0 +1,52 @@
+[{
+    "name": "Market Size Importance",
+    "question": "Why is evaluating the market size considered a critical step for startups?",
+    "choices": [{
+        "choice": "To ensure compliance with market regulations",
+        "is_right_choice": false
+    }, {
+        "choice": "To assess the potential for substantial growth",
+        "is_right_choice": true
+    }, {
+        "choice": "To guarantee a specific revenue within the first year",
+        "is_right_choice": false
+    }, {
+        "choice": "To completely avoid any market competition",
+        "is_right_choice": false
+    }],
+    "expenation": "Evaluating market size is crucial for startups because it helps them to assess the potential for substantial growth, which is necessary for success. A market that's large enough offers room for startups to scale and succeed."
+}, {
+    "name": "Types of Profitable Markets",
+    "question": "Which types of markets are considered promising for startups?",
+    "choices": [{
+        "choice": "Markets that are extremely niche with no growth potential",
+        "is_right_choice": false
+    }, {
+        "choice": "Large, established markets only",
+        "is_right_choice": false
+    }, {
+        "choice": "Small but rapidly growing markets",
+        "is_right_choice": true
+    }, {
+        "choice": "Markets with a lot of competition",
+        "is_right_choice": false
+    }],
+    "expenation": "Startups find promise in markets that are already large and in those that are small but showing rapid growth. These types of markets offer substantial growth potential, which is key for the success of early-stage companies."
+}, {
+    "name": "Example of a Startup in a Growing Market",
+    "question": "What made Coinbase's market approach successful?",
+    "choices": [{
+        "choice": "Focusing solely on immediate profits",
+        "is_right_choice": false
+    }, {
+        "choice": "Ignoring market size and growth potential",
+        "is_right_choice": false
+    }, {
+        "choice": "Identifying a nascent but rapidly growing market",
+        "is_right_choice": true
+    }, {
+        "choice": "Investing in a market with declining growth",
+        "is_right_choice": false
+    }],
+    "expenation": "Coinbase's founders recognized the potential in the Bitcoin trading market, which was initially small but had rapid growth potential. Their success came from identifying a nascent market on the brink of expansion, not from focusing solely on immediate profits or ignoring market dynamics."
+}]

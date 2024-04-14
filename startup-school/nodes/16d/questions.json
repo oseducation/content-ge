@@ -1,0 +1,69 @@
+[{
+    "name": "Super Daily's Main Goal",
+    "question": "What was Super Daily's main goal when they first launched their service?",
+    "choices": [{
+        "choice": "Improve the mobile app",
+        "is_right_choice": false
+    }, {
+        "choice": "Grow customer numbers",
+        "is_right_choice": true
+    }, {
+        "choice": "Manage goods more effectively",
+        "is_right_choice": false
+    }, {
+        "choice": "Simplify local logistics",
+        "is_right_choice": false
+    }],
+    "explanation": "Super Daily's main goal was to grow their customer numbers, which is why identifying and addressing the issue with not having a specific brand of milk was crucial for their growth."
+}, {
+    "name": "Key Issue for Growth",
+    "question": "What was the key issue preventing Super Daily's key number (customer growth) from increasing?",
+    "choices": [{
+        "choice": "Complexity of the mobile app",
+        "is_right_choice": false
+    }, {
+        "choice": "Inefficient operations tools",
+        "is_right_choice": false
+    }, {
+        "choice": "Lack of a specific brand of milk",
+        "is_right_choice": true
+    }, {
+        "choice": "Messy local logistics",
+        "is_right_choice": false
+    }],
+    "explanation": "The key issue preventing Super Daily's growth was the absence of a specific brand of milk that many potential customers wanted, not the other operational or logistic challenges."
+}, {
+    "name": "Outcome of Resolving the Key Issue",
+    "question": "What was the outcome of Super Daily addressing the issue with the milk brand?",
+    "choices": [{
+        "choice": "Increased mobile app downloads",
+        "is_right_choice": false
+    }, {
+        "choice": "Improved logistics",
+        "is_right_choice": false
+    }, {
+        "choice": "Enhanced operations management",
+        "is_right_choice": false
+    }, {
+        "choice": "50% growth in customer numbers",
+        "is_right_choice": true
+    }],
+    "explanation": "By addressing the issue and including the particular brand of milk to their list, Super Daily was able to grow its customer numbers by 50%."
+}, {
+    "name": "Initial Step to Understand the Problem",
+    "question": "What was Super Daily's initial step to understand why high-potential users were not converting into customers?",
+    "choices": [{
+        "choice": "Redesigning the sign-up page",
+        "is_right_choice": false
+    }, {
+        "choice": "Starting conversations and experimenting",
+        "is_right_choice": true
+    }, {
+        "choice": "Improving local logistics",
+        "is_right_choice": false
+    }, {
+        "choice": "Offering discounts",
+        "is_right_choice": false
+    }],
+    "explanation": "Super Daily's initial step to understand the conversion problem was to start conversations and experiment, which eventually led them to the insight about the specific brand of milk."
+}]

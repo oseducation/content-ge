@@ -1,0 +1,69 @@
+[{
+    "name": "Common Mistakes by New Entrepreneurs Regarding Pricing",
+    "question": "What is one of the most common mistakes new entrepreneurs make when it comes to pricing?",
+    "choices": [{
+        "choice": "Setting prices too low",
+        "is_right_choice": false
+    }, {
+        "choice": "Being afraid to charge for their product",
+        "is_right_choice": true
+    }, {
+        "choice": "Using too many discounts",
+        "is_right_choice": false
+    }, {
+        "choice": "Charging more than competitors",
+        "is_right_choice": false
+    }],
+    "explanation": "New entrepreneurs often fear charging for their product, worried that customers will reject the price and go to competitors or never return. This fear may deter them from setting any price at all, which is a fundamental mistake in understanding their business and customer willingness to pay."
+}, {
+    "name": "Benefits of Charging for Your Product",
+    "question": "What can startups learn from setting a price for their product?",
+    "choices": [{
+        "choice": "Whether the product color is appealing",
+        "is_right_choice": false
+    }, {
+        "choice": "If customers are ready to pay",
+        "is_right_choice": true
+    }, {
+        "choice": "The exact production costs",
+        "is_right_choice": false
+    }, {
+        "choice": "How much to spend on marketing",
+        "is_right_choice": false
+    }],
+    "explanation": "By setting a price and charging for a product, startups can learn valuable lessons about their business, such as if customers find enough value in the product to pay for it, who is most willing to pay, and how much value customers see in the product."
+}, {
+    "name": "Strategies for Initial Pricing",
+    "question": "What advice is given about where to start with your pricing strategy?",
+    "choices": [{
+        "choice": "Imitate competitors’ pricing structure",
+        "is_right_choice": false
+    }, {
+        "choice": "Start with high prices to add value",
+        "is_right_choice": false
+    }, {
+        "choice": "Do not overthink and find the right ballpark",
+        "is_right_choice": true
+    }, {
+        "choice": "Always start with discounted prices",
+        "is_right_choice": false
+    }],
+    "explanation": "The advice for starting with a pricing strategy emphasizes not overcomplicating it with complex formulas or charts. Instead, finding the 'right ballpark' for your price is more critical, recognizing pricing can be fine-tuned over time as you understand your product's value to customers better."
+}, {
+    "name": "Stripe’s Pricing Strategy",
+    "question": "Why did Stripe initially set their prices higher than competitors?",
+    "choices": [{
+        "choice": "To increase their profit margins",
+        "is_right_choice": false
+    }, {
+        "choice": "To reduce the number of customers",
+        "is_right_choice": false
+    }, {
+        "choice": "To see how much customers valued their features",
+        "is_right_choice": true
+    }, {
+        "choice": "Because of higher operational costs",
+        "is_right_choice": false
+    }],
+    "explanation": "Stripe initially priced their product higher than competitors to understand how much their customers valued the unique features of their service. This strategy was a test to gauge the perceived value of their product, rather than simply trying to compete on price alone."
+}]

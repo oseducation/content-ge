@@ -1,0 +1,52 @@
+[{
+    "name": "Importance of Integrity and Commitment",
+    "question": "Why are personal integrity and commitment important traits for successful leaders?",
+    "choices": [{
+        "choice": "They ensure all team members are equally skilled.",
+        "is_right_choice": false
+    }, {
+        "choice": "They help in building and maintaining trust within the team.",
+        "is_right_choice": true
+    }, {
+        "choice": "They guarantee the success of a project.",
+        "is_right_choice": false
+    }, {
+        "choice": "They make financial management easier.",
+        "is_right_choice": false
+    }],
+    "explanation": "Personal integrity and commitment are vital for leaders as they help build and maintain trust within the team. Trust is fundamental for effective leadership, as it makes leading easier and more meaningful."
+}, {
+    "name": "Transparency Test",
+    "question": "What is the purpose of the 'transparency test' mentioned in the context of leadership?",
+    "choices": [{
+        "choice": "To assess the financial transparency of the company.",
+        "is_right_choice": false
+    }, {
+        "choice": "To evaluate the effectiveness of communication within the team.",
+        "is_right_choice": false
+    }, {
+        "choice": "To check if a leader's actions would be embarrassing if made public.",
+        "is_right_choice": true
+    }, {
+        "choice": "To determine the profitability of new projects.",
+        "is_right_choice": false
+    }],
+    "explanation": "The 'transparency test' is a self-assessment tool for leaders to use to evaluate if their actions, if made public, would cause them embarrassment. It helps leaders remain mindful of their integrity and the perception of their integrity by others."
+}, {
+    "name": "Effect of Commitment on Teams",
+    "question": "How does a leader's commitment influence their team?",
+    "choices": [{
+        "choice": "Inspires team members to share the leader's dedication.",
+        "is_right_choice": true
+    }, {
+        "choice": "Ensures that team members will not face any challenges.",
+        "is_right_choice": false
+    }, {
+        "choice": "Prevents the leader from taking on new projects.",
+        "is_right_choice": false
+    }, {
+        "choice": "Decreases the overall productivity of the team.",
+        "is_right_choice": false
+    }],
+    "explanation": "A leader's commitment can greatly inspire their team. When team members see the leader's dedication and passion, it often motivates them to adopt a similar level of commitment, fostering a more unified and motivated team."
+}]

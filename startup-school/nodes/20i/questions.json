@@ -1,0 +1,69 @@
+[{
+    "name": "Basic Knowledge",
+    "question": "According to the text, what is one of the basic things a startup founder should be ready to discuss during a Y-Combinator interview?",
+    "choices": [{
+        "choice": "The founder's personal history",
+        "is_right_choice": false
+    }, {
+        "choice": "Key metrics and numbers related to the business",
+        "is_right_choice": true
+    }, {
+        "choice": "The founder's favorite startup books",
+        "is_right_choice": false
+    }, {
+        "choice": "Every team member's biography",
+        "is_right_choice": false
+    }],
+    "explanation": "The text emphasizes the importance of being able to answer basic questions about your business well, specifically knowing your numbers like revenue and product sales, indicating key metrics related to the business are crucial to discuss."
+}, {
+    "name": "Honesty and Preparedness",
+    "question": "Why is it important to be honest about risks and challenges in a Y-Combinator interview?",
+    "choices": [{
+        "choice": "Because it's a test to see if the founder can be intimidating",
+        "is_right_choice": false
+    }, {
+        "choice": "Because the founders are expected to lie convincingly",
+        "is_right_choice": false
+    }, {
+        "choice": "Because interviewers appreciate honesty and preparedness for future challenges",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it takes up interview time and makes the process easier",
+        "is_right_choice": false
+    }],
+    "explanation": "The text highlights that being honest about potential challenges and risks is appreciated by the interviewers because it shows preparedness and a realistic understanding of the business's future, rather than being a test of intimidation or deceit."
+}, {
+    "name": "Authenticity Importance",
+    "question": "What quality does the text highlight as potentially turning everything in a founder's favor during a Y-Combinator interview?",
+    "choices": [{
+        "choice": "Perfectionism",
+        "is_right_choice": false
+    }, {
+        "choice": "Aggressiveness",
+        "is_right_choice": false
+    }, {
+        "choice": "Authenticity",
+        "is_right_choice": true
+    }, {
+        "choice": "Ambiguity",
+        "is_right_choice": false
+    }],
+    "explanation": "The text points out that being authentic, or showing your true self, passion, and dedication, can significantly impact the interview's outcome positively because Y-Combinator interviewers value a genuine connection and understanding of your motivation over a flawless presentation."
+}, {
+    "name": "Conversation Style",
+    "question": "How does the text describe the ideal interaction style during a Y-Combinator interview?",
+    "choices": [{
+        "choice": "Like a formal presentation",
+        "is_right_choice": false
+    }, {
+        "choice": "Like a chat with a friend",
+        "is_right_choice": true
+    }, {
+        "choice": "Like a high-stakes negotiation",
+        "is_right_choice": false
+    }, {
+        "choice": "Like a dramatic TV show pitch",
+        "is_right_choice": false
+    }],
+    "explanation": "The text specifies that Y-Combinator interviews are best approached as normal conversations, much like chatting with a friend who cares about your success, rather than engaging in styles better suited for formal presentations, high-stakes negotiations, or entertainment-focused pitches like those seen on TV shows."
+}]

@@ -1,0 +1,69 @@
+[{
+    "name": "Understanding KPIs",
+    "question": "What are Key Performance Indicators (KPIs) in the context of startups?",
+    "choices": [{
+        "choice": "A detailed business plan for the startup's future",
+        "is_right_choice": false
+    }, {
+        "choice": "Metrics that indicate the startup's health and success",
+        "is_right_choice": true
+    }, {
+        "choice": "A legal document required for startup registration",
+        "is_right_choice": false
+    }, {
+        "choice": "A list of potential investors in the startup",
+        "is_right_choice": false
+    }],
+    "expenation": "KPIs, or Key Performance Indicators, are metrics that act like a report card for your startup, indicating its health and success by showcasing what's working and what's not."
+}, {
+    "name": "Importance of Revenue Growth",
+    "question": "Why is revenue growth considered the ultimate KPI for startups?",
+    "choices": [{
+        "choice": "Because it indicates a high number of employees",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it's the most complex KPI to calculate",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it shows financial success and market acceptance",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it's required by law",
+        "is_right_choice": false
+    }],
+    "expenation": "Revenue growth is considered the ultimate KPI for startups as it is a solid sign that the startup is financially successful and is being accepted by the market."
+}, {
+    "name": "Shift in KPIs",
+    "question": "When should a startup shift its focus to revenue growth as its main KPI?",
+    "choices": [{
+        "choice": "Immediately after the idea generation phase",
+        "is_right_choice": false
+    }, {
+        "choice": "Only after achieving a product-market fit",
+        "is_right_choice": false
+    }, {
+        "choice": "Right before the exit strategy is implemented",
+        "is_right_choice": false
+    }, {
+        "choice": "After the launch of the startup's product or service",
+        "is_right_choice": true
+    }],
+    "expenation": "After the launch of the startup's product or service, the startup should swiftly shift its KPIs to focus on revenue growth to reflect its market performance and acceptance."
+}, {
+    "name": "Weekly Goals for Startups",
+    "question": "Why should startups set weekly goals related to their KPIs?",
+    "choices": [{
+        "choice": "To comply with government regulations",
+        "is_right_choice": false
+    }, {
+        "choice": "To have reasons for weekly team meetings",
+        "is_right_choice": false
+    }, {
+        "choice": "To maintain a regulatory filing schedule",
+        "is_right_choice": false
+    }, {
+        "choice": "To remind them about the need for speed in growth",
+        "is_right_choice": true
+    }],
+    "expenation": "Setting weekly goals related to their KPIs reminds startups about the urgency and importance of fast growth in the early stages, keeping them focused and motivated."
+}]

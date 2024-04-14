@@ -1,0 +1,69 @@
+[{
+    "name": "Identifying Market Gaps by Airbnb",
+    "question": "What gap did Airbnb identify in the market that was not addressed by VRBO and Craigslist?",
+    "choices": [{
+        "choice": "A loyalty program for frequent users",
+        "is_right_choice": false
+    }, {
+        "choice": "Direct handling of payments to reduce friction",
+        "is_right_choice": true
+    }, {
+        "choice": "Offering luxury properties only",
+        "is_right_choice": false
+    }, {
+        "choice": "Creating a mobile app for bookings",
+        "is_right_choice": false
+    }],
+    "expenation": "Airbnb identified the gap in the market of not handling payments directly, which VRBO and Craigslist did not offer. This was a pivotal move that reduced friction between strangers trying to arrange stays, unlike its predecessors that either didn’t handle transactions directly or charged hosts to list their properties."
+}, {
+    "name": "Airbnb's Approach to Host Recruitment",
+    "question": "Why did Airbnb make it free for hosts to list their properties?",
+    "choices": [{
+        "choice": "To generate revenue through advertisements",
+        "is_right_choice": false
+    }, {
+        "choice": "To comply with regulations",
+        "is_right_choice": false
+    }, {
+        "choice": "To create a larger inventory and attract more users",
+        "is_right_choice": true
+    }, {
+        "choice": "Because the platform was initially a nonprofit",
+        "is_right_choice": false
+    }],
+    "expenation": "Airbnb allowed hosts to list their properties for free to attract more hosts. This approach was based on the understanding that having a larger inventory of properties was key to the platform's success, as it would attract more users looking for accommodations."
+}, {
+    "name": "Understanding User Needs Through Personal Experience",
+    "question": "How did the founders of Airbnb realize the need for an integrated payment system?",
+    "choices": [{
+        "choice": "Through market research",
+        "is_right_choice": false
+    }, {
+        "choice": "After receiving feedback from early users",
+        "is_right_choice": false
+    }, {
+        "choice": "By experiencing the problem firsthand",
+        "is_right_choice": true
+    }, {
+        "choice": "Consulting with industry experts",
+        "is_right_choice": false
+    }],
+    "expenation": "The founders of Airbnb realized the need for an integrated payment system through their own experience of renting out space in their apartment. This personal encounter with the problem led them to understand the necessity of such a system, highlighting the importance of using one's own product to identify improvements."
+}, {
+    "name": "Investor Perspectives on Airbnb's Model",
+    "question": "Why were most investors initially skeptical about Airbnb's business model?",
+    "choices": [{
+        "choice": "The technology was considered too complicated",
+        "is_right_choice": false
+    }, {
+        "choice": "Renting a room in a house with the host present seemed unappealing",
+        "is_right_choice": true
+    }, {
+        "choice": "They believed the market was too niche",
+        "is_right_choice": false
+    }, {
+        "choice": "The initial website design was poor",
+        "is_right_choice": false
+    }],
+    "expenation": "Investors were initially skeptical about Airbnb's business model because the idea of renting a room in a house where the host was present seemed unappealing. This was especially true for more affluent investors who were accustomed to staying in hotels, showing a gap between the concept and the traditional hospitality industry's norms."
+}]

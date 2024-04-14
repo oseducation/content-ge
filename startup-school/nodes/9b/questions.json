@@ -1,0 +1,52 @@
+[{
+    "name": "Compatibility_vs_Skills",
+    "question": "According to the text, what is more important when choosing a co-founder?",
+    "choices": [{
+        "choice": "Finding someone with the exact skills needed",
+        "is_right_choice": false
+    }, {
+        "choice": "Choosing someone based solely on their professional background",
+        "is_right_choice": false
+    }, {
+        "choice": "Selecting a co-founder you can get along with",
+        "is_right_choice": true
+    }, {
+        "choice": "Prioritizing a co-founder who has founded a startup before",
+        "is_right_choice": false
+    }],
+    "explanation": "The text emphasizes that while skills are important, the ability to get along with your co-founder and work together effectively is more crucial for a successful partnership. It suggests that skills can be acquired, but compatibility is key to avoiding conflicts and ensuring the partnership can withstand tough times."
+}, {
+    "name": "Skills_Learnability",
+    "question": "What does the text imply about skills and learning in the context of startups?",
+    "choices": [{
+        "choice": "Skills needed at the start are the only ones needed ever",
+        "is_right_choice": false
+    }, {
+        "choice": "Skills are fixed and cannot be developed over time",
+        "is_right_choice": false
+    }, {
+        "choice": "Most skills can be learned while doing the job",
+        "is_right_choice": true
+    }, {
+        "choice": "Learning new skills is unnecessary for startup success",
+        "is_right_choice": false
+    }],
+    "explanation": "The text indicates that the assumption some founders make about skills being static is incorrect. Instead, it argues that most skills can be learned on the job, highlighting the importance of adaptability and the ability to grow into roles rather than having all the necessary skills from the start."
+}, {
+    "name": "Cause_of_Founder_Breakups",
+    "question": "What is a common reason for founder breakups, according to the text?",
+    "choices": [{
+        "choice": "Not having enough investment",
+        "is_right_choice": false
+    }, {
+        "choice": "Inability to pivot the startup's direction",
+        "is_right_choice": false
+    }, {
+        "choice": "Conflicts due to personal incompatibility",
+        "is_right_choice": true
+    }, {
+        "choice": "Differences in technical skill sets",
+        "is_right_choice": false
+    }],
+    "explanation": "The text points out that many founder breakups occur not because of the lack of skills but due to personal incompatibility between the founders. It highlights that being unable to work together and resolve conflicts amicably is a more frequent cause of partnership failure than skill deficits."
+}]

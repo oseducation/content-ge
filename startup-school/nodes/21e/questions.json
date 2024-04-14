@@ -1,0 +1,52 @@
+[{
+    "name": "Importance of Trust",
+    "question": "Why is trust considered a valuable asset for leaders in startups?",
+    "choices": [{
+        "choice": "It's the only way to keep employees happy.",
+        "is_right_choice": false
+    }, {
+        "choice": "It defines the leader's relationship with employees, clients, and partners.",
+        "is_right_choice": true
+    }, {
+        "choice": "Leaders don't need trust, only results.",
+        "is_right_choice": false
+    }, {
+        "choice": "Trust has no real impact on business outcomes.",
+        "is_right_choice": false
+    }],
+    "explanation": "Trust is seen as a significant asset because it shapes the leader's interactions and relationships with all stakeholders involved in the business, such as employees, clients, and partners. This foundational element influences business operations and morale."
+}, {
+    "name": "Science vs. Art",
+    "question": "Why is building trust described as both a science and an art?",
+    "choices": [{
+        "choice": "The science part is unpredictable, while art requires accuracy.",
+        "is_right_choice": false
+    }, {
+        "choice": "Science involves logical predictions, while art needs emotional intelligence.",
+        "is_right_choice": true
+    }, {
+        "choice": "The science part is easier to learn than the art part.",
+        "is_right_choice": false
+    }, {
+        "choice": "Leaders should focus only on the science part.",
+        "is_right_choice": false
+    }],
+    "explanation": "Building trust is considered both a science and an art because the science involves logical, predictable actions (like making successful business decisions), whereas the art requires emotional intelligence, sensitivity, and caring for others, which are more nuanced and challenging."
+}, {
+    "name": "Trust-Building Decisions",
+    "question": "What key takeaway should leaders remember when faced with tough decisions in their startup journey?",
+    "choices": [{
+        "choice": "Trust is irrelevant when making hard decisions.",
+        "is_right_choice": false
+    }, {
+        "choice": "The cost of decisions should be the sole focus.",
+        "is_right_choice": false
+    }, {
+        "choice": "Always choose the option that boosts the trust score.",
+        "is_right_choice": true
+    }, {
+        "choice": "Avoid difficult decisions to maintain harmony.",
+        "is_right_choice": false
+    }],
+    "explanation": "When faced with challenging decisions, the key takeaway for leaders is to always opt for the choice that will likely increase their trustworthiness among stakeholders. This principle emphasizes the importance of building trust as a foundational element for leadership success."
+}]

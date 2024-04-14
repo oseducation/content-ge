@@ -1,0 +1,35 @@
+[{
+    "name": "MVP Definition",
+    "question": "What does MVP stand for in the context of startups?",
+    "choices": [{
+        "choice": "Most Valuable Player",
+        "is_right_choice": false
+    }, {
+        "choice": "Minimal Viable Product",
+        "is_right_choice": true
+    }, {
+        "choice": "Maximum Value Proposition",
+        "is_right_choice": false
+    }, {
+        "choice": "Minimal Variable Process",
+        "is_right_choice": false
+    }],
+    "explanation": "In the startup world, 'MVP' stands for Minimal Viable Product, which is a basic version of a product designed to meet the needs of early customers and provide feedback for future product development."
+}, {
+    "name": "MVP Purpose",
+    "question": "Why do startups create an MVP?",
+    "choices": [{
+        "choice": "To achieve perfection in their first product",
+        "is_right_choice": false
+    }, {
+        "choice": "To immediately generate large profits",
+        "is_right_choice": false
+    }, {
+        "choice": "To test the product's value to initial users",
+        "is_right_choice": true
+    }, {
+        "choice": "To fully develop the product's final version",
+        "is_right_choice": false
+    }],
+    "explanation": "Startups create an MVP to test if the product can provide some sort of value to the initial users, serving as a simple, yet effective approach to validate their business concept."
+}]

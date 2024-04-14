@@ -1,0 +1,69 @@
+[{
+    "name": "Definition of Idea Space",
+    "question": "What does the term 'idea space' refer to in the context of startups?",
+    "choices": [{
+        "choice": "A coworking space for brainstorming startup ideas",
+        "is_right_choice": false
+    }, {
+        "choice": "The specific detail of a startup's business plan",
+        "is_right_choice": false
+    }, {
+        "choice": "A broader category or field that a startup's idea fits into",
+        "is_right_choice": true
+    }, {
+        "choice": "The geographical location where a startup is founded",
+        "is_right_choice": false
+    }],
+    "explanation": "In the context of startups, 'idea space' refers to a broader category or field that the startup's idea belongs to, not the specific details of the idea, a coworking space, or its geographical location."
+}, {
+    "name": "Trends in Startup Success",
+    "question": "Which types of startup ideas have shown higher chances of success in the last 10 years?",
+    "choices": [{
+        "choice": "Social networks",
+        "is_right_choice": false
+    }, {
+        "choice": "Financial technology",
+        "is_right_choice": true
+    }, {
+        "choice": "New gadgets",
+        "is_right_choice": false
+    }, {
+        "choice": "Advertising technology",
+        "is_right_choice": false
+    }],
+    "explanation": "Over the last ten years, startups focusing on financial technology (fintech) or specialized software for businesses have seen higher success rates compared to startups in new gadgets, social networks, or advertising technology."
+}, {
+    "name": "Importance of Idea Space",
+    "question": "Why is choosing the right idea space important for a startup?",
+    "choices": [{
+        "choice": "It determines the startup's pricing strategy",
+        "is_right_choice": false
+    }, {
+        "choice": "It affects the chances of getting venture capital funding",
+        "is_right_choice": false
+    }, {
+        "choice": "It influences the startup's chances of success by aligning with trends and skills",
+        "is_right_choice": true
+    }, {
+        "choice": "It is required for registering the startup's business",
+        "is_right_choice": false
+    }],
+    "explanation": "Choosing the right idea space is important because it influences the startup's chances of success by ensuring that the startup idea aligns with current success trends and the team's skills and experience."
+}, {
+    "name": "Example of Iterating on Ideas",
+    "question": "What does Fivetran's experience teach us about the importance of the right idea space?",
+    "choices": [{
+        "choice": "Having a single unwavering idea is key to startup success",
+        "is_right_choice": false
+    }, {
+        "choice": "The initial startup idea is always the most successful one",
+        "is_right_choice": false
+    }, {
+        "choice": "Choosing a promising idea space allows for flexibility and iteration",
+        "is_right_choice": true
+    }, {
+        "choice": "Startups should avoid the data analysis tools space",
+        "is_right_choice": false
+    }],
+    "explanation": "Fivetran's experience illustrates that being in the right idea space, such as data analysis tools, allows a startup to be flexible and iterate on ideas until finding one that resonates with potential customers, even if initial ideas fail."
+}]

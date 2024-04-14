@@ -1,0 +1,35 @@
+[{
+    "name": "Smartphone Era Timing",
+    "question": "Why was developing mobile apps during the early days of the iPhone considered advantageous for startups?",
+    "choices": [{
+        "choice": "There was more advanced technology available",
+        "is_right_choice": false
+    }, {
+        "choice": "There was less competition and a high user interest in new apps",
+        "is_right_choice": true
+    }, {
+        "choice": "Smartphones were cheaper to manufacture",
+        "is_right_choice": false
+    }, {
+        "choice": "There were more investment opportunities",
+        "is_right_choice": false
+    }],
+    "explanation": "During the early days of the iPhone, the app market was not saturated, leading to relatively low competition. With high consumer interest in exploring new apps combined with the novelty of the iPhone itself, early mobile app developers enjoyed a unique advantage in capturing the audience's attention."
+}, {
+    "name": "Importance of Timing in Tech Waves",
+    "question": "What does the early wave of smartphone adoption highlight about launching technology startups?",
+    "choices": [{
+        "choice": "The importance of having a large team",
+        "is_right_choice": false
+    }, {
+        "choice": "The necessity of a large budget for marketing",
+        "is_right_choice": false
+    }, {
+        "choice": "The advantage of being early in a new technology wave",
+        "is_right_choice": true
+    }, {
+        "choice": "The irrelevance of the innovation quality",
+        "is_right_choice": false
+    }],
+    "explanation": "The early wave of smartphone adoption demonstrates that timing plays a crucial role in the success of technology startups. Being early in a new technology wave, like the introduction and popularization of smartphones, offers a significant advantage because of the lower competition and the high public interest in novel technologies."
+}]

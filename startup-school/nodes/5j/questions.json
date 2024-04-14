@@ -1,0 +1,52 @@
+[{
+    "name": "Discovery Apps Concept",
+    "question": "Why do many discovery app ideas struggle to succeed according to the text?",
+    "choices": [{
+        "choice": "Because there isn't enough technology to support their development.",
+        "is_right_choice": false
+    }, {
+        "choice": "Due to the misalignment between what people say they want and their actual preferences.",
+        "is_right_choice": true
+    }, {
+        "choice": "Users are not interested in discovering new things.",
+        "is_right_choice": false
+    }, {
+        "choice": "There's too much competition from existing apps.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text explains that discovery app ideas often fail because there's a significant difference between what users claim they want (e.g., discovering new restaurants or music) and what they actually prefer, which tends to be familiar and popular options. This misalignment between stated desires and actual behavior creates challenges for startups in the discovery space."
+}, {
+    "name": "Understanding User Behavior",
+    "question": "What misconception about user behavior is highlighted in the discussion on discovery apps?",
+    "choices": [{
+        "choice": "Users prefer using machine learning for recommendations.",
+        "is_right_choice": false
+    }, {
+        "choice": "Users generally stick to what they know and like.",
+        "is_right_choice": true
+    }, {
+        "choice": "Users are constantly seeking exotic dishes and unpopular music.",
+        "is_right_choice": false
+    }, {
+        "choice": "There's an endless supply of options that users want to explore.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text underscores a common misunderstanding in the realm of discovery apps; while many people claim they want to discover new and unique options, in reality, they often stick to familiar choices such as popular music or food from well-known chains. This insight into user behavior reveals a gap between theoretical desire for novelty and practical preference for familiarity."
+}, {
+    "name": "Market Limitations for Discovery Apps",
+    "question": "What is a fundamental challenge mentioned in creating a successful discovery-based app?",
+    "choices": [{
+        "choice": "A lack of creative ideas among founders.",
+        "is_right_choice": false
+    }, {
+        "choice": "There's a finite number of discoverable options at any given time.",
+        "is_right_choice": true
+    }, {
+        "choice": "Users are overwhelmed by too many choices.",
+        "is_right_choice": false
+    }, {
+        "choice": "All necessary data is readily available and accessible.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text points out a key challenge in developing discovery-based apps: the reality that for many physical things like restaurants or events, there is a finite number of options available at any given time. This limitation means that the endless discovery that such apps promise may not be as feasible as initially thought, posing a significant hurdle to success."
+}]

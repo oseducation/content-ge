@@ -1,0 +1,55 @@
+[{
+    "name": "Understanding_FAANG_Value",
+    "question": "What is a common misconception among aspiring technical founders regarding working at FAANG companies?",
+    "choices": [{
+            "choice": "That FAANG companies do not offer valuable experience for founders.",
+            "is_right_choice": false
+        }, {
+            "choice": "That the value and benefits of working in a managerial role at a FAANG company equally apply to founders.",
+            "is_right_choice": true
+        }, {
+            "choice": "That FAANG companies negatively impact an individual's entrepreneurial ambitions.",
+            "is_right_choice": false
+        }, {
+            "choice": "That working at a FAANG company is the only way to succeed as a founder.",
+            "is_right_choice": false
+        }
+    ],
+    "explanation": "Aspiring founders often mistakenly believe that the benefits of working in managerial roles at FAANG companies, sought after by their peers, also apply to them. However, the path and requirements for founders are distinctly different from those of regular employees, which underlines the misconception."
+}, {
+    "name": "FAANG_Role_Alignment",
+    "question": "Why should aspiring founders consider how a role at a FAANG company aligns with their entrepreneurial goals?",
+    "choices": [{
+            "choice": "Because it guarantees their success as founders.",
+            "is_right_choice": false
+        }, {
+            "choice": "Because it may not provide the skills and experiences essential for starting their own venture.",
+            "is_right_choice": true
+        }, {
+            "choice": "Because FAANG companies specifically tailor their roles to help individuals become founders.",
+            "is_right_choice": false
+        }, {
+            "choice": "Because a role at a FAANG company is the most prestigious achievement in the tech industry.",
+            "is_right_choice": false
+        }
+    ],
+    "explanation": "Aspiring founders need to assess how a role at a FAANG company aligns with their long-term goals to ensure it provides them with the necessary skills, experiences, and networks required for succeeding in their own ventures, rather than simply aiming for prestige or salary."
+}, {
+    "name": "FAANG_Career_Fair_Influence",
+    "question": "How do FAANG companies influence job seekers at career fairs?",
+    "choices": [{
+            "choice": "By offering the lowest starting salaries.",
+            "is_right_choice": false
+        }, {
+            "choice": "Through the allure of status and prestige.",
+            "is_right_choice": true
+        }, {
+            "choice": "By discouraging entrepreneurship.",
+            "is_right_choice": false
+        }, {
+            "choice": "Only by presenting technical challenges.",
+            "is_right_choice": false
+        }
+    ],
+    "explanation": "FAANG companies create an allure around the status and prestige of working with them, which can heavily influence job seekers at career fairs, often swaying their decisions toward these companies over others."
+}]

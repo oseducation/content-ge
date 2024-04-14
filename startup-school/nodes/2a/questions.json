@@ -1,0 +1,52 @@
+[{
+    "name": "Perception_vs_Reality",
+    "question": "According to the text, how accurate is the media portrayal of startup founders in determining a person's suitability for being a startup founder?",
+    "choices": [{
+        "choice": "Very accurate, as success in startups is mostly about being brilliant and charismatic.",
+        "is_right_choice": false
+    }, {
+        "choice": "Somewhat accurate, because these portrayals reflect the necessary traits to succeed.",
+        "is_right_choice": false
+    }, {
+        "choice": "Not very accurate, as a wide range of individuals with different strengths can thrive in startups.",
+        "is_right_choice": true
+    }, {
+        "choice": "Entirely accurate, and personal traits similar to those portrayed in media are essential.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text clearly states that while media portrayals focus on traits like brilliance and charisma, the reality in the startup world is far more diverse. Successful founders can come from a wide range of backgrounds and possess a variety of strengths beyond those stereotypes."
+}, {
+    "name": "Predictive_Factors",
+    "question": "What does the text suggest about the predictability of startup success based on academic or professional achievements?",
+    "choices": [{
+        "choice": "Highly predictive, as most successful startup founders have notable academic and professional achievements.",
+        "is_right_choice": false
+    }, {
+        "choice": "Somewhat predictive, but there are many exceptions.",
+        "is_right_choice": false
+    }, {
+        "choice": "Not predictive, as success in startups often does not correlate with these achievements.",
+        "is_right_choice": true
+    }, {
+        "choice": "The text does not comment on this aspect.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text implies that academic or professional achievements are less predictive of startup success than one might expect. The challenges and demands of startup life require a set of qualities and resilience that are distinct from what traditional achievements might suggest."
+}, {
+    "name": "Unique_Challenges",
+    "question": "Which unique challenge of working in a startup is highlighted in the text?",
+    "choices": [{
+        "choice": "The necessity of having a groundbreaking idea for a product.",
+        "is_right_choice": false
+    }, {
+        "choice": "The requirement to work long hours without adequate compensation.",
+        "is_right_choice": false
+    }, {
+        "choice": "The personal impact of facing rejections when trying to gain users for your product.",
+        "is_right_choice": true
+    }, {
+        "choice": "The struggle to adapt to the constantly changing technology landscape.",
+        "is_right_choice": false
+    }],
+    "explanation": "The text underscores the challenge of dealing with rejection in a very personal way when attempting to garner interest for a startup's product, distinguishing it from working in established companies where such rejections are less personal."
+}]

@@ -1,0 +1,18 @@
+[{
+    "name": "Identifying Industry Opportunities",
+    "question": "Why should startups target large industries with apparent problems for their startup ideas?",
+    "choices": [{
+        "choice": "Because these industries often have less competition",
+        "is_right_choice": false
+    }, {
+        "choice": "Because they present a huge opportunity for disruption with better solutions",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it's easier to implement new ideas in these industries",
+        "is_right_choice": false
+    }, {
+        "choice": "Because these industries usually have smaller market sizes",
+        "is_right_choice": false
+    }],
+    "explanation": "Targeting large industries with apparent problems is recommended because these areas often have space for improvement, presenting ample opportunities for startups to introduce innovations or better solutions that can disrupt the status quo."
+}]

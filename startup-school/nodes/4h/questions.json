@@ -1,0 +1,52 @@
+[{
+    "name": "Identifying Proxy Companies",
+    "question": "Why is it useful to identify big companies doing something similar to your startup idea?",
+    "choices": [{
+        "choice": "To directly compete with them",
+        "is_right_choice": false
+    }, {
+        "choice": "To show that your idea might work",
+        "is_right_choice": true
+    }, {
+        "choice": "To copy their business model exactly",
+        "is_right_choice": false
+    }, {
+        "choice": "Because all successful startups need a big company partner",
+        "is_right_choice": false
+    }],
+    "explanation": "Identifying big companies doing similar things as your startup is useful because they can act as proof that your idea has potential, not for direct competition or to copy them exactly."
+}, {
+    "name": "Rappi's Proxy Example",
+    "question": "Which company served as a 'proxy' or example that helped validate Rappi's business idea?",
+    "choices": [{
+        "choice": "Amazon",
+        "is_right_choice": false
+    }, {
+        "choice": "Uber",
+        "is_right_choice": false
+    }, {
+        "choice": "DoorDash",
+        "is_right_choice": true
+    }, {
+        "choice": "Deliveroo",
+        "is_right_choice": false
+    }],
+    "explanation": "DoorDash served as a 'proxy' for Rappi by showing that the idea of a food delivery service, successful in other parts of the world, could work in Latin America as well."
+}, {
+    "name": "The Purpose of Looking at Big Companies",
+    "question": "What does looking at big companies doing similar things as your startup idea help you understand?",
+    "choices": [{
+        "choice": "How to secure investments",
+        "is_right_choice": false
+    }, {
+        "choice": "The specifics of legal challenges you will face",
+        "is_right_choice": false
+    }, {
+        "choice": "Whether your idea has potential in your market",
+        "is_right_choice": true
+    }, {
+        "choice": "The exact steps to launch your startup",
+        "is_right_choice": false
+    }],
+    "explanation": "Looking at big companies doing similar things helps you understand if your startup idea has potential in your market by serving as a proof that the concept can be successful."
+}]

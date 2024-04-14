@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding conflict resolution documentation",
+    "question": "Why is it recommended to document a process for handling co-founder disagreements?",
+    "choices": [{
+        "choice": "To ensure that disagreements are resolved through a random decision-making process like tossing a coin.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it provides a clear and fair guide on how to handle disagreements, especially when emotions run high.",
+        "is_right_choice": true
+    }, {
+        "choice": "Documentation is required by law for all startups.",
+        "is_right_choice": false
+    }, {
+        "choice": "It ensures that the company can avoid any disagreements entirely.",
+        "is_right_choice": false
+    }],
+    "explanation": "Documenting a process for handling co-founder disagreements is recommended because it provides a structured and fair method for resolving conflicts, particularly useful when emotions are high and logical thinking may be compromised. It is not about making random decisions, a legal requirement, or avoiding disagreements but rather about managing them effectively."
+}, {
+    "name": "Inspiration from the Mater company",
+    "question": "What was unique about the Mater company's approach to handling disagreements?",
+    "choices": [{
+        "choice": "They resolved disagreements by a majority vote.",
+        "is_right_choice": false
+    }, {
+        "choice": "They avoided disagreements altogether by not discussing conflicting ideas.",
+        "is_right_choice": false
+    }, {
+        "choice": "They documented a simple list that guided the resolution process, including choices, decisions, and rationales.",
+        "is_right_choice": true
+    }, {
+        "choice": "They used a mediator for every disagreement.",
+        "is_right_choice": false
+    }],
+    "explanation": "The Mater company's approach was unique because they documented a simple guide to handle disagreements, detailing different choices, who made the final decisions, when they were made, and the reasons behind them. This method contrasts with resolving conflicts through votes, avoiding discussions, or using a mediator, providing a clear and structured way to navigate disagreements."
+}, {
+    "name": "Alternative processes for handling disagreements",
+    "question": "What does setting up rules for handling disagreements in advance allow co-founders to do?",
+    "choices": [{
+        "choice": "Ignore the disagreement entirely.",
+        "is_right_choice": false
+    }, {
+        "choice": "Follow a predefined process when disagreements arise, helping to manage emotions and make logical decisions.",
+        "is_right_choice": true
+    }, {
+        "choice": "Make decisions based on seniority within the company.",
+        "is_right_choice": false
+    }, {
+        "choice": "Rely solely on external mediation services.",
+        "is_right_choice": false
+    }],
+    "explanation": "Setting up rules in advance for handling disagreements allows co-founders to follow a predefined process when conflicts arise. This is beneficial because it helps ensure that decisions are made logically and fairly, even when emotions may otherwise cloud judgment. It is not about ignoring disagreements, making decisions based on hierarchy, or depending on external mediators exclusively."
+}]

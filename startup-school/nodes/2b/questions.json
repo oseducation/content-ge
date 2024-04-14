@@ -1,0 +1,35 @@
+[{
+    "name": "Identifying Resilience",
+    "question": "Based on the text, which statement best explains why confidence alone is not a reliable indicator of a founder's resilience?",
+    "choices": [{
+        "choice": "Because confidence can be easily faked in high-pressure situations.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because resilience involves inner strength and persistence, not just outward confidence.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because only unassuming, self-doubting founders are truly resilient.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because confident founders never face obstacles in startup life.",
+        "is_right_choice": false
+    }],
+    "expenation": "Resilience is identified as a deeper quality that reflects an individual's inner strength and persistence, not merely the outward appearance of confidence. The text emphasizes that initial confidence does not always lead to resilience, as resilience is what enables founders to endure and adapt to challenges, beyond just displaying confidence."
+}, {
+    "name": "True Measure of Resilience",
+    "question": "What does the text suggest is a true measure of a startup founder's resilience?",
+    "choices": [{
+        "choice": "Their ability to speak confidently in funding interviews.",
+        "is_right_choice": false
+    }, {
+        "choice": "Their level of initial confidence and energy.",
+        "is_right_choice": false
+    }, {
+        "choice": "Their inner strength and persistence in facing startup challenges.",
+        "is_right_choice": true
+    }, {
+        "choice": "Their ability to avoid challenges in the startup world.",
+        "is_right_choice": false
+    }],
+    "expenation": "The true measure of a startup founder's resilience, as suggested in the text, is their inner strength and persistence in the face of challenges. This is distinct from simply displaying confidence or energy, as resilience is more about how one endures and adapts to obstacles encountered in the startup journey."
+}]

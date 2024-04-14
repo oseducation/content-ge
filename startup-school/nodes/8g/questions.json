@@ -1,0 +1,69 @@
+[{
+    "name": "equity_split_advise",
+    "question": "What is the advised starting point for splitting equity with a co-founder?",
+    "choices": [{
+        "choice": "Based on the amount of initial capital each co-founder invests",
+        "is_right_choice": false
+    }, {
+        "choice": "Equally",
+        "is_right_choice": true
+    }, {
+        "choice": "Based on prior achievements of each co-founder",
+        "is_right_choice": false
+    }, {
+        "choice": "According to the number of hours worked by each co-founder",
+        "is_right_choice": false
+    }],
+    "explanation": "The text advises starting with the idea of equal shares when splitting equity with a co-founder, emphasizing equal motivation and contribution over the long term."
+}, {
+    "name": "misconception_about_idea",
+    "question": "Why is having the initial idea not considered a strong reason for a larger share of equity?",
+    "choices": [{
+        "choice": "Because the initial idea often changes over time",
+        "is_right_choice": true
+    }, {
+        "choice": "Because the initial idea is usually not innovative",
+        "is_right_choice": false
+    }, {
+        "choice": "Because the initial idea does not require any effort",
+        "is_right_choice": false
+    }, {
+        "choice": "Because all ideas are considered equal in value",
+        "is_right_choice": false
+    }],
+    "explanation": "The text highlights that the initial idea often changes as startups adapt to user feedback, making sustained effort over many years more critical to success."
+}, {
+    "name": "unequal_split_arguments",
+    "question": "Which of the following is NOT presented as a reason for an unequal equity split?",
+    "choices": [{
+        "choice": "Difference in age or experience",
+        "is_right_choice": false
+    }, {
+        "choice": "Who came up with the startup idea",
+        "is_right_choice": false
+    }, {
+        "choice": "One co-founder having a higher educational degree",
+        "is_right_choice": true
+    }, {
+        "choice": "Launching an MVP alone",
+        "is_right_choice": false
+    }],
+    "explanation": "The text lists several reasons often cited for unequal equity splits, such as differences in experience or one founder launching an MVP alone, but does not mention educational degrees as a factor."
+}, {
+    "name": "importance_of_equity_split",
+    "question": "What is the main reason for focusing on an equitable split of equity according to the text?",
+    "choices": [{
+        "choice": "To ensure a smooth process of decision-making",
+        "is_right_choice": false
+    }, {
+        "choice": "To prevent legal disputes over intellectual property",
+        "is_right_choice": false
+    }, {
+        "choice": "To keep both co-founders motivated and happy over the long term",
+        "is_right_choice": true
+    }, {
+        "choice": "To simplify financial accounting",
+        "is_right_choice": false
+    }],
+    "explanation": "The text emphasizes the importance of both co-founders feeling happy and motivated for the long term, indicating that an equitable split of equity is critical for sustaining a healthy partnership."
+}]

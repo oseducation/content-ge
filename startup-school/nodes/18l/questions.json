@@ -1,0 +1,69 @@
+[{
+    "name": "A/B Testing Basic Understanding",
+    "question": "What is the primary purpose of A/B testing in web development?",
+    "choices": [{
+        "choice": "To increase website traffic automatically",
+        "is_right_choice": false
+    }, {
+        "choice": "To compare two versions of a webpage or app and see which one performs better",
+        "is_right_choice": true
+    }, {
+        "choice": "To fix bugs on the website",
+        "is_right_choice": false
+    }, {
+        "choice": "To fully redesign a website or app",
+        "is_right_choice": false
+    }],
+    "explanation": "A/B testing is used to compare two versions of a web page or app to determine which one performs better in terms of user engagement or other predefined metrics, not for automatic traffic increase, bug fixes, or full redesigns."
+}, {
+    "name": "Case Study Example",
+    "question": "Which company's example is mentioned to illustrate the effectiveness of A/B testing?",
+    "choices": [{
+        "choice": "Google",
+        "is_right_choice": false
+    }, {
+        "choice": "Facebook",
+        "is_right_choice": false
+    }, {
+        "choice": "Airbnb",
+        "is_right_choice": true
+    }, {
+        "choice": "Amazon",
+        "is_right_choice": false
+    }],
+    "explanation": "Airbnb is mentioned as an example where they used A/B testing for their mobile app's share sheet, and found the new design improved the number of shares by 40%."
+}, {
+    "name": "A/B Testing Tool Suggestion",
+    "question": "Which tool is recommended for checking A/B testing impact before making a redesign live?",
+    "choices": [{
+        "choice": "Adobe’s A/B Testing Tool",
+        "is_right_choice": false
+    }, {
+        "choice": "Facebook’s Split Testing Feature",
+        "is_right_choice": false
+    }, {
+        "choice": "Google's A/B Testing Calculator",
+        "is_right_choice": true
+    }, {
+        "choice": "Microsoft’s Clarity",
+        "is_right_choice": false
+    }],
+    "explanation": "Google's A/B Testing Calculator is specifically recommended as a tool to use for checking the impacts of A/B tests before making redesign decisions live on a website or app."
+}, {
+    "name": "When to Start A/B Testing",
+    "question": "According to the text, when should startups begin considering A/B testing?",
+    "choices": [{
+        "choice": "Immediately upon launching the website or app",
+        "is_right_choice": false
+    }, {
+        "choice": "After they have accumulated a good number of users",
+        "is_right_choice": true
+    }, {
+        "choice": "Only after their first year in business",
+        "is_right_choice": false
+    }, {
+        "choice": "Before launching the website or app",
+        "is_right_choice": false
+    }],
+    "explanation": "The text advises that startups should start considering A/B testing once they have a significant user base, indicating the right timing is not immediately upon launch but after accumulating a good number of users."
+}]

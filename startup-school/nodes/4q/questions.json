@@ -1,0 +1,52 @@
+[{
+    "name": "doorDashExample",
+    "question": "Which company is mentioned as an example of creating a startup based on something the founders wished existed?",
+    "choices": [{
+        "choice": "Uber",
+        "is_right_choice": false
+    }, {
+        "choice": "DoorDash",
+        "is_right_choice": true
+    }, {
+        "choice": "Airbnb",
+        "is_right_choice": false
+    }, {
+        "choice": "Amazon",
+        "is_right_choice": false
+    }],
+    "expenation": "DoorDash is mentioned as a clear example of founders building a startup around something they wished existed - an easy way to get food from local restaurants delivered to their dorm."
+}, {
+    "name": "importanceOfViability",
+    "question": "Why is it important to ask if there's a reason something doesn't already exist when considering startup ideas?",
+    "choices": [{
+        "choice": "To ensure the product can be produced at a low cost",
+        "is_right_choice": false
+    }, {
+        "choice": "To guarantee instant market success",
+        "is_right_choice": false
+    }, {
+        "choice": "To identify possible hidden challenges",
+        "is_right_choice": true
+    }, {
+        "choice": "To avoid legal issues",
+        "is_right_choice": false
+    }],
+    "expenation": "Asking if there's a reason something doesn't already exist helps to identify possible hidden challenges that might make the idea unviable, ensuring the startup has a real chance at succeeding rather than being something that sounds good but isn't practical."
+}, {
+    "name": "personalDesireVsReality",
+    "question": "What risk does the text highlight about startup ideas based on personal desires?",
+    "choices": [{
+        "choice": "They always lead to success.",
+        "is_right_choice": false
+    }, {
+        "choice": "They might lead to 'tar pit' ideas.",
+        "is_right_choice": true
+    }, {
+        "choice": "They are less innovative.",
+        "is_right_choice": false
+    }, {
+        "choice": "They require less research.",
+        "is_right_choice": false
+    }],
+    "expenation": "The text points out that while basing startup ideas on personal desires can be effective due to the founder's passion, there's a risk of falling into 'tar pit' ideas — concepts that are appealing but ultimately unworkable or impractical."
+}]

@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding Attachment Styles",
+    "question": "What is the 'secure' attachment style?",
+    "choices": [{
+        "choice": "People who need constant reassurance from others.",
+        "is_right_choice": false
+    }, {
+        "choice": "Individuals who are happy making friends and sharing feelings.",
+        "is_right_choice": true
+    }, {
+        "choice": "People who prefer to keep a distance in relationships.",
+        "is_right_choice": false
+    }, {
+        "choice": "Those who avoid forming close relationships altogether.",
+        "is_right_choice": false
+    }],
+    "explanation": "The 'secure' attachment style is characterized by individuals who feel comfortable making friends, relying on others, and allowing others to rely on them. They are okay with sharing their feelings and are supportive when others share theirs."
+},{
+    "name": "Complementary Attachment Styles in Business Partnerships",
+    "question": "Why is it important to understand your business partner's attachment style?",
+    "choices": [{
+        "choice": "To ensure you have the same attachment style.",
+        "is_right_choice": false
+    }, {
+        "choice": "It helps in assigning tasks according to personality.",
+        "is_right_choice": false
+    }, {
+        "choice": "To better understand and fix any issues that arise.",
+        "is_right_choice": true
+    }, {
+        "choice": "It is not significant in a business context.",
+        "is_right_choice": false
+    }],
+    "explanation": "Understanding your and your business partner's attachment styles is crucial for comprehending each other's needs and behaviors. This awareness helps in effectively addressing and resolving any conflicts or misunderstandings that may arise in the partnership."
+},{
+    "name": "Anxious and Avoidant Partnership Dynamics",
+    "question": "What common dynamic exists between anxious and avoidant attachment types?",
+    "choices": [{
+        "choice": "They do not have conflicts.",
+        "is_right_choice": false
+    }, {
+        "choice": "Anxious types need constant space, while avoidants seek reassurance.",
+        "is_right_choice": false
+    }, {
+        "choice": "They rarely encounter misunderstandings.",
+        "is_right_choice": false
+    }, {
+        "choice": "Avoidants need space, while anxious types seek reassurance.",
+        "is_right_choice": true
+    }],
+    "explanation": "In partnerships where one person has an anxious attachment style and the other has an avoidant attachment style, a common dynamic is that the avoidant partner may require space to process thoughts and feelings, while the anxious partner seeks constant reassurance and closeness."
+}]

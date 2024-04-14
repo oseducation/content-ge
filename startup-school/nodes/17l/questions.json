@@ -1,0 +1,18 @@
+[{
+    "name": "Understanding the role of pricing in startups",
+    "question": "What is one of the key benefits of using pricing as a tool in startups?",
+    "choices": [{
+        "choice": "To calculate the exact cost of production",
+        "is_right_choice": false
+    }, {
+        "choice": "To understand the perceived value of the product by customers",
+        "is_right_choice": true
+    }, {
+        "choice": "To ensure the product reaches market saturation",
+        "is_right_choice": false
+    }, {
+        "choice": "To decrease the overall risk of the business",
+        "is_right_choice": false
+    }],
+    "explanation": "Pricing acts as a learning tool in startups by helping to understand the perceived value of the product in the eyes of the customers, rather than just being a means to calculate production costs or manage risks."
+}]

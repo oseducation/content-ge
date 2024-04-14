@@ -1,0 +1,69 @@
+[{
+    "name": "Indicators for Pivoting",
+    "question": "What is considered a strong sign that it's time for a startup to pivot?",
+    "choices": [{
+        "choice": "When the startup is enjoying the journey despite challenges",
+        "is_right_choice": false
+    }, {
+        "choice": "Feeling hopeless after trying to get users for weeks or months",
+        "is_right_choice": true
+    }, {
+        "choice": "Needing a large team to implement the idea",
+        "is_right_choice": false
+    }, {
+        "choice": "Receiving too much venture capital interest",
+        "is_right_choice": false
+    }],
+    "explanation": "Feeling hopeless after extensive efforts to acquire users without success is a strong indication of the need to pivot. This suggests that the market isn't responding well to the current business model or product, making a strategic change necessary for survival and growth."
+}, {
+    "name": "Timing of Pivoting",
+    "question": "Why is it advised not to pivot too frequently?",
+    "choices": [{
+        "choice": "Because it indicates a lack of funding",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it might lead to burnout and frustration",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it ensures rapid growth",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it attracts more investors",
+        "is_right_choice": false
+    }],
+    "explanation": "Pivoting too often can lead to burnout and frustration among the founders and team members. Constantly changing directions without allowing enough time to test and validate each pivot can be more damaging than persevering with a suboptimal idea for a reasonable period."
+}, {
+    "name": "Gut Feeling in Business",
+    "question": "According to the text, how important is a founder's belief in their own business idea?",
+    "choices": [{
+        "choice": "Not important, as success depends solely on market trends",
+        "is_right_choice": false
+    }, {
+        "choice": "Crucial, as it's a strong signal to pivot when belief is lacking",
+        "is_right_choice": true
+    }, {
+        "choice": "Irrelevant, as the business plan is more important than personal belief",
+        "is_right_choice": false
+    }, {
+        "choice": "Only important in the early stages of the startup",
+        "is_right_choice": false
+    }],
+    "explanation": "A founder's belief in their business idea is crucial. The text emphasizes that lacking belief in one's own idea is a strong signal that it's time to pivot. This internal doubt reflects a deep understanding of the business's potential and can guide strategic decisions more effectively than external factors."
+}, {
+    "name": "Team Management During Pivot",
+    "question": "Why should startups avoid expanding the team before being confident in their idea?",
+    "choices": [{
+        "choice": "Because a bigger team guarantees success",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it can lead to legal issues",
+        "is_right_choice": false
+    }, {
+        "choice": "Because it can demotivate the team and slow down processes",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it decreases expenses",
+        "is_right_choice": false
+    }],
+    "explanation": "Expanding the team before having confidence in the business idea can bring more problems than solutions, including demotivation and slowing down processes due to the challenges of managing a larger team during uncertain times. It's more efficient to keep the team lean until the business direction is secure."
+}]

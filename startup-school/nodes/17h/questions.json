@@ -1,0 +1,69 @@
+[{
+    "name": "service_consultant_business_scale",
+    "question": "Why is it challenging for service- or consultant-based businesses to scale up among the top companies?",
+    "choices": [{
+        "choice": "Because they offer too many services and confuse customers",
+        "is_right_choice": false
+    }, {
+        "choice": "Due to the need for constantly finding new customers and hiring more people",
+        "is_right_choice": true
+    }, {
+        "choice": "Because they do not use digital marketing effectively",
+        "is_right_choice": false
+    }, {
+        "choice": "Since their services are not innovative enough",
+        "is_right_choice": false
+    }],
+    "explanation": "Service- or consultant-based businesses face scaling challenges primarily because they rely on one-off sales, which necessitate constantly attracting new customers and hiring additional staff to meet demand, thereby diminishing profit margins per sale."
+}, {
+    "name": "affiliate_marketing_revenue",
+    "question": "What makes scaling earnings difficult for affiliate marketing businesses?",
+    "choices": [{
+        "choice": "They only sell digital products",
+        "is_right_choice": false
+    }, {
+        "choice": "Because they rely on high traffic volumes only",
+        "is_right_choice": false
+    }, {
+        "choice": "Their income depends on transactions they do not control",
+        "is_right_choice": true
+    }, {
+        "choice": "Affiliate marketing is prohibited in most countries",
+        "is_right_choice": false
+    }],
+    "explanation": "Affiliate marketing businesses find it hard to significantly increase earnings because their income depends on being an intermediary for someone else's transactions, which means both their control over sales and their share of each sale are limited."
+}, {
+    "name": "hardware_business_profitability",
+    "question": "Why do hardware businesses face difficulties in scaling?",
+    "choices": [{
+        "choice": "Because digital products are more popular",
+        "is_right_choice": false
+    }, {
+        "choice": "They have high initial costs and low profit margins",
+        "is_right_choice": true
+    }, {
+        "choice": "Finding skilled workers is nearly impossible",
+        "is_right_choice": false
+    }, {
+        "choice": "They are illegal in some jurisdictions",
+        "is_right_choice": false
+    }],
+    "explanation": "Hardware businesses struggle to scale because of the high upfront investment required for physical components and the fact that, even after such significant outlays, profit margins remain slim, posing a barrier to growth."
+}, {
+    "name": "platform_dependent_business_risk",
+    "question": "Why is building a business on another platform considered risky for scalability?",
+    "choices": [{
+        "choice": "Platforms often have poor internet infrastructure",
+        "is_right_choice": false
+    }, {
+        "choice": "It's too easy for competitors to copy the business model",
+        "is_right_choice": false
+    }, {
+        "choice": "The platform owner might displace the business to take over its revenue",
+        "is_right_choice": true
+    }, {
+        "choice": "Platform fees are too high to make a profit",
+        "is_right_choice": false
+    }],
+    "explanation": "Businesses built on another platform face scalability risks because if they become too successful, the platform owner might have an incentive to remove them and capture their revenue streams, acting much like a landlord who can evict tenants to take over profitable operations."
+}]

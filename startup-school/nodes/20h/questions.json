@@ -1,0 +1,69 @@
+[{
+    "name": "key_components_y_combinator_interview",
+    "question": "What is the format of the Y Combinator interview?",
+    "choices": [{
+        "choice": "A day-long series of tests and challenges.",
+        "is_right_choice": false
+    }, {
+        "choice": "A quick 10-minute chat on Zoom.",
+        "is_right_choice": true
+    }, {
+        "choice": "An in-person presentation to a large audience.",
+        "is_right_choice": false
+    }, {
+        "choice": "A written exam based on the startup's business model.",
+        "is_right_choice": false
+    }],
+    "explanation": "The Y Combinator interview is described as a quick 10-minute chat on Zoom, not a long, drawn-out process, nor does it involve presentations, tests, or exams."
+}, {
+    "name": "founders_presence",
+    "question": "Who needs to be present during the Y Combinator interview?",
+    "choices": [{
+        "choice": "Only the CEO or lead founder.",
+        "is_right_choice": false
+    }, {
+        "choice": "At least one of the founders.",
+        "is_right_choice": false
+    }, {
+        "choice": "All the founders of the startup.",
+        "is_right_choice": true
+    }, {
+        "choice": "The startup’s entire team.",
+        "is_right_choice": false
+    }],
+    "explanation": "All the founders of the startup need to be present during the Y Combinator interview; the process requires the collective attendance of the founding team."
+}, {
+    "name": "interview_mistakes",
+    "question": "Which of the following is considered a mistake during a YC interview?",
+    "choices": [{
+        "choice": "Practicing interview questions beforehand.",
+        "is_right_choice": false
+    }, {
+        "choice": "Being honest and authentic during the interview.",
+        "is_right_choice": false
+    }, {
+        "choice": "Treating the interview as an adversarial process.",
+        "is_right_choice": true
+    }, {
+        "choice": "Discussing the startup's business model.",
+        "is_right_choice": false
+    }],
+    "explanation": "Treating the YC interview as an adversarial process or acting in a confrontational manner is considered a mistake, as YC staff are potentially future colleagues."
+}, {
+    "name": "preparation_tips",
+    "question": "What is recommended for preparing for a YC interview?",
+    "choices": [{
+        "choice": "Memorizing answers to potential questions.",
+        "is_right_choice": false
+    }, {
+        "choice": "Watching official YC videos and thoroughly reading the instructions.",
+        "is_right_choice": true
+    }, {
+        "choice": "Avoiding practice with others to keep responses spontaneous.",
+        "is_right_choice": false
+    }, {
+        "choice": "Twisting facts about the company to make it more appealing.",
+        "is_right_choice": false
+    }],
+    "explanation": "For preparing for a YC interview, it's recommended to watch official YC videos and thoroughly read the instructions, as well as practice, but not in a way that leads to robotic, memorized answers."
+}]

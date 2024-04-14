@@ -1,0 +1,52 @@
+[{
+    "name": "Founder/Market Fit Concept",
+    "question": "What best describes the concept of founder/market fit?",
+    "choices": [{
+        "choice": "The financial investments a founder is willing to make.",
+        "is_right_choice": false
+    }, {
+        "choice": "The alignment between a team's skills and experiences and the market needs of their startup idea.",
+        "is_right_choice": true
+    }, {
+        "choice": "The marketing strategies a startup employs.",
+        "is_right_choice": false
+    }, {
+        "choice": "The size of the market a startup intends to enter.",
+        "is_right_choice": false
+    }],
+    "expenation": "Founder/market fit is defined by the suitability of the team's skills and experiences for the idea they're pursuing, emphasizing the alignment between what the founders can do and what the startup needs."
+}, {
+    "name": "PlanGrid Example",
+    "question": "What made Tracy and Ralph an ideal combination for PlanGrid?",
+    "choices": [{
+        "choice": "They both had prior experience running a startup.",
+        "is_right_choice": false
+    }, {
+        "choice": "They were college friends.",
+        "is_right_choice": false
+    }, {
+        "choice": "Tracy had extensive experience in construction, and Ralph had expertise in software development.",
+        "is_right_choice": true
+    }, {
+        "choice": "They both had a personal interest in construction.",
+        "is_right_choice": false
+    }],
+    "expenation": "Tracy and Ralph from PlanGrid were a perfect match because Tracy brought in-depth knowledge of the construction industry while Ralph contributed his software development skills, aligning with the startup’s needs."
+}, {
+    "name": "Significance of Founder/Market Fit",
+    "question": "Why is founder/market fit important in choosing a startup idea?",
+    "choices": [{
+        "choice": "It ensures the startup gets immediate financial backing.",
+        "is_right_choice": false
+    }, {
+        "choice": "It guarantees the startup will have no competition.",
+        "is_right_choice": false
+    }, {
+        "choice": "It focuses on leveraging the team's unique strengths and knowledge for the startup idea.",
+        "is_right_choice": true
+    }, {
+        "choice": "It is only needed if the startup is technology-based.",
+        "is_right_choice": false
+    }],
+    "expenation": "Founder/market fit is pivotal because it involves choosing startup ideas that align with the team's unique skills and knowledge, ensuring the team can effectively contribute and excel."
+}]

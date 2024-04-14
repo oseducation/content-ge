@@ -1,0 +1,52 @@
+[{
+    "name": "Concept Understanding",
+    "question": "What is the main idea behind 'Doing Things That Don't Scale' in the context of early-stage startups?",
+    "choices": [{
+        "choice": "Focusing only on scalable projects from the beginning.",
+        "is_right_choice": false
+    }, {
+        "choice": "Initially taking on tasks that may not scale but are essential for growth.",
+        "is_right_choice": true
+    }, {
+        "choice": "Avoiding tasks that are unconventional or not directly linked to growth.",
+        "is_right_choice": false
+    }, {
+        "choice": "Prioritizing software development over other tasks.",
+        "is_right_choice": false
+    }],
+    "explanation": "The main idea is to embrace tasks that might not seem scalable at the moment but are crucial for the early stages of startup growth. It emphasizes the importance of engaging in non-traditional tasks that are essential for laying the groundwork for future scalability."
+}, {
+    "name": "Airbnb Example Contextualization",
+    "question": "Why is the story of Airbnb in its initial stages highlighted in the discussion on doing things that don't scale?",
+    "choices": [{
+        "choice": "Because Airbnb failed at first due to focusing on non-scalable tasks.",
+        "is_right_choice": false
+    }, {
+        "choice": "To show that Airbnb succeeded without doing things that don't scale.",
+        "is_right_choice": false
+    }, {
+        "choice": "As an example of a company that embraced non-scalable tasks early on and succeeded.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because Airbnb is an exception to the rule of focusing on scalability.",
+        "is_right_choice": false
+    }],
+    "explanation": "Airbnb’s early-stage strategies are used as an example to demonstrate the effectiveness of engaging in non-scalable tasks at the beginning. Their success story serves as a proof of concept for the benefits of this approach in early-stage startups."
+}, {
+    "name": "Advice for Startup Founders",
+    "question": "What common belief do startup founders need to temporarily forget, according to the article?",
+    "choices": [{
+        "choice": "The importance of long-term planning.",
+        "is_right_choice": false
+    }, {
+        "choice": "The necessity of having a business degree to succeed.",
+        "is_right_choice": false
+    }, {
+        "choice": "Only focusing on tasks and goals that are immediately scalable.",
+        "is_right_choice": true
+    }, {
+        "choice": "Avoiding hands-on tasks.",
+        "is_right_choice": false
+    }],
+    "explanation": "Startup founders are encouraged to set aside the belief that they should only focus on scalable tasks and goals from the outset. Instead, the importance of tackling any tasks, regardless of their immediate scalability, is emphasized as crucial for early-stage growth."
+}]

@@ -1,0 +1,91 @@
+[{
+    "name": "Understanding KPIs",
+    "question": "What does KPI stand for?",
+    "choices": [{
+            "choice": "Key Performance Indicator",
+            "is_right_choice": true
+        }, {
+            "choice": "Knowledge Practice Initiative",
+            "is_right_choice": false
+        }, {
+            "choice": "Key Progress Index",
+            "is_right_choice": false
+        }, {
+            "choice": "Knowledge Performance Indicator",
+            "is_right_choice": false
+        }
+    ],
+    "explanation": "KPI stands for 'Key Performance Indicator,' which are metrics used to track progress towards main goals."
+}, {
+    "name": "Optimal Early Growth Rate",
+    "question": "According to Paul Graham, what weekly growth rate is considered great for a startup?",
+    "choices": [{
+            "choice": "2-3%",
+            "is_right_choice": false
+        }, {
+            "choice": "5-7%",
+            "is_right_choice": true
+        }, {
+            "choice": "8-10%",
+            "is_right_choice": false
+        }, {
+            "choice": "10-12%",
+            "is_right_choice": false
+        }
+    ],
+    "explanation": "Paul Graham suggests that a weekly growth rate of 5-7% is great for a startup."
+}, {
+    "name": "Growth Strategies",
+    "question": "Which factor might give early growth a sweet boost?",
+    "choices": [{
+            "choice": "High production costs",
+            "is_right_choice": false
+        }, {
+            "choice": "Long sales cycles",
+            "is_right_choice": false
+        }, {
+            "choice": "Latent Demand",
+            "is_right_choice": true
+        }, {
+            "choice": "Frequent product changes",
+            "is_right_choice": false
+        }
+    ],
+    "explanation": "Latent Demand can give early growth a boost as it represents a situation where there is a strong need for a product or service, even if it's not perfect yet."
+}, {
+    "name": "Retention and Engagement",
+    "question": "Why should a startup focus on retaining and engaging its customers?",
+    "choices": [{
+            "choice": "To comply with regulatory requirements",
+            "is_right_choice": false
+        }, {
+            "choice": "To reduce marketing expenses",
+            "is_right_choice": false
+        }, {
+            "choice": "To make the business more valuable",
+            "is_right_choice": true
+        }, {
+            "choice": "To simplify the sales process",
+            "is_right_choice": false
+        }
+    ],
+    "explanation": "Focusing on retention and engagement makes the business more valuable by ensuring customers remain interested and continue using the product, ultimately leading to more sustainable growth."
+}, {
+    "name": "New vs. Old Clients",
+    "question": "What is the suggested approach for handling new and existing clients in a startup?",
+    "choices": [{
+            "choice": "Focus only on new clients",
+            "is_right_choice": false
+        }, {
+            "choice": "Focus only on existing clients",
+            "is_right_choice": false
+        }, {
+            "choice": "Ignore both and focus on product development",
+            "is_right_choice": false
+        }, {
+            "choice": "Both care for existing clients and bring in new ones",
+            "is_right_choice": true
+        }
+    ],
+    "explanation": "A startup needs to both care for its existing clients to ensure they're happy and at the same time, work on bringing in new ones to sustain and accelerate growth."
+}]

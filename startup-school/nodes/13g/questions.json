@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding Startup Launches",
+    "question": "What is the primary focus for startups in their early stages according to the text?",
+    "choices": [{
+        "choice": "Planning a grandiose press launch",
+        "is_right_choice": false
+    }, {
+        "choice": "Acquiring customers",
+        "is_right_choice": true
+    }, {
+        "choice": "Perfecting a pitch deck",
+        "is_right_choice": false
+    }, {
+        "choice": "Monitoring competitor launches",
+        "is_right_choice": false
+    }],
+    "expenation": "According to the text, the primary focus for startups in their early stages should be on acquiring customers rather than making headlines or working on perfecting a grand pitch deck."
+}, {
+    "name": "Myth about Startup Success",
+    "question": "What common myth about startup success is discussed in the text?",
+    "choices": [{
+        "choice": "That success is guaranteed for all startups",
+        "is_right_choice": false
+    }, {
+        "choice": "That having a unique product guarantees success",
+        "is_right_choice": false
+    }, {
+        "choice": "That a flashy, media-covered launch event is crucial for success",
+        "is_right_choice": true
+    }, {
+        "choice": "That startups do not need customers to succeed",
+        "is_right_choice": false
+    }],
+    "expenation": "The text discusses the myth that success looks like a flashy, media-covered launch event, emphasizing that real success for startups comes from acquiring customers and not from the glamour of a launch event."
+}, {
+    "name": "True Measure of a Product's Success",
+    "question": "According to the text, what is the true measure of a startup product's success?",
+    "choices": [{
+        "choice": "The amount of press coverage it receives",
+        "is_right_choice": false
+    }, {
+        "choice": "The number of investors it attracts",
+        "is_right_choice": false
+    }, {
+        "choice": "Customer feedback and product usage",
+        "is_right_choice": true
+    }, {
+        "choice": "The initial sales figures on launch day",
+        "is_right_choice": false
+    }],
+    "expenation": "The text points out that the true measure of a startup product's success is not in the external attention it gets, but in the feedback and usage from customers, as this is a direct reflection of whether the product meets their needs."
+}]

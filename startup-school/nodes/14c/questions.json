@@ -1,0 +1,69 @@
+[{
+    "name": "Importance of Pitch Clarity",
+    "question": "Why is it important to simplify your startup's pitch into one sentence?",
+    "choices": [{
+        "choice": "To make it more challenging for competitors.",
+        "is_right_choice": false
+    }, {
+        "choice": "To make it easier for people to understand and share, fostering natural growth.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because it's a requirement for most startup competitions.",
+        "is_right_choice": false
+    }, {
+        "choice": "To save time in meetings with investors.",
+        "is_right_choice": false
+    }],
+    "explanation": "Simplifying your startup's pitch into one sentence makes it easier for people to understand and share, which is crucial for natural and rapid growth as the best companies grow because people talk about them."
+}, {
+    "name": "Start of Your Pitch",
+    "question": "When crafting your one-sentence pitch, what should you lead with?",
+    "choices": [{
+        "choice": "The history of your startup",
+        "is_right_choice": false
+    }, {
+        "choice": "The technological advances your startup uses",
+        "is_right_choice": false
+    }, {
+        "choice": "What your company does",
+        "is_right_choice": true
+    }, {
+        "choice": "Why you founded the company",
+        "is_right_choice": false
+    }],
+    "explanation": "When crafting your one-sentence pitch, you should start with 'what' your company does rather than 'why' you founded it, to immediately communicate the purpose or service of your startup."
+}, {
+    "name": "Language in Your Pitch",
+    "question": "Which type of language should you avoid in your one-sentence pitch?",
+    "choices": [{
+        "choice": "Simple and straightforward",
+        "is_right_choice": false
+    }, {
+        "choice": "Language that includes jargon and marketing fluff",
+        "is_right_choice": true
+    }, {
+        "choice": "A conversational tone",
+        "is_right_choice": false
+    }, {
+        "choice": "Descriptive language",
+        "is_right_choice": false
+    }],
+    "explanation": "You should avoid using jargon and marketing fluff in your one-sentence pitch; instead, use plain and straightforward language to clearly articulate what your startup does."
+}, {
+    "name": "Length of Your Pitch",
+    "question": "How long should your pitch be according to the article?",
+    "choices": [{
+        "choice": "Less than 10 words",
+        "is_right_choice": false
+    }, {
+        "choice": "A detailed paragraph",
+        "is_right_choice": false
+    }, {
+        "choice": "One sentence",
+        "is_right_choice": true
+    }, {
+        "choice": "As long as it takes to explain everything",
+        "is_right_choice": false
+    }],
+    "explanation": "Your pitch should be one sentence long, being short and sweet to maintain interest and effectively communicate your startup's purpose or service."
+}]

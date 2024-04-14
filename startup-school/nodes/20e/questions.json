@@ -1,0 +1,69 @@
+[{
+    "name": "YC Application Importance of Completeness",
+    "question": "Why is completing the entire YC application, especially the founder biographies, crucial?",
+    "choices": [{
+        "choice": "It's the only section reviewed by the YC team.",
+        "is_right_choice": false
+    }, {
+        "choice": "It demonstrates the founders' seriousness and effort.",
+        "is_right_choice": true
+    }, {
+        "choice": "It's optional but recommended for extra points.",
+        "is_right_choice": false
+    }, {
+        "choice": "It's only necessary for startups in certain industries.",
+        "is_right_choice": false
+    }],
+    "explanation": "Completing the entire application, especially the founder biographies, is crucial as it demonstrates the founders' seriousness and effort. This effort is a signal to the YC team about the founders' commitment to their startup and the application process."
+}, {
+    "name": "YC Application Grammar Importance",
+    "question": "How important is correct grammar, punctuation, and use of capital letters in the YC application?",
+    "choices": [{
+        "choice": "Unimportant, the focus is on the business idea only.",
+        "is_right_choice": false
+    }, {
+        "choice": "Somewhat important but secondary to the business model.",
+        "is_right_choice": false
+    }, {
+        "choice": "Very important, as it reflects the applicant's attention to detail.",
+        "is_right_choice": true
+    }, {
+        "choice": "Only important in the founder biographies section.",
+        "is_right_choice": false
+    }],
+    "explanation": "Correct grammar, punctuation, and use of capital letters are very important in the YC application because they reflect the applicant's attention to detail. These seemingly small aspects can make a big difference in how the application is perceived."
+}, {
+    "name": "YC Application Founder Video Instructions",
+    "question": "What is the significance of following the instructions for the founder video in the YC application?",
+    "choices": [{
+        "choice": "It's optional but recommended for a humorous effect.",
+        "is_right_choice": false
+    }, {
+        "choice": "It's mandatory for legal reasons.",
+        "is_right_choice": false
+    }, {
+        "choice": "It's a test of the founders' ability to follow instructions and pay attention to detail.",
+        "is_right_choice": true
+    }, {
+        "choice": "It influences the technical evaluation of the startup.",
+        "is_right_choice": false
+    }],
+    "explanation": "Following the instructions for the founder video is significant because it acts as a test of the founders' ability to follow instructions and pay attention to detail. This is a way for the YC team to gauge how well the founders can adhere to guidelines and their overall attentiveness."
+}, {
+    "name": "YC Application Written Answers Length",
+    "question": "Why should written answers in the YC application be succinct?",
+    "choices": [{
+        "choice": "So they can be easily shared on social media.",
+        "is_right_choice": false
+    }, {
+        "choice": "To make it easier for the applicants.",
+        "is_right_choice": false
+    }, {
+        "choice": "To ensure clarity, brevity, and direct responses to the questions.",
+        "is_right_choice": true
+    }, {
+        "choice": "Because there's a strict word limit on each answer.",
+        "is_right_choice": false
+    }],
+    "explanation": "Written answers in the YC application should be succinct to ensure clarity, brevity, and that the response directly answers the question posed. Keeping answers concise also shows that you can communicate essential information straightforwardly without over-elaboration."
+}]

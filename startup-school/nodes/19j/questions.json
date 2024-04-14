@@ -1,0 +1,35 @@
+[{
+    "name": "Question 1",
+    "question": "What is the primary factor that helped Podium succeed according to the passage?",
+    "choices": [{
+        "choice": "They attended a prestigious university.",
+        "is_right_choice": false
+    }, {
+        "choice": "They had a product people wanted.",
+        "is_right_choice": true
+    }, {
+        "choice": "They had big-time Silicon Valley connections.",
+        "is_right_choice": false
+    }, {
+        "choice": "They were originally wealthy.",
+        "is_right_choice": false
+    }],
+    "explanation": "Podium succeeded because they had a product people wanted, not because of fancy connections or their personal backgrounds. Their ability to sell a useful product was key, as illustrated by their sales success before and after joining Y Combinator."
+}, {
+    "name": "Question 2",
+    "question": "According to the passage, why is it important to communicate directly with investors rather than through intermediaries?",
+    "choices": [{
+        "choice": "To save money on hiring intermediaries.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because investors prefer to invest in people they personally know.",
+        "is_right_choice": false
+    }, {
+        "choice": "The intermediary might not fully understand the product.",
+        "is_right_choice": false
+    }, {
+        "choice": "Because the relationship between the entrepreneur and the investor is important.",
+        "is_right_choice": true
+    }],
+    "explanation": "The passage emphasizes the importance of entrepreneurs communicating directly with investors to build a strong relationship. This personal connection is crucial and cannot be effectively substituted by intermediaries."
+}]

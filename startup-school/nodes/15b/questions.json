@@ -1,0 +1,52 @@
+[{
+    "name": "Understanding the key stages in the Startup Curve",
+    "question": "Which of the following best describes the initial phase after a startup's launch according to the Startup Curve?",
+    "choices": [{
+        "choice": "Instant profitability",
+        "is_right_choice": false
+    }, {
+        "choice": "A buzz of energy and attention",
+        "is_right_choice": true
+    }, {
+        "choice": "Immediate descent into the Trough of Sorrow",
+        "is_right_choice": false
+    }, {
+        "choice": "Direct entry into the Promised Land of Product-Market Fit",
+        "is_right_choice": false
+    }],
+    "explanation": "The initial phase after a startup's launch is characterized by a buzz of energy and attention, mostly due to the excitement from the launch event itself, which might happen on platforms like Product Hunt or Hacker News."
+}, {
+    "name": "Identifying the toughest phase according to the Startup Curve",
+    "question": "What phase is identified as the most challenging period for startups on the Startup Curve?",
+    "choices": [{
+        "choice": "The Wiggles of False Hope",
+        "is_right_choice": false
+    }, {
+        "choice": "The Thrill of the Launch",
+        "is_right_choice": false
+    }, {
+        "choice": "The Crash of Ineptitude",
+        "is_right_choice": false
+    }, {
+        "choice": "The Trough of Sorrow",
+        "is_right_choice": true
+    }],
+    "explanation": "The Trough of Sorrow is described as a scary period where startups experience significant challenges, including a lack of big retention numbers, which tests the stamina and innovation capabilities of a startup."
+}, {
+    "name": "Understanding Product-Market Fit in the context of the Startup Curve",
+    "question": "Which stage on the Startup Curve represents achieving alignment between the startup's product and its target market's needs?",
+    "choices": [{
+        "choice": "The Trough of Sorrow",
+        "is_right_choice": false
+    }, {
+        "choice": "The Crash of Ineptitude",
+        "is_right_choice": false
+    }, {
+        "choice": "The Wiggles of False Hope",
+        "is_right_choice": false
+    }, {
+        "choice": "The Promised Land of Product-Market Fit",
+        "is_right_choice": true
+    }],
+    "explanation": "The Promised Land of Product-Market Fit is the stage where a startup has successfully aligned its product with the needs of its target market, signaling a major milestone in the startup's journey towards sustainability and growth."
+}]

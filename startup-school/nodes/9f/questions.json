@@ -1,0 +1,69 @@
+[{
+    "name": "Importance of Initial Co-Founder Involvement",
+    "question": "Why is it important to involve a co-founder from the earliest stages of a startup?",
+    "choices": [{
+        "choice": "To simplify legal paperwork",
+        "is_right_choice": false
+    }, {
+        "choice": "To ensure collective ownership and dedication",
+        "is_right_choice": true
+    }, {
+        "choice": "To share the financial burden only",
+        "is_right_choice": false
+    }, {
+        "choice": "To have someone to delegate tasks to",
+        "is_right_choice": false
+    }],
+    "explanation": "Involving a co-founder from the earliest stages ensures that both parties feel a sense of collective ownership and responsibility, which is crucial for maintaining commitment and motivation, particularly during challenging periods."
+}, {
+    "name": "Co-Founder Selection Effort",
+    "question": "How much effort should you put into choosing a co-founder according to the article?",
+    "choices": [{
+        "choice": "Minimal effort, as the focus should be on the business idea",
+        "is_right_choice": false
+    }, {
+        "choice": "A moderate amount, balancing between the business idea and partner search",
+        "is_right_choice": false
+    }, {
+        "choice": "Maximum effort, as it's critical to the success of your company",
+        "is_right_choice": true
+    }, {
+        "choice": "No specific effort, it will naturally happen",
+        "is_right_choice": false
+    }],
+    "explanation": "The article emphasizes that choosing a co-founder is one of the most crucial decisions at the start, necessitating full effort and dedication to ensure the success and proper foundation of the company."
+}, {
+    "name": "Timing for Finding a Co-Founder",
+    "question": "When is the best time to find a co-founder for your startup according to the article?",
+    "choices": [{
+        "choice": "After you've come up with a business idea",
+        "is_right_choice": false
+    }, {
+        "choice": "After raising initial funding",
+        "is_right_choice": false
+    }, {
+        "choice": "Before finalizing the business idea or raising funds",
+        "is_right_choice": true
+    }, {
+        "choice": "Once the startup achieves product-market fit",
+        "is_right_choice": false
+    }],
+    "explanation": "The article recommends finding your co-founder before finalizing your business idea or attempting to raise funds, promoting a strong sense of shared ownership and collective effort from the start."
+}, {
+    "name": "Advantages of Having a Co-Founder",
+    "question": "According to the article, what is one of the major advantages of having a co-founder in a startup?",
+    "choices": [{
+        "choice": "Reducing the total amount of work",
+        "is_right_choice": false
+    }, {
+    "choice": "Having someone to socialize with",
+    "is_right_choice": false
+    }, {
+    "choice": "Sharing startup expenses",
+    "is_right_choice": false
+    }, {
+    "choice": "Providing a 'superpower' during challenging early stages",
+    "is_right_choice": true
+    }],
+    "explanation": "A great co-founder can act as a 'superpower' for your company, especially through the difficult early stages before achieving product-market fit, significantly benefiting the startup's development and problem-solving capabilities."
+}]

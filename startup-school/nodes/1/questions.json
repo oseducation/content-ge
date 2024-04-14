@@ -1,0 +1,69 @@
+[{
+    "name": "Startup Definition",
+    "question": "What is the primary characteristic that distinguishes a startup from other new businesses?",
+    "choices": [{
+        "choice": "Operating online",
+        "is_right_choice": false
+    }, {
+        "choice": "Rapid growth",
+        "is_right_choice": true
+    }, {
+        "choice": "Obtaining venture capital",
+        "is_right_choice": false
+    }, {
+        "choice": "Operating in the technology sector",
+        "is_right_choice": false
+    }],
+    "explanation": "The primary characteristic that distinguishes a startup from other new businesses is its built-in capacity for rapid growth. This is more integral to a startup than being in the technology sector or obtaining venture capital."
+}, {
+    "name": "Growth Potential",
+    "question": "Why are typical businesses like barbershops not considered startups?",
+    "choices": [{
+        "choice": "They do not use technology.",
+        "is_right_choice": false
+    }, {
+        "choice": "They have a limited customer base.",
+        "is_right_choice": false
+    }, {
+        "choice": "They are not designed to scale quickly.",
+        "is_right_choice": true
+    }, {
+        "choice": "They do not seek investment.",
+        "is_right_choice": false
+    }],
+    "explanation": "Typical businesses like barbershops are not considered startups primarily because they are not designed to scale quickly. Their business model does not support rapid growth on a large scale."
+}, {
+    "name": "Startup versus Traditional Business",
+    "question": "Which of the following best explains why Google is considered a startup and not a traditional business like a barbershop?",
+    "choices": [{
+        "choice": "Google has a larger customer base.",
+        "is_right_choice": false
+    }, {
+        "choice": "Google offers a service that can scale globally.",
+        "is_right_choice": true
+    }, {
+        "choice": "Google operates in the technology sector.",
+        "is_right_choice": false
+    }, {
+        "choice": "Google's founders worked harder.",
+        "is_right_choice": false
+    }],
+    "explanation": "Google is considered a startup and not a traditional business because it offers a service that can scale globally, not because of its sector, customer base size, or the work ethic of its founders. The ability to scale and serve a large market is key to being classified as a startup."
+}, {
+    "name": "Limitations of Growth",
+    "question": "What limits do most businesses face that prevent them from becoming startups?",
+    "choices": [{
+        "choice": "Lack of ambition",
+        "is_right_choice": false
+    }, {
+        "choice": "Limitations in creating a desirable product or service",
+        "is_right_choice": true
+    }, {
+        "choice": "Inability to obtain financing",
+        "is_right_choice": false
+    }, {
+        "choice": "Not operating in the right geographical location",
+        "is_right_choice": false
+    }],
+    "explanation": "Most businesses face limitations in either creating a product or service that a lot of people want (a) or in reaching and serving all those people (b), which prevent them from becoming startups. Successful startups overcome these limitations, enabling rapid growth."
+}]

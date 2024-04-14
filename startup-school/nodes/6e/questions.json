@@ -1,0 +1,52 @@
+[{
+    "name": "Finding Inspiration for Startup Ideas",
+    "question": "According to the text, what is a crucial factor in finding a better idea for your startup?",
+    "choices": [{
+        "choice": "Choosing an idea that requires venture capital",
+        "is_right_choice": false
+    }, {
+        "choice": "Selecting an idea that excites and inspires you",
+        "is_right_choice": true
+    }, {
+        "choice": "Focusing only on technology-based ideas",
+        "is_right_choice": false
+    }, {
+        "choice": "Picking an idea that seems like a good startup idea to others",
+        "is_right_choice": false
+    }],
+    "explanation": "The text emphasizes that the key to finding a better idea for your startup is to look for something that excites and inspires you, making you eager to work on it."
+}, {
+    "name": "Impact of Venture Capital on Idea Selection",
+    "question": "What does the text say about choosing a startup idea with the aim of attracting venture capital?",
+    "choices": [{
+        "choice": "Every startup idea requires venture capital to succeed",
+        "is_right_choice": false
+    }, {
+        "choice": "Venture capital should be the main focus when choosing a startup idea",
+        "is_right_choice": false
+    }, {
+        "choice": "It's okay to work on an idea that doesn't need venture capital",
+        "is_right_choice": true
+    }, {
+        "choice": "Only technology startups should consider venture capital",
+        "is_right_choice": false
+    }],
+    "explanation": "The text clearly indicates that it is acceptable to work on a startup idea that does not require venture capital, highlighting that most businesses in the world don't need it."
+}, {
+    "name": "Criteria for Venture Capital-Focused Startups",
+    "question": "What should you consider if you want your startup to attract venture capital, according to the text?",
+    "choices": [{
+        "choice": "The idea should be related to ad tech only",
+        "is_right_choice": false
+    }, {
+        "choice": "It must require a long time to build and test",
+        "is_right_choice": false
+    }, {
+        "choice": "The business should have the potential for quick growth and high margins",
+        "is_right_choice": true
+    }, {
+        "choice": "Focus exclusively on small, niche markets",
+        "is_right_choice": false
+    }],
+    "explanation": "For a startup aiming at venture capital, the text suggests the idea must enable the business to grow quickly and potentially become a publicly-traded company, with technology as a key component and high margins, like those in software businesses."
+}]

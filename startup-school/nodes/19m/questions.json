@@ -1,0 +1,52 @@
+[{
+    "name": "Misconception about Startup Funding",
+    "question": "What is considered a common misconception about funding a startup?",
+    "choices": [{
+        "choice": "You need a big network to get funding",
+        "is_right_choice": false
+    }, {
+        "choice": "You must raise funds before starting your business",
+        "is_right_choice": false
+    }, {
+        "choice": "Raising funds is the first and most crucial step for a startup",
+        "is_right_choice": false
+    }, {
+        "choice": "You cannot start a startup without knowing how to pitch to investors",
+        "is_right_choice": true
+    }],
+    "explanation": "The text dispels the misconception that you cannot start a startup or raise funds without having a fancy network, knowing how to pitch perfectly to investors, or having a swanky network of influencers, thereby indicating that these are not prerequisites to starting or funding a startup."
+}, {
+    "name": "Role of Safes in Startup Funding",
+    "question": "How do safes benefit someone looking to fund their startup?",
+    "choices": [{
+        "choice": "Safes make it complicated to raise money",
+        "is_right_choice": false
+    }, {
+        "choice": "They are a form of secret code you need to understand before starting",
+        "is_right_choice": false
+    }, {
+        "choice": "Safes make it easier and quicker to raise the necessary funds",
+        "is_right_choice": true
+    }, {
+        "choice": "Safes prevent you from having control over your company's direction",
+        "is_right_choice": false
+    }],
+    "explanation": "Safes are described as making it 'super easy' to raise money quickly and allowing the startup owner to control the company's direction, thus highlighting their benefit of ease and quickness in fundraising without compromising on control."
+}, {
+    "name": "Overall Message of the Text",
+    "question": "What is the overall message of the text regarding starting a startup?",
+    "choices": [{
+        "choice": "It's an exclusive path only a few can attempt",
+        "is_right_choice": false
+    }, {
+        "choice": "It’s impossible without a significant initial investment",
+        "is_right_choice": false
+    }, {
+        "choice": "Anyone with a valuable idea can start and fund a startup",
+        "is_right_choice": true
+    }, {
+        "choice": "Success in startups is guaranteed with the right investor",
+        "is_right_choice": false
+    }],
+    "explanation": "The text emphasizes that starting a startup is accessible to anyone who can create something valuable and communicate about it, debunking myths that may discourage potential founders. It conveys that you don’t need to fit a specific mold or have a large network to succeed in starting or funding a startup."
+}]

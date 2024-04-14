@@ -1,0 +1,69 @@
+[{
+    "name": "Magic Pivot Basics",
+    "question": "What was Magic's initial product concept before their successful pivot?",
+    "choices": [{
+        "choice": "A grocery delivery app",
+        "is_right_choice": false
+    }, {
+        "choice": "An app for blood pressure coaching",
+        "is_right_choice": true
+    }, {
+        "choice": "A chatbot for customer service",
+        "is_right_choice": false
+    }, {
+        "choice": "A dating app",
+        "is_right_choice": false
+    }],
+    "explanation": "Magic initially started with an app for blood pressure coaching before pivoting to a different business model. This shows the dramatic shift in product focus that led to their success."
+}, {
+    "name": "Market Feedback and Pivot Decision",
+    "question": "Why did Magic decide to pivot from their original app idea?",
+    "choices": [{
+        "choice": "The app was too expensive to maintain.",
+        "is_right_choice": false
+    }, {
+        "choice": "They received significant funding for a new idea.",
+        "is_right_choice": false
+    }, {
+        "choice": "Early market feedback showed low usage.",
+        "is_right_choice": true
+    }, {
+        "choice": "The founders lost interest in the health sector.",
+        "is_right_choice": false
+    }],
+    "explanation": "Magic decided to pivot because the early market feedback for their blood pressure coaching app showed that hardly anyone used the app, indicating low interest and usage among the target audience."
+}, {
+    "name": "Magic's Pivot Timing and Execution",
+    "question": "How long did it take for Magic to create the prototype that led to their successful pivot?",
+    "choices": [{
+        "choice": "One month",
+        "is_right_choice": false
+    }, {
+        "choice": "One weekend",
+        "is_right_choice": true
+    }, {
+        "choice": "Six months",
+        "is_right_choice": false
+    }, {
+        "choice": "Two weeks",
+        "is_right_choice": false
+    }],
+    "explanation": "Magic's team was able to quickly pivot by creating a new prototype in just one weekend, demonstrating their agility and commitment to adapting their business model based on market feedback."
+}, {
+    "name": "Founder/Market Fit and Success",
+    "question": "How did Magic's founder/market fit score change after their pivot?",
+    "choices": [{
+        "choice": "It remained the same.",
+        "is_right_choice": false
+    }, {
+        "choice": "It decreased because they had less experience in the new market.",
+        "is_right_choice": false
+    }, {
+        "choice": "It's not explicitly mentioned, but implied to have improved due to success.",
+        "is_right_choice": true
+    }, {
+        "choice": "It increased because they hired experts in the new field.",
+        "is_right_choice": false
+    }],
+    "explanation": "While the text does not explicitly state the change in founder/market fit score after Magic's pivot, the significant success and positive market feedback imply an improvement in this area, despite an initial lack of explicit match."
+}]

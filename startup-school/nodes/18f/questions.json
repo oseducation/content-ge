@@ -1,0 +1,52 @@
+[{
+    "name": "question1",
+    "question": "What should be a startup's first priority before focusing on growth channels and tactics?",
+    "choices": [{
+        "choice": "Securing venture capital investment",
+        "is_right_choice": false
+    }, {
+        "choice": "Improving the office workspace",
+        "is_right_choice": false
+    }, {
+        "choice": "Making a product that customers really like",
+        "is_right_choice": true
+    }, {
+        "choice": "Expanding the team with more employees",
+        "is_right_choice": false
+    }],
+    "expenation": "The first priority for a startup should be to focus on making a product that some people like very much, akin to fixing leaks in a bucket before adding more water. This ensures that efforts towards growth are built on a solid product foundation."
+}, {
+    "name": "question2",
+    "question": "What is a key path to growing a startup's business?",
+    "choices": [{
+        "choice": "Decreasing the product price to attract more buyers",
+        "is_right_choice": false
+    }, {
+        "choice": "Focusing on product growth and conversion rate optimization",
+        "is_right_choice": true
+    }, {
+        "choice": "Ignoring customer feedback to speed up development",
+        "is_right_choice": false
+    }, {
+        "choice": "Limiting the availability of the product to create scarcity",
+        "is_right_choice": false
+    }],
+    "expenation": "Focusing on product growth and conversion rate optimization is a key path to growing a business. This involves making enhancements to the parts of the product that are most used or best received to ensure not just more users, but also their continued engagement."
+}, {
+    "name": "question3",
+    "question": "Why are platforms like Google, Facebook, and Instagram important for startups?",
+    "choices": [{
+        "choice": "They provide free hosting services for startups",
+        "is_right_choice": false
+    }, {
+        "choice": "They offer detailed tutorials on product development",
+        "is_right_choice": false
+    }, {
+        "choice": "They are crowded platforms where a product can be noticed by many people",
+        "is_right_choice": true
+    }, {
+        "choice": "They automatically invest in startups using their platforms",
+        "is_right_choice": false
+    }],
+    "expenation": "Google, Facebook, and Instagram are important for startups because they are like crowded streets full of people potentially looking for what the startup is offering, making them excellent platforms for putting up a 'sign' for the product to get noticed by a larger audience."
+}]
