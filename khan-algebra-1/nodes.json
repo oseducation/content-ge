@@ -54,5 +54,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.1": {
+        "name": "What is a Variable?",
+        "description": "Variables in math are symbols, often letters, that represent different values in various situations. They help us understand and solve problems with changing values. For example, when calculating total earnings at a job with an hourly wage plus tips, a variable can represent the fluctuating tips, making it easier to determine total income. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "tHYis-DP0oU"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
