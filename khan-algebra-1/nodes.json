@@ -1,3 +1,13 @@
 {
-    
+    "1.1": {
+        "name": "Origins of Algebra",
+        "description": "Where did the word `Algebra` and its underlying ideas come from? Algebra, a key branch of mathematics, has a rich history. The term 'algebra' comes from an Arabic word meaning 'restoration' or 'completion'. Significant contributions to algebra were made by Diophantus in Greece, Brahmagupta in India, and al-Khwarizmi in Baghdad, who is often credited with giving algebra its name. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "_LDR1_Prveo"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    }
 }
