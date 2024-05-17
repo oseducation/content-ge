@@ -65,5 +65,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.2": {
+        "name": "Why aren't we using the multiplication sign?",
+        "description": "In algebra, representing multiplication with variables can be tricky due to the similarity between the variable `x` and the multiplication symbol. To avoid confusion, use alternative methods like 2⋅x, 2(x), or 2x. Practice evaluating expressions by substituting given values for variables and following the order of operations. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "vDaIKB19TvY"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
