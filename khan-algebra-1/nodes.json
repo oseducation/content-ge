@@ -9,5 +9,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "1.2": {
+        "name": "Abstract-ness",
+        "description": "Abstraction is like taking a real thing and turning it into an idea. We can use a cube as an example. Even though cubes can look different in real life, the abstract idea of what a cube is stays the same. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "ZOYRb2sYrL0"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
