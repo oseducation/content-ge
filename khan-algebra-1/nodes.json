@@ -20,5 +20,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "1.3": {
+        "name": "The beauty of Algebra",
+        "description": "Algebra is a language that helps us understand the world around us. It's not just about numbers, it's about abstract ideas that can be applied to many areas like economics, physics, and even the fundamental structure of the universe. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "kpCJyQ2usJ4"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
