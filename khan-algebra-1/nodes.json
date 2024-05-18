@@ -296,5 +296,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.4.1": {
+        "name": "Linear Equations With Unknown Coefficients",
+        "description": "Sal solves the equations ax+3x=bx+5 and a(5-x)=bx-8 for x. Note that these equations include other unknowns (a and b) but we solve them for x.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "adPgapI-h3g"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
