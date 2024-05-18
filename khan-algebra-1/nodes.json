@@ -153,5 +153,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "1.5.1": {
+        "name": "Equivalent expressions",
+        "description": "In this math lesson, we learn how to find equivalent expressions by combining like terms and factoring. We start with an expression like x + 2 - y + x + 2 and simplify it by adding the x terms and factoring out common factors. This helps us compare expressions and solve problems more easily.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "rHNY01R2VSQ"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
