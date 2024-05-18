@@ -362,5 +362,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.6.2": {
+        "name": "Compound Inequalities: AND",
+        "description": "Sal solves the compound inequality 3y+7<2y AND 4y+8>-48. Created by Sal Khan and Monterey Institute for Technology and Education.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "d2cnQ5ahHgE"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
