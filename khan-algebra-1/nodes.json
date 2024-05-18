@@ -142,5 +142,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "1.4.4": {
+        "name": "Combining like terms with rational coefficients",
+        "description": "Learn how to rewrite algebraic expressions by combining like terms. The expressions in this video have decimal and fraction coefficients.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "rtNuo7R3scY"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
