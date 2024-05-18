@@ -451,5 +451,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "3.2.3": {
+        "name": "Formulas and Units: Comparing Rates",
+        "description": "When using formulas to calculate real-world quantities, we need to make sure our units are consistent. In this video, one growth rate is given in centimeters per week and the other is given in millimeters per day. In order to compare which rate is faster, we need to convert one of the rates to units that match the other rate",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "IuvsQjW1qa4"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
