@@ -318,5 +318,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.5.2": {
+        "name": "Inequalities With Variables on Both Sides (With Parentheses)",
+        "description": "Sal solves the inequality 5x+7>3(x+1), draws the solution on a number line and checks a few values to verify the solution. Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "XOAn5z8mkvI"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
