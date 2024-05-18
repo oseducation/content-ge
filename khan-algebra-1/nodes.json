@@ -120,5 +120,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "1.4.2": {
+        "name": "Combining like terms with negative coefficients & distribution",
+        "description": "We've learned about order of operations and combining like terms. Let's layer the distributive property on top of this. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "3NHSwiv_pSE"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
