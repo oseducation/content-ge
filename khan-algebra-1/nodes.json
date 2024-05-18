@@ -98,5 +98,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "1.3.2": {
+        "name": "Evaluating expressions with two variables: fractions & decimals",
+        "description": "Evaluating expressions with two variables involves substituting the given values for each variable and simplifying the expression. By practicing with examples, we can improve our skills in solving these types of problems, ultimately enhancing our understanding of algebraic expressions and their real-world applications.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "GmD7Czmol0k"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
