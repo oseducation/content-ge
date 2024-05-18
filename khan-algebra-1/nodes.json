@@ -406,5 +406,17 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+
+    "3.1.1": {
+        "name": "Intro to Dimensional Analysis",
+        "description": "Sal shows how we can treat units of measurement algebraically, and use these tools in order to convert between different units of the same quantity. Created by Sal Khan",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "hIAdCTNi1S8"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
