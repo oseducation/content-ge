@@ -473,5 +473,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "3.3.1": {
+        "name": "Using Units to Solve Problems: Toy Factory",
+        "description": "In word problems that involve multiple quantities, we can use the units of the quantities to guide our solution. In this video, we find the value of toys produced at a factory using information that involves many different quantities, not all of which are useful for our problem. Created by Sal Khan",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "ocOXYiborsw"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
