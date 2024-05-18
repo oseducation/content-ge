@@ -462,5 +462,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "3.2.4": {
+        "name": "Reporting Measurements",
+        "description": "We should think about the appropriate level of precision of different measurements in modeling problems. Created by Sal Khan",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "UEe81kJtY8A"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
