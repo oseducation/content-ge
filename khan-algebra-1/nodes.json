@@ -252,5 +252,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.2.1": {
+        "name": "Equations With Parentheses",
+        "description": "When an equation such as -9 - (9x - 6) = 3(4x + 6) has parentheses, we can distribute without changing the value of each side. Then combine like terms. Next, we move all the x-terms to one side and the constants to the other. Finally, we solve for x.  Created by Sal Khan and Monterey Institute for Technology and Education.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "YZBStgZGyDY"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
