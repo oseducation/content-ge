@@ -131,5 +131,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "1.4.3": {
+        "name": "Combining like terms with negative coefficients",
+        "description": "This example of combining like terms in an expression gets a little hairy. Pay attention. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "FNnmseBlvaY"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
