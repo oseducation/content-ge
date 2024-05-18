@@ -340,5 +340,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.5.4": {
+        "name": "Using Inequalities to Solve Problems",
+        "description": "We can use inequalities to solve problems in a given context. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "E6rn-YD_2_Q"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
