@@ -307,5 +307,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.5.1": {
+        "name": "Inequalities With Variables on Both Sides",
+        "description": "Sal solves the inequality -3p-7<p+9, draws the solution on a number line and checks a few values to verify the solution. Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "SgKBBUFaGb4"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
