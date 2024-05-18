@@ -241,5 +241,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.1.5": {
+        "name": "Equation With the Variable in the Denominator",
+        "description": "The variable x is in the denominator in 7 - 10/x = 2 + 15/x. We can multiply both sides of the equation by x to turn it into a more familiar, linear form without fractions. From there, we isolate the variable to solve. P.S. x cannot equal zero, because then the equation would be undefined. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Z7C69xP08d8"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
