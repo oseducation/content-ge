@@ -395,5 +395,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.6.5": {
+        "name": "Compound Inequalities Examples",
+        "description": "Sal solves several compound linear inequalities. Created by Sal Khan and CK-12 Foundation",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "A3xPhzs-KBI"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
