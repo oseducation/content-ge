@@ -89,7 +89,7 @@
         "thumbnail": ""
     },
     "1.3.1": {
-        "name": "Evaluating expressions with two variables",
+        "name": "Evaluating Expressions With Two Variables",
         "description": "Evaluating expressions with multiple variables involves substituting given values for each variable and simplifying the expression. By replacing variables with their corresponding values, we can easily compute the result of expressions, even for more complex examples with multiple terms and operations. Created by Sal Khan.",
         "texts": ["text1.md"],
         "video_parts": [{
@@ -100,7 +100,7 @@
         "thumbnail": ""
     },
     "1.3.2": {
-        "name": "Evaluating expressions with two variables: fractions & decimals",
+        "name": "Evaluating Expressions With Two Variables: Fractions & Decimals",
         "description": "Evaluating expressions with two variables involves substituting the given values for each variable and simplifying the expression. By practicing with examples, we can improve our skills in solving these types of problems, ultimately enhancing our understanding of algebraic expressions and their real-world applications.",
         "texts": ["text1.md"],
         "video_parts": [{
@@ -111,7 +111,7 @@
         "thumbnail": ""
     },
     "1.4.1": {
-        "name": "Intro to combining like terms",
+        "name": "Intro to Combining Like Terms",
         "description": "Adding like terms is a fundamental concept in algebra. Coefficients are the numbers in front of variables, and they can be added when the variables are the same. For example, 2x + 3x equals 5x. When dealing with different variables, such as x and y, add them separately, resulting in expressions like 5x + 9y. Created by Sal Khan.",
         "texts": ["text1.md"],
         "video_parts": [{
@@ -122,7 +122,7 @@
         "thumbnail": ""
     },
     "1.4.2": {
-        "name": "Combining like terms with negative coefficients & distribution",
+        "name": "Combining Like Terms With Negative Coefficients & Distribution",
         "description": "We've learned about order of operations and combining like terms. Let's layer the distributive property on top of this. Created by Sal Khan.",
         "texts": ["text1.md"],
         "video_parts": [{
@@ -133,7 +133,7 @@
         "thumbnail": ""
     },
     "1.4.3": {
-        "name": "Combining like terms with negative coefficients",
+        "name": "Combining Like Terms With Negative Coefficients",
         "description": "This example of combining like terms in an expression gets a little hairy. Pay attention. Created by Sal Khan.",
         "texts": ["text1.md"],
         "video_parts": [{
@@ -144,7 +144,7 @@
         "thumbnail": ""
     },
     "1.4.4": {
-        "name": "Combining like terms with rational coefficients",
+        "name": "Combining Like Terms With Rational Coefficients",
         "description": "Learn how to rewrite algebraic expressions by combining like terms. The expressions in this video have decimal and fraction coefficients.",
         "texts": ["text1.md"],
         "video_parts": [{
@@ -155,7 +155,7 @@
         "thumbnail": ""
     },
     "1.5.1": {
-        "name": "Equivalent expressions",
+        "name": "Equivalent Expressions",
         "description": "In this math lesson, we learn how to find equivalent expressions by combining like terms and factoring. We start with an expression like x + 2 - y + x + 2 and simplify it by adding the x terms and factoring out common factors. This helps us compare expressions and solve problems more easily.",
         "texts": ["text1.md"],
         "video_parts": [{
@@ -166,7 +166,18 @@
         "thumbnail": ""
     },
     "1.6.1": {
-        "name": "Why dividing by zero is undefined",
+        "name": "Why Dividing By Zero Is Undefined",
+        "description": "As much as we would like to have an answer for `what's 1 divided by 0?` it's sadly impossible to have an answer. The reason, in short, is that whatever we may answer, we will then have to agree that that answer times 0 equals to 1, and that cannot be ​true, because anything times 0 is 0. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "SQzjzStU1RQ"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "1.6.2": {
+        "name": "The Problem With Dividing Zero By Zero",
         "description": "As much as we would like to have an answer for `what's 1 divided by 0?` it's sadly impossible to have an answer. The reason, in short, is that whatever we may answer, we will then have to agree that that answer times 0 equals to 1, and that cannot be ​true, because anything times 0 is 0. Created by Sal Khan.",
         "texts": ["text1.md"],
         "video_parts": [{
