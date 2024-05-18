@@ -263,5 +263,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.2.2": {
+        "name": "Reasoning With Linear Equations",
+        "description": "When we perform operations to manipulate equations, some operations produce equivalent equations, while others don't necessarily produce equivalent equations. When we're solving an equation, we need to use operations that guarantee equivalence. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "BV-TGIMUXaw"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
