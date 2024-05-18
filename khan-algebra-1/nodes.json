@@ -329,5 +329,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.5.3": {
+        "name": "Multi-step Inequalities",
+        "description": "Sal solves several multi-step linear inequalities. Created by Sal Khan",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "xOxvyeSl0uA"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
