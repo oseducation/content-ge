@@ -219,5 +219,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.1.3": {
+        "name": "Equations With Variables on Both Sides: 20-7x=6x-6",
+        "description": "Solving equations like 20 - 7x = 6x - 6 with the variable on both sides involves a few steps! First, we add or subtract terms from both sides to separate constants and variables to different sides of the equation. Then, we simplify to isolate the variable. Finally, we check our answer by plugging it back into the original equation. Created by Sal Khan and Monterey Institute for Technology and Education.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "1c5HY3z4k8M"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
