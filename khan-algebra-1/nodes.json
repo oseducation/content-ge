@@ -274,5 +274,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.3.1": {
+        "name": "Number of Solutions to Equations",
+        "description": "A linear equation could have exactly 1, 0, or infinite solutions. If we can solve the equation and get something like x=b where b is a specific number, then we have one solution. If we end up with a statement that's always false, like 3=5, then there's no solution. If we end up with a statement that's always true, like 5=5, then there are infinite solutions.. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "qsL_5Y8uWPU"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
