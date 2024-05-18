@@ -230,5 +230,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.1.4": {
+        "name": "Equation With Variables on Both Sides: Fractions",
+        "description": "To solve the equation (3/4)x + 2 = (3/8)x - 4, we first eliminate fractions by multiplying both sides by the least common multiple of the denominators. Then, we add or subtract terms from both sides of the equation to group the x-terms on one side and the constants on the other. Finally, we solve and check as normal. Created by Sal Khan and Monterey Institute for Technology and Education.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "PL9UYj2awDc"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
