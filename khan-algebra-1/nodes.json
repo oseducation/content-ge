@@ -418,5 +418,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "3.1.2": {
+        "name": "Same rate with different units",
+        "description": "Sal shows how we can describe the rate 50 km per hour in a variety of different units, using dimensional analysis. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "d5lcGCbV5cM"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
