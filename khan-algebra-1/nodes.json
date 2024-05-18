@@ -285,5 +285,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.3.2": {
+        "name": "Worked Example: Number of Solutions to Equations",
+        "description": "Sal attempts to solve 8(3x + 10) = 28x - 14 - 4x only to find that the equation has no solution. Created by Sal Khan and Monterey Institute for Technology and Education.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "zKotuhQWIRg"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
