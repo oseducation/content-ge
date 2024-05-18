@@ -1,5 +1,5 @@
 {
-    "1.1": {
+    "1.1.1": {
         "name": "Origins of Algebra",
         "description": "Where did the word `Algebra` and its underlying ideas come from? Algebra, a key branch of mathematics, has a rich history. The term 'algebra' comes from an Arabic word meaning 'restoration' or 'completion'. Significant contributions to algebra were made by Diophantus in Greece, Brahmagupta in India, and al-Khwarizmi in Baghdad, who is often credited with giving algebra its name. Created by Sal Khan.",
         "texts": ["text1.md"],
@@ -10,7 +10,7 @@
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     },
-    "1.2": {
+    "1.1.2": {
         "name": "Abstract-ness",
         "description": "Abstraction is like taking a real thing and turning it into an idea. We can use a cube as an example. Even though cubes can look different in real life, the abstract idea of what a cube is stays the same. Created by Sal Khan.",
         "texts": ["text1.md"],
@@ -21,7 +21,7 @@
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     },
-    "1.3": {
+    "1.1.3": {
         "name": "The Beauty of Algebra",
         "description": "Algebra is a language that helps us understand the world around us. It's not just about numbers, it's about abstract ideas that can be applied to many areas like economics, physics, and even the fundamental structure of the universe. Created by Sal Khan.",
         "texts": ["text1.md"],
@@ -32,7 +32,7 @@
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     },
-    "1.4": {
+    "1.1.4": {
         "name": "Why All the Letters in Algebra",
         "description": "In algebra, we often want to work with general concepts instead of specific numbers. Using letters allows us to represent quantities that could change or that we don't know the value of yet. Letters can also be used to generalize formulas or equations. Created by Sal Khan.",
         "texts": ["text1.md"],
@@ -44,7 +44,7 @@
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     },
-    "1.5": {
+    "1.1.5": {
         "name": "Intro to the Coordinate Plane",
         "description": "Descartes created a system of two perpendicular axes (the x and y axes) which could be used to plot points in a plane. This enabled the visualization of algebraic equations in geometric form. For example, a linear equation like y = 2x + 1 could be plotted as a line on the coordinate plane, while a quadratic equation like y = x^2 could be plotted as a parabola. This linked algebra and geometry through the use of graphs. Created by Sal Khan.",
         "texts": ["text1.md"],
@@ -55,7 +55,7 @@
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     },
-    "2.1": {
+    "1.2.1": {
         "name": "What is a Variable?",
         "description": "Variables in math are symbols, often letters, that represent different values in various situations. They help us understand and solve problems with changing values. For example, when calculating total earnings at a job with an hourly wage plus tips, a variable can represent the fluctuating tips, making it easier to determine total income. Created by Sal Khan.",
         "texts": ["text1.md"],
@@ -66,7 +66,7 @@
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     },
-    "2.2": {
+    "1.2.2": {
         "name": "Why aren't We Using the Multiplication Sign?",
         "description": "In algebra, representing multiplication with variables can be tricky due to the similarity between the variable `x` and the multiplication symbol. To avoid confusion, use alternative methods like 2⋅x, 2(x), or 2x. Practice evaluating expressions by substituting given values for variables and following the order of operations. Created by Sal Khan.",
         "texts": ["text1.md"],
@@ -77,12 +77,23 @@
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     },
-    "2.3": {
-        "name": "Evaluating an Expression With One Variable?",
+    "1.2.3": {
+        "name": "Evaluating an Expression With One Variable",
         "description": "In this math lesson, we explore the expression 5t plus 3 to calculate the cost of participating in a hospital raffle fundraiser. By evaluating the expression for different values of t, the number of tickets purchased, we find the costs for buying 1, 8, and 10 tickets, which are 8, 43, and 53 dollars, respectively. Created by Sal Khan and Monterey Institute for Technology and Education.",
         "texts": ["text1.md"],
         "video_parts": [{
             "id": "AJNDeVt9UOo"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "1.3.1": {
+        "name": "Evaluating expressions with two variables",
+        "description": "Evaluating expressions with multiple variables involves substituting given values for each variable and simplifying the expression. By replacing variables with their corresponding values, we can easily compute the result of expressions, even for more complex examples with multiple terms and operations. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "S_OX3ByvBSc"
         }],
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
