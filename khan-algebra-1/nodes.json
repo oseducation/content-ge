@@ -495,5 +495,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "3.3.3": {
+        "name": "Using Units to Solve Problems: Drug Dosage",
+        "description": "Future doctors and nurses out there, take note. This unit conversion word problem deals with converting drug dosage units, something that is commonly done in hospitals. Give it a try with us. Created by Sal Khan",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "ScvuRb6vsz4"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
