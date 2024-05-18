@@ -109,5 +109,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "1.4.1": {
+        "name": "Intro to combining like terms",
+        "description": "Adding like terms is a fundamental concept in algebra. Coefficients are the numbers in front of variables, and they can be added when the variables are the same. For example, 2x + 3x equals 5x. When dealing with different variables, such as x and y, add them separately, resulting in expressions like 5x + 9y. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "CLWpkv6ccpA"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
