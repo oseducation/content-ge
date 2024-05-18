@@ -197,5 +197,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.1.1": {
+        "name": "Why We Do the Same Thing to Both Sides: Variable on Both Sides",
+        "description": "We will use a scale to try to achieve balance and help explain why we do the same thing to both sides of an equation, even when the variable appears on both sides. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "vkhYFml0w6c"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
