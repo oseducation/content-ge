@@ -164,5 +164,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "1.6.1": {
+        "name": "Why dividing by zero is undefined",
+        "description": "As much as we would like to have an answer for `what's 1 divided by 0?` it's sadly impossible to have an answer. The reason, in short, is that whatever we may answer, we will then have to agree that that answer times 0 equals to 1, and that cannot be ​true, because anything times 0 is 0. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "SQzjzStU1RQ"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
