@@ -440,5 +440,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "3.2.2": {
+        "name": "Formulas and Units: Volume of a Pool",
+        "description": "When using formulas to calculate real-world quantities, we need to make sure our units are consistent. In this video, the base area of a pool is given in square meters while its height is given in centimeters. In order to use the formula for volume, we need to convert one of the measurements to units that match the other measurement",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "nziP-8PeZqY"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
