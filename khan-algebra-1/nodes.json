@@ -351,5 +351,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.6.1": {
+        "name": "Compound Inequalities: OR",
+        "description": "Sal solves the compound inequality 5z+7<27 OR -3z≤18. Created by Sal Khan and Monterey Institute for Technology and Education.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "0YErxSShF0A"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
