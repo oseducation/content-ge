@@ -208,5 +208,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.1.2": {
+        "name": "Intro to Equations With Variables on Both Sides",
+        "description": "Learn how to solve the equation 2x + 3 = 5x - 2 with the variable on both sides. We start by visualizing the equation, then isolate the variable by performing the same operations on both sides. Finally, we solve the equation to find the value of the variable. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "f15zA0PhSek"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
