@@ -420,11 +420,22 @@
         "thumbnail": ""
     },
     "3.1.2": {
-        "name": "Same rate with different units",
+        "name": "Same Rate With Different Units",
         "description": "Sal shows how we can describe the rate 50 km per hour in a variety of different units, using dimensional analysis. Created by Sal Khan.",
         "texts": ["text1.md"],
         "video_parts": [{
             "id": "d5lcGCbV5cM"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "3.2.1": {
+        "name": "Defining Appropriate Quantities For Modeling",
+        "description": "Examples for different ways to define how quantities of interest are calculated in a modeling problem.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "717zfRdog9s"
         }],
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
