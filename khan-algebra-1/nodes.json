@@ -384,5 +384,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.6.4": {
+        "name": "Double Inequalities",
+        "description": "Sal solves the double inequality -16≤3x+5≤20, which is the same as the compound inequality -16≤3x+5 AND 3x+5≤20. Created by Sal Khan and Monterey Institute for Technology and Education.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "cvB8b4AACyE"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
