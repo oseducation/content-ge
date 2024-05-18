@@ -484,5 +484,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "3.3.2": {
+        "name": "Using Units to Solve Problems: Road Trip",
+        "description": "In word problems that involve multiple quantities, we can use the units of the quantities to guide our solution. In this video, we find the cost of fuel for a road trip, using information that involves many different quantities, not all of which are useful for our problem. Created by Sal Khan",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "_UAQJw_q4p4"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
