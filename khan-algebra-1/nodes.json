@@ -373,5 +373,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "2.6.3": {
+        "name": "A Compound Inequality With No Solution",
+        "description": "Sal solves the compound inequality 5x-3<12 AND 4x+1>25, only to realize there's no x-value that makes both inequalities true. Created by Sal Khan and Monterey Institute for Technology and Education.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "ZF_cZ-GX9PI"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
