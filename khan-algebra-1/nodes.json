@@ -178,10 +178,21 @@
     },
     "1.6.2": {
         "name": "The Problem With Dividing Zero By Zero",
+        "description": "One can argue that 0/0 is ​0, because 0 divided by anything is 0. Another one can argue that 0/0 is ​1, because anything divided by itself is 1. And that's exactly the problem! Whatever we say 0/0 equals to, we contradict one crucial property of numbers or another. To avoid `breaking math`, we simply say that 0/0 is undetermined. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "PDReqvXfkBA"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "1.6.3": {
+        "name": "Undefined & Indeterminate Expressions",
         "description": "As much as we would like to have an answer for `what's 1 divided by 0?` it's sadly impossible to have an answer. The reason, in short, is that whatever we may answer, we will then have to agree that that answer times 0 equals to 1, and that cannot be ​true, because anything times 0 is 0. Created by Sal Khan.",
         "texts": ["text1.md"],
         "video_parts": [{
-            "id": "SQzjzStU1RQ"
+            "id": "PDReqvXfkBA"
         }],
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
