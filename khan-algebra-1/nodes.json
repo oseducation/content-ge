@@ -606,5 +606,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.3.1": {
+        "name": "Slope of a Horizontal Line",
+        "description": "When two points have the same y-value, it means they lie on a horizontal line. The slope of such a line is 0, and you will also find this by using the slope formula. Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "CFSHq099Mx0"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
