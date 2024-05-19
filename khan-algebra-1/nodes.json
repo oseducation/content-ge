@@ -506,5 +506,17 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+
+    "4.1.1": {
+        "name": "Two-variable Linear Equations Intro",
+        "description": "Learn about a class of equations in two variables that's called `linear equations.` They are called that way because their graph is a line. These are the most basic and probably most useful equations you will ever know!",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "AOxMJRtoR2A"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
