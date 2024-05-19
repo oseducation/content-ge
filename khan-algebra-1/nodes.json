@@ -617,5 +617,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.3.2": {
+        "name": "Horizontal & Vertical Lines",
+        "description": "Worked examples identifying the equations and slope of horizontal and vertical lines.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "CFSHq099Mx0"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
