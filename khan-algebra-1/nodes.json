@@ -595,5 +595,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.2.5": {
+        "name": "Worked Example: Slope From Two Points",
+        "description": "Let's find the slope of the line that goes through the ordered pairs (4,2) and (-3, 16). The slope, or steepness, of a line is found by dividing the vertical change (rise) by the horizontal change (run). The formula is slope =(y₂ - y₁)/(x₂ - x₁), where (x₁, y₁) and (x₂, y₂) are the coordinates of two points on the line. Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "WkspBxrzuZo"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
