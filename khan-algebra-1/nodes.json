@@ -661,5 +661,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.4.4": {
+        "name": "Intercepts From a Table",
+        "description": "The y-intercept is the y-coordinate when x=0, and the x-intercept is the x-coordinate when y=0. The y-intercept is not in the table. Since the table represents a line, there's a constant rate of change of y with respect to x. So we can find that pattern and fill in skipped values from the table to find the y-intercept. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "CGZZINHT0I8"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
