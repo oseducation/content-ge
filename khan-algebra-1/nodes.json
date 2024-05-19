@@ -761,5 +761,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.1.4": {
+        "name": "Linear Equation Word Problems",
+        "description": "Linear equation word problems",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "w6R8rywmgek"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
