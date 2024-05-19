@@ -293,7 +293,7 @@
         "video_parts": [{
             "id": "zKotuhQWIRg"
         }],
-        "node_type": "lecture",
+        "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     },
@@ -709,6 +709,17 @@
     "4.5.4": {
         "name": "Finding Slope and Intercepts From Tables",
         "description": "Given a linear relationship in a table, practice finding the slope and intercepts",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "g98OfN5cWy4"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "4.6.1": {
+        "name": "Comparing Linear Rates Example",
+        "description": "Compare the positions of two creatures moving at constant speed and determine when one catches up with the other. Created by Sal Khan",
         "texts": ["text1.md"],
         "video_parts": [{
             "id": "g98OfN5cWy4"
