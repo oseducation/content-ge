@@ -562,5 +562,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.2.2": {
+        "name": "Positive & Negative Slope",
+        "description": "Sal analyzes what it means for a slope to be positive or negative (spoiler: it affects the direction of the line!).",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "EQoNfxToez0"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
