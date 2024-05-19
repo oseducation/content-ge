@@ -882,5 +882,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.5.4": {
+        "name": "Converting From Slope-intercept to Standard Form",
+        "description": "We can rewrite an equation in slope-intercept form (y=mx+b) to be in standard form (Ax+By=C) instead. In this example, we rewrite the slope-intercept equation y=2/3x+4/7 in standard form",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "XOIhNVeLfWs"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
