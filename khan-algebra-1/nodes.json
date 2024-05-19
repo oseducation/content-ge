@@ -518,5 +518,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.1.2": {
+        "name": "Solutions to 2-variable Equations",
+        "description": "The solution of an equation with one variable is a number. How does the solution of a 2-variable equation look like? Well, it is an ordered pair. Learn more about it and how to test solutions to 2-variable equations.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "qk69pR91R00"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
