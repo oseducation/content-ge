@@ -540,5 +540,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.1.4": {
+        "name": "Completing Solutions to 2-variable Equations",
+        "description": "Given a 2-variable equation and the x or y values of a solution, Sal finds the value of the other variable in the solution.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "EHR-YDwrrhM"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
