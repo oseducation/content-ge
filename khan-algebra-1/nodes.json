@@ -783,5 +783,27 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.3.1": {
+        "name": "Slope-intercept Equation From Graph",
+        "description": "Learn to write equations in slope-intercept form for three different lines. Created by Sal Khan",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "9wOalujeZf4"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "5.3.2": {
+        "name": "Slope-intercept Equation From Slope & Point",
+        "description": "Learn how to write an equation in slope-intercept form (y=mx+b) for the line with a slope of -3/4 that goes through the point (0,8). We identify the slope (m) and y-intercept (b) to create our equation y = (-3/4)*x + 8. Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "AqFwKecNaTk"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
