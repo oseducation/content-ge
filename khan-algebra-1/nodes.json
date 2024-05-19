@@ -893,5 +893,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.6.1": {
+        "name": "Slope From Equation",
+        "description": "Worked examples of finding the slope of a line given its equation, using many forms of equations",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "G4r9PpYQiL8"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
