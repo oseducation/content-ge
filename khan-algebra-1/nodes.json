@@ -750,5 +750,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.1.3": {
+        "name": "Worked examples: Slope-intercept Intro",
+        "description": "Worked examples practicing the relationship between slope, y-intercept, and linear equation in slope-intercept form",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "qgsNNqmlLoA"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
