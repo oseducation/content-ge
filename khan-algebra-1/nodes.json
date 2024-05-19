@@ -573,5 +573,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.2.3": {
+        "name": "Worked Example: Slope From Graph",
+        "description": "The slope of a line is rise over run. Learn how to calculate the slope of the line in a graph by finding the change in y and the change in x. Created by Sal Khan and Monterey Institute for Technology and Education.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "R948Tsyq4vA"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
