@@ -860,5 +860,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.5.2": {
+        "name": "Graphing a linear equation: 5x+2y=20",
+        "description": "We can graph a the linear equation like 5x + 2y = 20 by rewriting it so y is isolated, then plugging in x values to find their corresponding y-values in a table. We can then graph those x-y pairs as points on a graph. Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "86NwKBcOlow"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
