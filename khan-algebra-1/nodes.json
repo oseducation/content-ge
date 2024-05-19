@@ -614,7 +614,7 @@
         "video_parts": [{
             "id": "CFSHq099Mx0"
         }],
-        "node_type": "lecture",
+        "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     },
@@ -624,6 +624,17 @@
         "texts": ["text1.md"],
         "video_parts": [{
             "id": "CFSHq099Mx0"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "4.4.1": {
+        "name": "Intro to Intercepts",
+        "description": "Learn what x- and y-intercepts are.  The equations used in this video are y = 0.5x - 3 and 5x + 6y = 30.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "LNSB0N6esPU"
         }],
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
