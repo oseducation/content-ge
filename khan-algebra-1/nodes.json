@@ -739,5 +739,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.1.2": {
+        "name": "Slope and y-intercept From Equation",
+        "description": "In an equation in slope-intercept form (y=mx+b) the slope is m and the y-intercept is b. We can also rewrite certain equations to look more like slope-intercept form. For example, y=x can be rewritten as y=1x+0, so its slope is 1 and its y-intercept is 0",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "Z65mz__8DQ0"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
