@@ -849,5 +849,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.5.1": {
+        "name": "Intro to Linear Equation Standard Form",
+        "description": "The standard form for linear equations in two variables is Ax+By=C. For example, 2x+3y=5 is a linear equation in standard form. When an equation is given in this form, it's pretty easy to find both intercepts (x and y). This form is also very useful when solving systems of two linear equations",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "6CFE60iP2Ug"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
