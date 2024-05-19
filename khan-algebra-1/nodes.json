@@ -827,5 +827,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.4.1": {
+        "name": "Intro to Point-slope Form",
+        "description": "Point-slope is the general form y-y₁=m(x-x₁) for linear equations. It emphasizes the slope of the line and a point on the line (that is not the y-intercept). Watch this video to learn more about it and see some examples. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "K_OI9LA54AA"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
