@@ -772,5 +772,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.2.1": {
+        "name": "Graph From Slope-intercept Equation",
+        "description": "To graph a linear equation in slope-intercept form, we can use the information given by that form. For example, y=2x+3 tells us that the slope of the line is 2 and the y-intercept is at (0,3). This gives us one point the line goes through, and the direction we should continue from that point to draw the entire line. Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "uk7gS3cZVp4"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
