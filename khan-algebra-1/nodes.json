@@ -639,5 +639,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.4.2": {
+        "name": "x-intercept of a Line",
+        "description": "Sal determines the x-intercept of a linear equation from a graph. Afterwards, he checks his work by plugging values back into the equation. Created by Sal Khan.",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "LNSB0N6esPU"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
