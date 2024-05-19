@@ -727,5 +727,17 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+
+    "5.1.1": {
+        "name": "Intro to Slope-intercept Form",
+        "description": "Slope-intercept form (y=mx+b) of linear equations highlights the slope (m) and the y-intercept (b) of a line. Watch this video to learn more about it and see some examples",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "IL3UCuXrUzE"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
