@@ -584,5 +584,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.2.4": {
+        "name": "Calculating Slope From Tables",
+        "description": "Practice calculating the slope of a line given some points on the line shown in a table",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "pGsicLglzY8"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
