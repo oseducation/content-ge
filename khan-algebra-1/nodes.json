@@ -904,5 +904,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.6.2": {
+        "name": "Writing Linear Equations in All Forms",
+        "description": "Sal finds the equation of a line that passes through (-3,6) and (6,0) in point-slope, slope-intercept, and standard form. Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "-6Fu2T_RSGM"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
