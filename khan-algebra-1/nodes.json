@@ -805,5 +805,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.3.3": {
+        "name": "Slope-intercept Equation From Two Points",
+        "description": "Given two points on a line, we can write an equation for that line by finding the slope between those points, then solving for the y-intercept in the slope-intercept equation y=mx+b. In this example, we write an equation of the line that passes through the points (-1,6) and (5,-4). Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "XMJ72mtMn4Y"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
