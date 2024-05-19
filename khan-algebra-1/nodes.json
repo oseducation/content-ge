@@ -551,5 +551,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.2.1": {
+        "name": "Intro to Slope",
+        "description": "Slope tells us how steep a line is. It's like measuring how quickly a hill goes up or down. We find the slope by seeing how much we go up or down (vertical change) for each step to the right (horizontal change). If a line goes up 2 steps for every 1 step to the right, its slope is 2",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "MeU-KzdCBps"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
