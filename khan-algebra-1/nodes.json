@@ -816,5 +816,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.3.4": {
+        "name": "Constructing Linear Equations From Context",
+        "description": "Given a written description of a linear relationship in a some context, write an equation that represents the linear relationship described",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "hBpI9IfmMKg"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
