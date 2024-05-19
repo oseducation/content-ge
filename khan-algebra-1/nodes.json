@@ -683,5 +683,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.5.2": {
+        "name": "Slope and Intercept Meaning in Context",
+        "description": "Practice determining which feature of a linear model (the slope, the x-intercept, or the y-intercept) is useful for answering a given question in context",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "TYbN--4KHIk"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
