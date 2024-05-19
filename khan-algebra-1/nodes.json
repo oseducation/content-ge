@@ -838,5 +838,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.4.2": {
+        "name": "Point-slope & Slope-intercept Equations",
+        "description": "Point-slope is the general form y-y₁=m(x-x₁) for linear equations. It emphasizes the slope of the line and a point on the line (that is not the y-intercept). We can rewrite an equation in point-slope form to be in slope-intercept form y=mx+b, to highlight the same line's slope and y-intercept",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "LtpXvUCrgrM"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
