@@ -645,9 +645,20 @@
         "description": "Sal determines the x-intercept of a linear equation from a graph. Afterwards, he checks his work by plugging values back into the equation. Created by Sal Khan.",
         "texts": ["text1.md"],
         "video_parts": [{
-            "id": "LNSB0N6esPU"
+            "id": "xiIQQNufFuU"
         }],
         "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "4.4.3": {
+        "name": "Intercepts From an Equation",
+        "description": "Let's graph -5x + 4y = 20 from its intercepts. Intercepts are the places where a line crosses the x- and y-axes. When a line crosses the x-axis, the y value is 0. That's the x-intercept. When a line crosses the y-axis, the x value is 0. That's the y-intercept.  The line passes through those points. Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "xGmef7lFc5w"
+        }],
+        "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     }
