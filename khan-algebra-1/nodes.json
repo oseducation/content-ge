@@ -672,5 +672,16 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.5.1": {
+        "name": "Slope, x-intercept, y-intercept Meaning in Context",
+        "description": "Practice determining what each of the slope, x-intercept, and y-intercept represent in a given linear relationship",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "XQlaZuh7E8w"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
