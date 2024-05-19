@@ -871,5 +871,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "5.5.3": {
+        "name": "Clarifying Standard Form Rules",
+        "description": "Clarifying standard form rules",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "PfSsLjnnS60"
+        }],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
