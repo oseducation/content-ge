@@ -705,5 +705,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.5.4": {
+        "name": "Finding Slope and Intercepts From Tables",
+        "description": "Given a linear relationship in a table, practice finding the slope and intercepts",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "g98OfN5cWy4"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
