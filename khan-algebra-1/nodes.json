@@ -694,5 +694,16 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "4.5.3": {
+        "name": "Slope and Intercept Meaning From a Table",
+        "description": "Given a linear relationship in a table, Sal graphs the relationship to explore what the slope and intercepts mean in the given context",
+        "texts": ["text1.md"],
+        "video_parts": [{
+            "id": "nc9XHXlxSyM"
+        }],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
