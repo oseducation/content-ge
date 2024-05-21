@@ -1126,5 +1126,35 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.4.2": {
+        "name": "Worked Example: Equivalent Systems Of Equations",
+        "description": "Sal analyzes a couple of systems of equations and determines whether they have the same solution as a third given system.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "XstL_x4ucm4"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "6.4.3": {
+        "name": "Worked Example: Non-equivalent Systems Of Equations",
+        "description": "Sal analyzes a couple of systems of equations and determines whether they have the same solution as a third given system",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "PSDQdwL1T0M"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
