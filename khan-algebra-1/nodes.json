@@ -1156,5 +1156,20 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.4.4": {
+        "name": "Reasoning With Systems Of Equations",
+        "description": "When we perform operations on a system of equations, some operations produce an equivalent system, while others don't necessarily produce an equivalent system. When we're solving a system of equations, we need to use operations that guarantee equivalence.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "s1RB-IgAHr8"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
