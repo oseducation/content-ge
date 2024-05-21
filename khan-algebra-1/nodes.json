@@ -1066,5 +1066,50 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.3.3": {
+        "name": "Systems Of Equations With Elimination: X-4Y=-18 & -X+3Y=11",
+        "description": "Sal solves the following system of equations by eliminating x: x-4y=-18 and -x+3y=11.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "NPXTkj75-AM"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "6.3.4": {
+        "name": "Systems Of Equations With Elimination: Potato Chips",
+        "description": "Sal solves another system of equations using elimination.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "VuJEidLhY1E"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "6.3.5": {
+        "name": "Systems Of Equations With Elimination (And Manipulation)",
+        "description": "In some cases, we need to slightly manipulate a system of equations before we can solve it using the elimination method. See how it's done in this video.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "wYrxKGt_bLg"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
