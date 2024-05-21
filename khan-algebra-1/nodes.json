@@ -961,5 +961,35 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.1.4": {
+        "name": "Setting Up A System Of Equations From Context Example (Pet Weights)",
+        "description": "Practice writing a system of linear equations that fits the constraints in a word problem.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "HftghcUXaEg"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "6.1.5": {
+        "name": "Setting Up A System Of Linear Equations Example (Weight And Price)",
+        "description": "Practice writing a system of linear equations that fits the constraints in a word problem.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "pL4PXSXH-R8"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
