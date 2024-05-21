@@ -1111,5 +1111,20 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.4.1": {
+        "name": "Why Can We Subtract One Equation From The Other In A System Of Equations?",
+        "description": "The example of a scale where we try to achieve balance helps to explain why we can subtract one equation from the other in a system of equations.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "h9ZgZimXn2Q"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
