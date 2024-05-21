@@ -1036,5 +1036,35 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.3.1": {
+        "name": "Systems Of Equations With Elimination: King'S Cupcakes",
+        "description": "Sal uses simple elimination to figure out how many cupcakes are eaten by children and adults.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "xCIHAjsZCE0"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "6.3.2": {
+        "name": "Elimination Strategies",
+        "description": "Practice identifying strategies for eliminating variables in a system of equations.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "5jgSW5Jb-Y8"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
