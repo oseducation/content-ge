@@ -991,5 +991,20 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.1.6": {
+        "name": "Interpreting Points In Context Of Graphs Of Systems",
+        "description": "Given a graph of a system of equations and a context, practice interpreting what various points represent in that system.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "_hW1OzRlx50"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
