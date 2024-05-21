@@ -915,5 +915,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+
+    "6.1.1": {
+        "name": "Systems Of Equations: Trolls, Tolls (1 Of 2)",
+        "description": "A troll forces us to use algebra to figure out the make-up of his currency. We end up setting up a system of equations.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "OcNt-36QKu8"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
