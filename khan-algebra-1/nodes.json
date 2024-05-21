@@ -1003,7 +1003,37 @@
                 "id": "_hW1OzRlx50"
             }
         ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "6.2.1": {
+        "name": "Systems Of Equations With Substitution: Potato Chips",
+        "description": "To solve a system of equations using substitution...\n1. Isolate one of the variables in one of the equations, e.g. rewrite 2x+y=3 as y=3-2x.\n2. You can now express the isolated variable using the other one. *Substitute* that expression into the second equation, e.g. rewrite x+2y=5 as x+2(3-2x)=5.\n3. Now you have an equation with one variable! Solve it, and use what you got to find the other variable",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "2EwPpga_XPw"
+            }
+        ],
         "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "6.2.2": {
+        "name": "Systems Of Equations With Substitution: -3X-4Y=-2 & Y=2X-5",
+        "description": "Learn to solve the system of equations -3x - 4y = -2 and y = 2x - 5 using substitution.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "GWZKz4F9hWM"
+            }
+        ],
+        "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     }
