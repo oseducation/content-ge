@@ -1426,6 +1426,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.6.10": {
+        "name": "Systems Of Equations With Elimination: Coffee And Croissants",
+        "description": "Sal solves a word problem about the price of coffee and croissant by creating a system of equations and solving it. Created by Sal Khan",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "grmmM_KhQ4U"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
 }
