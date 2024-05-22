@@ -1562,6 +1562,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.3.2": {
+        "name": "Solving Two-Variable Inequalities Word Problem",
+        "description": "Given a two-variable linear inequality that models a context about watering plants, Sal finds how many flowers can be watered.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "ysdY1iX_XCs"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
     
