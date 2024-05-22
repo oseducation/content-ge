@@ -1502,6 +1502,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.2.3": {
+        "name": "Two-Variable Inequalities From Their Graphs",
+        "description": "Sal is given a graph and he analyzes it to find the two-variable inequality it represents.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "YBYu5aZPLeg"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
 }
