@@ -1216,5 +1216,20 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.5.4": {
+        "name": "Solutions To Systems Of Equations: Dependent Vs. Independent",
+        "description": "A dependent system of equations has infinite solutions, and an independent system has a single solution. Watch an example of analyzing a system to see if it's dependent or independent.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "WSpF5uvApLA"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
