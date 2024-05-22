@@ -1411,6 +1411,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.6.9": {
+        "name": "Systems Of Equations With Substitution: Coins",
+        "description": "Sal solves a word problem about the number of nickels and quarters in a piggy bank by creating a system of equations and solving it. Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "v6L8--MlnKo"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
 }
