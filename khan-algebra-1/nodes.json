@@ -1276,5 +1276,20 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.5.8": {
+        "name": "How Many Solutions Does A System Of Linear Equations Have If There Are At Least Two?",
+        "description": "Sal answers this question for you!",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "bzseeIVEslA"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
