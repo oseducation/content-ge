@@ -1637,7 +1637,23 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.3.7": {
+        "name": "Graphs Of Systems Of Inequalities Word Problem",
+        "description": "Given the graph of a two-variable linear inequality that models a context about chopping vegetables, Sal finds if there's enough time to chop!",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "C_7Tqk9fw4k"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
+
 
     
 }
