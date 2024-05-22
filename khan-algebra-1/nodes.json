@@ -1261,5 +1261,20 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.5.7": {
+        "name": "Number Of Solutions To A System Of Equations Algebraically",
+        "description": "Sal solves several examples where he reasons about the number of solutions of systems of equations using algebraic reasoning.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "ogEddosP1G8"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
