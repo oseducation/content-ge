@@ -1201,5 +1201,20 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.5.3": {
+        "name": "Solutions To Systems Of Equations: Consistent Vs. Inconsistent",
+        "description": "A consistent system of equations has at least one solution, and an inconsistent system has no solution. Watch an example of analyzing a system to see if it's consistent or inconsistent.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Ix8Nne-a-KQ"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
