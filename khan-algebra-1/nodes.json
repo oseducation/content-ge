@@ -1246,5 +1246,20 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.5.6": {
+        "name": "Number Of Solutions To A System Of Equations Graphically",
+        "description": "Sal determines how many solutions the following system of equations has by considering its graph: 10x-2y=4 and 10x-2y=16.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "SuB1gkto9LU"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
