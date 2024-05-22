@@ -1171,5 +1171,20 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.5.1": {
+        "name": "Systems Of Equations Number Of Solutions: Fruit Prices (1 Of 2)",
+        "description": "Sal gives an example of a system of equations that has no solution!",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "NJRyxmommqQ"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
