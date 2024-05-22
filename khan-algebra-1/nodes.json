@@ -1291,5 +1291,20 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.6.1": {
+        "name": "Age Word Problem: Imran",
+        "description": "Sal solves the following age word problem: In 40 years, Imran will be 11 times as old as he is right now. How old is he right now?",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "KyHvVJWjW6Y"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
