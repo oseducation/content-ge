@@ -1607,6 +1607,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.3.5": {
+        "name": "Writing Systems Of Inequalities Word Problem",
+        "description": "Sal models a word problem about baking cupcakes and muffins by creating a system of linear inequalities.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "jRnkxSfwIpU"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
     
