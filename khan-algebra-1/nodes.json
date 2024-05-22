@@ -1532,6 +1532,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.2.5":{
+        "name": "Graphing Systems Of Inequalities",
+        "description": "Sal graphs the solution set of the system `y≥2x+1 and y<2x-5 and x>1.`. Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "YjT3QYfoy4Q"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
 }
