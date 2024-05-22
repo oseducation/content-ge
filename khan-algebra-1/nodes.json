@@ -1487,6 +1487,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.2.2": {
+        "name": "Graphing Two-Variable Inequalities",
+        "description": "Sal graphs the inequality y<3x+5. Created by Sal Khan and Monterey Institute for Technology and Education.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "FnrqBgot3jM"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
 }
