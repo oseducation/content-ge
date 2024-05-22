@@ -1533,7 +1533,7 @@
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     },
-    "7.2.5":{
+    "7.2.5": {
         "name": "Graphing Systems Of Inequalities",
         "description": "Sal graphs the solution set of the system `y≥2x+1 and y<2x-5 and x>1.`. Created by Sal Khan and Monterey Institute for Technology and Education",
         "texts": [
@@ -1547,6 +1547,22 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.3.1": {
+        "name": "Writing Two-Variable Inequalities Word Problem",
+        "description": "Sal solves a word problem about scores in a chess tournament by creating a two-variable linear inequality.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "MHgi8ZQCG0I"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
+
     
 }
