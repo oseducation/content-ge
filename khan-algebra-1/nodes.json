@@ -1472,6 +1472,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.2.1": {
+        "name": "Intro To Graphing Two-Variable Inequalities",
+        "description": "Learn how to graph two-variable linear inequalities like y\u22644x+3.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "unSBFwK881s"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
 }
