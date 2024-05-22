@@ -1592,6 +1592,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.3.4": {
+        "name": "Modeling With Systems Of Inequalities",
+        "description": "Sal models a real-world context into an algebraic system of linear inequalities and graphs it.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "BUmLw5m6F9s"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
     
