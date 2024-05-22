@@ -1360,7 +1360,22 @@
         ],
         "video_parts": [
             {
-                "id": "Q0tTfe2lKIc"
+                "id": "SRn3WhhS6vs"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "6.6.6": {
+        "name": "System Of Equations Word Problem: Infinite Solutions",
+        "description": "Systems of equations can be used to solve many real-world problems. In this video, we solve a problem about a vegetable farmer. In this case, the problem has infinite solutions, which means there's not enough information to find a single solution",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "njb6xYF0GZ0"
             }
         ],
         "node_type": "example",
