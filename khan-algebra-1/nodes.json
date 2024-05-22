@@ -1652,6 +1652,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.3.8": {
+        "name": "Graphs Of Two-Variable Inequalities Word Problem",
+        "description": "Given the graph of a two-variable linear inequality that models a context about dog biscuits, Sal finds if the dog can get enough biscuits.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "DhiiGFuUE9I"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
