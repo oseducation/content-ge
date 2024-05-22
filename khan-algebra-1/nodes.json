@@ -1457,6 +1457,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.1.2": {
+        "name": "Testing Solutions To Systems Of Inequalities",
+        "description": "Sal checks whether the ordered pair (2,5) is a solution of the following system: y\u22652x+1 and x>1.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "XzYNh2wpO0A"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
 }
