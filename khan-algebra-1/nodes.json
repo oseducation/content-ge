@@ -1186,5 +1186,20 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.5.2": {
+        "name": "Systems Of Equations Number Of Solutions: Fruit Prices (2 Of 2)",
+        "description": "Sal gives an example of a system of equations that has infinite solutions!",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "MpRUEGD2-_c"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
