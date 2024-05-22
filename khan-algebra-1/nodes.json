@@ -1577,6 +1577,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.3.3": {
+        "name": "Interpreting Two-Variable Inequalities Word Problem",
+        "description": "Sal analyzes a two-variable linear inequality that models a context about YouTube videos.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "TTYDbGXgcCk"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
     
