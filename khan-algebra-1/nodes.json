@@ -1321,5 +1321,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.6.3": {
+        "name": "Age Word Problem: Arman & Diya",
+        "description": "Sal solves the following age word problem: Arman is 18. Diya is 2. How many years will it take for Arman to be 3 times as old as Diya?",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "W-5liMGKgHA"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
+    
 }
