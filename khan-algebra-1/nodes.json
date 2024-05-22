@@ -1381,6 +1381,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.6.7": {
+        "name": "Systems Of Equations With Elimination: TV & DVD",
+        "description": "Sal solves a word problem about the weights of TVs and DVDs by creating a system of equations and solving it. Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "z1hz8-Kri1E"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
 }
