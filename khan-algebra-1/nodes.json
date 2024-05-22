@@ -1351,6 +1351,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.6.5": {
+        "name": "System Of Equations Word Problem: No Solution",
+        "description": "Systems of equations can be used to solve many real-world problems. In this video, we solve a problem about a toy factory. In this case, the problem has no viable solution, which means the information describes an impossible situation",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Q0tTfe2lKIc"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
 }
