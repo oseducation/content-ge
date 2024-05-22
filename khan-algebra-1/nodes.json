@@ -1441,6 +1441,22 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+
+    "7.1.1": {
+        "name": "Testing Solutions To Inequalities ",
+        "description": "Sal checks if the ordered pairs (3,5) and (1,-7) are solutions of the inequality 5x-3y\u226525.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "2oGsLdAWxlk"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
 }
