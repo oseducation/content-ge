@@ -1622,6 +1622,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.3.6": {
+        "name": "Solving Systems Of Inequalities Word Problem",
+        "description": "Given a system of linear inequalities that models a context about making chairs and tables, Sal finds how many can be made.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "ZTKAn9YNbNY"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
     
