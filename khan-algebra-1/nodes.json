@@ -1306,5 +1306,20 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.6.2": {
+        "name": "Age word problem: Ben & William",
+        "description": "Sal solves the following age word problem: William is 4 times as old as Ben. 12 years ago, William was 7 times as old as Ben. How old is Ben now? Created by Sal Khan.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "RGbA2IyJILY"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 }
