@@ -1396,6 +1396,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "6.6.8": {
+        "name": "Systems Of Equations With Elimination: Apples And Oranges",
+        "description": "Sal solves a word problem about the price of apples and oranges by creating a system of equations and solving it. Created by Sal Khan.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "gRntusF_tVI"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
 }
