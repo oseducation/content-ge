@@ -1517,6 +1517,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "7.2.4": {
+        "name": "Intro To Graphing Systems Of Inequalities",
+        "description": "Learn how to graph systems of two-variable linear inequalities, like `y>x-8 and y<5-x.`. Created by Sal Khan and Monterey Institute for Technology and Education",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "CA4S7S-3Lg4"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
 }
