@@ -2476,6 +2476,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.3.4": {
+        "name": "Using Recursive Formulas Of Geometric Sequences",
+        "description": "Sal finds the 4th term in the sequence whose recursive formula is a(1)=-\u215b, a(i)=2a(i-1).",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "RkJBZALhXRA"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
