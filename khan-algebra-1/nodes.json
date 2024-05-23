@@ -1758,6 +1758,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.2.2": {
+        "name": "Worked Example: Matching An Input To A Function'S Output (Graph)",
+        "description": "Sal finds the input value for which g(x)=-2 given the graph of g.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "0Rmmynff5Yc"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
