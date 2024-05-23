@@ -2401,6 +2401,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.2.3": {
+        "name": "Arithmetic Sequence Problem",
+        "description": "Sal finds the 100th term in the sequence 15, 9, 3, -3...",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "C5titprQAc4"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
