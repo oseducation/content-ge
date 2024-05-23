@@ -2269,6 +2269,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.13.4": {
+        "name": "Finding Inverse Functions: Linear",
+        "description": "Sal finds the inverses of f(x)=-x+4 and g(x)=-2x-1.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "wSiamij_i_k"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
