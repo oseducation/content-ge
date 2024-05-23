@@ -2134,6 +2134,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.10.2": {
+        "name": "Graph Interpretation Word Problem: Basketball",
+        "description": "When a function models a real-world context, we can learn a lot about the context from the function's graph. In this video, we interpret the y-intercept of a graph that models a basketball free throw.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "M3PTPN7NH8M"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
