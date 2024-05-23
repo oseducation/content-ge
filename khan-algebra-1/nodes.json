@@ -2330,6 +2330,32 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.1.4a": {
+        "name": "Intro To Arithmetic Sequences Formulas",
+        "description": "Defining arithmetic sequences formulas.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "9.1.4": {
+        "name": "Using To Arithmetic Sequences Formulas",
+        "description": "Sal finds terms of arithmetic sequences using their explicit and recursive formulas.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "8eSUbi_aYL4"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
