@@ -2014,6 +2014,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.7.3": {
+        "name": "Recognizing Functions From Table",
+        "description": "Checking whether a table of people and their heights can represent a function that assigns a height to a name.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "5cK86VKoBPw"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
