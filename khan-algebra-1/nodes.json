@@ -2446,6 +2446,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.3.2": {
+        "name": "Extending Geometric Sequences",
+        "description": "Sal finds the next term in the geometric sequence -1/32, 1/8, -1/2, 2,...",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "yZ-GufE_uyA"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
