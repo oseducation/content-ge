@@ -1849,6 +1849,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.5.1": {
+        "name": "Intervals And Interval Notation",
+        "description": "Introducing intervals, which are bounded sets of numbers and are very useful when describing domain and range.\\n\\nWe can use interval notation to show that a value falls between two endpoints. For example, -3\u2264x\u22642, [-3,2], and {x\u2208\u211d|-3\u2264x\u22642} all mean that x is between -3 and 2 and could be either endpoint.\u00a0",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "UJQkqV2zGv0"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
