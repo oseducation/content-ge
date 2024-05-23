@@ -1909,6 +1909,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.6.1": {
+        "name": "Determining Whether Values Are In Domain Of Function",
+        "description": "Sal shows how to test whether or not a value is or isn't in the domain of a function.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "LdbrNNheFg8"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
