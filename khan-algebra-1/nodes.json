@@ -2461,6 +2461,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.3.3" : {
+        "name": "Using Explicit Formulas Of Geometric Sequences",
+        "description": "Sal finds the 5th term in the geometric sequence whose explicit formula is 3(-\u00bc)^(i-1).",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "HODIXLzIMIk"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
