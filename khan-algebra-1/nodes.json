@@ -1667,6 +1667,22 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+
+    "8.1.1": {
+        "name": "What Is A Function?",
+        "description": "Functions assign a single output for each of their inputs. In this video, we see examples of various kinds of functions.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "kvGsIo1TmsM"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
