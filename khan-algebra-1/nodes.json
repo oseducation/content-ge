@@ -2536,6 +2536,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.6.1": {
+        "name": "Evaluating Sequences In Recursive Form",
+        "description": "Sal shows how to evaluate a sequence that is defined with a recursive formula. This definition gives the base case and then defines how to find the subsequent terms using the base case.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Kjli0Gunkds"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
