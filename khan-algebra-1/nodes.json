@@ -2104,6 +2104,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.9.2": {
+        "name": "Worked Example: Positive & Negative Intervals",
+        "description": "Finding the positive or negative intervals of a function from its graph.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "eDv7dk9uNmM"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
