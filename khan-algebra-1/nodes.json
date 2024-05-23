@@ -2059,6 +2059,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.8.1": {
+        "name": "Introduction To Minimum And Maximum Points",
+        "description": "Sal explains all about minimum and maximum points, both absolute and relative.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Hoyv3-BMAGc"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
