@@ -2300,6 +2300,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.1.2": {
+        "name": "Intro To Arithmetic Sequences",
+        "description": "Sal introduces arithmetic sequences and their main features, the initial term and the common difference. He gives various examples of such sequences, defined explicitly and recursively.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "_cooC3yG_p0"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
