@@ -2416,6 +2416,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.2.4": {
+        "name": "Converting Recursive & Explicit Forms Of Arithmetic Sequences",
+        "description": "Sal is given an arithmetic sequence in explicit form and he converts it to recursive form. Then he does so the other way around!",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "GA_yxxeFYBU"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
