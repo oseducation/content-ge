@@ -1699,7 +1699,7 @@
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     },
-    "8.1.3":{
+    "8.1.3": {
         "name": "Worked Example: Evaluating Functions From Graph",
         "description": "Evaluating a function at x=-1 using the graph of that function.",
         "texts": [
@@ -1711,6 +1711,21 @@
             }
         ],
         "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "8.1.4": {
+        "name": "Evaluating Discrete Functions",
+        "description": "Given the graph of a discrete function, Sal shows how to evaluate the function for a few different values.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Ddw8u7nNmKs"
+            }
+        ],
+        "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     }
