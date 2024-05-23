@@ -2164,6 +2164,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.11.2": {
+        "name": "Worked Example: Average Rate Of Change From Graph",
+        "description": "Finding the interval in a function's graph where the function has an average rate of change of -4.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "TEXSW-o8674"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
