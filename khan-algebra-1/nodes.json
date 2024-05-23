@@ -1924,6 +1924,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.6.2": {
+        "name": "Examples Finding The Domain Of Functions",
+        "description": "Sal shows how to algebraically find the domain of a few different functions.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "4ZWbeESjv4M"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
