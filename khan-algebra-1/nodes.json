@@ -2315,6 +2315,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.1.3": {
+        "name": "Extending Arithmetic Sequences",
+        "description": "Sal extends the arithmetic sequences -8, -14, -20, -26,... and 2, -1, -4, -7, -10,... to find their next terms.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "EU0c6qrrevA"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
