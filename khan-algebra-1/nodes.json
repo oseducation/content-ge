@@ -2029,6 +2029,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.7.4": {
+        "name": "Recognizing Functions From Verbal Description",
+        "description": "Checking whether y can be described as a function of x if y is always three more than twice x.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "tBRW-CyJE6k"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
