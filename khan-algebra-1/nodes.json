@@ -2521,6 +2521,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.5.1": {
+        "name": "Sequences Word Problems",
+        "description": "Sal solves two word problems about modeling real-world situations with arithmetic and geometric sequences.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "yYGf7xn7TyM"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
