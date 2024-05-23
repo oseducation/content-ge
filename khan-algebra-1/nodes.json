@@ -2386,6 +2386,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.2.2": {
+        "name": "Explicit Formulas For Arithmetic Sequences",
+        "description": "Sal finds explicit formulas of arithmetic sequences given the first few terms of those sequences. He also explores equivalent forms of such formulas.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "ViLt2WI0XSg"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
