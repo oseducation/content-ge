@@ -2074,6 +2074,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.8.2": {
+        "name": "Worked Example: Absolute And Relative Extrema",
+        "description": "Extrema is the general name for maximum and minimum points. This video shows how to identify relative and absolute extrema in the graph of a function.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "xmrhZ5ySaD0"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
