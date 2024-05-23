@@ -2089,6 +2089,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.9.1": {
+        "name": "Increasing, Decreasing, Positive Or Negative Intervals",
+        "description": "Function values can be positive or negative, and they can increase or decrease as the input increases. Here we introduce these basic properties of functions.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "KxOp3s9ottg"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
