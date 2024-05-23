@@ -2254,6 +2254,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.13.3": {
+        "name": "Graphing The Inverse Of A Linear Function",
+        "description": "Sal is given a line segment on the coordinate plane, and he graphs the inverse of the function represented by that segment.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "KPeS2gdizhQ"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
