@@ -2284,6 +2284,22 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+
+    "9.1.1": {
+        "name": "Sequences Intro",
+        "description": "Sequences are ordered lists of numbers (called `terms`), like 2,5,8. Some sequences follow a specific pattern that can be used to extend them indefinitely. For example, 2,5,8 follows the pattern `add 3,` and now we can continue the sequence. Sequences can have formulas that tell us how to find any term in the sequence. For example, 2,5,8,... can be represented by the formula 2+3(n-1). Created by Sal Khan",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "KRFiAlo7t1E"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
