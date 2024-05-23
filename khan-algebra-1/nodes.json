@@ -1969,6 +1969,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.6.5": {
+        "name": "Worked Example: Determining Domain Word Problem (All Integers)",
+        "description": "Determining the domain of a function that models going up and down a ladder.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "d1O54EQ1DSE"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
