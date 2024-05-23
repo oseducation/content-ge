@@ -2149,6 +2149,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.11.1": {
+        "name": "Introduction To Average Rate Of Change",
+        "description": "What's the average rate of change of a function over an interval?",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oT6LclcJ-I8"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
