@@ -2179,6 +2179,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.11.3": {
+        "name": "Worked Example: Average Rate Of Change From Table",
+        "description": "Finding the average rate of change of a function over the interval -5<x<-2, given a table of values of the function.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "U1lQbh21y1k"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
