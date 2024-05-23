@@ -2356,6 +2356,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.1.5": {
+        "name": "Worked Example: Using Recursive Formula For Arithmetic Sequence",
+        "description": "Example finding the 4th term in a recursively defined arithmetic sequence.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "v1ucHH06AxM"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
