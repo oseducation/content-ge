@@ -1729,7 +1729,7 @@
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     },
-    "8.1.5":{
+    "8.1.5": {
         "name": "Worked Example: Evaluating Expressions With Function Notation",
         "description": "Evaluating -2\u22c5f(-6)+g(1) given the graphs of f and g.",
         "texts": [
@@ -1738,6 +1738,21 @@
         "video_parts": [
             {
                 "id": "uaPm3Tpuxbc"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "8.2.1": {
+        "name": "Worked Example: Matching An Input To A Function'S Output (Equation)",
+        "description": "Sal finds the input value for which f(t)=13, given that f(t)=-2t+5.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "tJBQZ3PUkPo"
             }
         ],
         "node_type": "example",
