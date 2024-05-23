@@ -1683,6 +1683,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.1.2": {
+        "name": "Worked Example: Evaluating Functions From Equation",
+        "description": "Learn how to evaluate f(x)=49-x\u00b2 at x=5.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Id6UovYjd-M"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
