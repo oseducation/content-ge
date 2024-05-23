@@ -1894,6 +1894,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.5.4": {
+        "name": "Worked Example: Domain And Range From Graph",
+        "description": "Finding the domain and the range of a function that is given graphically.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "sXP7VhU1gYE"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
