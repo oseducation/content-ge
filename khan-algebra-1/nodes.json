@@ -1819,6 +1819,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.4.1": {
+        "name": "Function Notation Word Problem: Bank",
+        "description": "Learn how to interpret expressions that contain a function within a real-world context. In this video, the function we interpret models an account balance over time.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "HERb3x0aw6c"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
