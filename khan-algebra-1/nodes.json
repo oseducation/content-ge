@@ -2194,6 +2194,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.12.1": {
+        "name": "Average Rate Of Change Word Problem: Table",
+        "description": "Average rate of change tells us how much the function changed per a single time unit, over a specific interval. It has many real-world applications. In this video, we compare the average rate of change of temperature over different time periods.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "FBWGRbHf7rU"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
