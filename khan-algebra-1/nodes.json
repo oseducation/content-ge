@@ -1728,6 +1728,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.1.5":{
+        "name": "Worked Example: Evaluating Expressions With Function Notation",
+        "description": "Evaluating -2\u22c5f(-6)+g(1) given the graphs of f and g.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "uaPm3Tpuxbc"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
