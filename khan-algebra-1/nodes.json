@@ -1999,6 +1999,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.7.2": {
+        "name": "Does A Vertical Line Represent A Function?",
+        "description": "Explaining why a vertical line doesn't represent a function.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "_npwsLh0vws"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
