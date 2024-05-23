@@ -2224,6 +2224,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.13.1": {
+        "name": "Intro To Inverse Functions",
+        "description": "Sal explains what inverse functions are. Then he explains how to algebraically find the inverse of a function and looks at the graphical relationship between inverse functions.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "W84lObmOp8M"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
