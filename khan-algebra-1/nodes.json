@@ -2371,6 +2371,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.2.1": {
+        "name": "Recursive Formulas For Arithmetic Sequences",
+        "description": "Sal finds the recursive formula of the arithmetic sequence 4, 3\u2158, 3\u2157, 3\u2156,...",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "lBtb30SjU2Q"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
