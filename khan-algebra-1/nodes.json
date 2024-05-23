@@ -2239,6 +2239,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.13.2": {
+        "name": "Inputs & Outputs Of Inverse Functions",
+        "description": "Sal explains that if f(a)=b, then f\u00a0\u207b\u00b9(b)=a, or in other words, the inverse function of f outputs a when its input is b.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "KzaPBzFFLRM"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
