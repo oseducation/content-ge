@@ -2044,6 +2044,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.7.5": {
+        "name": "Recognizing Functions From Verbal Description Word Problem",
+        "description": "Checking whether a description of the price of an order can be represented as a function of the shipping cost.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "z45UEiPaE8c"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
