@@ -1954,6 +1954,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.6.4": {
+        "name": "Worked Example: Determining Domain Word Problem (Positive Integers)",
+        "description": "Determining the domain of a function that models the price of candy bars.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "AiW7syKXfJM"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
