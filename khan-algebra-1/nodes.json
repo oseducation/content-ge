@@ -1834,6 +1834,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.4.2": {
+        "name": "Function Notation Word Problem: Beach",
+        "description": "Learn how to interpret expressions that contain a function within a real-world context. In this video, the function we interpret models the number of people at the beach over time.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "94Gnto5G1PU"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
