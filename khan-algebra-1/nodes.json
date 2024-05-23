@@ -1984,6 +1984,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.7.1": {
+        "name": "Recognizing Functions From Graph",
+        "description": "Checking whether a given set of points can represent a function. For the set to represent a function, each domain element must have one corresponding range element at most.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "qGmJ4F3b5W8"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
