@@ -2506,6 +2506,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.4.2": {
+        "name": "Converting Recursive & Explicit Forms Of Geometric Sequences",
+        "description": "Sal solves the following problem: The explicit formula of a geometric sequence is g(x)=9*8^(x-1). Find the recursive formula of the sequence.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Iq7a2vEsT-o"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
