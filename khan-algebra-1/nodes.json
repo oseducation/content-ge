@@ -2209,6 +2209,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.12.2": {
+        "name": "Average Rate Of Change Word Problem: Graph",
+        "description": "Average rate of change tells us how much the function changed per a single time unit, over a specific interval. It has many real-world applications. In this video, we find the average rate of descent of a skydiver over a specific time interval.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "-6EqUILZ1yw"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
