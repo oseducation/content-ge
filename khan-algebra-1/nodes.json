@@ -2431,6 +2431,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.3.1": {
+        "name": "Intro To Geometric Sequences",
+        "description": "Sal introduces geometric sequences and their main features, the initial term and the common ratio.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "pXo0bG4iAyg"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
