@@ -1879,6 +1879,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.5.3": {
+        "name": "What Is The Range Of A Function?",
+        "description": "The range of a function is the set of all possible outputs the function can produce. Some functions (like linear functions) can have a range of all real numbers, but lots of functions have a more limited set of possible outputs.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "96uHMcHWD2E"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
