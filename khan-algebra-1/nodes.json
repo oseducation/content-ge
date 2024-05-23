@@ -1773,6 +1773,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.2.3": {
+        "name": "Worked Example: Two Inputs With The Same Output (Graph)",
+        "description": "Sal finds the input value other than -5 for which f(x)=f(-5), given the graph of f.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "qSktOkaW6EA"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
