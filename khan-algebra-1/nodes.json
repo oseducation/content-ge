@@ -1939,6 +1939,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.6.3": {
+        "name": "Worked Example: Determining Domain Word Problem (Real Numbers)",
+        "description": "Determining the domain of a function that models the height of a plant over time.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "2DnQEaNTd08"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
