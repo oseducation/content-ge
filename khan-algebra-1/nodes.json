@@ -2491,6 +2491,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "9.4.1": {
+        "name": "Explicit & Recursive Formulas For Geometric Sequences",
+        "description": "Sal finds an explicit formula of a geometric sequence given the first few terms of the sequences. Then he explores equivalent forms the explicit formula and finds the corresponding recursive formula.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "8a1a5A3CfdQ"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
