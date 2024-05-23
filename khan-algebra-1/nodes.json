@@ -1804,6 +1804,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.3.2": {
+        "name": "Obtaining A Function From An Equation",
+        "description": "Equations and functions are not the same thing, but they can be related in several ways. In this video, we obtain a function from an equation. The function represents the same relationship between the quantities in the equation.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "OOim0QPsJ9o"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
