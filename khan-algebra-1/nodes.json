@@ -1864,6 +1864,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "8.5.2": {
+        "name": "What Is The Domain Of A Function?",
+        "description": "Functions assign outputs to inputs. The domain of a function is the set of all possible inputs for the function. For example, the domain of f(x)=x\u00b2 is all real numbers, and the domain of g(x)=1/x is all real numbers except for x=0. We can also define special functions whose domains are more limited.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "-DTMakGDZAw"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
