@@ -2899,6 +2899,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.1.4": {
+        "name": "Exponential Vs. Linear Models: Table",
+        "description": "Determining whether real world model is linear or exponential, where the model is given as a table.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "tV0NNJ6ndgk"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
