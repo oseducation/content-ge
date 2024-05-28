@@ -2808,6 +2808,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "11.3.1": {
+        "name": "Simplifying Square Roots",
+        "description": "Roots are nice, but we prefer dealing with regular numbers as much as possible. So, for example, instead of \u221a4 we prefer dealing with 2. What about roots that aren't equal to an integer, like \u221a20? Still, we can write 20 as 4\u22c55 and then use known properties to write \u221a(4\u22c55) as \u221a4\u22c5\u221a5, which is 2\u221a5. We *simplified* \u221a20.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "cw3mp8oNASk"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
