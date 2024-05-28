@@ -3079,6 +3079,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.6.2": {
+        "name": "Writing Exponential Functions From Tables",
+        "description": "Both linear equations and exponential equations represent relationships between two variables. However, the way that the variables are related to each other in each type of equation is different. \\n\\nA linear equation can be thought of as representing repeated addition on an initial value, while an exponential equation can be thought of as representing repeated multiplication on an initial value.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Qst1UVtq8pE"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
