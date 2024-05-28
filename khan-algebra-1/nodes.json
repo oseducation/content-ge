@@ -2657,6 +2657,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "10.2.3": {
+        "name": "Worked Example: Graphing Piecewise Functions",
+        "description": "A piecewise function is a function that is defined in separate 'pieces' or intervals. For each region or interval, the function may have a different equation or rule that describes it. We can graph a piecewise function by graphing each individual piece.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "PQiXRrT_14o"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
