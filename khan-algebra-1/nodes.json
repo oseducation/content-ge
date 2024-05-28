@@ -3109,6 +3109,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.6.4": {
+        "name": "Analyzing Tables Of Exponential Functions",
+        "description": "Here is how we can write an equation for an exponential function from a table of values:\\n\\n1. Determine the common ratio. For example, if we see that every time x increases by 1, y is multiplied by 2, then the common ratio is 2.\\n2. Find the initial value of the function, or the y-intercept. This is the y-value when x=0. \\n3. Write the equation in the form y = ab^x, where a is the initial value and b is the common ratio.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "yOqhKOicqhU"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
