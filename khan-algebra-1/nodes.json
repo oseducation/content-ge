@@ -2627,6 +2627,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "10.2.1": {
+        "name": "Introduction To Piecewise Functions",
+        "description": "A piecewise function is a function built from pieces of different functions over different intervals. For example, we can make a piecewise function f(x) where f(x) = -9 when -9 < x \u2264 -5, f(x) = 6 when -5 < x \u2264 -1, and f(x) = -7 when -1 ",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "tedzsRH0Jas"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
