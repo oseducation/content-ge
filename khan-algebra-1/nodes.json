@@ -2748,6 +2748,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "11.2.2": {
+        "name": "Understanding Square Roots",
+        "description": "Learn how square root means what number multiplied by itself will result in the given number.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "ROIfbUQrSY4"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
