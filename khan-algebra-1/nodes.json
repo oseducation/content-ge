@@ -3154,6 +3154,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.6.7": {
+        "name": "Modeling With Basic Exponential Functions Word Problem",
+        "description": "Sal solves a word problem where he models the growth of a speeding ticket fine over time as an exponential function, and then interprets this model.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "2iZXFd_ZImA"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
