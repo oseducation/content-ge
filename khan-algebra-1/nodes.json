@@ -2914,6 +2914,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.2.1": {
+        "name": "Exponential Expressions Word Problems (Numerical)",
+        "description": "Given the description of a real-world context, we write a calculation of a certain measure. The expression is exponential because it involves repeated multiplication.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "L70UJVjc-bc"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
