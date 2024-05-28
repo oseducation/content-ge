@@ -3169,6 +3169,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.7.1": {
+        "name": "Linear Vs. Exponential Growth: From Data",
+        "description": "Sal constructs functions that model the growth of trees over time. To do that, he identifies which growth is linear and which is exponential.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "721RrH6auoU"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
