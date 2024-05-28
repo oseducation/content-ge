@@ -2687,6 +2687,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "10.2.5": {
+        "name": "Worked Example: Domain & Range Of Piecewise Linear Functions",
+        "description": "Finding the domain and range of a piecewise function where each segment is linear.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "rpI-X9Gn5a4"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
