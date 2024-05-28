@@ -2642,6 +2642,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "10.2.2": {
+        "name": "Worked Example: Evaluating Piecewise Functions",
+        "description": "A piecewise function is a function that is defined in separate \\",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hg2HR9zJFq4"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
