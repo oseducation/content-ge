@@ -3139,6 +3139,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.6.6": {
+        "name": "Analyzing Graphs Of Exponential Functions: Negative Initial Value",
+        "description": "Given the graph of an exponential function with a negative initial value, Sal finds the formula of the function and solves an equation.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "No1LKevjF6U"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
