@@ -2853,6 +2853,22 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+
+    "12.1.1": {
+        "name": "Intro To Exponential Functions",
+        "description": "An exponential function represents the relationship between an input and output, where we use repeated multiplication on an initial value to get the output for any given input. Exponential functions can grow or decay very quickly. Exponential functions are often used to model things in the real world, such as populations, radioactive materials, and compound interest.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6WMZ7J0wwMI"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
