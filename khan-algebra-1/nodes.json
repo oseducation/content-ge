@@ -3034,6 +3034,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.5.2": {
+        "name": "Graphing Exponential Growth & Decay",
+        "description": "Graphing the exponential functions y=27\u22c5(\u2153)\u02e3 and y=-30\u22c52\u02e3.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "RVv0Jgi3Pbw"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
