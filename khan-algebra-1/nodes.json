@@ -3004,6 +3004,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.4.1": {
+        "name": "Exponential Vs. Linear Growth Over Time",
+        "description": "If we compare linear and exponential growth, we will see that over time, *any* exponential growth will surpass *any* linear growth, no matter how steep it is.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "cwnke_pjX90"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
