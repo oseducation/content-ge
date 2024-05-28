@@ -2989,6 +2989,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.3.2": {
+        "name": "Graphs Of Exponential Growth",
+        "description": "Identifying which graph represents a given exponential function.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6rX2VNybXEE"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
