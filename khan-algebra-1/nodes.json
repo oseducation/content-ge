@@ -2702,6 +2702,22 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+
+    "11.1.1": {
+        "name": "Multiplying & Dividing Powers (Integer Exponents)",
+        "description": "For any base a and any integer exponents n and m, a\u207f\u22c5a\u1d50=a\u207f\u207a\u1d50. For any nonzero base, a\u207f/a\u1d50=a\u207f\u207b\u1d50. These are worked examples for using these properties with integer exponents.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "CZ5ne_mX5_I"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
