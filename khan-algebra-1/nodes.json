@@ -2793,6 +2793,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "11.2.5": {
+        "name": "5Th Roots",
+        "description": "5th roots",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "8wrtyW1RwNk"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
