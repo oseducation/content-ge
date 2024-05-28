@@ -2974,6 +2974,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.3.1": {
+        "name": "Exponential Function Graph",
+        "description": "We can graph an exponential function, like y=5\u02e3, by picking a few inputs (x-values) and finding their corresponding outputs (y-values). We'll see that an exponential function has a horizontal asymptote in one direction and rapidly changes in the other direction.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "9SOSfRNCQZQ"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
