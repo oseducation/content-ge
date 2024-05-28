@@ -3049,6 +3049,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.5.3": {
+        "name": "Writing Functions With Exponential Decay",
+        "description": "We can write a function to model exponential decay in a context.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "cgZJU38j8-U"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
