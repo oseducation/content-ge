@@ -2718,6 +2718,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "11.1.2": {
+        "name": "Powers Of Products & Quotients (Integer Exponents)",
+        "description": "For any integers a and b and for any exponents n, (a\u22c5b)\u207f=a\u207f\u22c5b\u207f and (a/b)\u207f=a\u207f/b\u207f. These are worked examples for using these properties with integer exponents.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "dC1ojsMi1yU"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
