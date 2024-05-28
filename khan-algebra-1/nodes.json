@@ -2944,6 +2944,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.2.3": {
+        "name": "Exponential Expressions Word Problems (Algebraic)",
+        "description": "Given a real-world context that involves repeated multiplication, we model it with an exponential function.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Z3YVZzCEi_A"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
