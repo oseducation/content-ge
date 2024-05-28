@@ -2733,6 +2733,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "11.2.1": {
+        "name": "Intro To Square Roots",
+        "description": "Learn about the square root symbol (the principal root) and what it means to find a square root. Also learn how to solve simple square root equations.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "mbc3_e5lWw0"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
