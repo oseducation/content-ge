@@ -2838,6 +2838,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "11.3.3": {
+        "name": "Simplifying Square-Root Expressions",
+        "description": "Worked examples of taking expressions with square roots and taking all of the perfect squares out of the square roots. For example, 2\u221a(7x)\u22c53\u221a(14x\u00b2) can be written as 42x\u221a(2x).",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "3MijXB91DVo"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
