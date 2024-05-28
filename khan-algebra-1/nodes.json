@@ -3184,6 +3184,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.7.2": {
+        "name": "Linear Vs. Exponential Growth: From Data (Example 2)",
+        "description": "Sal constructs a function that models cooling water. To do that, he decides whether the function is linear or exponential.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "edwZDu94wNs"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
