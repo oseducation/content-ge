@@ -2566,6 +2566,22 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+
+    "10.1.1": {
+        "name": "Shifting Absolute Value Graphs",
+        "description": "The graph of y=|x-h|+k is the graph of y=|x| shifted h units to the right and k units up. See worked examples practicing this relationship.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Wri26sPEBoI"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
