@@ -2582,6 +2582,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "10.1.2": {
+        "name": "Scaling & Reflecting Absolute Value Functions: Equation",
+        "description": "The graph of y=k|x| is the graph of y=|x| scaled by a factor of |k|. If k<0, it's also reflected (or 'flipped') across the x-axis. In this worked example, we find the equation of an absolute value function from a description of the transformation performed on y=|x|.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "lPcahMeUYcU"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
