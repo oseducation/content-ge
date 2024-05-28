@@ -2932,7 +2932,7 @@
     },
     "12.2.2": {
         "name": "Initial Value & Common Ratio Of Exponential Functions",
-        "description": "In an exponential function of the form f(x) = a*b^x, the initial value is usually taken to be the value of f(0), or \\",
+        "description": "In an exponential function of the form f(x) = a*b^x, the initial value is usually taken to be the value of f(0), or a, and the common ratio is the value of b.",
         "texts": [
             "text1.md"
         ],
@@ -3059,6 +3059,21 @@
         "video_parts": [
             {
                 "id": "cgZJU38j8-U"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "12.6.1": {
+        "name": "Writing Exponential Functions",
+        "description": "Writing the exponential function whose initial value is -2 and common ratio is 1/7.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "UgLfAb_aFt4"
             }
         ],
         "node_type": "example",
