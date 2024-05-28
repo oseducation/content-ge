@@ -2823,6 +2823,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "11.3.2": {
+        "name": "Simplifying Square Roots (Variables)",
+        "description": "A worked example of simplifying radical with a variable in it. In this example, we simplify 3\u221a(500x\u00b3).",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "qFFhdLlX220"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
