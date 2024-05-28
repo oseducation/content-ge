@@ -2778,6 +2778,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "11.2.4": {
+        "name": "Intro To Cube Roots",
+        "description": "Learn the meaning of cube roots and how to find them. Also learn how to find the cube root of a negative number.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "87_qIofPwhg"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
