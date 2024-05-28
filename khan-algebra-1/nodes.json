@@ -3019,6 +3019,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.5.1": {
+        "name": "Exponential Decay Intro",
+        "description": "Both exponential growth and decay functions involve repeated multiplication by a constant factor. However, the difference lies in the size of that factor: - In an exponential growth function, the factor is greater than 1, so the output will increase (or 'grow') over time. - In an exponential decay function, the factor is between 0 and 1, so the output will decrease (or 'decay') over time.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "v4IdaXvyE7U"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
