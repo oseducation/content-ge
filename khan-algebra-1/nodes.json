@@ -3124,6 +3124,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.6.5": {
+        "name": "Analyzing Graphs Of Exponential Functions",
+        "description": "Given the graph of an exponential function, Sal finds the formula of the function and a value that is outside the graph.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "fe1Hsqyetzk"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
