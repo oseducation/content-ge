@@ -2881,6 +2881,21 @@
                 "id": "_vlXdx-CqM0"
             }
         ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "12.1.3": {
+        "name": "Exponential Vs. Linear  Models: Verbal",
+        "description": "Linear growth occurs at a constant rate, with equal increments added or subtracted over time, while exponential growth involves a constant multiplier that drives an increase or decrease over time. We can look at the type of change over time to see if given example represents linear or exponential growth.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "8OHEgD6YMBw"
+            }
+        ],
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
