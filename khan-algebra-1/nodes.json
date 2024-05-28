@@ -2672,6 +2672,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "10.2.4": {
+        "name": "Worked Example: Domain & Range Of Step Function",
+        "description": "Finding the domain and range of a piecewise function that is constant in each segment. Such functions are called 'step functions'",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "4n7TIvRHuDs"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
