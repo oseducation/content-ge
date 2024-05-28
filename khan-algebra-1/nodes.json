@@ -2763,6 +2763,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "11.2.3": {
+        "name": "Square Root Of Decimal",
+        "description": "Learn how to find the square root of a decimal number. The problem solved in this video is p^2 = 0.81.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "tRHLEWSUjrQ"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
