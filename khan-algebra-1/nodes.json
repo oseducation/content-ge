@@ -3094,6 +3094,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.6.3": {
+        "name": "Writing Exponential Functions From Graphs",
+        "description": "Given a graph of a line, we can write a linear function in the form y=mx+b by identifying the slope (m) and y-intercept (b) in the graph.\n\nGiven a graph of an exponential curve, we can write an exponential function in the form y=ab^x by identifying the common ratio (b) and y-intercept (a) in the graph.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "gFdh_rE2XgU"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
