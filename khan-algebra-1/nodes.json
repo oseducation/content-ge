@@ -2612,6 +2612,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "10.1.4": {
+        "name": "Graphing Absolute Value Functions",
+        "description": "We can graph any absolute value equation of the form y=k|x-a|+h by thinking about function transformations (horizontal shifts, vertical shifts, reflections, and scalings).",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "v6Ct2OEmGNU"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
