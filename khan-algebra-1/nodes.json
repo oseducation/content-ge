@@ -2959,6 +2959,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.2.4": {
+        "name": "Interpreting Exponential Expression Word Problem",
+        "description": "Given an exponential function that models a real-world context, we interpret it to see what each part of the function represents in the real world.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Pud5ygp6H38"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
