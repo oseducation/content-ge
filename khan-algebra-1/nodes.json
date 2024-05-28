@@ -2869,6 +2869,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "12.1.2": {
+        "name": "Exponential Vs. Linear Growth",
+        "description": "For constant increments in x, a linear growth would increase by a constant difference, and an exponential growth would increase by a constant ratio.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "_vlXdx-CqM0"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
