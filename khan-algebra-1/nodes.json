@@ -3635,6 +3635,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.9.1": {
+        "name": "Strategy In Factoring Quadratics (Part 1 Of 2)",
+        "description": "There are a lot of methods to factor quadratics, which apply on different occasions and conditions. After learning all of them in separate, let's think strategically about which method is useful for a given quadratic expression we want to factor.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "2hHyY1eyHQs"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
