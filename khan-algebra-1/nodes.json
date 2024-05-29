@@ -3395,6 +3395,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.5.3": {
+        "name": "More Examples Of Factoring Quadratics As (X+A)(X+B)",
+        "description": "Can't get enough of Sal factoring simple quadratics? Here's a handful of examples just for you!",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "eF6zYNzlZKQ"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
