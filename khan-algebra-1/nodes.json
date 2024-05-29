@@ -3485,6 +3485,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.7.1": {
+        "name": "Difference Of Squares Intro",
+        "description": "When an expression can be viewed as the difference of two perfect squares, i.e. a\u00b2-b\u00b2, then we can factor it as (a+b)(a-b). For example, x\u00b2-25 can be factored as (x+5)(x-5). This method is based on the pattern (a+b)(a-b)=a\u00b2-b\u00b2, which can be verified by expanding the parentheses in (a+b)(a-b).",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "HLNSouzygw0"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
