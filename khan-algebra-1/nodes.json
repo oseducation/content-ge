@@ -3605,6 +3605,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.8.5": {
+        "name": "Factoring Perfect Squares: Missing Values",
+        "description": "Sal analyzes the factorization of x^2+5x+c as (x+d)^2 to find the values of the missing coefficients c and d.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oIslHyWJHEY"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
