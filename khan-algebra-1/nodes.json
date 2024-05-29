@@ -3305,6 +3305,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.3.3": {
+        "name": "Special Products Of The Form (Ax+B)(Ax-B)",
+        "description": "Sal expands the difference of squares (2x+8)(2x-8) as 4x\u00b2-64.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "h6HmHjkA034"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
