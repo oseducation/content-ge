@@ -3455,6 +3455,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.6.2": {
+        "name": "Factoring Quadratics By Grouping",
+        "description": "Sal factors 4y^2+4y-15 as (2y-3)(2y+5) by grouping.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "u1SAo2GiX8A"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
