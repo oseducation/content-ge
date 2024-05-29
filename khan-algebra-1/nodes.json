@@ -3199,6 +3199,22 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+
+    "13.1.1": {
+        "name": "Polynomials Intro",
+        "description": "This introduction to polynomials\u00a0covers common terminology like terms, degree, standard form, monomial, binomial and trinomial. Polynomials are sums of terms of the form k\u22c5x\u207f, where k is any number and n is a positive integer. For example, 3x+2x-5 is a polynomial.\u00a0",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Vm7H0VTlIco"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
