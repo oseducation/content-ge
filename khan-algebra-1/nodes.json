@@ -3215,6 +3215,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.1.2": {
+        "name": "Multiply Monomials By Polynomials: Area Model",
+        "description": "We can use an area model to multiply a polynomial by a single term.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "wznE1wlmhR0"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
