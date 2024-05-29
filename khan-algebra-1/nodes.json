@@ -3410,6 +3410,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.5.4": {
+        "name": "Factoring Quadratics With A Common Factor",
+        "description": "We can factor quadratics by first pulling out a common factor so the result looks like a(x+b)(x+c).",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "m6uOqU91ypI"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
