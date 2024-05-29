@@ -3380,6 +3380,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.5.2": {
+        "name": "Factoring Quadratics As (X+A)(X+B) (Example 2)",
+        "description": "Sal factors x^2-14x+40 as (x-4)(x-10) and x^2-x-12 as (x+3)(x-4).",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "1kfq0aR3ASs"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
