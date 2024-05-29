@@ -3500,6 +3500,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.7.2": {
+        "name": "Factoring Difference Of Squares: Leading Coefficient <> 1",
+        "description": "Sal factors 45x^2-125 as 5(3x+5)(3x-5).",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "jmbg-DKWuc4"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
