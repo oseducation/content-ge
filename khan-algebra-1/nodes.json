@@ -3335,6 +3335,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.4.1": {
+        "name": "Intro To Factors & Divisibility",
+        "description": "Sal explains what it means for a polynomial to be a factor of another polynomial, and what it means for a polynomial to be divisible by another polynomial.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "SjN3_xCJamA"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
