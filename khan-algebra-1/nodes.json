@@ -3230,6 +3230,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.2.1": {
+        "name": "Multiplying Binomials: Area Model",
+        "description": "Sal expresses the area of a rectangle whose height is x+2 and width is x+3.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "oOTFGdjhqqM"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
