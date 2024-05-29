@@ -3530,6 +3530,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.7.4": {
+        "name": "Factoring Difference Of Squares: Shared Factors",
+        "description": "Sal finds the binomial factor shared by m^2-4m-45 and 6m^2-150.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "xYQR2LNZLeU"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
