@@ -3470,6 +3470,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.6.3": {
+        "name": "Factoring Quadratics: Negative Common Factor + Grouping",
+        "description": "Sal factors -12f^2-38f+22 as -2(2f-1)(3f+11).",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "d-2Lcp0QKfI"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
