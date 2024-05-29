@@ -3575,6 +3575,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.8.3": {
+        "name": "Identifying Perfect Square Form",
+        "description": "Sal shows how we can identify that a trinomial has the 'perfect square' form",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "4STGvuoBi5U"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
