@@ -3290,6 +3290,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.3.2": {
+        "name": "Squaring Binomials Of The Form (X+A)^2",
+        "description": "Sal introduces perfect square expressions. For example, (x+7)\u00b2 is expanded as x\u00b2+14x+49.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "xH_GllPuymc"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
