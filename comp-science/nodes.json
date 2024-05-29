@@ -699,5 +699,10 @@
         "name": "Intro to Startups",
         "description": "What is a startup? How to start a startup?",
         "node_type": "parent"
+    },
+    "khan-algebra-1": {
+        "name": "Introduction to Algebra",
+        "description": "Algebra foundations, Equations, Inequalities, Linear equations and Graphs, Systems of linear equations, Functions, Sequences, Exponents, Polynomials, Factoring, Quadratics, Irrational numbers",
+        "node_type": "parent"
     }
 }
