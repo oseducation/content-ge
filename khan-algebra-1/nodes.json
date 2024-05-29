@@ -3365,6 +3365,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.5.1": {
+        "name": "Factoring Quadratics As (X+A)(X+B)",
+        "description": "Sal factors x\u00b2-3x-10 as (x+2)(x-5)\u00a0using the sum-product form: (x+a)(x+b)=x\u00b2+(a+b)x+a*b.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "D3a8NnpQ2vU"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
