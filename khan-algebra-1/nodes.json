@@ -3590,6 +3590,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.8.4": {
+        "name": "Factoring Perfect Squares: Negative Common Factor",
+        "description": "Sal factors -4t^2-12t-9 as -1(2t+3)^2.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "XuwldEyWjH0"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
