@@ -3320,6 +3320,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.3.4": {
+        "name": "Squaring Binomials Of The Form (Ax+B)^2",
+        "description": "Sal expands the perfect square (7x+10)\u00b2 as 49x^2+140x+100.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "xjkbR7Gjgjs"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
