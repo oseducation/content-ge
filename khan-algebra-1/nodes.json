@@ -3260,6 +3260,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "13.2.3": {
+        "name": "Multiplying Binomials",
+        "description": "Sal expresses the product (3x+2)(5x-7) as 15x\u00b2-11x-14.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "ZMLFfTX615w"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
