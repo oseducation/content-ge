@@ -242,8 +242,8 @@
     "name": "Common Misconceptions about Funding a Startup ",
     "question": "Which of the following is NOT a misconception about funding a startup?",
     "question_type": "multiple_choice",
-    "node_name": "There are several common misconceptions about funding a startup, such as needing a swanky network of influencers, believing that raising funds is the very first step, and thinking that a choreographed pitch is necessary to impress investors. However, creating something valuable and discussing it naturally is not a misconception but a truth. This approach can indeed lead to success without needing fancy networks or pitches",
-    "explanation": "Addressing Common Misconceptions about Funding a Startup",
+    "node_name": "Addressing Common Misconceptions about Funding a Startup",
+    "explanation": "There are several common misconceptions about funding a startup, such as needing a swanky network of influencers, believing that raising funds is the very first step, and thinking that a choreographed pitch is necessary to impress investors. However, creating something valuable and discussing it naturally is not a misconception but a truth. This approach can indeed lead to success without needing fancy networks or pitches",
     "choices": [
         {"choice": "You need a swanky network of influencers to succeed", "is_right_choice": false},
         {"choice": "Raising funds is the very first step you must take", "is_right_choice": false},
