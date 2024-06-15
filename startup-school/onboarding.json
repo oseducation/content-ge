@@ -1,5 +1,5 @@
 [[{
-    "name": "Just Launch and See How It Goes",
+    "name": "Just Launch and See How It Goes ",
     "question": "What is the recommended strategy for determining if a startup idea is viable?",
     "question_type": "multiple_choice",
     "node_name": "Strategies for Coming Up with Startup Ideas: Just Launch and See How It Goes",
@@ -14,7 +14,7 @@
 }],
 [{
     "index": 1,
-    "name": "Understanding 'Tar Pit' Ideas in Startups",
+    "name": "Understanding 'Tar Pit' Ideas in Startups ",
     "question": "Which of the following best describes a 'tar pit' idea in the context of startups?",
     "question_type": "multiple_choice",
     "node_name": "Understanding 'Tar Pit' Ideas in Startups",
@@ -30,7 +30,7 @@
 [{
     "index": 2,
     "node_name": "Common Mistakes in Startup Idea Formation",
-    "name": "Common Mistakes in Startup Idea Formation",
+    "name": "Common Mistakes in Startup Idea Formation ",
     "question": "Which of the following is NOT a common mistake in startup idea formation?",
     "question_type": "multiple_choice",
     "explanation": "",
@@ -45,7 +45,7 @@
 [{
     "index": 3,
     "node_name": "Understanding Primary and Secondary KPIs in Startups",
-    "name": "Understanding Primary and Secondary KPIs in Startups",
+    "name": "Understanding Primary and Secondary KPIs in Startups ",
     "question": "Which of the following is NOT considered a primary or secondary KPI for startups?",
     "question_type": "multiple_choice",
     "explanation": "The primary KPIs for startups typically include growth and income growth, while secondary KPIs include customer churn rate, unit economics, and customer acquisition cost. These KPIs are crucial for understanding the health and direction of the business. However, social media followers are considered 'vanity metrics' because, although they might look impressive, they do not necessarily reflect the true health or performance of the business in terms of growth or revenue.",
@@ -60,7 +60,7 @@
 [{
     "index": 4,
     "node_name": "Effective Collaboration with Your Co-Founder",
-    "name": "Effective Collaboration with Your Co-Founder",
+    "name": "Effective Collaboration with Your Co-Founder ",
     "question": "Which of the following is least important topic to discuss early in a co-founder relationship?",
     "question_type": "multiple_choice",
     "explanation": "The early discussions about work hours, salary expectations, frequency of meetings, individual financial situations, and personal timelines is very important. These discussions are crucial for setting expectations and ensuring smooth collaboration between co-founders. However, preferred programming languages are not a critical topic to discuss early in the co-founder relationship. The focus is more on aligning broader expectations and financial realities to avoid misunderstandings and stress later on.",
@@ -74,7 +74,7 @@
 }],
 [{
     "index": 5,
-    "name": "Finding Startup Ideas",
+    "name": "Finding Startup Ideas ",
     "question": "Which of the following approaches is most effective for naturally finding startup ideas?",
     "question_type": "multiple_choice",
     "node_name": "Finding Startup Ideas Naturally",
@@ -90,7 +90,7 @@
 [{
     "index": 6,
     "node_name": "Effective Collaboration with Your Co-Founder",
-    "name": "Effective Collaboration with Your Co-Founder",
+    "name": "Effective Collaboration with Your Co-Founder ",
     "question": "Which of the following is least important topic to discuss early in a co-founder relationship?",
     "question_type": "multiple_choice",
     "explanation": "The early discussions about work hours, salary expectations, frequency of meetings, individual financial situations, and personal timelines is very important. These discussions are crucial for setting expectations and ensuring smooth collaboration between co-founders. However, preferred programming languages are not a critical topic to discuss early in the co-founder relationship. The focus is more on aligning broader expectations and financial realities to avoid misunderstandings and stress later on.",
@@ -104,7 +104,7 @@
 }],
 [{
     "index": 7,
-    "name": "How to Work With the Co-Founder",
+    "name": "How to Work With the Co-Founder ",
     "question": "Which of the following is one of the key strategies for maintaining smooth team dynamics and handling disagreements effectively?",
     "question_type": "multiple_choice",
     "node_name": "How to Work Together: Conclusion and Final Tips",
@@ -119,7 +119,7 @@
 }],
 [{
     "index": 8,
-    "name": "Approaching Early-Stage Startup Growth",
+    "name": "Approaching Early-Stage Startup Growth ",
     "question": "Which of the following is NOT recommended as an approach for early-stage startup growth?",
     "question_type": "multiple_choice",
     "node_name": "Approaching Early-Stage Startup Growth",
@@ -134,7 +134,7 @@
 }],
 [{
     "index": 9,
-    "name": "Approaching Early-Stage Startup Growth",
+    "name": "Approaching Early-Stage Startup Growth ",
     "question": "Which of the following is NOT recommended as an approach for early-stage startup growth?",
     "question_type": "multiple_choice",
     "node_name": "Approaching Early-Stage Startup Growth",
@@ -150,7 +150,7 @@
 [{
     "index": 10,
     "node_name": "Understanding Product-Market Fit",
-    "name": "Understanding Product-Market Fit",
+    "name": "Understanding Product-Market Fit ",
     "question": "Which of the following is NOT a reliable metric for measuring product-market fit?",
     "question_type": "multiple_choice",
     "explanation": "Retention or repeat usage is the best way to measure product-market fit, as it shows whether users love the product enough to keep using it. However, total registered users is not a reliable metric for measuring product-market fit because it doesn't indicate whether users are actually engaging with and repeatedly using the product",
@@ -165,7 +165,7 @@
 [{
     "index": 11,
     "node_name": "Effective Collaboration with Your Co-Founder",
-    "name": "Effective Collaboration with Your Co-Founder",
+    "name": "Effective Collaboration with Your Co-Founder ",
     "question": "Which of the following is least important topic to discuss early in a co-founder relationship?",
     "question_type": "multiple_choice",
     "explanation": "The early discussions about work hours, salary expectations, frequency of meetings, individual financial situations, and personal timelines is very important. These discussions are crucial for setting expectations and ensuring smooth collaboration between co-founders. However, preferred programming languages are not a critical topic to discuss early in the co-founder relationship. The focus is more on aligning broader expectations and financial realities to avoid misunderstandings and stress later on.",
@@ -180,7 +180,7 @@
 [{
     "index": 12,
     "node_name": "Effective Collaboration with Your Co-Founder",
-    "name": "Effective Collaboration with Your Co-Founder",
+    "name": "Effective Collaboration with Your Co-Founder ",
     "question": "Which of the following is least important topic to discuss early in a co-founder relationship?",
     "question_type": "multiple_choice",
     "explanation": "The early discussions about work hours, salary expectations, frequency of meetings, individual financial situations, and personal timelines is very important. These discussions are crucial for setting expectations and ensuring smooth collaboration between co-founders. However, preferred programming languages are not a critical topic to discuss early in the co-founder relationship. The focus is more on aligning broader expectations and financial realities to avoid misunderstandings and stress later on.",
@@ -194,7 +194,7 @@
 }],
 [{
     "index": 13,
-    "name": "When to Start Your Own Company",
+    "name": "When to Start Your Own Company ",
     "question": "What is a key indicator that it might be the right time to leave your job and start your own company?",
     "question_type": "multiple_choice",
     "node_name": "Deciding When to Start Your Own Company",
@@ -210,7 +210,7 @@
 [{
     "index": 14,
     "node_name": "Doing Things That Don't Scale in Early-Stage Startups",
-    "name": "Doing Things That Don't Scale in Early-Stage Startups",
+    "name": "Doing Things That Don't Scale in Early-Stage Startups ",
     "question": "Which of the following statements is FALSE?",
     "question_type": "multiple_choice",
     "explanation": "Doing hands-on, unscalable tasks in the early stages of a startup is important, even if they seem weird or unnatural. You can transition to foundational and scalable tasks as the company grows. However, focusing only on 'big picture' goals and scalable tasks from the very beginning is not wise, as this approach can hinder the initial growth and adaptability needed in the early stages of a startup. Embracing tasks that don't scale initially is seen as a crucial part of the startup journey",
@@ -224,7 +224,7 @@
 }],
 [{
     "index": 15,
-    "name": "Key Pricing Insights for Startups",
+    "name": "Key Pricing Insights for Startups ",
     "question": "Which of the following is NOT one of the key pricing insights for startups?",
     "question_type": "multiple_choice",
     "node_name": "Key Pricing Insights for Startups",
@@ -239,7 +239,7 @@
 }],
 [{
     "index": 16,
-    "name": "Common Misconceptions about Funding a Startup",
+    "name": "Common Misconceptions about Funding a Startup ",
     "question": "Which of the following is NOT a misconception about funding a startup?",
     "question_type": "multiple_choice",
     "node_name": "There are several common misconceptions about funding a startup, such as needing a swanky network of influencers, believing that raising funds is the very first step, and thinking that a choreographed pitch is necessary to impress investors. However, creating something valuable and discussing it naturally is not a misconception but a truth. This approach can indeed lead to success without needing fancy networks or pitches",
@@ -254,7 +254,7 @@
 }],
 [{
     "index": 17,
-    "name": "Key Pricing Insights for Startups",
+    "name": "Key Pricing Insights for Startups ",
     "question": "Which of the following is NOT one of the key pricing insights for startups?",
     "question_type": "multiple_choice",
     "node_name": "Key Pricing Insights for Startups",
@@ -270,7 +270,7 @@
 [{
     "index": 18,
     "node_name": "Key Business Model Lessons on Scaling a Startup",
-    "name": "Key Business Model Lessons on Scaling a Startup",
+    "name": "Key Business Model Lessons on Scaling a Startup ",
     "question": "Which of the following types of businesses is most likely to be found among the top 100 companies?",
     "question_type": "multiple_choice",
     "explanation": "Service- or consultant-based enterprises, affiliate marketing businesses, hardware businesses, and businesses built on other platforms are not typically found among the top 100 companies. These types of businesses face significant challenges in scaling, such as constantly needing new customers, relying on other people's transactions, requiring large upfront investments, and depending on platforms owned by others. In contrast, Software-as-a-Service (SaaS) companies are not having these inherent scaling challenges and are often found among top-performing businesses due to their recurring revenue models and scalability",
@@ -284,7 +284,7 @@
 }],
 [{
     "index": 19,
-    "name": "Key Pricing Insights for Startups",
+    "name": "Key Pricing Insights for Startups ",
     "question": "Which of the following is NOT one of the key pricing insights for startups?",
     "question_type": "multiple_choice",
     "node_name": "Key Pricing Insights for Startups",
@@ -299,7 +299,7 @@
 }],
 [{
     "index": 20,
-    "name": "When to Start Your Own Company",
+    "name": "When to Start Your Own Company ",
     "question": "What is a key indicator that it might be the right time to leave your job and start your own company?",
     "question_type": "multiple_choice",
     "node_name": "Deciding When to Start Your Own Company",
@@ -314,7 +314,7 @@
 }],
 [{
     "index": 21,
-    "name": "Common Misconceptions about Funding a Startup",
+    "name": "Common Misconceptions about Funding a Startup ",
     "question": "Which of the following is NOT a misconception about funding a startup?",
     "question_type": "multiple_choice",
     "node_name": "There are several common misconceptions about funding a startup, such as needing a swanky network of influencers, believing that raising funds is the very first step, and thinking that a choreographed pitch is necessary to impress investors. However, creating something valuable and discussing it naturally is not a misconception but a truth. This approach can indeed lead to success without needing fancy networks or pitches",
@@ -330,7 +330,7 @@
 [{
     "index": 22,
     "node_name": "Key Business Model Lessons on Scaling a Startup",
-    "name": "Key Business Model Lessons on Scaling a Startup",
+    "name": "Key Business Model Lessons on Scaling a Startup ",
     "question": "Which of the following types of businesses is most likely to be found among the top 100 companies?",
     "question_type": "multiple_choice",
     "explanation": "Service- or consultant-based enterprises, affiliate marketing businesses, hardware businesses, and businesses built on other platforms are not typically found among the top 100 companies. These types of businesses face significant challenges in scaling, such as constantly needing new customers, relying on other people's transactions, requiring large upfront investments, and depending on platforms owned by others. In contrast, Software-as-a-Service (SaaS) companies are not having these inherent scaling challenges and are often found among top-performing businesses due to their recurring revenue models and scalability",
@@ -344,7 +344,7 @@
 }],
 [{
     "index": 23,
-    "name": "Understanding 'Tar Pit' Ideas in Startups",
+    "name": "Understanding 'Tar Pit' Ideas in Startups ",
     "question": "Which of the following best describes a 'tar pit' idea in the context of startups?",
     "question_type": "multiple_choice",
     "node_name": "Understanding 'Tar Pit' Ideas in Startups",
@@ -360,7 +360,7 @@
 [{
     "index": 24,
     "node_name": "Goals of a Pre-Launch Startup",
-    "name": "Goals of a Pre-Launch Startup",
+    "name": "Goals of a Pre-Launch Startup ",
     "question": "Which of the following is NOT a goal of a pre-launch startup?",
     "question_type": "multiple_choice",
     "explanation": "Launching quickly, finding your first customers, having conversations with your users to gather feedback, and continuing to iterate on your product based on this feedback is very important. Developing a detailed long-term business plan before launching is not wise, as the focus should be on getting the product out there quickly and learning from early user interactions to refine and improve the product",
@@ -374,7 +374,7 @@
 }],
 [{
     "index": 25,
-    "name": "Understanding 'Tar Pit' Ideas in Startups",
+    "name": "Understanding 'Tar Pit' Ideas in Startups ",
     "question": "Which of the following best describes a 'tar pit' idea in the context of startups?",
     "question_type": "multiple_choice",
     "node_name": "Understanding 'Tar Pit' Ideas in Startups",
@@ -390,7 +390,7 @@
 [{
     "index": 26,
     "node_name": "Goals of a Pre-Launch Startup",
-    "name": "Goals of a Pre-Launch Startup",
+    "name": "Goals of a Pre-Launch Startup ",
     "question": "Which of the following is NOT a goal of a pre-launch startup?",
     "question_type": "multiple_choice",
     "explanation": "Launching quickly, finding your first customers, having conversations with your users to gather feedback, and continuing to iterate on your product based on this feedback is very important. Developing a detailed long-term business plan before launching is not wise, as the focus should be on getting the product out there quickly and learning from early user interactions to refine and improve the product",
@@ -405,7 +405,7 @@
 [{
     "index": 27,
     "node_name": "Key Business Model Lessons on Scaling a Startup",
-    "name": "Key Business Model Lessons on Scaling a Startup",
+    "name": "Key Business Model Lessons on Scaling a Startup ",
     "question": "Which of the following types of businesses is most likely to be found among the top 100 companies?",
     "question_type": "multiple_choice",
     "explanation": "Service- or consultant-based enterprises, affiliate marketing businesses, hardware businesses, and businesses built on other platforms are not typically found among the top 100 companies. These types of businesses face significant challenges in scaling, such as constantly needing new customers, relying on other people's transactions, requiring large upfront investments, and depending on platforms owned by others. In contrast, Software-as-a-Service (SaaS) companies are not having these inherent scaling challenges and are often found among top-performing businesses due to their recurring revenue models and scalability",
@@ -420,7 +420,7 @@
 [{
     "index": 28,
     "node_name": "Determining If You're Suited to Be a Startup Founder",
-    "name": "Determining If You're Suited to Be a Startup Founder",
+    "name": "Determining If You're Suited to Be a Startup Founder ",
     "question": "Which of the following is NOT a misconception about what it takes to be a successful startup founder?",
     "question_type": "multiple_choice",
     "explanation": "The typical media portrayals of successful startup founders, such as being ruthless programmers or charismatic geniuses, are misconceptions. Academic or professional success is not a reliable predictor of success in the startup world as well. In contrast, successful founders come from diverse backgrounds and bring various strengths beyond these stereotypes, indicating that the key to success in startups lies in resilience, dedication, and the ability to handle rejection rather than fitting a specific image",
@@ -434,7 +434,7 @@
 }],
 [{
     "index": 29,
-    "name": "When to Start Your Own Company",
+    "name": "When to Start Your Own Company ",
     "question": "What is a key indicator that it might be the right time to leave your job and start your own company?",
     "question_type": "multiple_choice",
     "node_name": "Deciding When to Start Your Own Company",
@@ -450,7 +450,7 @@
 [{
     "index": 30,
     "node_name": "Determining If You're Suited to Be a Startup Founder",
-    "name": "Determining If You're Suited to Be a Startup Founder",
+    "name": "Determining If You're Suited to Be a Startup Founder ",
     "question": "Which of the following is NOT a misconception about what it takes to be a successful startup founder?",
     "question_type": "multiple_choice",
     "explanation": "The typical media portrayals of successful startup founders, such as being ruthless programmers or charismatic geniuses, are misconceptions. Academic or professional success is not a reliable predictor of success in the startup world as well. In contrast, successful founders come from diverse backgrounds and bring various strengths beyond these stereotypes, indicating that the key to success in startups lies in resilience, dedication, and the ability to handle rejection rather than fitting a specific image",
