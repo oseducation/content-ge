@@ -3726,6 +3726,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.2.2": {
+        "name": "Graphing Quadratics In Factored Form",
+        "description": "An example for a quadratic function in factored form is y=\u00bd(x-6)(x+2). We can analyze this form to find the x-intercepts of the graph, as well as find the vertex.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "EV57jv7JKCs"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
