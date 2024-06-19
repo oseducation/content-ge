@@ -3665,6 +3665,22 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+
+    "14.1.1": {
+        "name": "Parabolas intro",
+        "description": "Graphs of quadratic functions all have the same shape which we call 'parabola.' All parabolas have shared characteristics. For example, they are all symmetric about a line that passes through their vertex. This video covers this and other basic facts about parabolas.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "BGz3pkoGPag"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
