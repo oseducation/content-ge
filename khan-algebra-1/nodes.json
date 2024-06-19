@@ -3693,7 +3693,22 @@
                 "id": "_Bk6XkV9O_0"
             }
         ],
-        "node_type": "lecture",
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "14.1.3": {
+        "name": "Interpret A Quadratic Graph",
+        "description": "We can interpret what the features of a graph of a quadratic model mean in terms of a given context.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Tqxu53deWCo"
+            }
+        ],
+        "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     }
