@@ -3711,6 +3711,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.2.1": {
+        "name": "Zero Product Property",
+        "description": "The zero product property states that if a\u22c5b=0 then either a or b equal zero. This basic property helps us solve equations like (x+2)(x-5)=0.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "-lWVpoPaPBc"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
