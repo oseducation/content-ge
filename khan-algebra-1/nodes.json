@@ -3771,7 +3771,22 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
-    }
+    },
+    "14.3.2": {
+        "name": "Solving Quadratics By Taking Square Roots Examples",
+        "description": "Sal solves the equation (x+3)\u00b2-4=0 and finds the x-intercepts of f(x)=(x-2)\u00b2-9.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "VTlvg4wJ1X0"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    } 
 
 
     
