@@ -3741,6 +3741,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.2.3": {
+        "name": "Quadratic Word Problems (Factored Form)",
+        "description": "Solving a problem where a quadratic function (given in factored form) models the height of a launched rocket.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "xVZA6NOQA7A"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
