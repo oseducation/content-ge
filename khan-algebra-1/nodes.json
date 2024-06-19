@@ -3681,6 +3681,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.1.2": {
+        "name": "Interpreting A Parabola In Context",
+        "description": "Given a parabola that models a context, we can relate key features of the parabola \u2014\u00a0like the y-intercept, vertex, and x-intercepts \u2014\u00a0to what they represent in the given context.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "_Bk6XkV9O_0"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
 
 
