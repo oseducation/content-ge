@@ -3786,7 +3786,23 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
-    } 
+    },
+    "14.3.3": {
+        "name": "Quadratics By Taking Square Roots: Strategy",
+        "description": "Sal analyzes a given solution of a quadratic equation, and finds where and what was the error in that process.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "jtPvDycHVQw"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    }
+     
 
 
     
