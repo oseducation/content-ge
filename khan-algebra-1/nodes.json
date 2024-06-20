@@ -3891,6 +3891,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.5.3": {
+        "name": "Solving quadratics using structure",
+        "description": "Sal solves (2x-3)^2=4x-6 by substituting p for 2x-3 and obtaining the simpler equation p^2=2p.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "ZIqW_sXymrM"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
