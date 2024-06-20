@@ -4341,6 +4341,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.13.3":{
+        "name": "Scaling & Reflecting Parabolas",
+        "description": "The graph of y=k\u22c5x\u00b2 is the graph of y=x\u00b2 scaled by a factor of |k|. If k<0, it's also reflected (or \\",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "AMsbZLxd3lE"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
