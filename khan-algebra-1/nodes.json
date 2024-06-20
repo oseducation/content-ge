@@ -4387,6 +4387,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "15.2.1": {
+        "name": "Proof: Sum & Product Of Two Rationals Is Rational",
+        "description": "Sal proves that the sum, or the product, of any two rational numbers will always be a rational number.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "HKUJkMQsGkM"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
