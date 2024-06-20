@@ -4071,6 +4071,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.8.2": {
+        "name": "Solve by completing the square: Non-integer solutions",
+        "description": "We can use the strategy of completing the square to solve quadratic equations even when the solutions aren't integers. Created by Sal Khan",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "Ldp9_K3L4Q8"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
