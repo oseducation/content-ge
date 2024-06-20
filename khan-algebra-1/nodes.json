@@ -4086,6 +4086,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.8.3": {
+        "name": "Worked example: completing the square (leading coefficient ≠ 1)",
+        "description": "Sal solves the equation 4x^2+40x-300=0 by completing the square. Created by Sal Khan and Monterey Institute for Technology and Education.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "TV5kDqiJ1Os"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
