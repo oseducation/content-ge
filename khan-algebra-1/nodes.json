@@ -3831,6 +3831,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.4.2": {
+        "name": "Graphing Quadratics: Vertex Form",
+        "description": "Learn how to graph any quadratic function that is given in vertex form. Here, Sal graphs y=-2(x-2)\u00b2+5.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "7QMoNY6FzvM"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
