@@ -4146,7 +4146,23 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.10.1": {
+        "name": "Finding The Vertex Of A Parabola In Standard Form",
+        "description": "Sal rewrites the equation y=-5x^2-20x+15 in vertex form (by completing the square) in order to identify the vertex of the corresponding parabola.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "IbI-l7mbKO4"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
+    
      
 
 
