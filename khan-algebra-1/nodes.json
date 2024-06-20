@@ -3906,6 +3906,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.5.4": {
+        "name": "Quadratic Equations Word Problem: Triangle Dimensions",
+        "description": "Sal solves a geometry problem using a quadratic equation.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "STcsaKuW-24"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
