@@ -3816,6 +3816,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.4.1": {
+        "name": "Vertex Form Introduction",
+        "description": "One of the common forms for quadratic functions is called vertex form, because it highlights the coordinates of the vertex of the function's graph.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "_QqhuLixNEk"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
