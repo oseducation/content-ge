@@ -4372,6 +4372,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "15.1.2": {
+        "name": "Classifying Numbers: Rational & Irrational",
+        "description": "We can write any rational number as the ratio of two integers. We cannot write irrational numbers, such as the square root of 8 and pi, in this way. Learn other forms, such as decimals, in which these types of numbers can appear.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "d9pO2z2qvXU"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
