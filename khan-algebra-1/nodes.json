@@ -4447,6 +4447,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "15.2.5": {
+        "name": "Worked Example: Rational Vs. Irrational Expressions",
+        "description": "Sal shows how to determine whether the following expressions are rational or irrational: 9 + \u221a(45), \u221a(45)/ (3*\u221a(5)), and 3*\u221a(9).",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hTJgK-wZMcE"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
