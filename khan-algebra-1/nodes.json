@@ -4492,6 +4492,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "15.3.2": {
+        "name": "Proof: Square Roots Of Prime Numbers Are Irrational",
+        "description": "Sal proves that the square root of any prime number must be an irrational number. For example, because of this proof we can quickly determine that\u00a0\u221a3,\u00a0\u221a5,\u00a0\u221a7, or\u00a0\u221a11 are irrational numbers.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "W-Nio466Ek4"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
