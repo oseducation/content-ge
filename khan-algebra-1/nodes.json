@@ -3951,6 +3951,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.6.2": {
+        "name": "Worked Example: Quadratic Formula (Example 2)",
+        "description": "Sal solves the equation -x^2+8x=1 by first bringing it to standard form and then using the quadratic formula.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "CLrImGKeuEI"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
