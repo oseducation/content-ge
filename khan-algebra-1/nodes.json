@@ -4402,6 +4402,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "15.2.2": {
+        "name": "Proof: Product Of Rational & Irrational Is Irrational",
+        "description": "The product of any rational number and any irrational number will always be an irrational number. This allows us to quickly conclude that 3\u03c0 is irrational.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "KT32CsdEZEY"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
