@@ -4161,6 +4161,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.10.2": {
+        "name": "Graphing Quadratics: Standard Form",
+        "description": "Learn how to graph any quadratic function that is given in standard form. Here, Sal graphs y=5x\u00b2-20x+15.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "MQtsRYPx3v0"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
      
