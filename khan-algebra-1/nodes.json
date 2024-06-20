@@ -3996,6 +3996,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.7.1": {
+        "name": "Completing The Square",
+        "description": "Some quadratic expressions can be factored as perfect squares. For example, x\u00b2+6x+9=(x+3)\u00b2. However, even if an expression isn't a perfect square, we can turn it into one by adding a constant number. For example, x\u00b2+6x+5 isn't a perfect square, but if we add 4 we get (x+3)\u00b2. This, in essence, is the method of *completing the square*",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "bNQY0z76M5A"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
