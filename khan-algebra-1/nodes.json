@@ -4251,8 +4251,22 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.11.5": {
+        "name": "Interpret Quadratic Models: Factored Form",
+        "description": "Given a quadratic function that models a relationship, we can rewrite the function to reveal certain properties of the relationship. Factored form helps us identify the x-intercepts or zeros of the function.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "ITBRCLusU1s"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
-    
      
 
 
