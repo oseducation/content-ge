@@ -4176,6 +4176,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.10.3": {
+        "name": "Quadratic Word Problem: Ball",
+        "description": "Sal solves a word problem about a ball being shot in the air. The equation for the height of the ball as a function of time is quadratic.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "OZtqz_xw0SQ"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
      
