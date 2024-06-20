@@ -4236,6 +4236,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.11.4": {
+        "name": "Finding Features Of Quadratic Functions",
+        "description": "Sal finds the zeros, the vertex, & the line of symmetry of quadratic functions given in vertex form, factored form, & standard form.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "V-BAdpvejTw"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
      
