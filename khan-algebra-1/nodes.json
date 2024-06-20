@@ -3861,6 +3861,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.5.1": {
+        "name": "Solving Quadratics By Factoring",
+        "description": "Sal solves the equation s^2-2s-35=0 by factoring the expression on the left as (s+5)(s-7) and finding the s-values that make each factor equal to zero.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "2ZzuZvz33X0"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
