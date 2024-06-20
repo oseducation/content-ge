@@ -4311,6 +4311,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.13.1": {
+        "name": "Intro To Parabola Transformations",
+        "description": "Sal discusses how we can shift and scale the graph of a parabola to obtain any other parabola, and how this affects the equation of the parabola.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "99v51U3HSCU"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
