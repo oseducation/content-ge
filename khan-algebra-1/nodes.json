@@ -4326,6 +4326,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.13.2": {
+        "name": "Shifting Parabolas",
+        "description": "The graph of y=(x-k)\u00b2+h is the resulting of shifting (or translating) the graph of y=x\u00b2, k units to the right and h units up. For example, y=(x-3)\u00b2-4 is the result of shifting y=x\u00b2 3 units to the right and -4 units up, which is the same as 4 units down.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "ZmVOR6n_fzY"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
