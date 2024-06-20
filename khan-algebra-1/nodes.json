@@ -4417,6 +4417,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "15.2.3": {
+        "name": "Proof: Sum Of Rational & Irrational Is Irrational",
+        "description": "The sum of any rational number and any irrational number will always be an irrational number. This allows us to quickly conclude that \u00bd+\u221a2 is irrational.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "pPM72fPwIjw"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
