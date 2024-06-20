@@ -4356,6 +4356,22 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+
+    "15.1.1": {
+        "name": "Intro To Rational & Irrational Numbers",
+        "description": "Learn the difference between rational and irrational numbers, learn how to identify them, and discover why some of the most famous numbers in mathematics, like Pi and e, are actually irrational. Did you know that there's always an irrational number between any two rational numbers?",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "cLP7INqs3JM"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
