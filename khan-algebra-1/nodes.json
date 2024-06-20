@@ -4116,6 +4116,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.8.5": {
+        "name": "Proof Of The Quadratic Formula",
+        "description": "Sal proves the quadratic formula using the method of completing the square.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "r3SEkdtpobo"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
