@@ -4011,6 +4011,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.7.2": {
+        "name": "Worked Example: Completing The Square (Intro)",
+        "description": "Sal completes x\u00b2-44x into a perfect square.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "VvuuRpJbbHE"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
