@@ -3921,6 +3921,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.5.5": {
+        "name": "Quadratic Equations Word Problem: Box Dimensions",
+        "description": "Sal solves a volume problem using a quadratic equation.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "vl9o9XEfXtw"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
