@@ -4462,6 +4462,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "15.2.6": {
+        "name": "Worked Example: Rational Vs. Irrational Expressions (Unknowns)",
+        "description": "Sal determines whether expressions with unknown rational/irrational numbers are rational or irrational.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "NC6HXlrH53Y"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
