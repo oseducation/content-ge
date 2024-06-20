@@ -3846,6 +3846,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.4.3": {
+        "name": "Quadratic Word Problems (Vertex Form)",
+        "description": "Given a quadratic function that models the height of an object being launched from a platform, we analyze the function to answer questions like 'what is the height of the platform?' or 'when does the object reach its maximum height?'",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "lUA1LYCoIAg"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
