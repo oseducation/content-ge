@@ -4281,6 +4281,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.12.1":{
+        "name": "Comparing Features Of Quadratic Functions",
+        "description": "Sal compares the y-intercepts, the zeros, and the concavity of quadratic functions given graphically and algebraically.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "UdLYAqN0gNY"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
