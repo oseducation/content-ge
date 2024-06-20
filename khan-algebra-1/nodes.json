@@ -3801,6 +3801,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.3.4": {
+        "name": "Solving Quadratics By Taking Square Roots: With Steps",
+        "description": "Sal discusses the exact order of steps in the process of solving the equation 3(x+6)^2=75.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "naVFTNWVlQU"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
