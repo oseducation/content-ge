@@ -4206,6 +4206,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.11.2":{
+        "name": "Worked Examples: Forms & Features Of Quadratic Functions",
+        "description": "Choosing whether factored form, vertex form or standard form of a quadratic is best in different situations.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "eRbgHCaWQQE"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
      
