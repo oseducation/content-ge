@@ -4263,7 +4263,22 @@
                 "id": "ITBRCLusU1s"
             }
         ],
-        "node_type": "lecture",
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "14.11.6": {
+        "name": "Interpret Quadratic Models: Vertex Form",
+        "description": "Given a quadratic function that models a relationship, we can rewrite the function to reveal certain properties of the relationship.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "JdWEdb90V1s"
+            }
+        ],
+        "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     }
