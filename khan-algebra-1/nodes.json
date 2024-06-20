@@ -4101,6 +4101,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.8.4": {
+        "name": "Solving Quadratics By Completing The Square: No Solution",
+        "description": "Sal solves the equation 4x^2+40x+280=0 by completing the square, only to find there's no solution for this equation.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "6agzj3A9IgA"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
