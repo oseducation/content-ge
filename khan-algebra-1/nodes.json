@@ -4432,6 +4432,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "15.2.4":{
+        "name": "Sums And Products Of Irrational Numbers",
+        "description": "The sum of two irrational numbers can be rational and it can be irrational. It depends on which irrational numbers we're talking about exactly. The same goes for products for two irrational numbers. This video covers this fact with various examples.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "16-GZWi66CI"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
