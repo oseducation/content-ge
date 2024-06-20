@@ -4477,6 +4477,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "15.3.1": {
+        "name": "Proof: \u221a2 Is Irrational",
+        "description": "Sal proves that the square root of 2 is an irrational number, i.e. it cannot be given as the ratio of two integers.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "mX91_3GQqLY"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
