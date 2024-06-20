@@ -4507,6 +4507,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "15.3.3": {
+        "name": "Proof: There'S An Irrational Number Between Any Two Rational Numbers",
+        "description": "Sal proves that when given any two rational numbers, no matter how close, we can find an irrational number that lies between them.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "hxqo_DiL3pw"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
