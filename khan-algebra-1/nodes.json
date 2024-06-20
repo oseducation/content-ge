@@ -3936,6 +3936,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.6.1": {
+        "name": "The quadratic formula",
+        "description": "The quadratic formula helps us solve any quadratic equation. First, we bring the equation to the form ax²+bx+c=0, where a, b, and c are coefficients. Then, we plug these coefficients in the formula: (-b±√(b²-4ac))/(2a) . See examples of using the formula to solve a variety of equations. Created by Sal Khan.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "i7idZfS8t8w"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
