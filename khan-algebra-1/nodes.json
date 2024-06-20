@@ -4296,6 +4296,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.12.2": {
+        "name": "Comparing Maximum Points Of Quadratic Functions",
+        "description": "Given several quadratic functions represented in different forms, Sal finds the one with the lowest maximum value.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "4Bx06GFyhUA"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
