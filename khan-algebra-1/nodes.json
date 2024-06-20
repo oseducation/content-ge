@@ -4056,6 +4056,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.8.1": {
+        "name": "Solve By Completing The Square: Integer Solutions",
+        "description": "We can use the strategy of completing the square to solve quadratic equations. If the solutions are integers, we can solve by factoring as well.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "eU41vG9z35M"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
