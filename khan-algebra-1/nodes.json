@@ -3876,6 +3876,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.5.2": {
+        "name": "Solving Quadratics By Factoring: Leading Coefficient \u2260 1",
+        "description": "Sal solves 6x\u00b2-120x+600=0 by first dividing by 6 and then factoring.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "KbFwLvCOBUI"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
