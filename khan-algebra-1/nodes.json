@@ -4131,6 +4131,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.9.1": {
+        "name": "Strategy In Solving Quadratic Equations",
+        "description": "Based on the initial form of a quadratic equation, we can determine which solution methods are and aren't appropriate.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "_MllyJivas4"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
