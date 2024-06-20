@@ -4041,6 +4041,21 @@
         "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.7.4": {
+        "name": "Worked Example: Rewriting & Solving Equations By Completing The Square",
+        "description": "Sal solves x\u00b2-2x-8=0 by rewriting the equation as (x-1)\u00b2-9=0 (which is done by completing the square!).",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "KouDAzYl_bc"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
