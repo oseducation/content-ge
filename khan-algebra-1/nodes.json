@@ -4023,7 +4023,22 @@
                 "id": "VvuuRpJbbHE"
             }
         ],
-        "node_type": "example",
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
+    },
+    "14.7.3": {
+        "name": "Worked Example: Rewriting Expressions By Completing The Square",
+        "description": "Sal rewrites x\u00b2+16x+9 as (x+8)\u00b2-55 by completing the square.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "sh-MP-dVhD4"
+            }
+        ],
+        "node_type": "lecture",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
     }
