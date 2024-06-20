@@ -4191,6 +4191,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.11.1": {
+        "name": "Forms & Features Of Quadratic Functions",
+        "description": "Different forms of quadratic functions reveal different features of those functions. Here, Sal rewrites f(x)=x\u00b2-5x+6 in factored form to reveal its zeros and in vertex form to reveal its vertex.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "4Bc5-HRop5Y"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
     
      
