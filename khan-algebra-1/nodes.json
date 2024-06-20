@@ -3981,6 +3981,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.6.4": {
+        "name": "Using The Quadratic Formula: Number Of Solutions",
+        "description": "Sal determines how many solutions the equation x\u00b2+14x+49=0 has by considering its quadratic formula, and more specifically, its discriminant.",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "XUvKjC21fYU"
+            }
+        ],
+        "node_type": "lecture",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
