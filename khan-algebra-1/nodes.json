@@ -3966,6 +3966,21 @@
         "node_type": "example",
         "parent_id": "khan-algebra-1",
         "thumbnail": ""
+    },
+    "14.6.3": {
+        "name": "Worked Example: Quadratic Formula (Negative Coefficients)",
+        "description": "Sal solves -3x^2+10x-3=0 by plugging a=-3, b=10, c=-3 in the quadratic formula. Then he multiplies everything by -1 and solves again. The results are the same!",
+        "texts": [
+            "text1.md"
+        ],
+        "video_parts": [
+            {
+                "id": "_E3gx_yQhHQ"
+            }
+        ],
+        "node_type": "example",
+        "parent_id": "khan-algebra-1",
+        "thumbnail": ""
     }
      
 
