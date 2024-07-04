@@ -51,4 +51,47 @@ These symbols are just placeholders for the numbers. Nothing more.
 
 ---
 
-By using letters in Algebra, we can solve equations with unknowns and describe relationships between numbers in a clear and simple way!
+By using letters in Algebra, we can solve equations with unknowns and describe relationships between numbers in a clear and simple way!### Lecture on Why We Use Letters in Algebra
+
+Today, let's talk about why we use letters in Algebra. Jesse Ro, a math teacher at Summit San Jose and a Khan Academy teaching fellow, often hears students wondering, "Why do we need letters in Algebra? Why can't we just use numbers for everything?"
+
+**Why Letters?**
+
+One common question is why we have all these Xs, Ys, Zs, and ABCs in Algebra. 
+
+**Reason 1: Unknowns**
+- When we see something like:
+  ```math
+  x + 3 = 10
+  ```
+  The \( x \) stands for an *unknown* number we need to find. It helps us figure out what \( x \) is.
+- We could use other symbols too. For example:
+  ```math
+  \text{?} + 3 = 10
+  ```
+  Or even:
+  ```math
+  \text{Smiley Face} + 3 = 10
+  ```
+  The key is to have a symbol that stands for the number we don’t know yet. We solve the equation to find out what the symbol stands for.
+
+**Reason 2: Describing Relationships Between Numbers**
+- Suppose I say: if you give me 3, I will give you 4. If you give me 5, I will give you 6, and so on.
+- Instead of listing every possible pair, we use letters to create a compact rule. We might say:
+  ```math
+  \text{If you give me } x, \text{ I will give you } y \text{ such that } y = x + 1.
+  ```
+  This simple rule works for **any number** you give me. For example:
+  - If \( x = 3 \), then \( y = 4 \).
+  - If \( x = 7.1 \), then \( y = 8.1 \).
+
+This mathematical relationship, \( y = x + 1 \), is an elegant way to describe an infinite number of possibilities.
+
+**Symbols Are Just Symbols**
+- The letters we use, like \( x \) and \( y \), are simply a *custom*. We could use any symbols. For example:
+  ```math
+  \text{Star} = \text{Smiley Face} + 1
+  ```
+  The important thing is that the symbols represent our numbers or unknowns.
+
+By using letters in Algebra, we can easily handle unknowns and generalize rules and relationships in a way that works for all numbers, making Math both elegant and efficient.
