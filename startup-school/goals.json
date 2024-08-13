@@ -1,21 +1,24 @@
-[
-    "Deciding When to Start Your Own Company", 
-    "Finding Startup Ideas Naturally", 
-    "Strategies for Coming Up with Startup Ideas: Just Launch and See How It Goes", 
-    "Making Smart Pivots in Startups", 
-    "The Best Time to Pivot", 
-    "Where Do Great Startup Ideas Come From: Takeaways", 
-    "How to Evaluate Startup Ideas", 
-    "How Much Equity to Give Your Co-founder",
-    "How to Work Together: Conclusion and Final Tips",
-    "Maintaining Connection with Interviewees",
-    "Hacks for Quickly Building an MVP",
-    "Different Types of Launches",
-    "Qualifying Customers and Using Sales Tools in a Startup Environment",
-    "Navigating Startup Key Performance Indicators (KPIs) and Revenue Generation",
-    "Key Pricing Insights for Startups",
-    "Approaching Early-Stage Startup Growth",
-    "Addressing Common Misconceptions about Funding a Startup",
-    "How to Successfully Interview at Y-Combinator (YC)",
-    "Building Trust - Success Metric for Leadership in Startups"
-]
+{
+    "course_id": "startup-school",
+    "goals" :[
+        "Deciding When to Start Your Own Company", 
+        "Finding Startup Ideas Naturally", 
+        "Strategies for Coming Up with Startup Ideas: Just Launch and See How It Goes", 
+        "Making Smart Pivots in Startups", 
+        "The Best Time to Pivot", 
+        "Where Do Great Startup Ideas Come From: Takeaways", 
+        "How to Evaluate Startup Ideas", 
+        "How Much Equity to Give Your Co-founder",
+        "How to Work Together: Conclusion and Final Tips",
+        "Maintaining Connection with Interviewees",
+        "Hacks for Quickly Building an MVP",
+        "Different Types of Launches",
+        "Qualifying Customers and Using Sales Tools in a Startup Environment",
+        "Navigating Startup Key Performance Indicators (KPIs) and Revenue Generation",
+        "Key Pricing Insights for Startups",
+        "Approaching Early-Stage Startup Growth",
+        "Addressing Common Misconceptions about Funding a Startup",
+        "How to Successfully Interview at Y-Combinator (YC)",
+        "Building Trust - Success Metric for Leadership in Startups"
+    ]
+}
